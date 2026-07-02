@@ -4,26 +4,17 @@
   "event_name": "Flemington (AUS) 4th Jul",
   "start_time_utc": "2026-07-04T03:40:00.000Z",
   "market_id": "1.259635766",
-  "market_overround_pct": 1604.4,
+  "market_overround_pct": 1526.5,
   "track_condition": null,
   "weather": {
-    "temperature_c": 12.5,
-    "precipitation_mm": 0.3,
-    "wind_speed_kmh": 25.0,
+    "temperature_c": 12.3,
+    "precipitation_mm": 0.2,
+    "wind_speed_kmh": 24.5,
     "wind_direction": "NNW",
-    "condition": "Dense drizzle"
+    "condition": "Moderate drizzle"
   },
   "form_analysis": null,
   "runners": [
-    {
-      "name": "3. Rainsun",
-      "saddle_cloth": 2,
-      "status": "ACTIVE",
-      "best_back": 1.13,
-      "back_depth_aud": 241.0,
-      "bsp_near": 12.06,
-      "market_signal": "\u2744\ufe0f DRIFT"
-    },
     {
       "name": "4. Adira River",
       "saddle_cloth": 3,
@@ -187,6 +178,15 @@
       "market_signal": "\u2744\ufe0f DRIFT"
     },
     {
+      "name": "3. Rainsun",
+      "saddle_cloth": 2,
+      "status": "ACTIVE",
+      "best_back": 9.4,
+      "back_depth_aud": 142.0,
+      "bsp_near": 125.56,
+      "market_signal": "\u2744\ufe0f DRIFT"
+    },
+    {
       "name": "2. Engine Of War",
       "saddle_cloth": 20,
       "status": "REMOVED",
@@ -195,5 +195,6 @@
       "bsp_near": null,
       "market_signal": "NEUTRAL"
     }
-  ]
+  ],
+  "last_polled_at": "2026-07-02T06:15:24.567385Z"
 }
