@@ -4,9 +4,15 @@
   "event_name": "Flemington (AUS) 4th Jul",
   "start_time_utc": "2026-07-04T06:10:00.000Z",
   "market_id": "1.259635802",
-  "market_overround_pct": 114.5,
+  "market_overround_pct": 116.9,
   "track_condition": null,
-  "weather": null,
+  "weather": {
+    "temperature_c": 12.6,
+    "precipitation_mm": 0.0,
+    "wind_speed_kmh": 17.9,
+    "wind_direction": "WSW",
+    "condition": "Overcast"
+  },
   "form_analysis": null,
   "runners": [
     {
@@ -26,13 +32,13 @@
       "form_status": "not_found"
     },
     {
-      "name": "2. Wise Inlaw",
-      "saddle_cloth": 2,
+      "name": "12. Barari",
+      "saddle_cloth": 12,
       "status": "ACTIVE",
-      "best_back": 7.2,
-      "back_depth_aud": 95.0,
-      "bsp_near": 8.6,
-      "market_signal": "\u2744\ufe0f DRIFT",
+      "best_back": 7.0,
+      "back_depth_aud": 74.0,
+      "bsp_near": 7.6,
+      "market_signal": "NEUTRAL",
       "trainer": null,
       "jockey": null,
       "last5": null,
@@ -42,13 +48,13 @@
       "form_status": "not_found"
     },
     {
-      "name": "12. Barari",
-      "saddle_cloth": 12,
+      "name": "2. Wise Inlaw",
+      "saddle_cloth": 2,
       "status": "ACTIVE",
-      "best_back": 8.4,
-      "back_depth_aud": 82.0,
-      "bsp_near": 8.5,
-      "market_signal": "NEUTRAL",
+      "best_back": 7.2,
+      "back_depth_aud": 99.0,
+      "bsp_near": 8.6,
+      "market_signal": "\u2744\ufe0f DRIFT",
       "trainer": null,
       "jockey": null,
       "last5": null,
@@ -234,5 +240,5 @@
       "form_status": "not_found"
     }
   ],
-  "last_polled_at": "2026-07-03T06:15:46.610179Z"
+  "last_polled_at": "2026-07-03T06:30:30.376772Z"
 }

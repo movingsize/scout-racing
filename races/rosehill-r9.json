@@ -6,7 +6,13 @@
   "market_id": "1.259636874",
   "market_overround_pct": 117.0,
   "track_condition": null,
-  "weather": null,
+  "weather": {
+    "temperature_c": 15.1,
+    "precipitation_mm": 0.0,
+    "wind_speed_kmh": 18.8,
+    "wind_direction": "WNW",
+    "condition": "Clear sky"
+  },
   "form_analysis": null,
   "runners": [
     {
@@ -94,9 +100,9 @@
       "saddle_cloth": 6,
       "status": "ACTIVE",
       "best_back": 12.0,
-      "back_depth_aud": 19.0,
-      "bsp_near": 8.8,
-      "market_signal": "\ud83d\udd25 STEAM",
+      "back_depth_aud": 72.0,
+      "bsp_near": 12.0,
+      "market_signal": "NEUTRAL",
       "trainer": null,
       "jockey": null,
       "last5": null,
@@ -158,7 +164,7 @@
       "saddle_cloth": 11,
       "status": "ACTIVE",
       "best_back": 44.0,
-      "back_depth_aud": 29.0,
+      "back_depth_aud": 30.0,
       "bsp_near": 102.5,
       "market_signal": "\u2744\ufe0f DRIFT",
       "trainer": null,
@@ -234,5 +240,5 @@
       "form_status": "not_found"
     }
   ],
-  "last_polled_at": "2026-07-03T06:15:46.610179Z"
+  "last_polled_at": "2026-07-03T06:30:30.376772Z"
 }
