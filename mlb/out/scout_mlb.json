@@ -1,7 +1,7 @@
 {
   "slate_date": "2026-07-06",
   "generated_at_utc": "2026-07-06T13:00:02Z",
-  "last_polled_at": "2026-07-06T23:10:00Z",
+  "last_polled_at": "2026-07-06T23:40:00Z",
   "final_snapshot": false,
   "source_versions": {
     "statsapi": "v1",
@@ -378,6 +378,24 @@
         "wrc_vs_rhp": 100,
         "data_status": "confirmed",
         "warnings": []
+      },
+      "closing_odds": {
+        "captured_at_utc": "2026-07-06T23:40:00Z",
+        "source": "espn/DraftKings",
+        "moneyline": {
+          "away": 1.84,
+          "home": 1.99
+        },
+        "total": {
+          "line": 8.0,
+          "over": 1.9,
+          "under": 1.93
+        },
+        "run_line": {
+          "line": 1.5,
+          "away": 2.39,
+          "home": 1.6
+        }
       }
     },
     "mlb-ari-sd": {
