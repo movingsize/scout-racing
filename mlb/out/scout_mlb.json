@@ -1,16 +1,17 @@
 {
   "slate_date": "2026-07-05",
-  "generated_at_utc": "2026-07-06T00:07:27Z",
-  "last_polled_at": "2026-07-06T00:07:27Z",
+  "generated_at_utc": "2026-07-06T00:19:07Z",
+  "last_polled_at": "2026-07-06T00:19:07Z",
   "final_snapshot": false,
   "source_versions": {
     "statsapi": "v1",
     "savant_xstats": "2026",
     "fip_constant": 3.102,
     "park_factors_source": "fantasyteamadvice.com",
-    "xfip_lg_hrfb": 0.135
+    "xfip_lg_hrfb": 0.135,
+    "closing_odds_source": "espn/DraftKings"
   },
-  "phase": 2,
+  "phase": 3,
   "games": {
     "mlb-nym-atl": {
       "game_pk": 824902,
@@ -797,16 +798,16 @@
           "name": "JP Sears",
           "mlbam_id": 676664,
           "hand": "L",
-          "fip": 6.79,
-          "era": 5.54,
-          "ip": 13.0,
+          "fip": 6.7,
+          "era": 5.4,
+          "ip": 13.3,
           "xera": 7.91,
           "xwoba": 0.415,
-          "xfip": 5.09,
-          "siera": 4.53,
+          "xfip": 5.04,
+          "siera": 4.55,
           "data_status": "partial",
           "warnings": [
-            "low sample: 13.0 IP"
+            "low sample: 13.3 IP"
           ]
         },
         "bullpen_ra9": 4.08,
@@ -824,12 +825,12 @@
           "mlbam_id": 686218,
           "hand": "R",
           "fip": 4.57,
-          "era": 4.88,
-          "ip": 75.7,
+          "era": 4.83,
+          "ip": 76.3,
           "xera": 4.1,
           "xwoba": 0.314,
-          "xfip": 3.29,
-          "siera": 3.03,
+          "xfip": 3.3,
+          "siera": 3.06,
           "data_status": "confirmed",
           "warnings": []
         },
