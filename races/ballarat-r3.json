@@ -4,13 +4,13 @@
   "event_name": "Ballarat (AUS) 7th Jul",
   "start_time_utc": "2026-07-07T04:20:00.000Z",
   "market_id": "1.259754602",
-  "market_overround_pct": 124.7,
+  "market_overround_pct": 109.9,
   "track_condition": "Synthetic",
   "weather": {
-    "temperature_c": 9.9,
+    "temperature_c": 10.3,
     "precipitation_mm": 0.0,
-    "wind_speed_kmh": 2.3,
-    "wind_direction": "SSE",
+    "wind_speed_kmh": 2.0,
+    "wind_direction": "S",
     "condition": "Clear sky"
   },
   "form_analysis": null,
@@ -20,9 +20,9 @@
       "saddle_cloth": 6,
       "selection_id": 99983312,
       "status": "ACTIVE",
-      "best_back": 3.4,
-      "back_depth_aud": 88.0,
-      "bsp_near": 3.4,
+      "best_back": 3.75,
+      "back_depth_aud": 97.0,
+      "bsp_near": 3.75,
       "market_signal": "NEUTRAL",
       "trainer": "Tony & Calvin McEvoy",
       "jockey": "Harry Coffey",
@@ -84,9 +84,9 @@
       "saddle_cloth": 11,
       "selection_id": 100292941,
       "status": "ACTIVE",
-      "best_back": 4.2,
-      "back_depth_aud": 106.0,
-      "bsp_near": 7.6,
+      "best_back": 4.8,
+      "back_depth_aud": 34.0,
+      "bsp_near": 7.0,
       "market_signal": "\u2744\ufe0f DRIFT",
       "trainer": "Ben, Will & JD Hayes",
       "jockey": "Teo Nugent",
@@ -167,9 +167,9 @@
       "saddle_cloth": 3,
       "selection_id": 89748708,
       "status": "ACTIVE",
-      "best_back": 4.7,
-      "back_depth_aud": 47.0,
-      "bsp_near": 4.54,
+      "best_back": 5.2,
+      "back_depth_aud": 29.0,
+      "bsp_near": 5.11,
       "market_signal": "NEUTRAL",
       "trainer": "Amy & Ash Yargi",
       "jockey": "John Allen",
@@ -295,64 +295,14 @@
       "data_status": "confirmed"
     },
     {
-      "name": "4. The Brutalist",
-      "saddle_cloth": 4,
-      "selection_id": 100292938,
-      "status": "ACTIVE",
-      "best_back": 8.2,
-      "back_depth_aud": 51.0,
-      "bsp_near": 8.21,
-      "market_signal": "NEUTRAL",
-      "trainer": "Carly Thomas",
-      "jockey": "Jack Hill",
-      "last5": null,
-      "career": "0:0-0-0",
-      "weight_kg": 59.5,
-      "barrier": 11,
-      "prizemoney": 0,
-      "first_up_record": "0:0-0-0",
-      "second_up_record": "0:0-0-0",
-      "going_record": {
-        "Firm": "0:0-0-0",
-        "Good": "0:0-0-0",
-        "Soft": "0:0-0-0",
-        "Heavy": "0:0-0-0",
-        "Synthetic": "0:0-0-0"
-      },
-      "recent_runs": [
-        {
-          "pos": 2,
-          "date": "2026-06-23",
-          "class": "Jump Out",
-          "trial": true
-        },
-        {
-          "pos": 4,
-          "date": "2026-06-09",
-          "class": "Jump Out",
-          "trial": true
-        }
-      ],
-      "recent_class": [
-        "Jump Out",
-        "Jump Out"
-      ],
-      "days_since_run": 14,
-      "runs_this_prep": 2,
-      "form_status": "confirmed",
-      "warnings": [],
-      "last5_parsed": [],
-      "data_status": "unraced"
-    },
-    {
       "name": "7. Hello Mistress",
       "saddle_cloth": 7,
       "selection_id": 87767428,
       "status": "ACTIVE",
       "best_back": 8.6,
-      "back_depth_aud": 37.0,
-      "bsp_near": 9.55,
-      "market_signal": "\u2744\ufe0f DRIFT",
+      "back_depth_aud": 20.0,
+      "bsp_near": 9.0,
+      "market_signal": "NEUTRAL",
       "trainer": "Henry Dwyer",
       "jockey": "Neil Farley",
       "last5": "30x4",
@@ -434,14 +384,64 @@
       "data_status": "confirmed"
     },
     {
+      "name": "4. The Brutalist",
+      "saddle_cloth": 4,
+      "selection_id": 100292938,
+      "status": "ACTIVE",
+      "best_back": 9.6,
+      "back_depth_aud": 58.0,
+      "bsp_near": 8.9,
+      "market_signal": "NEUTRAL",
+      "trainer": "Carly Thomas",
+      "jockey": "Jack Hill",
+      "last5": null,
+      "career": "0:0-0-0",
+      "weight_kg": 59.5,
+      "barrier": 11,
+      "prizemoney": 0,
+      "first_up_record": "0:0-0-0",
+      "second_up_record": "0:0-0-0",
+      "going_record": {
+        "Firm": "0:0-0-0",
+        "Good": "0:0-0-0",
+        "Soft": "0:0-0-0",
+        "Heavy": "0:0-0-0",
+        "Synthetic": "0:0-0-0"
+      },
+      "recent_runs": [
+        {
+          "pos": 2,
+          "date": "2026-06-23",
+          "class": "Jump Out",
+          "trial": true
+        },
+        {
+          "pos": 4,
+          "date": "2026-06-09",
+          "class": "Jump Out",
+          "trial": true
+        }
+      ],
+      "recent_class": [
+        "Jump Out",
+        "Jump Out"
+      ],
+      "days_since_run": 14,
+      "runs_this_prep": 2,
+      "form_status": "confirmed",
+      "warnings": [],
+      "last5_parsed": [],
+      "data_status": "unraced"
+    },
+    {
       "name": "2. Planet Mars",
       "saddle_cloth": 2,
       "selection_id": 58813900,
       "status": "ACTIVE",
-      "best_back": 11.5,
-      "back_depth_aud": 38.0,
-      "bsp_near": 10.98,
-      "market_signal": "NEUTRAL",
+      "best_back": 14.5,
+      "back_depth_aud": 53.0,
+      "bsp_near": 10.91,
+      "market_signal": "\ud83d\udd25 STEAM",
       "trainer": "Jim Dore",
       "jockey": "Will Gordon",
       "last5": "29335x47x8",
@@ -566,13 +566,63 @@
       "data_status": "confirmed"
     },
     {
+      "name": "1. Lebrowski",
+      "saddle_cloth": 1,
+      "selection_id": 100292937,
+      "status": "ACTIVE",
+      "best_back": 26.0,
+      "back_depth_aud": 27.0,
+      "bsp_near": 21.37,
+      "market_signal": "\ud83d\udd25 STEAM",
+      "trainer": "Vincent Malady",
+      "jockey": "Zac Moore (a3/55kg), (late alt)",
+      "last5": null,
+      "career": "0:0-0-0",
+      "weight_kg": 59.5,
+      "barrier": 10,
+      "prizemoney": 0,
+      "first_up_record": "0:0-0-0",
+      "second_up_record": "0:0-0-0",
+      "going_record": {
+        "Firm": "0:0-0-0",
+        "Good": "0:0-0-0",
+        "Soft": "0:0-0-0",
+        "Heavy": "0:0-0-0",
+        "Synthetic": "0:0-0-0"
+      },
+      "recent_runs": [
+        {
+          "pos": 3,
+          "date": "2026-06-18",
+          "class": "Jump Out",
+          "trial": true
+        },
+        {
+          "pos": 5,
+          "date": "2026-06-03",
+          "class": "Jump Out",
+          "trial": true
+        }
+      ],
+      "recent_class": [
+        "Jump Out",
+        "Jump Out"
+      ],
+      "days_since_run": 19,
+      "runs_this_prep": 2,
+      "form_status": "confirmed",
+      "warnings": [],
+      "last5_parsed": [],
+      "data_status": "unraced"
+    },
+    {
       "name": "11. Slightly Salty",
       "saddle_cloth": 10,
       "selection_id": 100292940,
       "status": "ACTIVE",
-      "best_back": 20.0,
-      "back_depth_aud": 27.0,
-      "bsp_near": 17.6,
+      "best_back": 26.0,
+      "back_depth_aud": 28.0,
+      "bsp_near": 17.63,
       "market_signal": "\ud83d\udd25 STEAM",
       "trainer": "Cameron Thompson",
       "jockey": "Mitchell Aitken",
@@ -620,10 +670,10 @@
       "saddle_cloth": 9,
       "selection_id": 82344513,
       "status": "ACTIVE",
-      "best_back": 22.0,
-      "back_depth_aud": 26.0,
-      "bsp_near": 22.08,
-      "market_signal": "NEUTRAL",
+      "best_back": 28.0,
+      "back_depth_aud": 17.0,
+      "bsp_near": 22.28,
+      "market_signal": "\ud83d\udd25 STEAM",
       "trainer": "Toby Lake",
       "jockey": "Ms Jade Smith (a3/54kg)",
       "last5": "5x8254x8",
@@ -736,63 +786,13 @@
       "data_status": "confirmed"
     },
     {
-      "name": "1. Lebrowski",
-      "saddle_cloth": 1,
-      "selection_id": 100292937,
-      "status": "ACTIVE",
-      "best_back": 23.0,
-      "back_depth_aud": 18.0,
-      "bsp_near": 22.18,
-      "market_signal": "NEUTRAL",
-      "trainer": "Vincent Malady",
-      "jockey": "Zac Moore (a3/55kg), (late alt)",
-      "last5": null,
-      "career": "0:0-0-0",
-      "weight_kg": 59.5,
-      "barrier": 10,
-      "prizemoney": 0,
-      "first_up_record": "0:0-0-0",
-      "second_up_record": "0:0-0-0",
-      "going_record": {
-        "Firm": "0:0-0-0",
-        "Good": "0:0-0-0",
-        "Soft": "0:0-0-0",
-        "Heavy": "0:0-0-0",
-        "Synthetic": "0:0-0-0"
-      },
-      "recent_runs": [
-        {
-          "pos": 3,
-          "date": "2026-06-18",
-          "class": "Jump Out",
-          "trial": true
-        },
-        {
-          "pos": 5,
-          "date": "2026-06-03",
-          "class": "Jump Out",
-          "trial": true
-        }
-      ],
-      "recent_class": [
-        "Jump Out",
-        "Jump Out"
-      ],
-      "days_since_run": 19,
-      "runs_this_prep": 2,
-      "form_status": "confirmed",
-      "warnings": [],
-      "last5_parsed": [],
-      "data_status": "unraced"
-    },
-    {
       "name": "5. Classy Sassy",
       "saddle_cloth": 5,
       "selection_id": 96747409,
       "status": "ACTIVE",
-      "best_back": 34.0,
-      "back_depth_aud": 21.0,
-      "bsp_near": 36.79,
+      "best_back": 55.0,
+      "back_depth_aud": 12.0,
+      "bsp_near": 54.15,
       "market_signal": "NEUTRAL",
       "trainer": "Cameron Thompson",
       "jockey": "Fred Kersley (late alt)",
@@ -886,10 +886,10 @@
       "saddle_cloth": 8,
       "selection_id": 100049422,
       "status": "ACTIVE",
-      "best_back": 120.0,
-      "back_depth_aud": 8.0,
-      "bsp_near": 120.0,
-      "market_signal": "NEUTRAL",
+      "best_back": 90.0,
+      "back_depth_aud": 13.0,
+      "bsp_near": 99.72,
+      "market_signal": "\u2744\ufe0f DRIFT",
       "trainer": "Brendan McCarthy",
       "jockey": "Ms Stephanie Hateley (a2/53kg)",
       "last5": "0x0",
@@ -1013,5 +1013,5 @@
       "data_status": "reconstructed"
     }
   ],
-  "last_polled_at": "2026-07-07T01:00:34.334524Z"
+  "last_polled_at": "2026-07-07T01:15:32.955069Z"
 }
