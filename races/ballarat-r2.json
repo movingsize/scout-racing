@@ -4,10 +4,10 @@
   "event_name": "Ballarat (AUS) 7th Jul",
   "start_time_utc": "2026-07-07T03:45:00.000Z",
   "market_id": "1.259754594",
-  "market_overround_pct": 118.0,
+  "market_overround_pct": 117.2,
   "track_condition": "Synthetic",
   "weather": {
-    "temperature_c": 10.3,
+    "temperature_c": 10.6,
     "precipitation_mm": 0.0,
     "wind_speed_kmh": 2.0,
     "wind_direction": "S",
@@ -22,7 +22,7 @@
       "status": "ACTIVE",
       "best_back": 2.18,
       "back_depth_aud": 16.0,
-      "bsp_near": 2.15,
+      "bsp_near": 2.13,
       "market_signal": "NEUTRAL",
       "trainer": "Ciaron Maher",
       "jockey": "John Allen",
@@ -199,8 +199,8 @@
       "selection_id": 2033613,
       "status": "ACTIVE",
       "best_back": 7.4,
-      "back_depth_aud": 85.0,
-      "bsp_near": 6.34,
+      "back_depth_aud": 44.0,
+      "bsp_near": 6.37,
       "market_signal": "\ud83d\udd25 STEAM",
       "trainer": "Dane Smith",
       "jockey": "Ms Jade Smith (a3/54kg)",
@@ -462,9 +462,9 @@
       "saddle_cloth": 2,
       "selection_id": 99275055,
       "status": "ACTIVE",
-      "best_back": 10.0,
-      "back_depth_aud": 65.0,
-      "bsp_near": 10.0,
+      "best_back": 10.5,
+      "back_depth_aud": 47.0,
+      "bsp_near": 10.07,
       "market_signal": "NEUTRAL",
       "trainer": "Lucinda Boyd",
       "jockey": "Cian MacRedmond",
@@ -564,9 +564,9 @@
       "saddle_cloth": 4,
       "selection_id": 77465301,
       "status": "ACTIVE",
-      "best_back": 14.5,
-      "back_depth_aud": 54.0,
-      "bsp_near": 28.5,
+      "best_back": 16.0,
+      "back_depth_aud": 28.0,
+      "bsp_near": 31.5,
       "market_signal": "\u2744\ufe0f DRIFT",
       "trainer": "Ann-Jeanette Tindale",
       "jockey": "Teo Nugent",
@@ -756,77 +756,13 @@
       "data_status": "confirmed"
     },
     {
-      "name": "11. Miss Tempestas",
-      "saddle_cloth": 7,
-      "selection_id": 100292934,
-      "status": "ACTIVE",
-      "best_back": 44.0,
-      "back_depth_aud": 10.0,
-      "bsp_near": 42.35,
-      "market_signal": "NEUTRAL",
-      "trainer": "Toby Lake",
-      "jockey": "Fred Kersley",
-      "last5": "8",
-      "career": "1:0-0-0",
-      "weight_kg": 57.5,
-      "barrier": 2,
-      "prizemoney": 640,
-      "first_up_record": "1:0-0-0",
-      "second_up_record": "0:0-0-0",
-      "going_record": {
-        "Firm": "0:0-0-0",
-        "Good": "0:0-0-0",
-        "Soft": "0:0-0-0",
-        "Heavy": "1:0-0-0",
-        "Synthetic": "0:0-0-0"
-      },
-      "recent_runs": [
-        {
-          "pos": 8,
-          "date": "2026-06-23",
-          "class": "MDN-SW",
-          "trial": false
-        },
-        {
-          "pos": 5,
-          "date": "2026-06-12",
-          "class": "Jump Out",
-          "trial": true
-        },
-        {
-          "pos": 2,
-          "date": "2026-05-19",
-          "class": "Jump Out",
-          "trial": true
-        }
-      ],
-      "recent_class": [
-        "MDN-SW",
-        "Jump Out",
-        "Jump Out"
-      ],
-      "days_since_run": 14,
-      "runs_this_prep": 3,
-      "form_status": "confirmed",
-      "warnings": [],
-      "last5_parsed": [
-        {
-          "raw": "8",
-          "pos": 8,
-          "nonFinish": false,
-          "spell": false
-        }
-      ],
-      "data_status": "confirmed"
-    },
-    {
       "name": "13. Safina",
       "saddle_cloth": 9,
       "selection_id": 19387181,
       "status": "ACTIVE",
-      "best_back": 46.0,
-      "back_depth_aud": 16.0,
-      "bsp_near": 153.0,
+      "best_back": 40.0,
+      "back_depth_aud": 18.0,
+      "bsp_near": 150.0,
       "market_signal": "\u2744\ufe0f DRIFT",
       "trainer": "Henry Dwyer",
       "jockey": "Mitchell Aitken",
@@ -916,12 +852,76 @@
       "data_status": "confirmed"
     },
     {
+      "name": "11. Miss Tempestas",
+      "saddle_cloth": 7,
+      "selection_id": 100292934,
+      "status": "ACTIVE",
+      "best_back": 44.0,
+      "back_depth_aud": 10.0,
+      "bsp_near": 42.35,
+      "market_signal": "NEUTRAL",
+      "trainer": "Toby Lake",
+      "jockey": "Fred Kersley",
+      "last5": "8",
+      "career": "1:0-0-0",
+      "weight_kg": 57.5,
+      "barrier": 2,
+      "prizemoney": 640,
+      "first_up_record": "1:0-0-0",
+      "second_up_record": "0:0-0-0",
+      "going_record": {
+        "Firm": "0:0-0-0",
+        "Good": "0:0-0-0",
+        "Soft": "0:0-0-0",
+        "Heavy": "1:0-0-0",
+        "Synthetic": "0:0-0-0"
+      },
+      "recent_runs": [
+        {
+          "pos": 8,
+          "date": "2026-06-23",
+          "class": "MDN-SW",
+          "trial": false
+        },
+        {
+          "pos": 5,
+          "date": "2026-06-12",
+          "class": "Jump Out",
+          "trial": true
+        },
+        {
+          "pos": 2,
+          "date": "2026-05-19",
+          "class": "Jump Out",
+          "trial": true
+        }
+      ],
+      "recent_class": [
+        "MDN-SW",
+        "Jump Out",
+        "Jump Out"
+      ],
+      "days_since_run": 14,
+      "runs_this_prep": 3,
+      "form_status": "confirmed",
+      "warnings": [],
+      "last5_parsed": [
+        {
+          "raw": "8",
+          "pos": 8,
+          "nonFinish": false,
+          "spell": false
+        }
+      ],
+      "data_status": "confirmed"
+    },
+    {
       "name": "10. Tourello",
       "saddle_cloth": 6,
       "selection_id": 100292933,
       "status": "ACTIVE",
       "best_back": 65.0,
-      "back_depth_aud": 15.0,
+      "back_depth_aud": 11.0,
       "bsp_near": 207.5,
       "market_signal": "\u2744\ufe0f DRIFT",
       "trainer": "Andrew Noblet",
@@ -1112,7 +1112,7 @@
       "selection_id": 99769556,
       "status": "ACTIVE",
       "best_back": 75.0,
-      "back_depth_aud": 11.0,
+      "back_depth_aud": 12.0,
       "bsp_near": 390.78,
       "market_signal": "\u2744\ufe0f DRIFT",
       "trainer": "Paul Banks",
@@ -1295,5 +1295,5 @@
       "data_status": "not_found"
     }
   ],
-  "last_polled_at": "2026-07-07T01:15:32.955069Z"
+  "last_polled_at": "2026-07-07T01:30:33.025307Z"
 }
