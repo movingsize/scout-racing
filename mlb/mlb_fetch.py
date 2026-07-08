@@ -117,6 +117,9 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 OUT_DIR = os.path.join(ROOT, "out")
 OUT_FILE = os.path.join(OUT_DIR, "scout_mlb.json")
 
+sys.path.insert(0, os.path.dirname(ROOT))
+import data_adequacy  # DATA BAD guardrail: stamps a call verdict on every game
+
 STATSAPI = "https://statsapi.mlb.com/api/v1"
 SAVANT_XSTATS = (
     "https://baseballsavant.mlb.com/leaderboard/expected_statistics"
@@ -917,6 +920,9 @@ def build_feed(date):
         "phase": 3,
         "games": games,
     }
+    # Guardrail: label every game OK / NO_CALL ("DATA BAD") — a game with no
+    # pitching/offense to anchor either side must never be priced off de-vig.
+    data_adequacy.enforce_mlb(feed)
     return feed
 
 
