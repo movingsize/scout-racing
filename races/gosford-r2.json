@@ -4,14 +4,14 @@
   "event_name": "Gosford (AUS) 9th Jul",
   "start_time_utc": "2026-07-09T03:35:00.000Z",
   "market_id": "1.259818110",
-  "market_overround_pct": 105.9,
-  "track_condition": null,
+  "market_overround_pct": 106.1,
+  "track_condition": "Heavy 10",
   "weather": {
-    "temperature_c": 14.1,
+    "temperature_c": 14.5,
     "precipitation_mm": 0.0,
-    "wind_speed_kmh": 10.4,
-    "wind_direction": "SW",
-    "condition": "Partly cloudy"
+    "wind_speed_kmh": 10.7,
+    "wind_direction": "SSW",
+    "condition": "Overcast"
   },
   "form_analysis": null,
   "runners": [
@@ -20,25 +20,62 @@
       "saddle_cloth": 6,
       "selection_id": 100424538,
       "status": "ACTIVE",
-      "best_back": 3.0,
-      "back_depth_aud": 472.0,
+      "best_back": 2.98,
+      "back_depth_aud": 1108.0,
       "bsp_near": 2.98,
       "market_signal": "NEUTRAL",
-      "trainer": null,
-      "jockey": null,
-      "last5": null,
-      "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
+      "trainer": "Gerald Ryan & Sterling Alexiou",
+      "jockey": "Kerrin McEvoy",
+      "last5": "3",
+      "career": "1:0-0-1",
+      "weight_kg": 56.5,
+      "barrier": 6,
+      "prizemoney": 3900,
+      "first_up_record": "1:0-0-1",
+      "second_up_record": "0:0-0-0",
+      "going_record": {
+        "Firm": "0:0-0-0",
+        "Good": "0:0-0-0",
+        "Soft": "0:0-0-0",
+        "Heavy": "1:0-0-1",
+        "Synthetic": "0:0-0-0"
+      },
+      "recent_runs": [
+        {
+          "pos": 3,
+          "date": "2026-06-18",
+          "class": "2Y MDN-SW",
+          "trial": false
+        },
+        {
+          "pos": 2,
+          "date": "2026-06-05",
+          "class": "2YC&G-BT",
+          "trial": false
+        }
+      ],
+      "recent_class": [
+        "2Y MDN-SW",
+        "2YC&G-BT"
+      ],
+      "days_since_run": 21,
+      "runs_this_prep": 2,
+      "form_status": "confirmed",
       "warnings": [],
-      "last5_parsed": [],
-      "data_status": "not_found",
+      "last5_parsed": [
+        {
+          "raw": "3",
+          "pos": 3,
+          "nonFinish": false,
+          "spell": false
+        }
+      ],
+      "data_status": "confirmed",
       "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
+        "call": "OK",
+        "label": "OK",
+        "confidence": "thin",
+        "reason": "form present (1 career starts, ds=confirmed)",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -51,21 +88,58 @@
       "back_depth_aud": 154.0,
       "bsp_near": 3.5,
       "market_signal": "NEUTRAL",
-      "trainer": null,
-      "jockey": null,
+      "trainer": "Michael Freedman",
+      "jockey": "Andrew Adkins",
       "last5": null,
-      "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
+      "career": "0:0-0-0",
+      "weight_kg": 56.5,
+      "barrier": 4,
+      "prizemoney": 0,
+      "first_up_record": "0:0-0-0",
+      "second_up_record": "0:0-0-0",
+      "going_record": {
+        "Firm": "0:0-0-0",
+        "Good": "0:0-0-0",
+        "Soft": "0:0-0-0",
+        "Heavy": "0:0-0-0",
+        "Synthetic": "0:0-0-0"
+      },
+      "recent_runs": [
+        {
+          "pos": 4,
+          "date": "2026-06-12",
+          "class": "2Y-BT",
+          "trial": false
+        },
+        {
+          "pos": 3,
+          "date": "2026-03-10",
+          "class": "2Y-BT",
+          "trial": false
+        },
+        {
+          "pos": 4,
+          "date": "2026-02-24",
+          "class": "2Y-BT",
+          "trial": false
+        }
+      ],
+      "recent_class": [
+        "2Y-BT",
+        "2Y-BT",
+        "2Y-BT"
+      ],
+      "days_since_run": 27,
+      "runs_this_prep": 1,
+      "form_status": "confirmed",
       "warnings": [],
       "last5_parsed": [],
-      "data_status": "not_found",
+      "data_status": "unraced",
       "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
+        "call": "OK",
+        "label": "OK",
+        "confidence": "thin",
+        "reason": "form present (0 career starts, ds=unraced)",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -75,24 +149,41 @@
       "selection_id": 100424535,
       "status": "ACTIVE",
       "best_back": 6.6,
-      "back_depth_aud": 638.0,
+      "back_depth_aud": 642.0,
       "bsp_near": 6.6,
       "market_signal": "NEUTRAL",
-      "trainer": null,
-      "jockey": null,
-      "last5": null,
-      "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
+      "trainer": "Joseph Pride",
+      "jockey": "Jay Ford",
+      "last5": "7",
+      "career": "1:0-0-0",
+      "weight_kg": 59.0,
+      "barrier": 3,
+      "prizemoney": 2250,
+      "first_up_record": "1:0-0-0",
+      "second_up_record": "0:0-0-0",
+      "going_record": {
+        "Firm": "0:0-0-0",
+        "Good": "0:0-0-0",
+        "Soft": "1:0-0-0",
+        "Heavy": "0:0-0-0",
+        "Synthetic": "0:0-0-0"
+      },
+      "form_status": "confirmed",
       "warnings": [],
-      "last5_parsed": [],
-      "data_status": "not_found",
+      "last5_parsed": [
+        {
+          "raw": "7",
+          "pos": 7,
+          "nonFinish": false,
+          "spell": false
+        }
+      ],
+      "data_status": "confirmed",
       "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
+        "call": "OK",
+        "label": "OK",
+        "confidence": "thin",
+        "reason": "form present (1 career starts, ds=confirmed)",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -105,21 +196,97 @@
       "back_depth_aud": 684.0,
       "bsp_near": 7.0,
       "market_signal": "NEUTRAL",
-      "trainer": null,
-      "jockey": null,
-      "last5": null,
-      "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
+      "trainer": "John Sargent",
+      "jockey": "Ms Molly Bourke (a0/51.5kg)",
+      "last5": "324x",
+      "career": "3:0-1-1",
+      "weight_kg": 59.0,
+      "barrier": 1,
+      "prizemoney": 19875,
+      "first_up_record": "1:0-0-1",
+      "second_up_record": "1:0-1-0",
+      "going_record": {
+        "Firm": "0:0-0-0",
+        "Good": "1:0-1-0",
+        "Soft": "2:0-0-1",
+        "Heavy": "0:0-0-0",
+        "Synthetic": "0:0-0-0"
+      },
+      "recent_runs": [
+        {
+          "pos": 7,
+          "date": "2026-06-29",
+          "class": "MDN-BT",
+          "trial": false
+        },
+        {
+          "pos": 7,
+          "date": "2026-06-12",
+          "class": "CL1 & MDN BT",
+          "trial": false
+        },
+        {
+          "pos": 4,
+          "date": "2026-04-23",
+          "class": "MID MDN",
+          "trial": false
+        },
+        {
+          "pos": 2,
+          "date": "2026-04-11",
+          "class": "CGE MDN-SW",
+          "trial": false
+        },
+        {
+          "pos": 3,
+          "date": "2026-03-25",
+          "class": "SUPER MDN-SW",
+          "trial": false
+        }
+      ],
+      "recent_class": [
+        "MDN-BT",
+        "CL1 & MDN BT",
+        "MID MDN",
+        "CGE MDN-SW",
+        "SUPER MDN-SW"
+      ],
+      "days_since_run": 10,
+      "runs_this_prep": 5,
+      "form_status": "confirmed",
       "warnings": [],
-      "last5_parsed": [],
-      "data_status": "not_found",
+      "last5_parsed": [
+        {
+          "raw": "3",
+          "pos": 3,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "2",
+          "pos": 2,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "4",
+          "pos": 4,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "x",
+          "pos": null,
+          "nonFinish": false,
+          "spell": true
+        }
+      ],
+      "data_status": "confirmed",
       "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
+        "call": "OK",
+        "label": "OK",
+        "confidence": "ok",
+        "reason": "confirmed form, 3 career starts",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -130,23 +297,33 @@
       "status": "ACTIVE",
       "best_back": 19.0,
       "back_depth_aud": 206.0,
-      "bsp_near": 21.32,
+      "bsp_near": 20.91,
       "market_signal": "\u2744\ufe0f DRIFT",
-      "trainer": null,
-      "jockey": null,
+      "trainer": "Joseph Pride",
+      "jockey": "Sam Clipperton",
       "last5": null,
-      "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
+      "career": "0:0-0-0",
+      "weight_kg": 56.5,
+      "barrier": 2,
+      "prizemoney": 0,
+      "first_up_record": "0:0-0-0",
+      "second_up_record": "0:0-0-0",
+      "going_record": {
+        "Firm": "0:0-0-0",
+        "Good": "0:0-0-0",
+        "Soft": "0:0-0-0",
+        "Heavy": "0:0-0-0",
+        "Synthetic": "0:0-0-0"
+      },
+      "form_status": "confirmed",
       "warnings": [],
       "last5_parsed": [],
-      "data_status": "not_found",
+      "data_status": "unraced",
       "call": {
         "call": "NO_CALL",
         "label": "DATA BAD",
         "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
+        "reason": "data bad: data_status=unraced and no race form on record",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -159,21 +336,65 @@
       "back_depth_aud": 183.0,
       "bsp_near": 20.0,
       "market_signal": "NEUTRAL",
-      "trainer": null,
-      "jockey": null,
-      "last5": null,
-      "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
+      "trainer": "Jim & Greg Lee",
+      "jockey": "Reece Jones",
+      "last5": "0",
+      "career": "1:0-0-0",
+      "weight_kg": 59.0,
+      "barrier": 5,
+      "prizemoney": 0,
+      "first_up_record": "1:0-0-0",
+      "second_up_record": "0:0-0-0",
+      "going_record": {
+        "Firm": "0:0-0-0",
+        "Good": "0:0-0-0",
+        "Soft": "1:0-0-0",
+        "Heavy": "0:0-0-0",
+        "Synthetic": "0:0-0-0"
+      },
+      "recent_runs": [
+        {
+          "pos": 1,
+          "date": "2026-06-12",
+          "class": "3Y MDN-BT",
+          "trial": false
+        },
+        {
+          "pos": 5,
+          "date": "2026-05-29",
+          "class": "MDN-BT",
+          "trial": false
+        },
+        {
+          "pos": 5,
+          "date": "2026-05-15",
+          "class": "3Y+BT",
+          "trial": false
+        }
+      ],
+      "recent_class": [
+        "3Y MDN-BT",
+        "MDN-BT",
+        "3Y+BT"
+      ],
+      "days_since_run": 27,
+      "runs_this_prep": 3,
+      "form_status": "confirmed",
       "warnings": [],
-      "last5_parsed": [],
-      "data_status": "not_found",
+      "last5_parsed": [
+        {
+          "raw": "0",
+          "pos": 0,
+          "nonFinish": false,
+          "spell": false
+        }
+      ],
+      "data_status": "confirmed",
       "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
+        "call": "OK",
+        "label": "OK",
+        "confidence": "thin",
+        "reason": "form present (1 career starts, ds=confirmed)",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -186,21 +407,64 @@
       "back_depth_aud": 142.0,
       "bsp_near": 26.31,
       "market_signal": "NEUTRAL",
-      "trainer": null,
-      "jockey": null,
-      "last5": null,
-      "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
+      "trainer": "Matthew Smith",
+      "jockey": "Tyler Schiller",
+      "last5": "60",
+      "career": "2:0-0-0",
+      "weight_kg": 59.0,
+      "barrier": 7,
+      "prizemoney": 3400,
+      "first_up_record": "1:0-0-0",
+      "second_up_record": "1:0-0-0",
+      "going_record": {
+        "Firm": "0:0-0-0",
+        "Good": "0:0-0-0",
+        "Soft": "1:0-0-0",
+        "Heavy": "1:0-0-0",
+        "Synthetic": "0:0-0-0"
+      },
+      "recent_runs": [
+        {
+          "pos": 1,
+          "date": "2026-05-18",
+          "class": "3Y+ MDN-BT",
+          "trial": false
+        },
+        {
+          "pos": 1,
+          "date": "2025-09-15",
+          "class": "3Y MDN-BT",
+          "trial": false
+        }
+      ],
+      "recent_class": [
+        "3Y+ MDN-BT",
+        "3Y MDN-BT"
+      ],
+      "days_since_run": 52,
+      "runs_this_prep": 1,
+      "form_status": "confirmed",
       "warnings": [],
-      "last5_parsed": [],
-      "data_status": "not_found",
+      "last5_parsed": [
+        {
+          "raw": "6",
+          "pos": 6,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "0",
+          "pos": 0,
+          "nonFinish": false,
+          "spell": false
+        }
+      ],
+      "data_status": "confirmed",
       "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
+        "call": "OK",
+        "label": "OK",
+        "confidence": "thin",
+        "reason": "form present (2 career starts, ds=confirmed)",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -213,16 +477,17 @@
       "back_depth_aud": 0,
       "bsp_near": null,
       "market_signal": "NEUTRAL",
-      "trainer": null,
-      "jockey": null,
+      "trainer": "Annabel & Rob Archibald",
+      "jockey": "Keagan Latham",
       "last5": null,
       "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
+      "weight_kg": 56.5,
+      "barrier": 10,
+      "scratched": true,
+      "form_status": "unraced",
       "warnings": [],
       "last5_parsed": [],
-      "data_status": "not_found",
+      "data_status": "unraced",
       "call": {
         "call": "NO_CALL",
         "label": "DATA BAD",
@@ -240,16 +505,38 @@
       "back_depth_aud": 0,
       "bsp_near": null,
       "market_signal": "NEUTRAL",
-      "trainer": null,
-      "jockey": null,
-      "last5": null,
-      "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
-      "warnings": [],
-      "last5_parsed": [],
-      "data_status": "not_found",
+      "trainer": "Tom Charlton",
+      "jockey": "Zac Lloyd",
+      "last5": "65x",
+      "career": "2:0-0-0",
+      "weight_kg": 59.0,
+      "barrier": 9,
+      "scratched": true,
+      "form_status": "unraced",
+      "warnings": [
+        "runner scratched (per form source) \u2014 career reconstructed from last5 for reference only, not expected to start"
+      ],
+      "last5_parsed": [
+        {
+          "raw": "6",
+          "pos": 6,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "5",
+          "pos": 5,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "x",
+          "pos": null,
+          "nonFinish": false,
+          "spell": true
+        }
+      ],
+      "data_status": "reconstructed",
       "call": {
         "call": "NO_CALL",
         "label": "DATA BAD",
@@ -267,16 +554,17 @@
       "back_depth_aud": 0,
       "bsp_near": null,
       "market_signal": "NEUTRAL",
-      "trainer": null,
-      "jockey": null,
+      "trainer": "Bjorn Baker",
+      "jockey": "Ms Alysha Collett",
       "last5": null,
       "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
+      "weight_kg": 56.5,
+      "barrier": 8,
+      "scratched": true,
+      "form_status": "unraced",
       "warnings": [],
       "last5_parsed": [],
-      "data_status": "not_found",
+      "data_status": "unraced",
       "call": {
         "call": "NO_CALL",
         "label": "DATA BAD",
@@ -286,10 +574,10 @@
       }
     }
   ],
-  "last_polled_at": "2026-07-09T01:30:47.246745Z",
+  "last_polled_at": "2026-07-09T01:45:33.881044Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
-    "ok": 0,
-    "no_call": 10
+    "ok": 6,
+    "no_call": 4
   }
 }
