@@ -1,7 +1,7 @@
 {
   "slate_date": "2026-07-09",
   "generated_at_utc": "2026-07-09T13:00:02Z",
-  "last_polled_at": "2026-07-09T17:35:51Z",
+  "last_polled_at": "2026-07-09T17:36:41Z",
   "final_snapshot": false,
   "source_versions": {
     "statsapi": "v1",
@@ -384,7 +384,17 @@
           "inplay": false
         }
       },
-      "closing_odds": null,
+      "closing_odds": {
+        "source": "betfair_exchange_aud",
+        "captured_at": "2026-07-09T17:35:38Z",
+        "frozen_at": "2026-07-09T17:36:12Z",
+        "moneyline": {
+          "away": 2.16,
+          "home": 1.84
+        },
+        "total": null,
+        "run_line": null
+      },
       "call": {
         "call": "OK",
         "label": "OK",
@@ -650,7 +660,7 @@
       },
       "live_odds": {
         "source": "betfair_exchange_aud",
-        "captured_at": "2026-07-09T17:35:38Z",
+        "captured_at": "2026-07-09T17:36:12Z",
         "market_status": "OPEN",
         "inplay": false,
         "moneyline": {
@@ -663,7 +673,7 @@
             "Athletics": null,
             "Detroit Tigers": 1.01
           },
-          "captured_at": "2026-07-09T17:35:38Z",
+          "captured_at": "2026-07-09T17:36:12Z",
           "market_status": "OPEN",
           "inplay": false
         }
@@ -737,7 +747,7 @@
       },
       "live_odds": {
         "source": "betfair_exchange_aud",
-        "captured_at": "2026-07-09T17:35:38Z",
+        "captured_at": "2026-07-09T17:36:12Z",
         "market_status": "OPEN",
         "inplay": false,
         "moneyline": {
@@ -750,7 +760,7 @@
             "Seattle Mariners": null,
             "Miami Marlins": 1.01
           },
-          "captured_at": "2026-07-09T17:35:38Z",
+          "captured_at": "2026-07-09T17:36:12Z",
           "market_status": "OPEN",
           "inplay": false
         }
@@ -824,7 +834,7 @@
       },
       "live_odds": {
         "source": "betfair_exchange_aud",
-        "captured_at": "2026-07-09T17:35:38Z",
+        "captured_at": "2026-07-09T17:36:12Z",
         "market_status": "OPEN",
         "inplay": false,
         "moneyline": {
@@ -837,7 +847,7 @@
             "Philadelphia Phillies": null,
             "Cincinnati Reds": 1.01
           },
-          "captured_at": "2026-07-09T17:35:38Z",
+          "captured_at": "2026-07-09T17:36:12Z",
           "market_status": "OPEN",
           "inplay": false
         }
@@ -1107,7 +1117,7 @@
       },
       "live_odds": {
         "source": "betfair_exchange_aud",
-        "captured_at": "2026-07-09T17:35:38Z",
+        "captured_at": "2026-07-09T17:36:12Z",
         "market_status": "OPEN",
         "inplay": false,
         "moneyline": {
@@ -1120,7 +1130,7 @@
             "Arizona Diamondbacks": null,
             "San Diego Padres": 1.01
           },
-          "captured_at": "2026-07-09T17:35:38Z",
+          "captured_at": "2026-07-09T17:36:12Z",
           "market_status": "OPEN",
           "inplay": false
         }
@@ -1196,7 +1206,7 @@
       },
       "live_odds": {
         "source": "betfair_exchange_aud",
-        "captured_at": "2026-07-09T17:35:38Z",
+        "captured_at": "2026-07-09T17:36:12Z",
         "market_status": "OPEN",
         "inplay": false,
         "moneyline": {
@@ -1209,7 +1219,7 @@
             "Colorado Rockies": null,
             "San Francisco Giants": 1.01
           },
-          "captured_at": "2026-07-09T17:35:38Z",
+          "captured_at": "2026-07-09T17:36:12Z",
           "market_status": "OPEN",
           "inplay": false
         }
@@ -1225,7 +1235,7 @@
     }
   },
   "live_odds_source": "betfair_exchange_aud (scout_odds.json)",
-  "live_odds_updated_at": "2026-07-09T17:35:51Z",
+  "live_odds_updated_at": "2026-07-09T17:36:41Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
     "ok": 13,
