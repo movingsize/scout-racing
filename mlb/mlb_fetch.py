@@ -119,6 +119,9 @@ OUT_FILE = os.path.join(OUT_DIR, "scout_mlb.json")
 
 sys.path.insert(0, os.path.dirname(ROOT))
 import data_adequacy  # DATA BAD guardrail: stamps a call verdict on every game
+import odds_merge      # native Betfair live+closing odds (replaces the ESPN path)
+
+ODDS_FILE = os.path.join(os.path.dirname(ROOT), "scout_odds.json")
 
 STATSAPI = "https://statsapi.mlb.com/api/v1"
 SAVANT_XSTATS = (
@@ -915,11 +918,16 @@ def build_feed(date):
             "fip_constant": fip_const,
             "park_factors_source": "fantasyteamadvice.com",
             "xfip_lg_hrfb": XFIP_LG_HRFB,
-            "closing_odds_source": "espn/DraftKings",
+            "closing_odds_source": "betfair_exchange_aud",
         },
         "phase": 3,
         "games": games,
     }
+    # Native odds: inject correctly-keyed Betfair live_odds + closing_odds from
+    # scout_odds.json (replaces the ESPN closing path). Missing odds file is a
+    # no-op, never wipes anything.
+    live_n, close_n = odds_merge.apply_odds(feed, ODDS_FILE)
+    print(f"  Betfair odds merged: {live_n} live / {close_n} closing")
     # Guardrail: label every game OK / NO_CALL ("DATA BAD") — a game with no
     # pitching/offense to anchor either side must never be priced off de-vig.
     data_adequacy.enforce_mlb(feed)
@@ -949,29 +957,20 @@ def main():
     ap = argparse.ArgumentParser(description="Scout MLB stats feed (Phase 3)")
     ap.add_argument("--date", default=us_slate_date(), help="slate date YYYY-MM-DD (US calendar)")
     ap.add_argument("--final", action="store_true",
-                     help="also run one closing-odds capture pass now, for any game "
-                          "currently inside its capture window (T-5min..T+20min around "
-                          "first pitch). The continuous version of this is mlb_odds_watcher.py; "
-                          "this flag is for a manual/ad-hoc pre-lock run.")
+                     help="DEPRECATED no-op. Closing odds now come from Betfair via "
+                          "scout_odds.json (see odds_merge / betfair_odds_watcher); the "
+                          "ESPN capture this flag used to trigger has been retired.")
     ap.add_argument("--drive", action="store_true", help="also push to Google Drive 'Scout MLB' folder")
     args = ap.parse_args()
 
-    # build_feed() always rebuilds Phase 1/2 fields fresh; closing_odds is
-    # never computed there, so any already-captured close (from an earlier
-    # run today, or from mlb_odds_watcher.py running concurrently) has to be
-    # carried forward explicitly, or a later poll would silently erase it.
-    prev_games = load_existing_games(OUT_FILE)
+    # Odds (live_odds + closing_odds) are merged natively inside build_feed from
+    # scout_odds.json, which is Betfair's write-once durable store. No ESPN fetch
+    # and no cross-run carry-forward needed: closing is re-read from that store
+    # every build, and a frozen close there is stable.
     feed = build_feed(args.date)
-    for gid, g in feed["games"].items():
-        prev = prev_games.get(gid)
-        if prev and prev.get("closing_odds"):
-            g["closing_odds"] = prev["closing_odds"]
 
     if args.final:
-        espn_odds = fetch_espn_odds(args.date)
-        captured = capture_eligible_closing_odds(feed["games"], espn_odds)
-        if captured:
-            print(f"  closing odds captured this run: {', '.join(captured)}")
+        print("  (--final is deprecated: closing odds come from Betfair/scout_odds.json now)")
 
     # final_snapshot means "today's whole slate has closed" -- true only once
     # every game has a captured close, which for a normal staggered slate
