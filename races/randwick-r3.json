@@ -7,7 +7,7 @@
   "start_time_utc": "2026-07-11T02:20:00.000Z",
   "market_id": "1.259843935",
   "market_overround_pct": null,
-  "track_condition": null,
+  "track_condition": "Heavy 10",
   "weather": null,
   "form_analysis": null,
   "runners": [
@@ -20,22 +20,176 @@
       "back_depth_aud": 0,
       "bsp_near": null,
       "market_signal": "NEUTRAL",
-      "trainer": null,
-      "jockey": null,
-      "last5": null,
-      "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
+      "trainer": "Clarry Conners",
+      "jockey": "Aaron Bullock",
+      "last5": "1x23231467",
+      "career": "29:4-4-6",
+      "weight_kg": 60.0,
+      "barrier": 17,
+      "official_rating": 72,
+      "prizemoney": 279750,
+      "first_up_record": "4:0-1-0",
+      "second_up_record": "4:0-0-2",
+      "track_record": "3:1-1-0",
+      "dist_record": "7:1-1-1",
+      "track_dist_record": "2:1-1-0",
+      "distances_won": "1300 (1), 1400 (2), 1600 (1)",
+      "going_record": {
+        "Firm": "0:0-0-0",
+        "Good": "11:2-2-2",
+        "Soft": "10:1-1-1",
+        "Heavy": "8:1-1-3",
+        "Synthetic": "0:0-0-0"
+      },
+      "recent_runs": [
+        {
+          "pos": 7,
+          "date": "2026-07-01",
+          "class": "4Y+ BM72",
+          "trial": false,
+          "distance_m": 1400,
+          "going": "Heavy8",
+          "winner_time": 87.09,
+          "beaten_margin": 4.82,
+          "runner_time": 87.81,
+          "runner_time_reduced": true,
+          "sectional_600": 36.45,
+          "in_run": {
+            "@800": 7,
+            "@400": 6
+          }
+        },
+        {
+          "pos": 6,
+          "date": "2026-06-13",
+          "class": "BM78",
+          "trial": false,
+          "distance_m": 1500,
+          "going": "Soft5",
+          "winner_time": 91.03,
+          "beaten_margin": 3.43,
+          "runner_time": 91.53,
+          "runner_time_reduced": true,
+          "sectional_600": 35.21,
+          "in_run": {
+            "@800": 8,
+            "@400": 8
+          }
+        },
+        {
+          "pos": 4,
+          "date": "2026-05-23",
+          "class": "CG&E BM78",
+          "trial": false,
+          "distance_m": 1400,
+          "going": "Heavy10",
+          "winner_time": 88.19,
+          "beaten_margin": 2.64,
+          "runner_time": 88.59,
+          "runner_time_reduced": true,
+          "sectional_600": 37.17,
+          "in_run": {
+            "@800": 10,
+            "@400": 10
+          }
+        },
+        {
+          "pos": 3,
+          "date": "2026-03-14",
+          "class": "BM78",
+          "trial": false,
+          "distance_m": 1900,
+          "going": "Good4",
+          "winner_time": 117.61,
+          "beaten_margin": 2.01,
+          "runner_time": 117.91,
+          "runner_time_reduced": true,
+          "sectional_600": 34.96,
+          "in_run": {
+            "@800": 8,
+            "@400": 8
+          }
+        }
+      ],
+      "recent_class": [
+        "4Y+ BM72",
+        "BM78",
+        "CG&E BM78",
+        "BM78"
+      ],
+      "days_since_run": 10,
+      "runs_this_prep": 4,
+      "form_status": "confirmed",
       "warnings": [],
-      "last5_parsed": [],
-      "data_status": "not_found",
+      "last5_parsed": [
+        {
+          "raw": "1",
+          "pos": 1,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "x",
+          "pos": null,
+          "nonFinish": false,
+          "spell": true
+        },
+        {
+          "raw": "2",
+          "pos": 2,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "3",
+          "pos": 3,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "2",
+          "pos": 2,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "3",
+          "pos": 3,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "1",
+          "pos": 1,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "4",
+          "pos": 4,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "6",
+          "pos": 6,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "7",
+          "pos": 7,
+          "nonFinish": false,
+          "spell": false
+        }
+      ],
+      "data_status": "confirmed",
       "open_price": null,
       "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
+        "call": "OK",
+        "label": "OK",
+        "confidence": "ok",
+        "reason": "confirmed form, 29 career starts",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -48,22 +202,188 @@
       "back_depth_aud": 0,
       "bsp_near": null,
       "market_signal": "NEUTRAL",
-      "trainer": null,
-      "jockey": null,
-      "last5": null,
-      "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
+      "trainer": "John Sargent",
+      "jockey": "Ms Siena Grima (a2/52kg)",
+      "last5": "123292x422",
+      "career": "20:2-7-4",
+      "weight_kg": 58.0,
+      "barrier": 11,
+      "official_rating": 68,
+      "prizemoney": 201175,
+      "first_up_record": "4:0-0-2",
+      "second_up_record": "4:1-1-0",
+      "track_record": "5:0-3-0",
+      "dist_record": "9:1-6-0",
+      "track_dist_record": "3:0-2-0",
+      "distances_won": "1400 (1), 1600 (1)",
+      "going_record": {
+        "Firm": "0:0-0-0",
+        "Good": "9:1-3-3",
+        "Soft": "10:1-4-1",
+        "Heavy": "1:0-0-0",
+        "Synthetic": "0:0-0-0"
+      },
+      "recent_runs": [
+        {
+          "pos": 2,
+          "date": "2026-06-20",
+          "class": "MIDWAY BM72",
+          "trial": false,
+          "distance_m": 1600,
+          "going": "Soft5",
+          "winner_time": 95.74,
+          "beaten_margin": 0.85,
+          "runner_time": 95.86,
+          "runner_time_reduced": true,
+          "sectional_600": 36.82,
+          "in_run": {
+            "@800": 7,
+            "@400": 6
+          }
+        },
+        {
+          "pos": 2,
+          "date": "2026-06-06",
+          "class": "MIDWAY BM72",
+          "trial": false,
+          "distance_m": 1500,
+          "going": "Soft6",
+          "winner_time": 90.13,
+          "beaten_margin": 1.15,
+          "runner_time": 90.3,
+          "runner_time_reduced": true,
+          "sectional_600": 35.28,
+          "in_run": {
+            "@800": 8,
+            "@400": 8
+          }
+        },
+        {
+          "pos": 4,
+          "date": "2026-05-23",
+          "class": "MIDWAY BM72",
+          "trial": false,
+          "distance_m": 1400,
+          "going": "Soft7",
+          "winner_time": 84.44,
+          "beaten_margin": 0.65,
+          "runner_time": 84.53,
+          "runner_time_reduced": true,
+          "sectional_600": 35.85,
+          "in_run": {
+            "@800": 16,
+            "@400": 15
+          }
+        },
+        {
+          "pos": 2,
+          "date": "2026-05-04",
+          "class": "OPEN-BT",
+          "trial": false,
+          "distance_m": 1200,
+          "going": "Good4",
+          "winner_time": 74.02,
+          "beaten_margin": 3.9,
+          "runner_time": 74.6,
+          "runner_time_reduced": true,
+          "sectional_600": 33.92,
+          "in_run": null
+        },
+        {
+          "pos": 4,
+          "date": "2026-04-21",
+          "class": "OPEN-BT",
+          "trial": false,
+          "distance_m": 1200,
+          "going": "Good4",
+          "winner_time": 74.81,
+          "beaten_margin": 1.32,
+          "runner_time": 75.01,
+          "runner_time_reduced": true,
+          "sectional_600": 34.95,
+          "in_run": null
+        }
+      ],
+      "recent_class": [
+        "MIDWAY BM72",
+        "MIDWAY BM72",
+        "MIDWAY BM72",
+        "OPEN-BT",
+        "OPEN-BT"
+      ],
+      "days_since_run": 21,
+      "runs_this_prep": 5,
+      "form_status": "confirmed",
       "warnings": [],
-      "last5_parsed": [],
-      "data_status": "not_found",
+      "last5_parsed": [
+        {
+          "raw": "1",
+          "pos": 1,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "2",
+          "pos": 2,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "3",
+          "pos": 3,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "2",
+          "pos": 2,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "9",
+          "pos": 9,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "2",
+          "pos": 2,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "x",
+          "pos": null,
+          "nonFinish": false,
+          "spell": true
+        },
+        {
+          "raw": "4",
+          "pos": 4,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "2",
+          "pos": 2,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "2",
+          "pos": 2,
+          "nonFinish": false,
+          "spell": false
+        }
+      ],
+      "data_status": "confirmed",
       "open_price": null,
       "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
+        "call": "OK",
+        "label": "OK",
+        "confidence": "ok",
+        "reason": "confirmed form, 20 career starts",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -76,22 +396,170 @@
       "back_depth_aud": 0,
       "bsp_near": null,
       "market_signal": "NEUTRAL",
-      "trainer": null,
-      "jockey": null,
-      "last5": null,
-      "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
+      "trainer": "Les Bridge",
+      "jockey": "Kerrin McEvoy",
+      "last5": "0x3117x2x5",
+      "career": "9:2-1-1",
+      "weight_kg": 57.5,
+      "barrier": 5,
+      "official_rating": 68,
+      "prizemoney": 127050,
+      "first_up_record": "4:0-1-1",
+      "second_up_record": "2:1-0-0",
+      "track_record": "0:0-0-0",
+      "dist_record": "1:1-0-0",
+      "track_dist_record": "0:0-0-0",
+      "distances_won": "1300 (1), 1550 (1)",
+      "going_record": {
+        "Firm": "0:0-0-0",
+        "Good": "6:2-1-1",
+        "Soft": "2:0-0-0",
+        "Heavy": "1:0-0-0",
+        "Synthetic": "0:0-0-0"
+      },
+      "recent_runs": [
+        {
+          "pos": 3,
+          "date": "2026-06-12",
+          "class": "OPEN-BT",
+          "trial": false,
+          "distance_m": 1050,
+          "going": "Soft5",
+          "winner_time": 62.94,
+          "beaten_margin": 0.79,
+          "runner_time": 63.05,
+          "runner_time_reduced": true,
+          "sectional_600": 34.79,
+          "in_run": null
+        },
+        {
+          "pos": 5,
+          "date": "2026-06-05",
+          "class": "OPEN-BT",
+          "trial": false,
+          "distance_m": 1030,
+          "going": "Soft6",
+          "winner_time": 63.62,
+          "beaten_margin": 4.84,
+          "runner_time": 64.34,
+          "runner_time_reduced": true,
+          "sectional_600": 35.62,
+          "in_run": null
+        },
+        {
+          "pos": 7,
+          "date": "2025-12-07",
+          "class": "3&4Y BM72",
+          "trial": false,
+          "distance_m": 1500,
+          "going": "Good4",
+          "winner_time": 89.73,
+          "beaten_margin": 2.69,
+          "runner_time": 90.12,
+          "runner_time_reduced": true,
+          "sectional_600": 33.96,
+          "in_run": {
+            "@800": 7,
+            "@400": 7
+          }
+        },
+        {
+          "pos": 1,
+          "date": "2025-11-19",
+          "class": "3&4Y BM68",
+          "trial": false,
+          "distance_m": 1550,
+          "going": "Good4",
+          "winner_time": 92.13,
+          "beaten_margin": 0.0,
+          "runner_time": 92.13,
+          "runner_time_reduced": false,
+          "sectional_600": 35.4,
+          "in_run": {
+            "@800": 4,
+            "@400": 4
+          }
+        }
+      ],
+      "recent_class": [
+        "OPEN-BT",
+        "OPEN-BT",
+        "3&4Y BM72",
+        "3&4Y BM68"
+      ],
+      "days_since_run": 29,
+      "runs_this_prep": 2,
+      "form_status": "confirmed",
       "warnings": [],
-      "last5_parsed": [],
-      "data_status": "not_found",
+      "last5_parsed": [
+        {
+          "raw": "0",
+          "pos": 0,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "x",
+          "pos": null,
+          "nonFinish": false,
+          "spell": true
+        },
+        {
+          "raw": "3",
+          "pos": 3,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "1",
+          "pos": 1,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "1",
+          "pos": 1,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "7",
+          "pos": 7,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "x",
+          "pos": null,
+          "nonFinish": false,
+          "spell": true
+        },
+        {
+          "raw": "2",
+          "pos": 2,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "x",
+          "pos": null,
+          "nonFinish": false,
+          "spell": true
+        },
+        {
+          "raw": "5",
+          "pos": 5,
+          "nonFinish": false,
+          "spell": false
+        }
+      ],
+      "data_status": "confirmed",
       "open_price": null,
       "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
+        "call": "OK",
+        "label": "OK",
+        "confidence": "ok",
+        "reason": "confirmed form, 9 career starts",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -104,22 +572,191 @@
       "back_depth_aud": 0,
       "bsp_near": null,
       "market_signal": "NEUTRAL",
-      "trainer": null,
-      "jockey": null,
-      "last5": null,
-      "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
+      "trainer": "Paul Perry",
+      "jockey": "Ms Rachel King",
+      "last5": "38164x6033",
+      "career": "40:4-7-5",
+      "weight_kg": 57.0,
+      "barrier": 2,
+      "official_rating": 66,
+      "prizemoney": 398775,
+      "first_up_record": "8:2-0-0",
+      "second_up_record": "7:0-2-0",
+      "track_record": "12:1-2-3",
+      "dist_record": "9:2-2-2",
+      "track_dist_record": "5:1-1-2",
+      "distances_won": "900 (1), 1100 (1), 1550 (1), 1600 (1)",
+      "going_record": {
+        "Firm": "0:0-0-0",
+        "Good": "19:2-4-1",
+        "Soft": "14:1-3-4",
+        "Heavy": "7:1-0-0",
+        "Synthetic": "0:0-0-0"
+      },
+      "recent_runs": [
+        {
+          "pos": 3,
+          "date": "2026-06-20",
+          "class": "MIDWAY BM72",
+          "trial": false,
+          "distance_m": 1600,
+          "going": "Soft5",
+          "winner_time": 95.74,
+          "beaten_margin": 1.18,
+          "runner_time": 95.91,
+          "runner_time_reduced": true,
+          "sectional_600": 36.82,
+          "in_run": {
+            "@800": 1,
+            "@400": 1
+          }
+        },
+        {
+          "pos": 3,
+          "date": "2026-06-06",
+          "class": "MIDWAY BM72",
+          "trial": false,
+          "distance_m": 1500,
+          "going": "Soft6",
+          "winner_time": 90.13,
+          "beaten_margin": 1.66,
+          "runner_time": 90.37,
+          "runner_time_reduced": true,
+          "sectional_600": 35.28,
+          "in_run": {
+            "@800": 1,
+            "@400": 1
+          }
+        },
+        {
+          "pos": 12,
+          "date": "2026-05-23",
+          "class": "MIDWAY BM72",
+          "trial": false,
+          "distance_m": 1400,
+          "going": "Soft7",
+          "winner_time": 84.44,
+          "beaten_margin": 5.91,
+          "runner_time": 85.3,
+          "runner_time_reduced": true,
+          "sectional_600": 35.85,
+          "in_run": {
+            "@800": 9,
+            "@400": 9
+          }
+        },
+        {
+          "pos": 6,
+          "date": "2026-05-13",
+          "class": "5Y+ BM72",
+          "trial": false,
+          "distance_m": 1250,
+          "going": "Good4",
+          "winner_time": 73.19,
+          "beaten_margin": 6.71,
+          "runner_time": 74.13,
+          "runner_time_reduced": true,
+          "sectional_600": 33.61,
+          "in_run": {
+            "@800": 6,
+            "@400": 5
+          }
+        },
+        {
+          "pos": 2,
+          "date": "2026-05-04",
+          "class": "OPEN-BT",
+          "trial": false,
+          "distance_m": 1200,
+          "going": "Good4",
+          "winner_time": 72.13,
+          "beaten_margin": 0.61,
+          "runner_time": 72.22,
+          "runner_time_reduced": true,
+          "sectional_600": 34.02,
+          "in_run": null
+        }
+      ],
+      "recent_class": [
+        "MIDWAY BM72",
+        "MIDWAY BM72",
+        "MIDWAY BM72",
+        "5Y+ BM72",
+        "OPEN-BT"
+      ],
+      "days_since_run": 21,
+      "runs_this_prep": 6,
+      "form_status": "confirmed",
       "warnings": [],
-      "last5_parsed": [],
-      "data_status": "not_found",
+      "last5_parsed": [
+        {
+          "raw": "3",
+          "pos": 3,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "8",
+          "pos": 8,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "1",
+          "pos": 1,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "6",
+          "pos": 6,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "4",
+          "pos": 4,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "x",
+          "pos": null,
+          "nonFinish": false,
+          "spell": true
+        },
+        {
+          "raw": "6",
+          "pos": 6,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "0",
+          "pos": 0,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "3",
+          "pos": 3,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "3",
+          "pos": 3,
+          "nonFinish": false,
+          "spell": false
+        }
+      ],
+      "data_status": "confirmed",
       "open_price": null,
       "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
+        "call": "OK",
+        "label": "OK",
+        "confidence": "ok",
+        "reason": "confirmed form, 40 career starts",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -132,22 +769,158 @@
       "back_depth_aud": 0,
       "bsp_near": null,
       "market_signal": "NEUTRAL",
-      "trainer": null,
-      "jockey": null,
-      "last5": null,
-      "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
+      "trainer": "John Steinmetz",
+      "jockey": "Ms Deanne Panya",
+      "last5": "56727500x1",
+      "career": "87:10-9-14",
+      "weight_kg": 56.5,
+      "barrier": 8,
+      "official_rating": 65,
+      "prizemoney": 636915,
+      "first_up_record": "8:1-0-1",
+      "second_up_record": "7:1-0-2",
+      "track_record": "19:1-3-5",
+      "dist_record": "30:4-4-6",
+      "track_dist_record": "12:1-3-3",
+      "distances_won": "1500 (2), 1600 (4), 1800 (1), 1900 (3)",
+      "going_record": {
+        "Firm": "0:0-0-0",
+        "Good": "38:3-3-5",
+        "Soft": "32:3-2-4",
+        "Heavy": "17:4-4-5",
+        "Synthetic": "0:0-0-0"
+      },
+      "recent_runs": [
+        {
+          "pos": 1,
+          "date": "2026-06-23",
+          "class": "BM64",
+          "trial": false,
+          "distance_m": 1500,
+          "going": "Soft5",
+          "winner_time": 90.26,
+          "beaten_margin": 0.0,
+          "runner_time": 90.26,
+          "runner_time_reduced": false,
+          "sectional_600": 35.36,
+          "in_run": {
+            "@800": 7,
+            "@400": 6
+          }
+        },
+        {
+          "pos": 5,
+          "date": "2026-01-24",
+          "class": "COND BM68",
+          "trial": false,
+          "distance_m": 1600,
+          "going": "Good4",
+          "winner_time": 97.48,
+          "beaten_margin": 3.87,
+          "runner_time": 98.05,
+          "runner_time_reduced": true,
+          "sectional_600": 35.35,
+          "in_run": {
+            "@800": 10,
+            "@400": 10
+          }
+        },
+        {
+          "pos": 7,
+          "date": "2025-12-31",
+          "class": "COND BM68",
+          "trial": false,
+          "distance_m": 2100,
+          "going": "Good4",
+          "winner_time": 130.0,
+          "beaten_margin": 3.03,
+          "runner_time": 130.45,
+          "runner_time_reduced": true,
+          "sectional_600": 36.57,
+          "in_run": {
+            "@800": 5,
+            "@400": 5
+          }
+        }
+      ],
+      "recent_class": [
+        "BM64",
+        "COND BM68",
+        "COND BM68"
+      ],
+      "days_since_run": 18,
+      "runs_this_prep": 1,
+      "form_status": "confirmed",
       "warnings": [],
-      "last5_parsed": [],
-      "data_status": "not_found",
+      "last5_parsed": [
+        {
+          "raw": "5",
+          "pos": 5,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "6",
+          "pos": 6,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "7",
+          "pos": 7,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "2",
+          "pos": 2,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "7",
+          "pos": 7,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "5",
+          "pos": 5,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "0",
+          "pos": 0,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "0",
+          "pos": 0,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "x",
+          "pos": null,
+          "nonFinish": false,
+          "spell": true
+        },
+        {
+          "raw": "1",
+          "pos": 1,
+          "nonFinish": false,
+          "spell": false
+        }
+      ],
+      "data_status": "confirmed",
       "open_price": null,
       "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
+        "call": "OK",
+        "label": "OK",
+        "confidence": "ok",
+        "reason": "confirmed form, 87 career starts",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -160,22 +933,191 @@
       "back_depth_aud": 0,
       "bsp_near": null,
       "market_signal": "NEUTRAL",
-      "trainer": null,
-      "jockey": null,
-      "last5": null,
-      "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
+      "trainer": "Kylie Gavenlock",
+      "jockey": "Grant Buckley",
+      "last5": "651234x141",
+      "career": "19:3-3-2",
+      "weight_kg": 55.0,
+      "barrier": 1,
+      "official_rating": 66,
+      "prizemoney": 122625,
+      "first_up_record": "4:1-1-0",
+      "second_up_record": "4:0-0-0",
+      "track_record": "0:0-0-0",
+      "dist_record": "8:2-2-1",
+      "track_dist_record": "0:0-0-0",
+      "distances_won": "1400 (1), 1600 (2)",
+      "going_record": {
+        "Firm": "0:0-0-0",
+        "Good": "8:1-2-1",
+        "Soft": "8:1-0-1",
+        "Heavy": "3:1-1-0",
+        "Synthetic": "0:0-0-0"
+      },
+      "recent_runs": [
+        {
+          "pos": 1,
+          "date": "2026-06-18",
+          "class": "F&M BM64",
+          "trial": false,
+          "distance_m": 1600,
+          "going": "Heavy8",
+          "winner_time": 99.73,
+          "beaten_margin": 0.0,
+          "runner_time": 99.73,
+          "runner_time_reduced": false,
+          "sectional_600": 37.03,
+          "in_run": {
+            "@800": 4,
+            "@400": 2
+          }
+        },
+        {
+          "pos": 4,
+          "date": "2026-06-06",
+          "class": "PROV BM68",
+          "trial": false,
+          "distance_m": 1600,
+          "going": "Soft5",
+          "winner_time": 98.81,
+          "beaten_margin": 2.5,
+          "runner_time": 99.18,
+          "runner_time_reduced": true,
+          "sectional_600": 34.98,
+          "in_run": {
+            "@800": 10,
+            "@400": 9
+          }
+        },
+        {
+          "pos": 1,
+          "date": "2026-05-14",
+          "class": "MID BM64",
+          "trial": false,
+          "distance_m": 1400,
+          "going": "Soft7",
+          "winner_time": 83.91,
+          "beaten_margin": 0.0,
+          "runner_time": 83.91,
+          "runner_time_reduced": false,
+          "sectional_600": 35.79,
+          "in_run": {
+            "@800": 4,
+            "@400": 3
+          }
+        },
+        {
+          "pos": 5,
+          "date": "2026-04-13",
+          "class": "OPEN-BT",
+          "trial": false,
+          "distance_m": 1200,
+          "going": "Good4",
+          "winner_time": 70.52,
+          "beaten_margin": 6.98,
+          "runner_time": 71.5,
+          "runner_time_reduced": true,
+          "sectional_600": 35.65,
+          "in_run": null
+        },
+        {
+          "pos": 4,
+          "date": "2026-01-09",
+          "class": "CL1",
+          "trial": false,
+          "distance_m": 1600,
+          "going": "Good4",
+          "winner_time": 97.18,
+          "beaten_margin": 1.4,
+          "runner_time": 97.38,
+          "runner_time_reduced": true,
+          "sectional_600": 35.98,
+          "in_run": {
+            "@800": 6,
+            "@400": 5
+          }
+        }
+      ],
+      "recent_class": [
+        "F&M BM64",
+        "PROV BM68",
+        "MID BM64",
+        "OPEN-BT",
+        "CL1"
+      ],
+      "days_since_run": 23,
+      "runs_this_prep": 4,
+      "form_status": "confirmed",
       "warnings": [],
-      "last5_parsed": [],
-      "data_status": "not_found",
+      "last5_parsed": [
+        {
+          "raw": "6",
+          "pos": 6,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "5",
+          "pos": 5,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "1",
+          "pos": 1,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "2",
+          "pos": 2,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "3",
+          "pos": 3,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "4",
+          "pos": 4,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "x",
+          "pos": null,
+          "nonFinish": false,
+          "spell": true
+        },
+        {
+          "raw": "1",
+          "pos": 1,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "4",
+          "pos": 4,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "1",
+          "pos": 1,
+          "nonFinish": false,
+          "spell": false
+        }
+      ],
+      "data_status": "confirmed",
       "open_price": null,
       "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
+        "call": "OK",
+        "label": "OK",
+        "confidence": "ok",
+        "reason": "confirmed form, 19 career starts",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -188,22 +1130,164 @@
       "back_depth_aud": 0,
       "bsp_near": null,
       "market_signal": "NEUTRAL",
-      "trainer": null,
-      "jockey": null,
-      "last5": null,
-      "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
+      "trainer": "Kim Waugh",
+      "jockey": "Jay Ford",
+      "last5": "6401x1",
+      "career": "5:2-0-0",
+      "weight_kg": 55.0,
+      "barrier": 15,
+      "official_rating": 63,
+      "prizemoney": 46500,
+      "first_up_record": "2:1-0-0",
+      "second_up_record": "1:0-0-0",
+      "track_record": "0:0-0-0",
+      "dist_record": "1:0-0-0",
+      "track_dist_record": "0:0-0-0",
+      "distances_won": "1400 (1), 1900 (1)",
+      "going_record": {
+        "Firm": "0:0-0-0",
+        "Good": "4:1-0-0",
+        "Soft": "0:0-0-0",
+        "Heavy": "1:1-0-0",
+        "Synthetic": "0:0-0-0"
+      },
+      "recent_runs": [
+        {
+          "pos": 1,
+          "date": "2026-06-27",
+          "class": "CL1",
+          "trial": false,
+          "distance_m": 1400,
+          "going": "Heavy8",
+          "winner_time": 86.17,
+          "beaten_margin": 0.0,
+          "runner_time": 86.17,
+          "runner_time_reduced": false,
+          "sectional_600": 34.46,
+          "in_run": {
+            "@800": 1,
+            "@400": 1
+          }
+        },
+        {
+          "pos": 1,
+          "date": "2026-06-17",
+          "class": "OPEN-BT",
+          "trial": false,
+          "distance_m": 1000,
+          "going": "Soft7",
+          "winner_time": 61.83,
+          "beaten_margin": 0.0,
+          "runner_time": 61.83,
+          "runner_time_reduced": false,
+          "sectional_600": 34.87,
+          "in_run": null
+        },
+        {
+          "pos": 5,
+          "date": "2026-06-03",
+          "class": "OPEN-BT",
+          "trial": false,
+          "distance_m": 1000,
+          "going": "Soft7",
+          "winner_time": 61.65,
+          "beaten_margin": 3.14,
+          "runner_time": 62.11,
+          "runner_time_reduced": true,
+          "sectional_600": 34.9,
+          "in_run": null
+        },
+        {
+          "pos": 1,
+          "date": "2026-02-14",
+          "class": "MDN-SW",
+          "trial": false,
+          "distance_m": 1890,
+          "going": "Good4",
+          "winner_time": 117.3,
+          "beaten_margin": 0.0,
+          "runner_time": 117.3,
+          "runner_time_reduced": false,
+          "sectional_600": 35.39,
+          "in_run": {
+            "@800": 4,
+            "@400": 4
+          }
+        },
+        {
+          "pos": 12,
+          "date": "2026-01-24",
+          "class": "SUPER MDN-SW",
+          "trial": false,
+          "distance_m": 1850,
+          "going": "Good4",
+          "winner_time": 114.2,
+          "beaten_margin": 7.66,
+          "runner_time": 115.33,
+          "runner_time_reduced": true,
+          "sectional_600": 34.02,
+          "in_run": {
+            "@800": 4,
+            "@400": 5
+          }
+        }
+      ],
+      "recent_class": [
+        "CL1",
+        "OPEN-BT",
+        "OPEN-BT",
+        "MDN-SW",
+        "SUPER MDN-SW"
+      ],
+      "days_since_run": 14,
+      "runs_this_prep": 3,
+      "form_status": "confirmed",
       "warnings": [],
-      "last5_parsed": [],
-      "data_status": "not_found",
+      "last5_parsed": [
+        {
+          "raw": "6",
+          "pos": 6,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "4",
+          "pos": 4,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "0",
+          "pos": 0,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "1",
+          "pos": 1,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "x",
+          "pos": null,
+          "nonFinish": false,
+          "spell": true
+        },
+        {
+          "raw": "1",
+          "pos": 1,
+          "nonFinish": false,
+          "spell": false
+        }
+      ],
+      "data_status": "confirmed",
       "open_price": null,
       "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
+        "call": "OK",
+        "label": "OK",
+        "confidence": "ok",
+        "reason": "confirmed form, 5 career starts",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -216,22 +1300,188 @@
       "back_depth_aud": 0,
       "bsp_near": null,
       "market_signal": "NEUTRAL",
-      "trainer": null,
-      "jockey": null,
-      "last5": null,
-      "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
+      "trainer": "Nathan Doyle",
+      "jockey": "Tyler Schiller",
+      "last5": "12604x6886",
+      "career": "22:4-5-0",
+      "weight_kg": 55.0,
+      "barrier": 10,
+      "official_rating": 62,
+      "prizemoney": 192850,
+      "first_up_record": "4:0-1-0",
+      "second_up_record": "4:1-0-0",
+      "track_record": "1:0-1-0",
+      "dist_record": "8:1-3-0",
+      "track_dist_record": "1:0-1-0",
+      "distances_won": "1450 (1), 1500 (2), 1600 (1)",
+      "going_record": {
+        "Firm": "0:0-0-0",
+        "Good": "10:2-2-0",
+        "Soft": "8:2-2-0",
+        "Heavy": "4:0-1-0",
+        "Synthetic": "0:0-0-0"
+      },
+      "recent_runs": [
+        {
+          "pos": 3,
+          "date": "2026-07-01",
+          "class": "OPEN-BT",
+          "trial": false,
+          "distance_m": 1200,
+          "going": "Heavy8",
+          "winner_time": 78.71,
+          "beaten_margin": 1.64,
+          "runner_time": 78.97,
+          "runner_time_reduced": true,
+          "sectional_600": 36.44,
+          "in_run": null
+        },
+        {
+          "pos": 6,
+          "date": "2026-06-06",
+          "class": "PROV BM68",
+          "trial": false,
+          "distance_m": 1600,
+          "going": "Soft5",
+          "winner_time": 98.81,
+          "beaten_margin": 5.87,
+          "runner_time": 99.68,
+          "runner_time_reduced": true,
+          "sectional_600": 34.98,
+          "in_run": {
+            "@800": 1,
+            "@400": 1
+          }
+        },
+        {
+          "pos": 6,
+          "date": "2026-04-02",
+          "class": "CG&E BM64",
+          "trial": false,
+          "distance_m": 1200,
+          "going": "Good4",
+          "winner_time": 69.48,
+          "beaten_margin": 3.14,
+          "runner_time": 69.92,
+          "runner_time_reduced": true,
+          "sectional_600": 34.57,
+          "in_run": {
+            "@800": 7,
+            "@400": 7
+          }
+        },
+        {
+          "pos": 4,
+          "date": "2026-03-17",
+          "class": "OPEN-BT",
+          "trial": false,
+          "distance_m": 1000,
+          "going": "Good4",
+          "winner_time": 59.98,
+          "beaten_margin": 2.02,
+          "runner_time": 60.27,
+          "runner_time_reduced": true,
+          "sectional_600": null,
+          "in_run": null
+        },
+        {
+          "pos": 4,
+          "date": "2025-06-07",
+          "class": "PROV BM68",
+          "trial": false,
+          "distance_m": 1600,
+          "going": "Heavy8",
+          "winner_time": 102.87,
+          "beaten_margin": 2.83,
+          "runner_time": 103.31,
+          "runner_time_reduced": true,
+          "sectional_600": 36.8,
+          "in_run": {
+            "@800": 4,
+            "@400": 2
+          }
+        }
+      ],
+      "recent_class": [
+        "OPEN-BT",
+        "PROV BM68",
+        "CG&E BM64",
+        "OPEN-BT",
+        "PROV BM68"
+      ],
+      "days_since_run": 10,
+      "runs_this_prep": 4,
+      "form_status": "confirmed",
       "warnings": [],
-      "last5_parsed": [],
-      "data_status": "not_found",
+      "last5_parsed": [
+        {
+          "raw": "1",
+          "pos": 1,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "2",
+          "pos": 2,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "6",
+          "pos": 6,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "0",
+          "pos": 0,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "4",
+          "pos": 4,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "x",
+          "pos": null,
+          "nonFinish": false,
+          "spell": true
+        },
+        {
+          "raw": "6",
+          "pos": 6,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "8",
+          "pos": 8,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "8",
+          "pos": 8,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "6",
+          "pos": 6,
+          "nonFinish": false,
+          "spell": false
+        }
+      ],
+      "data_status": "confirmed",
       "open_price": null,
       "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
+        "call": "OK",
+        "label": "OK",
+        "confidence": "ok",
+        "reason": "confirmed form, 22 career starts",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -244,22 +1494,158 @@
       "back_depth_aud": 0,
       "bsp_near": null,
       "market_signal": "NEUTRAL",
-      "trainer": null,
-      "jockey": null,
-      "last5": null,
-      "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
+      "trainer": "Fabio Martino",
+      "jockey": "Pierre Boudvillain",
+      "last5": "x333844211",
+      "career": "12:2-1-3",
+      "weight_kg": 54.5,
+      "barrier": 16,
+      "official_rating": 62,
+      "prizemoney": 102425,
+      "first_up_record": "2:0-0-1",
+      "second_up_record": "2:0-0-1",
+      "track_record": "0:0-0-0",
+      "dist_record": "2:0-0-0",
+      "track_dist_record": "0:0-0-0",
+      "distances_won": "1400 (1), 1500 (1)",
+      "going_record": {
+        "Firm": "0:0-0-0",
+        "Good": "9:1-0-3",
+        "Soft": "2:1-1-0",
+        "Heavy": "1:0-0-0",
+        "Synthetic": "0:0-0-0"
+      },
+      "recent_runs": [
+        {
+          "pos": 1,
+          "date": "2026-05-02",
+          "class": "SUPER MDN",
+          "trial": false,
+          "distance_m": 1500,
+          "going": "Good4",
+          "winner_time": 89.73,
+          "beaten_margin": 0.0,
+          "runner_time": 89.73,
+          "runner_time_reduced": false,
+          "sectional_600": 33.57,
+          "in_run": {
+            "@800": 3,
+            "@400": 4
+          }
+        },
+        {
+          "pos": 4,
+          "date": "2026-04-08",
+          "class": "SUPER MDN",
+          "trial": false,
+          "distance_m": 1600,
+          "going": "Good4",
+          "winner_time": 96.79,
+          "beaten_margin": 1.73,
+          "runner_time": 97.04,
+          "runner_time_reduced": true,
+          "sectional_600": 34.22,
+          "in_run": {
+            "@800": 10,
+            "@400": 8
+          }
+        },
+        {
+          "pos": 4,
+          "date": "2026-03-26",
+          "class": "PROV MDN",
+          "trial": false,
+          "distance_m": 1300,
+          "going": "Good4",
+          "winner_time": 77.26,
+          "beaten_margin": 2.55,
+          "runner_time": 77.62,
+          "runner_time_reduced": true,
+          "sectional_600": 35.21,
+          "in_run": {
+            "@800": 11,
+            "@400": 10
+          }
+        }
+      ],
+      "recent_class": [
+        "SUPER MDN",
+        "SUPER MDN",
+        "PROV MDN"
+      ],
+      "days_since_run": 70,
+      "runs_this_prep": 3,
+      "form_status": "confirmed",
       "warnings": [],
-      "last5_parsed": [],
-      "data_status": "not_found",
+      "last5_parsed": [
+        {
+          "raw": "x",
+          "pos": null,
+          "nonFinish": false,
+          "spell": true
+        },
+        {
+          "raw": "3",
+          "pos": 3,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "3",
+          "pos": 3,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "3",
+          "pos": 3,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "8",
+          "pos": 8,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "4",
+          "pos": 4,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "4",
+          "pos": 4,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "2",
+          "pos": 2,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "1",
+          "pos": 1,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "1",
+          "pos": 1,
+          "nonFinish": false,
+          "spell": false
+        }
+      ],
+      "data_status": "confirmed",
       "open_price": null,
       "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
+        "call": "OK",
+        "label": "OK",
+        "confidence": "ok",
+        "reason": "confirmed form, 12 career starts",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -272,22 +1658,194 @@
       "back_depth_aud": 0,
       "bsp_near": null,
       "market_signal": "NEUTRAL",
-      "trainer": null,
-      "jockey": null,
-      "last5": null,
-      "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
+      "trainer": "Gary Portelli",
+      "jockey": "Andrew Adkins",
+      "last5": "43734416x8",
+      "career": "11:1-0-3",
+      "weight_kg": 54.5,
+      "barrier": 3,
+      "official_rating": 62,
+      "prizemoney": 63490,
+      "first_up_record": "3:0-0-1",
+      "second_up_record": "2:0-0-1",
+      "track_record": "0:0-0-0",
+      "dist_record": "2:1-0-0",
+      "track_dist_record": "0:0-0-0",
+      "distances_won": "1550 (1)",
+      "going_record": {
+        "Firm": "0:0-0-0",
+        "Good": "7:1-0-2",
+        "Soft": "4:0-0-1",
+        "Heavy": "0:0-0-0",
+        "Synthetic": "0:0-0-0"
+      },
+      "recent_runs": [
+        {
+          "pos": 8,
+          "date": "2026-06-27",
+          "class": "3&4Y BM72",
+          "trial": false,
+          "distance_m": 1400,
+          "going": "Soft6",
+          "winner_time": 85.12,
+          "beaten_margin": 5.4,
+          "runner_time": 85.91,
+          "runner_time_reduced": true,
+          "sectional_600": 35.02,
+          "in_run": {
+            "@800": 9,
+            "@400": 9
+          }
+        },
+        {
+          "pos": 6,
+          "date": "2026-02-20",
+          "class": "BM64",
+          "trial": false,
+          "distance_m": 1900,
+          "going": "Good4",
+          "winner_time": 117.44,
+          "beaten_margin": 2.7,
+          "runner_time": 117.84,
+          "runner_time_reduced": true,
+          "sectional_600": 35.77,
+          "in_run": {
+            "@800": 2,
+            "@400": 3
+          }
+        },
+        {
+          "pos": 1,
+          "date": "2026-01-30",
+          "class": "MDN",
+          "trial": false,
+          "distance_m": 1550,
+          "going": "Good4",
+          "winner_time": 92.84,
+          "beaten_margin": 0.0,
+          "runner_time": 92.84,
+          "runner_time_reduced": false,
+          "sectional_600": 36.2,
+          "in_run": {
+            "@800": 2,
+            "@400": 2
+          }
+        },
+        {
+          "pos": 4,
+          "date": "2026-01-01",
+          "class": "SUPER 3Y+MDN-SW",
+          "trial": false,
+          "distance_m": 1900,
+          "going": "Soft5",
+          "winner_time": 118.69,
+          "beaten_margin": 2.36,
+          "runner_time": 119.04,
+          "runner_time_reduced": true,
+          "sectional_600": 35.76,
+          "in_run": {
+            "@800": 11,
+            "@400": 9
+          }
+        },
+        {
+          "pos": 4,
+          "date": "2025-12-19",
+          "class": "MDN-SW",
+          "trial": false,
+          "distance_m": 1550,
+          "going": "Good4",
+          "winner_time": 92.3,
+          "beaten_margin": 3.19,
+          "runner_time": 92.76,
+          "runner_time_reduced": true,
+          "sectional_600": 35.46,
+          "in_run": {
+            "@800": 9,
+            "@400": 8
+          }
+        }
+      ],
+      "recent_class": [
+        "3&4Y BM72",
+        "BM64",
+        "MDN",
+        "SUPER 3Y+MDN-SW",
+        "MDN-SW"
+      ],
+      "days_since_run": 14,
+      "runs_this_prep": 1,
+      "form_status": "confirmed",
       "warnings": [],
-      "last5_parsed": [],
-      "data_status": "not_found",
+      "last5_parsed": [
+        {
+          "raw": "4",
+          "pos": 4,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "3",
+          "pos": 3,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "7",
+          "pos": 7,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "3",
+          "pos": 3,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "4",
+          "pos": 4,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "4",
+          "pos": 4,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "1",
+          "pos": 1,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "6",
+          "pos": 6,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "x",
+          "pos": null,
+          "nonFinish": false,
+          "spell": true
+        },
+        {
+          "raw": "8",
+          "pos": 8,
+          "nonFinish": false,
+          "spell": false
+        }
+      ],
+      "data_status": "confirmed",
       "open_price": null,
       "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
+        "call": "OK",
+        "label": "OK",
+        "confidence": "ok",
+        "reason": "confirmed form, 11 career starts",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -300,22 +1858,155 @@
       "back_depth_aud": 0,
       "bsp_near": null,
       "market_signal": "NEUTRAL",
-      "trainer": null,
-      "jockey": null,
-      "last5": null,
-      "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
+      "trainer": "Kerry Parker",
+      "jockey": "Ms Alysha Collett",
+      "last5": "2864115x06",
+      "career": "30:4-3-2",
+      "weight_kg": 54.5,
+      "barrier": 12,
+      "official_rating": 61,
+      "prizemoney": 138755,
+      "first_up_record": "4:0-1-0",
+      "second_up_record": "4:0-0-0",
+      "track_record": "1:0-0-0",
+      "dist_record": "17:3-2-1",
+      "track_dist_record": "0:0-0-0",
+      "distances_won": "1500 (1), 1600 (3)",
+      "going_record": {
+        "Firm": "0:0-0-0",
+        "Good": "15:3-0-0",
+        "Soft": "11:1-2-2",
+        "Heavy": "4:0-1-0",
+        "Synthetic": "0:0-0-0"
+      },
+      "recent_runs": [
+        {
+          "pos": 12,
+          "date": "2026-06-06",
+          "class": "MIDWAY BM72",
+          "trial": false,
+          "distance_m": 1500,
+          "going": "Soft6",
+          "winner_time": 90.13,
+          "beaten_margin": 12.54,
+          "runner_time": 91.94,
+          "runner_time_reduced": true,
+          "sectional_600": 35.28,
+          "in_run": {
+            "@800": 11,
+            "@400": 10
+          }
+        },
+        {
+          "pos": 7,
+          "date": "2026-05-06",
+          "class": "OPEN-BT",
+          "trial": false,
+          "distance_m": 800,
+          "going": "Good4",
+          "winner_time": 46.81,
+          "beaten_margin": 1.6,
+          "runner_time": 47.03,
+          "runner_time_reduced": true,
+          "sectional_600": 33.96,
+          "in_run": null
+        },
+        {
+          "pos": 5,
+          "date": "2025-12-07",
+          "class": "COND BM68",
+          "trial": false,
+          "distance_m": 1600,
+          "going": "Good4",
+          "winner_time": 97.32,
+          "beaten_margin": 5.16,
+          "runner_time": 98.07,
+          "runner_time_reduced": true,
+          "sectional_600": 34.7,
+          "in_run": {
+            "@800": 6,
+            "@400": 5
+          }
+        }
+      ],
+      "recent_class": [
+        "MIDWAY BM72",
+        "OPEN-BT",
+        "COND BM68"
+      ],
+      "days_since_run": 35,
+      "runs_this_prep": 2,
+      "form_status": "confirmed",
       "warnings": [],
-      "last5_parsed": [],
-      "data_status": "not_found",
+      "last5_parsed": [
+        {
+          "raw": "2",
+          "pos": 2,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "8",
+          "pos": 8,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "6",
+          "pos": 6,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "4",
+          "pos": 4,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "1",
+          "pos": 1,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "1",
+          "pos": 1,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "5",
+          "pos": 5,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "x",
+          "pos": null,
+          "nonFinish": false,
+          "spell": true
+        },
+        {
+          "raw": "0",
+          "pos": 0,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "6",
+          "pos": 6,
+          "nonFinish": false,
+          "spell": false
+        }
+      ],
+      "data_status": "confirmed",
       "open_price": null,
       "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
+        "call": "OK",
+        "label": "OK",
+        "confidence": "ok",
+        "reason": "confirmed form, 30 career starts",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -328,22 +2019,194 @@
       "back_depth_aud": 0,
       "bsp_near": null,
       "market_signal": "NEUTRAL",
-      "trainer": null,
-      "jockey": null,
-      "last5": null,
-      "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
+      "trainer": "Tara & Philippe Vigouroux",
+      "jockey": "Ms Mollie Fitzgerald (a3/52kg)",
+      "last5": "566x346229",
+      "career": "15:2-4-2",
+      "weight_kg": 54.0,
+      "barrier": 4,
+      "official_rating": 55,
+      "prizemoney": 72800,
+      "first_up_record": "3:0-1-1",
+      "second_up_record": "3:0-0-1",
+      "track_record": "0:0-0-0",
+      "dist_record": "5:0-3-0",
+      "track_dist_record": "0:0-0-0",
+      "distances_won": "1400 (2)",
+      "going_record": {
+        "Firm": "0:0-0-0",
+        "Good": "6:1-0-1",
+        "Soft": "3:0-1-0",
+        "Heavy": "4:1-2-0",
+        "Synthetic": "2:0-1-1"
+      },
+      "recent_runs": [
+        {
+          "pos": 9,
+          "date": "2026-07-02",
+          "class": "BM64",
+          "trial": false,
+          "distance_m": 1600,
+          "going": "Soft7",
+          "winner_time": 97.74,
+          "beaten_margin": 12.73,
+          "runner_time": 99.61,
+          "runner_time_reduced": true,
+          "sectional_600": 36.32,
+          "in_run": {
+            "@800": 9,
+            "@400": 10
+          }
+        },
+        {
+          "pos": 2,
+          "date": "2026-06-18",
+          "class": "CG&E BM64",
+          "trial": false,
+          "distance_m": 1600,
+          "going": "Heavy8",
+          "winner_time": 102.26,
+          "beaten_margin": 0.23,
+          "runner_time": 102.3,
+          "runner_time_reduced": true,
+          "sectional_600": 35.99,
+          "in_run": {
+            "@800": 2,
+            "@400": 2
+          }
+        },
+        {
+          "pos": 2,
+          "date": "2026-06-06",
+          "class": "PROV BM68",
+          "trial": false,
+          "distance_m": 1600,
+          "going": "Soft5",
+          "winner_time": 98.81,
+          "beaten_margin": 1.33,
+          "runner_time": 99.01,
+          "runner_time_reduced": true,
+          "sectional_600": 34.98,
+          "in_run": {
+            "@800": 8,
+            "@400": 7
+          }
+        },
+        {
+          "pos": 6,
+          "date": "2026-05-30",
+          "class": "3&4Y BM72",
+          "trial": false,
+          "distance_m": 1500,
+          "going": "Heavy9",
+          "winner_time": 95.28,
+          "beaten_margin": 2.72,
+          "runner_time": 95.69,
+          "runner_time_reduced": true,
+          "sectional_600": 35.95,
+          "in_run": {
+            "@800": 1,
+            "@400": 1
+          }
+        },
+        {
+          "pos": 4,
+          "date": "2026-05-10",
+          "class": "CL2",
+          "trial": false,
+          "distance_m": 1400,
+          "going": "Good4",
+          "winner_time": 84.63,
+          "beaten_margin": 1.04,
+          "runner_time": 84.78,
+          "runner_time_reduced": true,
+          "sectional_600": 36.85,
+          "in_run": {
+            "@800": 7,
+            "@400": 7
+          }
+        }
+      ],
+      "recent_class": [
+        "BM64",
+        "CG&E BM64",
+        "PROV BM68",
+        "3&4Y BM72",
+        "CL2"
+      ],
+      "days_since_run": 9,
+      "runs_this_prep": 5,
+      "form_status": "confirmed",
       "warnings": [],
-      "last5_parsed": [],
-      "data_status": "not_found",
+      "last5_parsed": [
+        {
+          "raw": "5",
+          "pos": 5,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "6",
+          "pos": 6,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "6",
+          "pos": 6,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "x",
+          "pos": null,
+          "nonFinish": false,
+          "spell": true
+        },
+        {
+          "raw": "3",
+          "pos": 3,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "4",
+          "pos": 4,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "6",
+          "pos": 6,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "2",
+          "pos": 2,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "2",
+          "pos": 2,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "9",
+          "pos": 9,
+          "nonFinish": false,
+          "spell": false
+        }
+      ],
+      "data_status": "confirmed",
       "open_price": null,
       "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
+        "call": "OK",
+        "label": "OK",
+        "confidence": "ok",
+        "reason": "confirmed form, 15 career starts",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -356,22 +2219,191 @@
       "back_depth_aud": 0,
       "bsp_near": null,
       "market_signal": "NEUTRAL",
-      "trainer": null,
-      "jockey": null,
-      "last5": null,
-      "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
+      "trainer": "Sara Ryan",
+      "jockey": "Ms Anna Roper (a2/53kg)",
+      "last5": "63175x4422",
+      "career": "34:4-7-3",
+      "weight_kg": 53.0,
+      "barrier": 9,
+      "official_rating": 61,
+      "prizemoney": 239050,
+      "first_up_record": "8:2-1-1",
+      "second_up_record": "7:1-1-0",
+      "track_record": "3:0-0-0",
+      "dist_record": "10:2-1-1",
+      "track_dist_record": "0:0-0-0",
+      "distances_won": "1400 (1), 1450 (1), 1600 (2)",
+      "going_record": {
+        "Firm": "0:0-0-0",
+        "Good": "17:0-3-2",
+        "Soft": "12:3-2-0",
+        "Heavy": "5:1-2-1",
+        "Synthetic": "0:0-0-0"
+      },
+      "recent_runs": [
+        {
+          "pos": 2,
+          "date": "2026-06-27",
+          "class": "BM68",
+          "trial": false,
+          "distance_m": 1400,
+          "going": "Soft7",
+          "winner_time": 85.65,
+          "beaten_margin": 2.24,
+          "runner_time": 85.98,
+          "runner_time_reduced": true,
+          "sectional_600": 34.95,
+          "in_run": {
+            "@800": 2,
+            "@400": 1
+          }
+        },
+        {
+          "pos": 2,
+          "date": "2026-06-18",
+          "class": "F&M BM64",
+          "trial": false,
+          "distance_m": 1600,
+          "going": "Heavy8",
+          "winner_time": 99.73,
+          "beaten_margin": 2.13,
+          "runner_time": 100.05,
+          "runner_time_reduced": true,
+          "sectional_600": 37.03,
+          "in_run": {
+            "@800": 2,
+            "@400": 1
+          }
+        },
+        {
+          "pos": 4,
+          "date": "2026-05-30",
+          "class": "MID BM64",
+          "trial": false,
+          "distance_m": 1450,
+          "going": "Soft6",
+          "winner_time": 87.75,
+          "beaten_margin": 5.1,
+          "runner_time": 88.49,
+          "runner_time_reduced": true,
+          "sectional_600": 35.53,
+          "in_run": {
+            "@800": 2,
+            "@400": 2
+          }
+        },
+        {
+          "pos": 4,
+          "date": "2026-05-02",
+          "class": "PROV BM68",
+          "trial": false,
+          "distance_m": 1250,
+          "going": "Good4",
+          "winner_time": 73.54,
+          "beaten_margin": 3.28,
+          "runner_time": 74.0,
+          "runner_time_reduced": true,
+          "sectional_600": 33.51,
+          "in_run": {
+            "@800": 4,
+            "@400": 3
+          }
+        },
+        {
+          "pos": 1,
+          "date": "2026-04-13",
+          "class": "OPEN-BT",
+          "trial": false,
+          "distance_m": 1000,
+          "going": "Good4",
+          "winner_time": 60.37,
+          "beaten_margin": 0.0,
+          "runner_time": 60.37,
+          "runner_time_reduced": false,
+          "sectional_600": 35.69,
+          "in_run": null
+        }
+      ],
+      "recent_class": [
+        "BM68",
+        "F&M BM64",
+        "MID BM64",
+        "PROV BM68",
+        "OPEN-BT"
+      ],
+      "days_since_run": 14,
+      "runs_this_prep": 6,
+      "form_status": "confirmed",
       "warnings": [],
-      "last5_parsed": [],
-      "data_status": "not_found",
+      "last5_parsed": [
+        {
+          "raw": "6",
+          "pos": 6,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "3",
+          "pos": 3,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "1",
+          "pos": 1,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "7",
+          "pos": 7,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "5",
+          "pos": 5,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "x",
+          "pos": null,
+          "nonFinish": false,
+          "spell": true
+        },
+        {
+          "raw": "4",
+          "pos": 4,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "4",
+          "pos": 4,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "2",
+          "pos": 2,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "2",
+          "pos": 2,
+          "nonFinish": false,
+          "spell": false
+        }
+      ],
+      "data_status": "confirmed",
       "open_price": null,
       "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
+        "call": "OK",
+        "label": "OK",
+        "confidence": "ok",
+        "reason": "confirmed form, 34 career starts",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -384,22 +2416,176 @@
       "back_depth_aud": 0,
       "bsp_near": null,
       "market_signal": "NEUTRAL",
-      "trainer": null,
-      "jockey": null,
-      "last5": null,
-      "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
+      "trainer": "Paul & Martha Cave",
+      "jockey": "Andrew Calder",
+      "last5": "3100604451",
+      "career": "22:6-0-2",
+      "weight_kg": 58.5,
+      "barrier": 14,
+      "official_rating": 73,
+      "prizemoney": 243400,
+      "first_up_record": "3:1-0-0",
+      "second_up_record": "2:0-0-0",
+      "track_record": "3:2-0-0",
+      "dist_record": "5:2-0-1",
+      "track_dist_record": "2:2-0-0",
+      "distances_won": "1300 (3), 1500 (1), 1600 (2)",
+      "going_record": {
+        "Firm": "0:0-0-0",
+        "Good": "16:4-0-2",
+        "Soft": "5:2-0-0",
+        "Heavy": "1:0-0-0",
+        "Synthetic": "0:0-0-0"
+      },
+      "recent_runs": [
+        {
+          "pos": 1,
+          "date": "2026-06-20",
+          "class": "MIDWAY BM72",
+          "trial": false,
+          "distance_m": 1600,
+          "going": "Soft5",
+          "winner_time": 95.74,
+          "beaten_margin": 0.0,
+          "runner_time": 95.74,
+          "runner_time_reduced": false,
+          "sectional_600": 36.82,
+          "in_run": {
+            "@800": 4,
+            "@400": 3
+          }
+        },
+        {
+          "pos": 5,
+          "date": "2026-06-06",
+          "class": "MIDWAY BM72",
+          "trial": false,
+          "distance_m": 1500,
+          "going": "Soft6",
+          "winner_time": 90.13,
+          "beaten_margin": 1.84,
+          "runner_time": 90.4,
+          "runner_time_reduced": true,
+          "sectional_600": 35.28,
+          "in_run": {
+            "@800": 7,
+            "@400": 7
+          }
+        },
+        {
+          "pos": 4,
+          "date": "2026-05-16",
+          "class": "MIDWAY BM72",
+          "trial": false,
+          "distance_m": 1700,
+          "going": "Good4",
+          "winner_time": 102.04,
+          "beaten_margin": 3.39,
+          "runner_time": 102.53,
+          "runner_time_reduced": true,
+          "sectional_600": 35.48,
+          "in_run": {
+            "@800": 1,
+            "@400": 1
+          }
+        },
+        {
+          "pos": 4,
+          "date": "2026-05-02",
+          "class": "MIDWAY BM72",
+          "trial": false,
+          "distance_m": 1500,
+          "going": "Good4",
+          "winner_time": 89.68,
+          "beaten_margin": 0.86,
+          "runner_time": 89.8,
+          "runner_time_reduced": true,
+          "sectional_600": 33.76,
+          "in_run": {
+            "@800": 3,
+            "@400": 3
+          }
+        }
+      ],
+      "recent_class": [
+        "MIDWAY BM72",
+        "MIDWAY BM72",
+        "MIDWAY BM72",
+        "MIDWAY BM72"
+      ],
+      "days_since_run": 21,
+      "runs_this_prep": 4,
+      "form_status": "confirmed",
       "warnings": [],
-      "last5_parsed": [],
-      "data_status": "not_found",
+      "last5_parsed": [
+        {
+          "raw": "3",
+          "pos": 3,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "1",
+          "pos": 1,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "0",
+          "pos": 0,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "0",
+          "pos": 0,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "6",
+          "pos": 6,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "0",
+          "pos": 0,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "4",
+          "pos": 4,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "4",
+          "pos": 4,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "5",
+          "pos": 5,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "1",
+          "pos": 1,
+          "nonFinish": false,
+          "spell": false
+        }
+      ],
+      "data_status": "confirmed",
       "open_price": null,
       "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
+        "call": "OK",
+        "label": "OK",
+        "confidence": "ok",
+        "reason": "confirmed form, 22 career starts",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -432,10 +2618,10 @@
       }
     }
   ],
-  "last_polled_at": "2026-07-10T03:30:09.863899Z",
+  "last_polled_at": "2026-07-10T06:51:11.997234Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
-    "ok": 0,
-    "no_call": 15
+    "ok": 14,
+    "no_call": 1
   }
 }
