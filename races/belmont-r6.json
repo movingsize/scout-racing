@@ -6,11 +6,39 @@
   "race_type": "Flat",
   "start_time_utc": "2026-07-11T07:52:00.000Z",
   "market_id": "1.259846183",
-  "market_overround_pct": 113.0,
+  "market_overround_pct": 113.6,
   "track_condition": null,
   "weather": null,
   "form_analysis": null,
   "runners": [
+    {
+      "name": "8. Magical Sequence",
+      "saddle_cloth": 8,
+      "selection_id": 84942493,
+      "status": "ACTIVE",
+      "best_back": 4.3,
+      "back_depth_aud": 94.0,
+      "bsp_near": 5.95,
+      "market_signal": "\u2744\ufe0f DRIFT",
+      "trainer": null,
+      "jockey": null,
+      "last5": null,
+      "career": null,
+      "weight_kg": null,
+      "barrier": null,
+      "form_status": "not_found",
+      "warnings": [],
+      "last5_parsed": [],
+      "data_status": "not_found",
+      "open_price": 4.4,
+      "call": {
+        "call": "NO_CALL",
+        "label": "DATA BAD",
+        "confidence": null,
+        "reason": "data bad: data_status=not_found and no race form on record",
+        "guard": "data_adequacy v1.0"
+      }
+    },
     {
       "name": "9. Zourun Run",
       "saddle_cloth": 9,
@@ -31,34 +59,6 @@
       "last5_parsed": [],
       "data_status": "not_found",
       "open_price": 4.3,
-      "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
-        "guard": "data_adequacy v1.0"
-      }
-    },
-    {
-      "name": "8. Magical Sequence",
-      "saddle_cloth": 8,
-      "selection_id": 84942493,
-      "status": "ACTIVE",
-      "best_back": 4.4,
-      "back_depth_aud": 46.0,
-      "bsp_near": 6.0,
-      "market_signal": "\u2744\ufe0f DRIFT",
-      "trainer": null,
-      "jockey": null,
-      "last5": null,
-      "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
-      "warnings": [],
-      "last5_parsed": [],
-      "data_status": "not_found",
-      "open_price": 4.4,
       "call": {
         "call": "NO_CALL",
         "label": "DATA BAD",
@@ -186,7 +186,7 @@
       "status": "ACTIVE",
       "best_back": 19.5,
       "back_depth_aud": 20.0,
-      "bsp_near": 32.75,
+      "bsp_near": 33.0,
       "market_signal": "\u2744\ufe0f DRIFT",
       "trainer": null,
       "jockey": null,
@@ -348,7 +348,7 @@
       }
     }
   ],
-  "last_polled_at": "2026-07-10T01:30:10.393122Z",
+  "last_polled_at": "2026-07-10T01:45:09.568398Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
     "ok": 0,
