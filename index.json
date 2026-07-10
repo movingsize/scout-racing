@@ -1,94 +1,663 @@
 {
-  "fetched_at": "2026-07-09T01:45:33.881044Z",
+  "fetched_at": "2026-07-10T01:00:11.786587Z",
   "venues_racing": [
-    "Ballarat",
-    "Gosford"
+    "Belmont",
+    "Carnarvon",
+    "Caulfield",
+    "Doomben",
+    "Gatton",
+    "Geelong",
+    "Hawera",
+    "Morphettville",
+    "Moruya",
+    "Otaki",
+    "Randwick",
+    "Ruakaka",
+    "Scone"
   ],
-  "total_races": 14,
+  "total_races": 107,
   "races": [
     {
-      "venue": "Gosford",
+      "venue": "Otaki",
+      "race_name": "R2 1200m Mdn",
+      "start_time_utc": "2026-07-10T01:17:00.000Z",
+      "file": "races/otaki-r2.json"
+    },
+    {
+      "venue": "Gatton",
       "race_name": "R1 1600m Mdn",
-      "start_time_utc": "2026-07-09T02:55:00.000Z",
-      "file": "races/gosford-r1.json"
+      "start_time_utc": "2026-07-10T01:45:00.000Z",
+      "file": "races/gatton-r1.json"
     },
     {
-      "venue": "Gosford",
-      "race_name": "R2 1100m Mdn",
-      "start_time_utc": "2026-07-09T03:35:00.000Z",
-      "file": "races/gosford-r2.json"
+      "venue": "Otaki",
+      "race_name": "R3 2100m Mdn",
+      "start_time_utc": "2026-07-10T01:52:00.000Z",
+      "file": "races/otaki-r3.json"
     },
     {
-      "venue": "Gosford",
-      "race_name": "R3 1100m Hcap",
-      "start_time_utc": "2026-07-09T04:10:00.000Z",
-      "file": "races/gosford-r3.json"
+      "venue": "Moruya",
+      "race_name": "R1 1020m Mdn",
+      "start_time_utc": "2026-07-10T02:00:00.000Z",
+      "file": "races/moruya-r1.json"
     },
     {
-      "venue": "Gosford",
+      "venue": "Scone",
+      "race_name": "R1 1600m Mdn",
+      "start_time_utc": "2026-07-10T02:15:00.000Z",
+      "file": "races/scone-r1.json"
+    },
+    {
+      "venue": "Gatton",
+      "race_name": "R2 860m Mdn",
+      "start_time_utc": "2026-07-10T02:23:00.000Z",
+      "file": "races/gatton-r2.json"
+    },
+    {
+      "venue": "Otaki",
+      "race_name": "R4 1200m Listed",
+      "start_time_utc": "2026-07-10T02:27:00.000Z",
+      "file": "races/otaki-r4.json"
+    },
+    {
+      "venue": "Geelong",
+      "race_name": "R1 1443m 3yo",
+      "start_time_utc": "2026-07-10T02:30:00.000Z",
+      "file": "races/geelong-r1.json"
+    },
+    {
+      "venue": "Moruya",
+      "race_name": "R2 1210m CL1",
+      "start_time_utc": "2026-07-10T02:35:00.000Z",
+      "file": "races/moruya-r2.json"
+    },
+    {
+      "venue": "Scone",
+      "race_name": "R2 1200m Mdn",
+      "start_time_utc": "2026-07-10T02:50:00.000Z",
+      "file": "races/scone-r2.json"
+    },
+    {
+      "venue": "Gatton",
+      "race_name": "R3 860m Hcap",
+      "start_time_utc": "2026-07-10T02:57:00.000Z",
+      "file": "races/gatton-r3.json"
+    },
+    {
+      "venue": "Geelong",
+      "race_name": "R2 1443m Mdn",
+      "start_time_utc": "2026-07-10T03:00:00.000Z",
+      "file": "races/geelong-r2.json"
+    },
+    {
+      "venue": "Otaki",
+      "race_name": "R5 1300m Hcap",
+      "start_time_utc": "2026-07-10T03:05:00.000Z",
+      "file": "races/otaki-r5.json"
+    },
+    {
+      "venue": "Moruya",
+      "race_name": "R3 1210m Mdn",
+      "start_time_utc": "2026-07-10T03:10:00.000Z",
+      "file": "races/moruya-r3.json"
+    },
+    {
+      "venue": "Scone",
+      "race_name": "R3 900m CL1",
+      "start_time_utc": "2026-07-10T03:25:00.000Z",
+      "file": "races/scone-r3.json"
+    },
+    {
+      "venue": "Geelong",
+      "race_name": "R3 1243m Mdn",
+      "start_time_utc": "2026-07-10T03:30:00.000Z",
+      "file": "races/geelong-r3.json"
+    },
+    {
+      "venue": "Gatton",
+      "race_name": "R4 1400m Hcap",
+      "start_time_utc": "2026-07-10T03:34:00.000Z",
+      "file": "races/gatton-r4.json"
+    },
+    {
+      "venue": "Otaki",
+      "race_name": "R6 2100m Hcap",
+      "start_time_utc": "2026-07-10T03:40:00.000Z",
+      "file": "races/otaki-r6.json"
+    },
+    {
+      "venue": "Moruya",
+      "race_name": "R4 930m Hcap",
+      "start_time_utc": "2026-07-10T03:45:00.000Z",
+      "file": "races/moruya-r4.json"
+    },
+    {
+      "venue": "Geelong",
+      "race_name": "R4 1243m 3yo",
+      "start_time_utc": "2026-07-10T04:00:00.000Z",
+      "file": "races/geelong-r4.json"
+    },
+    {
+      "venue": "Scone",
       "race_name": "R4 1000m Mdn",
-      "start_time_utc": "2026-07-09T04:45:00.000Z",
-      "file": "races/gosford-r4.json"
+      "start_time_utc": "2026-07-10T04:05:00.000Z",
+      "file": "races/scone-r4.json"
     },
     {
-      "venue": "Gosford",
-      "race_name": "R5 1100m Mdn",
-      "start_time_utc": "2026-07-09T05:20:00.000Z",
-      "file": "races/gosford-r5.json"
+      "venue": "Gatton",
+      "race_name": "R5 1400m Mdn",
+      "start_time_utc": "2026-07-10T04:12:00.000Z",
+      "file": "races/gatton-r5.json"
     },
     {
-      "venue": "Gosford",
+      "venue": "Otaki",
+      "race_name": "R7 2100m Hcap",
+      "start_time_utc": "2026-07-10T04:20:00.000Z",
+      "file": "races/otaki-r7.json"
+    },
+    {
+      "venue": "Moruya",
+      "race_name": "R5 1435m Mdn",
+      "start_time_utc": "2026-07-10T04:25:00.000Z",
+      "file": "races/moruya-r5.json"
+    },
+    {
+      "venue": "Geelong",
+      "race_name": "R5 2465m Hcap",
+      "start_time_utc": "2026-07-10T04:30:00.000Z",
+      "file": "races/geelong-r5.json"
+    },
+    {
+      "venue": "Scone",
+      "race_name": "R5 1700m Hcap",
+      "start_time_utc": "2026-07-10T04:40:00.000Z",
+      "file": "races/scone-r5.json"
+    },
+    {
+      "venue": "Gatton",
       "race_name": "R6 1100m Hcap",
-      "start_time_utc": "2026-07-09T05:55:00.000Z",
-      "file": "races/gosford-r6.json"
+      "start_time_utc": "2026-07-10T04:47:00.000Z",
+      "file": "races/gatton-r6.json"
     },
     {
-      "venue": "Gosford",
-      "race_name": "R7 1200m CL1",
-      "start_time_utc": "2026-07-09T06:35:00.000Z",
-      "file": "races/gosford-r7.json"
+      "venue": "Geelong",
+      "race_name": "R6 1760m Hcap",
+      "start_time_utc": "2026-07-10T05:00:00.000Z",
+      "file": "races/geelong-r6.json"
     },
     {
-      "venue": "Ballarat",
-      "race_name": "R1 2200m Trot M",
-      "start_time_utc": "2026-07-09T07:22:00.000Z",
-      "file": "races/ballarat-r1.json"
+      "venue": "Moruya",
+      "race_name": "R6 1020m Hcap",
+      "start_time_utc": "2026-07-10T05:05:00.000Z",
+      "file": "races/moruya-r6.json"
     },
     {
-      "venue": "Ballarat",
-      "race_name": "R2 1710m Trot M",
-      "start_time_utc": "2026-07-09T07:52:00.000Z",
-      "file": "races/ballarat-r2.json"
+      "venue": "Scone",
+      "race_name": "R6 1100m CL3",
+      "start_time_utc": "2026-07-10T05:20:00.000Z",
+      "file": "races/scone-r6.json"
     },
     {
-      "venue": "Ballarat",
-      "race_name": "R3 1710m Pace M",
-      "start_time_utc": "2026-07-09T08:25:00.000Z",
-      "file": "races/ballarat-r3.json"
+      "venue": "Gatton",
+      "race_name": "R7 1100m Hcap",
+      "start_time_utc": "2026-07-10T05:27:00.000Z",
+      "file": "races/gatton-r7.json"
     },
     {
-      "venue": "Ballarat",
-      "race_name": "R4 2200m Pace M",
-      "start_time_utc": "2026-07-09T08:59:00.000Z",
-      "file": "races/ballarat-r4.json"
+      "venue": "Geelong",
+      "race_name": "R7 1760m Hcap",
+      "start_time_utc": "2026-07-10T05:30:00.000Z",
+      "file": "races/geelong-r7.json"
     },
     {
-      "venue": "Ballarat",
-      "race_name": "R5 2200m Pace M",
-      "start_time_utc": "2026-07-09T09:30:00.000Z",
-      "file": "races/ballarat-r5.json"
+      "venue": "Moruya",
+      "race_name": "R7 1660m Hcap",
+      "start_time_utc": "2026-07-10T05:40:00.000Z",
+      "file": "races/moruya-r7.json"
     },
     {
-      "venue": "Ballarat",
-      "race_name": "R6 2200m Trot M",
-      "start_time_utc": "2026-07-09T10:00:00.000Z",
-      "file": "races/ballarat-r6.json"
+      "venue": "Scone",
+      "race_name": "R7 1400m Hcap",
+      "start_time_utc": "2026-07-10T05:55:00.000Z",
+      "file": "races/scone-r7.json"
     },
     {
-      "venue": "Ballarat",
-      "race_name": "R7 1710m Trot M",
-      "start_time_utc": "2026-07-09T10:30:00.000Z",
-      "file": "races/ballarat-r7.json"
+      "venue": "Geelong",
+      "race_name": "R8 1243m Hcap",
+      "start_time_utc": "2026-07-10T06:00:00.000Z",
+      "file": "races/geelong-r8.json"
+    },
+    {
+      "venue": "Gatton",
+      "race_name": "R8 1100m Hcap",
+      "start_time_utc": "2026-07-10T06:04:00.000Z",
+      "file": "races/gatton-r8.json"
+    },
+    {
+      "venue": "Moruya",
+      "race_name": "R8 1435m Hcap",
+      "start_time_utc": "2026-07-10T06:15:00.000Z",
+      "file": "races/moruya-r8.json"
+    },
+    {
+      "venue": "Geelong",
+      "race_name": "R9 1443m Hcap",
+      "start_time_utc": "2026-07-10T06:30:00.000Z",
+      "file": "races/geelong-r9.json"
+    },
+    {
+      "venue": "Scone",
+      "race_name": "R8 1300m CL1",
+      "start_time_utc": "2026-07-10T06:35:00.000Z",
+      "file": "races/scone-r8.json"
+    },
+    {
+      "venue": "Gatton",
+      "race_name": "R9 1400m Hcap",
+      "start_time_utc": "2026-07-10T06:42:00.000Z",
+      "file": "races/gatton-r9.json"
+    },
+    {
+      "venue": "Carnarvon",
+      "race_name": "R1 1600m Mdn",
+      "start_time_utc": "2026-07-10T06:45:00.000Z",
+      "file": "races/carnarvon-r1.json"
+    },
+    {
+      "venue": "Carnarvon",
+      "race_name": "R2 1000m CL1",
+      "start_time_utc": "2026-07-10T07:15:00.000Z",
+      "file": "races/carnarvon-r2.json"
+    },
+    {
+      "venue": "Carnarvon",
+      "race_name": "R3 1000m Hcap",
+      "start_time_utc": "2026-07-10T07:45:00.000Z",
+      "file": "races/carnarvon-r3.json"
+    },
+    {
+      "venue": "Carnarvon",
+      "race_name": "R4 1400m CL3",
+      "start_time_utc": "2026-07-10T08:15:00.000Z",
+      "file": "races/carnarvon-r4.json"
+    },
+    {
+      "venue": "Carnarvon",
+      "race_name": "R5 1200m Hcap",
+      "start_time_utc": "2026-07-10T08:45:00.000Z",
+      "file": "races/carnarvon-r5.json"
+    },
+    {
+      "venue": "Carnarvon",
+      "race_name": "R6 1600m Hcap",
+      "start_time_utc": "2026-07-10T09:16:00.000Z",
+      "file": "races/carnarvon-r6.json"
+    },
+    {
+      "venue": "Ruakaka",
+      "race_name": "R1 1200m Mdn",
+      "start_time_utc": "2026-07-10T23:55:00.000Z",
+      "file": "races/ruakaka-r1.json"
+    },
+    {
+      "venue": "Hawera",
+      "race_name": "R1 1200m Mdn",
+      "start_time_utc": "2026-07-11T00:14:00.000Z",
+      "file": "races/hawera-r1.json"
+    },
+    {
+      "venue": "Ruakaka",
+      "race_name": "R2 1200m Mdn",
+      "start_time_utc": "2026-07-11T00:28:00.000Z",
+      "file": "races/ruakaka-r2.json"
+    },
+    {
+      "venue": "Hawera",
+      "race_name": "R2 1200m Hcap",
+      "start_time_utc": "2026-07-11T00:46:00.000Z",
+      "file": "races/hawera-r2.json"
+    },
+    {
+      "venue": "Ruakaka",
+      "race_name": "R3 1200m Hcap",
+      "start_time_utc": "2026-07-11T01:02:00.000Z",
+      "file": "races/ruakaka-r3.json"
+    },
+    {
+      "venue": "Randwick",
+      "race_name": "R1 1400m 2yo",
+      "start_time_utc": "2026-07-11T01:10:00.000Z",
+      "file": "races/randwick-r1.json"
+    },
+    {
+      "venue": "Hawera",
+      "race_name": "R3 1600m 3yo",
+      "start_time_utc": "2026-07-11T01:20:00.000Z",
+      "file": "races/hawera-r3.json"
+    },
+    {
+      "venue": "Ruakaka",
+      "race_name": "R4 1200m 2yo",
+      "start_time_utc": "2026-07-11T01:39:00.000Z",
+      "file": "races/ruakaka-r4.json"
+    },
+    {
+      "venue": "Randwick",
+      "race_name": "R2 1600m CL3",
+      "start_time_utc": "2026-07-11T01:45:00.000Z",
+      "file": "races/randwick-r2.json"
+    },
+    {
+      "venue": "Doomben",
+      "race_name": "R1 1350m 2yo",
+      "start_time_utc": "2026-07-11T01:53:00.000Z",
+      "file": "races/doomben-r1.json"
+    },
+    {
+      "venue": "Hawera",
+      "race_name": "R4 1600m Hcap",
+      "start_time_utc": "2026-07-11T02:00:00.000Z",
+      "file": "races/hawera-r4.json"
+    },
+    {
+      "venue": "Caulfield",
+      "race_name": "R1 1100m Hcap",
+      "start_time_utc": "2026-07-11T02:05:00.000Z",
+      "file": "races/caulfield-r1.json"
+    },
+    {
+      "venue": "Morphettville",
+      "race_name": "R1 1000m CL1",
+      "start_time_utc": "2026-07-11T02:12:00.000Z",
+      "file": "races/morphettville-r1.json"
+    },
+    {
+      "venue": "Ruakaka",
+      "race_name": "R5 1600m Mdn",
+      "start_time_utc": "2026-07-11T02:15:00.000Z",
+      "file": "races/ruakaka-r5.json"
+    },
+    {
+      "venue": "Randwick",
+      "race_name": "R3 1600m Hcap",
+      "start_time_utc": "2026-07-11T02:20:00.000Z",
+      "file": "races/randwick-r3.json"
+    },
+    {
+      "venue": "Doomben",
+      "race_name": "R2 1600m Hcap",
+      "start_time_utc": "2026-07-11T02:28:00.000Z",
+      "file": "races/doomben-r2.json"
+    },
+    {
+      "venue": "Caulfield",
+      "race_name": "R2 1100m Hcap",
+      "start_time_utc": "2026-07-11T02:35:00.000Z",
+      "file": "races/caulfield-r2.json"
+    },
+    {
+      "venue": "Hawera",
+      "race_name": "R5 1400m Hcap",
+      "start_time_utc": "2026-07-11T02:42:00.000Z",
+      "file": "races/hawera-r5.json"
+    },
+    {
+      "venue": "Morphettville",
+      "race_name": "R2 1250m Mdn",
+      "start_time_utc": "2026-07-11T02:47:00.000Z",
+      "file": "races/morphettville-r2.json"
+    },
+    {
+      "venue": "Ruakaka",
+      "race_name": "R6 1600m Hcap",
+      "start_time_utc": "2026-07-11T02:50:00.000Z",
+      "file": "races/ruakaka-r6.json"
+    },
+    {
+      "venue": "Randwick",
+      "race_name": "R4 1100m 3yo",
+      "start_time_utc": "2026-07-11T02:55:00.000Z",
+      "file": "races/randwick-r4.json"
+    },
+    {
+      "venue": "Doomben",
+      "race_name": "R3 2000m Hcap",
+      "start_time_utc": "2026-07-11T03:03:00.000Z",
+      "file": "races/doomben-r3.json"
+    },
+    {
+      "venue": "Caulfield",
+      "race_name": "R3 1400m Hcap",
+      "start_time_utc": "2026-07-11T03:10:00.000Z",
+      "file": "races/caulfield-r3.json"
+    },
+    {
+      "venue": "Hawera",
+      "race_name": "R6 1400m Hcap",
+      "start_time_utc": "2026-07-11T03:17:00.000Z",
+      "file": "races/hawera-r6.json"
+    },
+    {
+      "venue": "Morphettville",
+      "race_name": "R3 1400m Hcap",
+      "start_time_utc": "2026-07-11T03:22:00.000Z",
+      "file": "races/morphettville-r3.json"
+    },
+    {
+      "venue": "Ruakaka",
+      "race_name": "R7 2100m Cup",
+      "start_time_utc": "2026-07-11T03:25:00.000Z",
+      "file": "races/ruakaka-r7.json"
+    },
+    {
+      "venue": "Randwick",
+      "race_name": "R5 1800m Hcap",
+      "start_time_utc": "2026-07-11T03:30:00.000Z",
+      "file": "races/randwick-r5.json"
+    },
+    {
+      "venue": "Doomben",
+      "race_name": "R4 1600m Hcap",
+      "start_time_utc": "2026-07-11T03:38:00.000Z",
+      "file": "races/doomben-r4.json"
+    },
+    {
+      "venue": "Caulfield",
+      "race_name": "R4 1100m Hcap",
+      "start_time_utc": "2026-07-11T03:45:00.000Z",
+      "file": "races/caulfield-r4.json"
+    },
+    {
+      "venue": "Hawera",
+      "race_name": "R7 1200m Hcap",
+      "start_time_utc": "2026-07-11T03:52:00.000Z",
+      "file": "races/hawera-r7.json"
+    },
+    {
+      "venue": "Morphettville",
+      "race_name": "R4 1550m Hcap",
+      "start_time_utc": "2026-07-11T03:57:00.000Z",
+      "file": "races/morphettville-r4.json"
+    },
+    {
+      "venue": "Ruakaka",
+      "race_name": "R8 1200m Hcap",
+      "start_time_utc": "2026-07-11T04:00:00.000Z",
+      "file": "races/ruakaka-r8.json"
+    },
+    {
+      "venue": "Randwick",
+      "race_name": "R6 1000m Hcap",
+      "start_time_utc": "2026-07-11T04:05:00.000Z",
+      "file": "races/randwick-r6.json"
+    },
+    {
+      "venue": "Doomben",
+      "race_name": "R5 1110m CL3",
+      "start_time_utc": "2026-07-11T04:13:00.000Z",
+      "file": "races/doomben-r5.json"
+    },
+    {
+      "venue": "Caulfield",
+      "race_name": "R5 2000m Hcap",
+      "start_time_utc": "2026-07-11T04:20:00.000Z",
+      "file": "races/caulfield-r5.json"
+    },
+    {
+      "venue": "Hawera",
+      "race_name": "R8 2100m Hcap",
+      "start_time_utc": "2026-07-11T04:27:00.000Z",
+      "file": "races/hawera-r8.json"
+    },
+    {
+      "venue": "Morphettville",
+      "race_name": "R5 1550m Hcap",
+      "start_time_utc": "2026-07-11T04:32:00.000Z",
+      "file": "races/morphettville-r5.json"
+    },
+    {
+      "venue": "Randwick",
+      "race_name": "R7 1800m Hcap",
+      "start_time_utc": "2026-07-11T04:40:00.000Z",
+      "file": "races/randwick-r7.json"
+    },
+    {
+      "venue": "Belmont",
+      "race_name": "R1 1000m 2yo",
+      "start_time_utc": "2026-07-11T04:48:00.000Z",
+      "file": "races/belmont-r1.json"
+    },
+    {
+      "venue": "Doomben",
+      "race_name": "R6 1110m CL6",
+      "start_time_utc": "2026-07-11T04:52:00.000Z",
+      "file": "races/doomben-r6.json"
+    },
+    {
+      "venue": "Caulfield",
+      "race_name": "R6 2000m Hcap",
+      "start_time_utc": "2026-07-11T05:00:00.000Z",
+      "file": "races/caulfield-r6.json"
+    },
+    {
+      "venue": "Morphettville",
+      "race_name": "R6 1000m 3yo",
+      "start_time_utc": "2026-07-11T05:12:00.000Z",
+      "file": "races/morphettville-r6.json"
+    },
+    {
+      "venue": "Randwick",
+      "race_name": "R8 1600m Hcap",
+      "start_time_utc": "2026-07-11T05:20:00.000Z",
+      "file": "races/randwick-r8.json"
+    },
+    {
+      "venue": "Belmont",
+      "race_name": "R2 1400m Hcap",
+      "start_time_utc": "2026-07-11T05:28:00.000Z",
+      "file": "races/belmont-r2.json"
+    },
+    {
+      "venue": "Doomben",
+      "race_name": "R7 1350m Hcap",
+      "start_time_utc": "2026-07-11T05:32:00.000Z",
+      "file": "races/doomben-r7.json"
+    },
+    {
+      "venue": "Caulfield",
+      "race_name": "R7 1100m Grp3",
+      "start_time_utc": "2026-07-11T05:40:00.000Z",
+      "file": "races/caulfield-r7.json"
+    },
+    {
+      "venue": "Morphettville",
+      "race_name": "R7 2294m Hcap",
+      "start_time_utc": "2026-07-11T05:52:00.000Z",
+      "file": "races/morphettville-r7.json"
+    },
+    {
+      "venue": "Randwick",
+      "race_name": "R9 1400m Hcap",
+      "start_time_utc": "2026-07-11T06:00:00.000Z",
+      "file": "races/randwick-r9.json"
+    },
+    {
+      "venue": "Belmont",
+      "race_name": "R3 1200m 3yo",
+      "start_time_utc": "2026-07-11T06:04:00.000Z",
+      "file": "races/belmont-r3.json"
+    },
+    {
+      "venue": "Doomben",
+      "race_name": "R8 1350m 3yo",
+      "start_time_utc": "2026-07-11T06:08:00.000Z",
+      "file": "races/doomben-r8.json"
+    },
+    {
+      "venue": "Caulfield",
+      "race_name": "R8 1400m Hcap",
+      "start_time_utc": "2026-07-11T06:15:00.000Z",
+      "file": "races/caulfield-r8.json"
+    },
+    {
+      "venue": "Morphettville",
+      "race_name": "R8 1250m Hcap",
+      "start_time_utc": "2026-07-11T06:27:00.000Z",
+      "file": "races/morphettville-r8.json"
+    },
+    {
+      "venue": "Randwick",
+      "race_name": "R10 1400m Hcap",
+      "start_time_utc": "2026-07-11T06:35:00.000Z",
+      "file": "races/randwick-r10.json"
+    },
+    {
+      "venue": "Belmont",
+      "race_name": "R4 1000m Hcap",
+      "start_time_utc": "2026-07-11T06:39:00.000Z",
+      "file": "races/belmont-r4.json"
+    },
+    {
+      "venue": "Doomben",
+      "race_name": "R9 1200m Hcap",
+      "start_time_utc": "2026-07-11T06:43:00.000Z",
+      "file": "races/doomben-r9.json"
+    },
+    {
+      "venue": "Caulfield",
+      "race_name": "R9 1700m Hcap",
+      "start_time_utc": "2026-07-11T06:48:00.000Z",
+      "file": "races/caulfield-r9.json"
+    },
+    {
+      "venue": "Morphettville",
+      "race_name": "R9 1250m Hcap",
+      "start_time_utc": "2026-07-11T07:02:00.000Z",
+      "file": "races/morphettville-r9.json"
+    },
+    {
+      "venue": "Belmont",
+      "race_name": "R5 2200m Hcap",
+      "start_time_utc": "2026-07-11T07:17:00.000Z",
+      "file": "races/belmont-r5.json"
+    },
+    {
+      "venue": "Belmont",
+      "race_name": "R6 1200m Hcap",
+      "start_time_utc": "2026-07-11T07:52:00.000Z",
+      "file": "races/belmont-r6.json"
+    },
+    {
+      "venue": "Belmont",
+      "race_name": "R7 1000m Hcap",
+      "start_time_utc": "2026-07-11T08:27:00.000Z",
+      "file": "races/belmont-r7.json"
+    },
+    {
+      "venue": "Belmont",
+      "race_name": "R8 1400m Hcap",
+      "start_time_utc": "2026-07-11T09:01:00.000Z",
+      "file": "races/belmont-r8.json"
     }
   ]
 }
