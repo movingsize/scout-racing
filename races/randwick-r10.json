@@ -1881,8 +1881,8 @@
       "market_signal": "NEUTRAL",
       "trainer": "Chris Waller",
       "jockey": "Tyler Schiller",
-      "last5": "21x364x241",
-      "career": "8:2-2-1",
+      "last5": "1x364x2418",
+      "career": "8:2-1-1",
       "weight_kg": 57.5,
       "barrier": 5,
       "official_rating": 73,
@@ -1893,12 +1893,6 @@
         "form source shows this runner SCRATCHED but Betfair still lists it ACTIVE \u2014 cross-source timing mismatch, treat the price as unreliable until one side updates"
       ],
       "last5_parsed": [
-        {
-          "raw": "2",
-          "pos": 2,
-          "nonFinish": false,
-          "spell": false
-        },
         {
           "raw": "1",
           "pos": 1,
@@ -1952,6 +1946,12 @@
           "pos": 1,
           "nonFinish": false,
           "spell": false
+        },
+        {
+          "raw": "8",
+          "pos": 8,
+          "nonFinish": false,
+          "spell": false
         }
       ],
       "data_status": "reconstructed",
@@ -1960,7 +1960,7 @@
         "call": "OK",
         "label": "OK",
         "confidence": "thin",
-        "reason": "career reconstructed from last5 (8:2-2-1)",
+        "reason": "career reconstructed from last5 (8:2-1-1)",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -2341,7 +2341,7 @@
       }
     }
   ],
-  "last_polled_at": "2026-07-11T05:20:46.695481Z",
+  "last_polled_at": "2026-07-11T05:35:52.291978Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
     "ok": 15,
