@@ -7,7 +7,7 @@
   "start_time_utc": "2026-07-11T01:53:00.000Z",
   "market_id": "1.259843024",
   "market_overround_pct": null,
-  "track_condition": "Soft 5",
+  "track_condition": "Good 4",
   "weather": null,
   "form_analysis": null,
   "runners": [
@@ -1029,105 +1029,12 @@
       "career": "2:0-0-0",
       "weight_kg": 54.5,
       "barrier": 9,
-      "prizemoney": 2100,
-      "first_up_record": "1:0-0-0",
-      "second_up_record": "1:0-0-0",
-      "going_record": {
-        "Firm": "0:0-0-0",
-        "Good": "1:0-0-0",
-        "Soft": "1:0-0-0",
-        "Heavy": "0:0-0-0",
-        "Synthetic": "0:0-0-0"
-      },
-      "recent_runs": [
-        {
-          "pos": 4,
-          "date": "2026-07-03",
-          "class": "2Y MDN-SW",
-          "trial": false,
-          "distance_m": 1100,
-          "going": "Good4",
-          "winner_time": 64.78,
-          "beaten_margin": 4.33,
-          "runner_time": 65.39,
-          "runner_time_reduced": true,
-          "sectional_600": 36.91,
-          "in_run": {
-            "@800": 4,
-            "@400": 3
-          }
-        },
-        {
-          "pos": 7,
-          "date": "2026-06-20",
-          "class": "2Y MDN-SW",
-          "trial": false,
-          "distance_m": 1000,
-          "going": "Soft5",
-          "winner_time": 58.68,
-          "beaten_margin": 4.58,
-          "runner_time": 59.33,
-          "runner_time_reduced": true,
-          "sectional_600": 34.53,
-          "in_run": {
-            "@800": 4,
-            "@400": 4
-          }
-        },
-        {
-          "pos": 1,
-          "date": "2026-06-02",
-          "class": "2Y-TRL",
-          "trial": false,
-          "distance_m": 1000,
-          "going": "Soft5",
-          "winner_time": 61.47,
-          "beaten_margin": 0.0,
-          "runner_time": 61.47,
-          "runner_time_reduced": false,
-          "sectional_600": 36.15,
-          "in_run": null
-        },
-        {
-          "pos": 5,
-          "date": "2026-05-19",
-          "class": "2&3Y-TRL",
-          "trial": false,
-          "distance_m": 1050,
-          "going": "Synthetic",
-          "winner_time": 61.15,
-          "beaten_margin": 5.06,
-          "runner_time": 61.86,
-          "runner_time_reduced": true,
-          "sectional_600": 35.46,
-          "in_run": null
-        },
-        {
-          "pos": 2,
-          "date": "2025-12-15",
-          "class": "2Y-TRL",
-          "trial": false,
-          "distance_m": 840,
-          "going": "Soft5",
-          "winner_time": 50.11,
-          "beaten_margin": 2.83,
-          "runner_time": 50.52,
-          "runner_time_reduced": true,
-          "sectional_600": 34.24,
-          "in_run": null
-        }
+      "scratched": true,
+      "form_status": "unraced",
+      "warnings": [
+        "runner scratched (per form source) \u2014 career reconstructed from last5 for reference only, not expected to start",
+        "form source shows this runner SCRATCHED but Betfair still lists it ACTIVE \u2014 cross-source timing mismatch, treat the price as unreliable until one side updates"
       ],
-      "recent_class": [
-        "2Y MDN-SW",
-        "2Y MDN-SW",
-        "2Y-TRL",
-        "2&3Y-TRL",
-        "2Y-TRL"
-      ],
-      "days_since_run": 8,
-      "runs_this_prep": 4,
-      "form_status": "confirmed",
-      "warnings": [],
       "last5_parsed": [
         {
           "raw": "7",
@@ -1142,18 +1049,18 @@
           "spell": false
         }
       ],
-      "data_status": "confirmed",
+      "data_status": "reconstructed",
       "open_price": null,
       "call": {
         "call": "OK",
         "label": "OK",
         "confidence": "thin",
-        "reason": "form present (2 career starts, ds=confirmed)",
+        "reason": "career reconstructed from last5 (2:0-0-0)",
         "guard": "data_adequacy v1.0"
       }
     }
   ],
-  "last_polled_at": "2026-07-10T08:06:37.011887Z",
+  "last_polled_at": "2026-07-11T01:05:43.927575Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
     "ok": 9,

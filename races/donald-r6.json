@@ -2124,119 +2124,16 @@
       "trainer": "Mark Stephenson",
       "jockey": "Valentin Le Boeuf",
       "last5": "786x360097",
-      "career": "146:10-18-27",
+      "career": "9:0-0-1",
       "weight_kg": 54.0,
       "barrier": 3,
       "official_rating": 41,
-      "prizemoney": 271153,
-      "first_up_record": "9:0-1-2",
-      "second_up_record": "9:1-0-0",
-      "track_record": "3:0-0-0",
-      "dist_record": "54:4-7-11",
-      "track_dist_record": "2:0-0-0",
-      "distances_won": "1000 (4), 1100 (1), 1200 (5)",
-      "going_record": {
-        "Firm": "1:0-0-0",
-        "Good": "79:7-11-16",
-        "Soft": "47:1-6-10",
-        "Heavy": "11:1-1-1",
-        "Synthetic": "8:1-0-0"
-      },
-      "recent_runs": [
-        {
-          "pos": 7,
-          "date": "2026-07-03",
-          "class": "BM52",
-          "trial": false,
-          "distance_m": 1000,
-          "going": "Synthetic",
-          "winner_time": 60.2,
-          "beaten_margin": 6.56,
-          "runner_time": 61.15,
-          "runner_time_reduced": true,
-          "sectional_600": 35.36,
-          "in_run": {
-            "@800": 4,
-            "@400": 5
-          }
-        },
-        {
-          "pos": 9,
-          "date": "2026-05-28",
-          "class": "BM62",
-          "trial": false,
-          "distance_m": 1000,
-          "going": "Heavy10",
-          "winner_time": 61.6,
-          "beaten_margin": 8.31,
-          "runner_time": 62.83,
-          "runner_time_reduced": true,
-          "sectional_600": 36.19,
-          "in_run": {
-            "@800": 10,
-            "@400": 9
-          }
-        },
-        {
-          "pos": 6,
-          "date": "2026-05-20",
-          "class": "Jump Out",
-          "trial": true,
-          "distance_m": 900,
-          "going": "Jump",
-          "winner_time": 54.14,
-          "beaten_margin": null,
-          "runner_time": null,
-          "runner_time_reduced": null,
-          "sectional_600": null,
-          "in_run": null
-        },
-        {
-          "pos": 12,
-          "date": "2026-05-10",
-          "class": "0 - 56",
-          "trial": false,
-          "distance_m": 1200,
-          "going": "Soft6",
-          "winner_time": 73.2,
-          "beaten_margin": 7.64,
-          "runner_time": 74.32,
-          "runner_time_reduced": true,
-          "sectional_600": 36.55,
-          "in_run": {
-            "@800": 1,
-            "@400": 3
-          }
-        },
-        {
-          "pos": 11,
-          "date": "2026-05-04",
-          "class": "BM56",
-          "trial": false,
-          "distance_m": 1200,
-          "going": "Heavy9",
-          "winner_time": 74.63,
-          "beaten_margin": 14.08,
-          "runner_time": 76.73,
-          "runner_time_reduced": true,
-          "sectional_600": 37.18,
-          "in_run": {
-            "@800": 3,
-            "@400": 4
-          }
-        }
+      "scratched": true,
+      "form_status": "unraced",
+      "warnings": [
+        "runner scratched (per form source) \u2014 career reconstructed from last5 for reference only, not expected to start",
+        "form source shows this runner SCRATCHED but Betfair still lists it ACTIVE \u2014 cross-source timing mismatch, treat the price as unreliable until one side updates"
       ],
-      "recent_class": [
-        "BM52",
-        "BM62",
-        "Jump Out",
-        "0 - 56",
-        "BM56"
-      ],
-      "days_since_run": 8,
-      "runs_this_prep": 7,
-      "form_status": "confirmed",
-      "warnings": [],
       "last5_parsed": [
         {
           "raw": "7",
@@ -2299,18 +2196,18 @@
           "spell": false
         }
       ],
-      "data_status": "confirmed",
+      "data_status": "reconstructed",
       "open_price": null,
       "call": {
         "call": "OK",
         "label": "OK",
-        "confidence": "ok",
-        "reason": "confirmed form, 146 career starts",
+        "confidence": "thin",
+        "reason": "career reconstructed from last5 (9:0-0-1)",
         "guard": "data_adequacy v1.0"
       }
     }
   ],
-  "last_polled_at": "2026-07-10T08:06:37.011887Z",
+  "last_polled_at": "2026-07-11T01:05:43.927575Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
     "ok": 12,
