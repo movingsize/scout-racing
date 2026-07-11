@@ -1357,122 +1357,16 @@
       "trainer": "Clint Lundholm",
       "jockey": "Ms Zoe Hunt (a0/52kg)",
       "last5": "x741182211",
-      "career": "33:8-3-3",
+      "career": "9:4-2-0",
       "weight_kg": 54.0,
       "barrier": 2,
       "official_rating": 66,
-      "prizemoney": 157431,
-      "first_up_record": "4:0-0-0",
-      "second_up_record": "4:1-0-0",
-      "track_record": "0:0-0-0",
-      "dist_record": "11:3-2-1",
-      "track_dist_record": "0:0-0-0",
-      "distances_won": "1300 (1), 1400 (4), 1600 (3)",
-      "going_record": {
-        "Firm": "0:0-0-0",
-        "Good": "16:4-2-1",
-        "Soft": "12:2-1-2",
-        "Heavy": "5:2-0-0",
-        "Synthetic": "0:0-0-0"
-      },
-      "recent_runs": [
-        {
-          "pos": 1,
-          "date": "2026-06-28",
-          "class": "BM82",
-          "trial": false,
-          "distance_m": 1600,
-          "going": "Heavy8",
-          "winner_time": 97.61,
-          "beaten_margin": 0.0,
-          "runner_time": 97.61,
-          "runner_time_reduced": false,
-          "sectional_600": 38.47,
-          "in_run": {
-            "@800": 1,
-            "@400": 1
-          }
-        },
-        {
-          "pos": 1,
-          "date": "2026-06-05",
-          "class": "BM82",
-          "trial": false,
-          "distance_m": 1400,
-          "going": "Heavy9",
-          "winner_time": 84.37,
-          "beaten_margin": 0.0,
-          "runner_time": 84.37,
-          "runner_time_reduced": false,
-          "sectional_600": 36.82,
-          "in_run": {
-            "@800": 3,
-            "@400": 2
-          }
-        },
-        {
-          "pos": 2,
-          "date": "2026-05-17",
-          "class": "PARKES CUP BM86",
-          "trial": false,
-          "distance_m": 1600,
-          "going": "Soft6",
-          "winner_time": 96.37,
-          "beaten_margin": 1.88,
-          "runner_time": 96.64,
-          "runner_time_reduced": true,
-          "sectional_600": 35.45,
-          "in_run": {
-            "@800": 1,
-            "@400": 1
-          }
-        },
-        {
-          "pos": 2,
-          "date": "2026-04-26",
-          "class": "DIGGERS",
-          "trial": false,
-          "distance_m": 1300,
-          "going": "Good4",
-          "winner_time": 77.31,
-          "beaten_margin": 0.34,
-          "runner_time": 77.36,
-          "runner_time_reduced": true,
-          "sectional_600": null,
-          "in_run": {
-            "@800": 1,
-            "@400": 1
-          }
-        },
-        {
-          "pos": 8,
-          "date": "2026-04-05",
-          "class": "CTRY BM66",
-          "trial": false,
-          "distance_m": 1400,
-          "going": "Good3",
-          "winner_time": 83.39,
-          "beaten_margin": 3.94,
-          "runner_time": 83.95,
-          "runner_time_reduced": true,
-          "sectional_600": null,
-          "in_run": {
-            "@800": 5,
-            "@400": 5
-          }
-        }
+      "scratched": true,
+      "form_status": "unraced",
+      "warnings": [
+        "runner scratched (per form source) \u2014 career reconstructed from last5 for reference only, not expected to start",
+        "form source shows this runner SCRATCHED but Betfair still lists it ACTIVE \u2014 cross-source timing mismatch, treat the price as unreliable until one side updates"
       ],
-      "recent_class": [
-        "BM82",
-        "BM82",
-        "PARKES CUP BM86",
-        "DIGGERS",
-        "CTRY BM66"
-      ],
-      "days_since_run": 14,
-      "runs_this_prep": 5,
-      "form_status": "confirmed",
-      "warnings": [],
       "last5_parsed": [
         {
           "raw": "x",
@@ -1535,13 +1429,13 @@
           "spell": false
         }
       ],
-      "data_status": "confirmed",
+      "data_status": "reconstructed",
       "open_price": 13.0,
       "call": {
         "call": "OK",
         "label": "OK",
-        "confidence": "ok",
-        "reason": "confirmed form, 33 career starts",
+        "confidence": "thin",
+        "reason": "career reconstructed from last5 (9:4-2-0)",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -2462,7 +2356,7 @@
       }
     }
   ],
-  "last_polled_at": "2026-07-11T07:18:54.198078Z",
+  "last_polled_at": "2026-07-11T07:33:28.505518Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
     "ok": 12,
