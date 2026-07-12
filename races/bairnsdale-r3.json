@@ -1521,72 +1521,12 @@
       "career": "1:0-0-0",
       "weight_kg": 57.5,
       "barrier": 20,
-      "prizemoney": 900,
-      "first_up_record": "1:0-0-0",
-      "second_up_record": "0:0-0-0",
-      "going_record": {
-        "Firm": "0:0-0-0",
-        "Good": "0:0-0-0",
-        "Soft": "0:0-0-0",
-        "Heavy": "1:0-0-0",
-        "Synthetic": "0:0-0-0"
-      },
-      "recent_runs": [
-        {
-          "pos": 7,
-          "date": "2026-05-29",
-          "class": "3Y MDN-SW",
-          "trial": false,
-          "distance_m": 1000,
-          "going": "Heavy9",
-          "winner_time": 58.86,
-          "beaten_margin": 10.86,
-          "runner_time": 60.39,
-          "runner_time_reduced": true,
-          "sectional_600": 34.14,
-          "in_run": {
-            "@800": 6,
-            "@400": 7
-          }
-        },
-        {
-          "pos": 4,
-          "date": "2026-04-21",
-          "class": "Jump Out",
-          "trial": true,
-          "distance_m": 800,
-          "going": "Jump",
-          "winner_time": 48.93,
-          "beaten_margin": null,
-          "runner_time": null,
-          "runner_time_reduced": null,
-          "sectional_600": null,
-          "in_run": null
-        },
-        {
-          "pos": 6,
-          "date": "2025-06-03",
-          "class": "Jump Out",
-          "trial": true,
-          "distance_m": 600,
-          "going": "Jump",
-          "winner_time": 36.79,
-          "beaten_margin": null,
-          "runner_time": null,
-          "runner_time_reduced": null,
-          "sectional_600": null,
-          "in_run": null
-        }
+      "scratched": true,
+      "form_status": "unraced",
+      "warnings": [
+        "runner scratched (per form source) \u2014 career reconstructed from last5 for reference only, not expected to start",
+        "form source shows this runner SCRATCHED but Betfair still lists it ACTIVE \u2014 cross-source timing mismatch, treat the price as unreliable until one side updates"
       ],
-      "recent_class": [
-        "3Y MDN-SW",
-        "Jump Out",
-        "Jump Out"
-      ],
-      "days_since_run": 45,
-      "runs_this_prep": 2,
-      "form_status": "confirmed",
-      "warnings": [],
       "last5_parsed": [
         {
           "raw": "7",
@@ -1595,13 +1535,13 @@
           "spell": false
         }
       ],
-      "data_status": "confirmed",
+      "data_status": "reconstructed",
       "open_price": 85.0,
       "call": {
         "call": "OK",
         "label": "OK",
         "confidence": "thin",
-        "reason": "form present (1 career starts, ds=confirmed)",
+        "reason": "career reconstructed from last5 (1:0-0-0)",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -2281,7 +2221,7 @@
       }
     }
   ],
-  "last_polled_at": "2026-07-12T05:33:49.444032Z",
+  "last_polled_at": "2026-07-12T05:48:38.451404Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
     "ok": 14,
