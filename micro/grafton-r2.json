@@ -1,0 +1,4661 @@
+{
+  "event_id": "grafton-2026-07-12-r2",
+  "market_id": "1.259895415",
+  "venue": "Grafton",
+  "race_name": "R2 1006m Mdn",
+  "start_time_utc": "2026-07-12T03:00:00.000Z",
+  "captured_by": "micro-series v1",
+  "field_size": 11,
+  "model_overlay": {
+    "100486085": {
+      "model_prob": 0.325832,
+      "model_rank": 1,
+      "model_version": "2026-07-08"
+    },
+    "100486090": {
+      "model_prob": 0.124629,
+      "model_rank": 3,
+      "model_version": "2026-07-08"
+    },
+    "86933774": {
+      "model_prob": 0.1434,
+      "model_rank": 2,
+      "model_version": "2026-07-08"
+    },
+    "4787488": {
+      "model_prob": 0.099769,
+      "model_rank": 5,
+      "model_version": "2026-07-08"
+    },
+    "100486084": {
+      "model_prob": 0.118488,
+      "model_rank": 4,
+      "model_version": "2026-07-08"
+    },
+    "85542182": {
+      "model_prob": 0.053767,
+      "model_rank": 6,
+      "model_version": "2026-07-08"
+    },
+    "100486088": {
+      "model_prob": 0.046441,
+      "model_rank": 7,
+      "model_version": "2026-07-08"
+    },
+    "100486089": {
+      "model_prob": 0.025382,
+      "model_rank": 8,
+      "model_version": "2026-07-08"
+    },
+    "100262460": {
+      "model_prob": 0.01963,
+      "model_rank": 11,
+      "model_version": "2026-07-08"
+    },
+    "100486086": {
+      "model_prob": 0.022782,
+      "model_rank": 9,
+      "model_version": "2026-07-08"
+    },
+    "85505629": {
+      "model_prob": 0.019879,
+      "model_rank": 10,
+      "model_version": "2026-07-08"
+    }
+  },
+  "bsp": {
+    "100019102": {
+      "bsp": NaN,
+      "status": "REMOVED"
+    },
+    "100486087": {
+      "bsp": NaN,
+      "status": "REMOVED"
+    },
+    "100486084": {
+      "bsp": 10.21,
+      "status": "LOSER"
+    },
+    "100486085": {
+      "bsp": 2.88,
+      "status": "LOSER"
+    },
+    "100486086": {
+      "bsp": 390.0,
+      "status": "LOSER"
+    },
+    "100486088": {
+      "bsp": 90.0,
+      "status": "LOSER"
+    },
+    "100262460": {
+      "bsp": 290.0,
+      "status": "LOSER"
+    },
+    "85542182": {
+      "bsp": 19.0,
+      "status": "LOSER"
+    },
+    "4787488": {
+      "bsp": 5.4,
+      "status": "LOSER"
+    },
+    "100486089": {
+      "bsp": 151.4,
+      "status": "LOSER"
+    },
+    "100486090": {
+      "bsp": 5.4,
+      "status": "WINNER"
+    },
+    "86933774": {
+      "bsp": 9.25,
+      "status": "LOSER"
+    },
+    "85505629": {
+      "bsp": 560.36,
+      "status": "LOSER"
+    }
+  },
+  "result": {
+    "winner": "11. Sinfull",
+    "winner_bsp": 5.4,
+    "placings": [
+      "11. Sinfull",
+      "3. Didies Meadow",
+      "8. I Am Steffi"
+    ],
+    "settled_at": "2026-07-12T03:10:15.810381Z"
+  },
+  "frames": [
+    {
+      "at": "2026-07-12T02:50:01.090859Z",
+      "seconds_to_off": 599,
+      "market_matched_volume": 5730.68,
+      "overround_pct": 102.0,
+      "runners": [
+        {
+          "selection_id": 100486084,
+          "name": "1. Secessionist",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 13.0,
+          "best_back_size": 7.75,
+          "best_lay": 15.0,
+          "best_lay_size": 7.01,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 13.0,
+              "size": 7.75
+            },
+            {
+              "price": 12.5,
+              "size": 12.43
+            },
+            {
+              "price": 12.0,
+              "size": 19.57
+            },
+            {
+              "price": 11.5,
+              "size": 7.76
+            },
+            {
+              "price": 11.0,
+              "size": 14.33
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 15.0,
+              "size": 7.01
+            },
+            {
+              "price": 23.0,
+              "size": 6.79
+            },
+            {
+              "price": 55.0,
+              "size": 8.12
+            },
+            {
+              "price": 60.0,
+              "size": 2.49
+            },
+            {
+              "price": 90.0,
+              "size": 21.52
+            }
+          ],
+          "runner_matched_volume": 370.37,
+          "last_price_traded": 15.0,
+          "market_prob": 0.075413,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100486085,
+          "name": "3. Didies Meadow",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 2.14,
+          "best_back_size": 100.0,
+          "best_lay": 2.22,
+          "best_lay_size": 14.18,
+          "spread": 0.08,
+          "back_ladder": [
+            {
+              "price": 2.14,
+              "size": 100.0
+            },
+            {
+              "price": 2.12,
+              "size": 34.08
+            },
+            {
+              "price": 2.1,
+              "size": 450.16
+            },
+            {
+              "price": 2.08,
+              "size": 86.67
+            },
+            {
+              "price": 2.06,
+              "size": 1.93
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.22,
+              "size": 14.18
+            },
+            {
+              "price": 2.3,
+              "size": 21.79
+            },
+            {
+              "price": 2.36,
+              "size": 22.75
+            },
+            {
+              "price": 2.42,
+              "size": 20.49
+            },
+            {
+              "price": 2.46,
+              "size": 120.14
+            }
+          ],
+          "runner_matched_volume": 3384.14,
+          "last_price_traded": 2.12,
+          "market_prob": 0.458115,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100486086,
+          "name": "4. Bring It On Sal",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 200.0,
+          "best_back_size": 4.71,
+          "best_lay": 360.0,
+          "best_lay_size": 2.06,
+          "spread": 160.0,
+          "back_ladder": [
+            {
+              "price": 200.0,
+              "size": 4.71
+            },
+            {
+              "price": 170.0,
+              "size": 1.67
+            },
+            {
+              "price": 140.0,
+              "size": 1.69
+            },
+            {
+              "price": 130.0,
+              "size": 2.47
+            },
+            {
+              "price": 120.0,
+              "size": 1.0
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 360.0,
+              "size": 2.06
+            },
+            {
+              "price": 370.0,
+              "size": 1.93
+            },
+            {
+              "price": 380.0,
+              "size": 3.87
+            },
+            {
+              "price": 390.0,
+              "size": 5.0
+            }
+          ],
+          "runner_matched_volume": 2.13,
+          "last_price_traded": 170.0,
+          "market_prob": 0.004902,
+          "market_rank": 10
+        },
+        {
+          "selection_id": 100486088,
+          "name": "6. Miss Dipsey",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 60.0,
+          "best_back_size": 4.65,
+          "best_lay": 90.0,
+          "best_lay_size": 5.02,
+          "spread": 30.0,
+          "back_ladder": [
+            {
+              "price": 60.0,
+              "size": 4.65
+            },
+            {
+              "price": 50.0,
+              "size": 1.71
+            },
+            {
+              "price": 48.0,
+              "size": 1.26
+            },
+            {
+              "price": 44.0,
+              "size": 6.78
+            },
+            {
+              "price": 42.0,
+              "size": 4.24
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 90.0,
+              "size": 5.02
+            },
+            {
+              "price": 310.0,
+              "size": 1.2
+            },
+            {
+              "price": 360.0,
+              "size": 1.93
+            },
+            {
+              "price": 430.0,
+              "size": 2.32
+            },
+            {
+              "price": 440.0,
+              "size": 4.06
+            }
+          ],
+          "runner_matched_volume": 119.88,
+          "last_price_traded": 60.0,
+          "market_prob": 0.016339,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 100262460,
+          "name": "7. Worth The Ride",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 190.0,
+          "best_back_size": 4.12,
+          "best_lay": 370.0,
+          "best_lay_size": 2.67,
+          "spread": 180.0,
+          "back_ladder": [
+            {
+              "price": 190.0,
+              "size": 4.12
+            },
+            {
+              "price": 160.0,
+              "size": 1.3
+            },
+            {
+              "price": 140.0,
+              "size": 2.41
+            },
+            {
+              "price": 130.0,
+              "size": 1.59
+            },
+            {
+              "price": 110.0,
+              "size": 1.01
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 370.0,
+              "size": 2.67
+            },
+            {
+              "price": 380.0,
+              "size": 3.89
+            },
+            {
+              "price": 410.0,
+              "size": 2.02
+            }
+          ],
+          "runner_matched_volume": 21.54,
+          "last_price_traded": 180.0,
+          "market_prob": 0.00516,
+          "market_rank": 9
+        },
+        {
+          "selection_id": 85542182,
+          "name": "8. I Am Steffi",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 19.5,
+          "best_back_size": 4.79,
+          "best_lay": 24.0,
+          "best_lay_size": 2.0,
+          "spread": 4.5,
+          "back_ladder": [
+            {
+              "price": 19.5,
+              "size": 4.79
+            },
+            {
+              "price": 18.5,
+              "size": 6.59
+            },
+            {
+              "price": 17.5,
+              "size": 4.3
+            },
+            {
+              "price": 17.0,
+              "size": 7.44
+            },
+            {
+              "price": 16.0,
+              "size": 38.22
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 24.0,
+              "size": 2.0
+            },
+            {
+              "price": 25.0,
+              "size": 3.2
+            },
+            {
+              "price": 26.0,
+              "size": 3.87
+            },
+            {
+              "price": 34.0,
+              "size": 7.84
+            },
+            {
+              "price": 100.0,
+              "size": 21.52
+            }
+          ],
+          "runner_matched_volume": 45.41,
+          "last_price_traded": 19.0,
+          "market_prob": 0.050275,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 4787488,
+          "name": "9. Words Of Fire",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 9.2,
+          "best_back_size": 9.64,
+          "best_lay": 9.8,
+          "best_lay_size": 6.82,
+          "spread": 0.6,
+          "back_ladder": [
+            {
+              "price": 9.2,
+              "size": 9.64
+            },
+            {
+              "price": 9.0,
+              "size": 4.16
+            },
+            {
+              "price": 8.8,
+              "size": 32.87
+            },
+            {
+              "price": 8.6,
+              "size": 18.04
+            },
+            {
+              "price": 8.4,
+              "size": 34.29
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 9.8,
+              "size": 6.82
+            },
+            {
+              "price": 10.0,
+              "size": 3.41
+            },
+            {
+              "price": 14.5,
+              "size": 3.94
+            },
+            {
+              "price": 23.0,
+              "size": 4.2
+            },
+            {
+              "price": 26.0,
+              "size": 1.0
+            }
+          ],
+          "runner_matched_volume": 212.57,
+          "last_price_traded": 9.0,
+          "market_prob": 0.106561,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 100486089,
+          "name": "10. Ibetty",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 80.0,
+          "best_back_size": 8.15,
+          "best_lay": 85.0,
+          "best_lay_size": 5.17,
+          "spread": 5.0,
+          "back_ladder": [
+            {
+              "price": 80.0,
+              "size": 8.15
+            },
+            {
+              "price": 70.0,
+              "size": 2.23
+            },
+            {
+              "price": 60.0,
+              "size": 2.0
+            },
+            {
+              "price": 50.0,
+              "size": 3.83
+            },
+            {
+              "price": 48.0,
+              "size": 17.35
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 85.0,
+              "size": 5.17
+            },
+            {
+              "price": 580.0,
+              "size": 2.49
+            },
+            {
+              "price": 590.0,
+              "size": 3.0
+            },
+            {
+              "price": 600.0,
+              "size": 19.33
+            }
+          ],
+          "runner_matched_volume": 94.58,
+          "last_price_traded": 85.0,
+          "market_prob": 0.012255,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100486090,
+          "name": "11. Sinfull",
+          "saddle_cloth": 9,
+          "status": "ACTIVE",
+          "best_back": 6.6,
+          "best_back_size": 16.82,
+          "best_lay": 7.0,
+          "best_lay_size": 15.85,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 6.6,
+              "size": 16.82
+            },
+            {
+              "price": 6.2,
+              "size": 5.81
+            },
+            {
+              "price": 6.0,
+              "size": 11.32
+            },
+            {
+              "price": 5.9,
+              "size": 1.64
+            },
+            {
+              "price": 5.8,
+              "size": 73.23
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.0,
+              "size": 15.85
+            },
+            {
+              "price": 7.4,
+              "size": 59.93
+            },
+            {
+              "price": 8.2,
+              "size": 7.58
+            },
+            {
+              "price": 9.8,
+              "size": 31.24
+            },
+            {
+              "price": 18.5,
+              "size": 9.74
+            }
+          ],
+          "runner_matched_volume": 684.48,
+          "last_price_traded": 6.8,
+          "market_prob": 0.14854,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 86933774,
+          "name": "12. So Sain",
+          "saddle_cloth": 10,
+          "status": "ACTIVE",
+          "best_back": 8.2,
+          "best_back_size": 1.93,
+          "best_lay": 8.8,
+          "best_lay_size": 9.97,
+          "spread": 0.6,
+          "back_ladder": [
+            {
+              "price": 8.2,
+              "size": 1.93
+            },
+            {
+              "price": 8.0,
+              "size": 7.73
+            },
+            {
+              "price": 7.8,
+              "size": 24.98
+            },
+            {
+              "price": 7.6,
+              "size": 71.08
+            },
+            {
+              "price": 7.4,
+              "size": 11.91
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.8,
+              "size": 9.97
+            },
+            {
+              "price": 9.4,
+              "size": 8.82
+            },
+            {
+              "price": 10.0,
+              "size": 14.17
+            },
+            {
+              "price": 10.5,
+              "size": 2.17
+            },
+            {
+              "price": 11.0,
+              "size": 2.44
+            }
+          ],
+          "runner_matched_volume": 784.7,
+          "last_price_traded": 8.4,
+          "market_prob": 0.119557,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 85505629,
+          "name": "13. Pride Of Nations",
+          "saddle_cloth": 11,
+          "status": "ACTIVE",
+          "best_back": 340.0,
+          "best_back_size": 1.36,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [
+            {
+              "price": 340.0,
+              "size": 1.36
+            },
+            {
+              "price": 330.0,
+              "size": 3.87
+            },
+            {
+              "price": 220.0,
+              "size": 1.78
+            },
+            {
+              "price": 150.0,
+              "size": 4.96
+            },
+            {
+              "price": 70.0,
+              "size": 7.55
+            }
+          ],
+          "lay_ladder": [],
+          "runner_matched_volume": 10.82,
+          "last_price_traded": 370.0,
+          "market_prob": 0.002883,
+          "market_rank": 11
+        },
+        {
+          "selection_id": 100019102,
+          "name": "2. Arakoola",
+          "saddle_cloth": 12,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100486087,
+          "name": "5. Kobi Express",
+          "saddle_cloth": 13,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T02:51:15.383717Z",
+      "seconds_to_off": 525,
+      "market_matched_volume": 7161.3,
+      "overround_pct": 101.1,
+      "runners": [
+        {
+          "selection_id": 100486084,
+          "name": "1. Secessionist",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 14.0,
+          "best_back_size": 6.69,
+          "best_lay": 16.5,
+          "best_lay_size": 3.21,
+          "spread": 2.5,
+          "back_ladder": [
+            {
+              "price": 14.0,
+              "size": 6.69
+            },
+            {
+              "price": 13.5,
+              "size": 1.93
+            },
+            {
+              "price": 13.0,
+              "size": 30.96
+            },
+            {
+              "price": 12.5,
+              "size": 12.9
+            },
+            {
+              "price": 12.0,
+              "size": 15.51
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 16.5,
+              "size": 3.21
+            },
+            {
+              "price": 22.0,
+              "size": 2.18
+            },
+            {
+              "price": 23.0,
+              "size": 1.93
+            },
+            {
+              "price": 60.0,
+              "size": 10.49
+            },
+            {
+              "price": 90.0,
+              "size": 21.52
+            }
+          ],
+          "runner_matched_volume": 439.28,
+          "last_price_traded": 14.5,
+          "market_prob": 0.070671,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100486085,
+          "name": "3. Didies Meadow",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 2.16,
+          "best_back_size": 24.37,
+          "best_lay": 2.2,
+          "best_lay_size": 3.62,
+          "spread": 0.04,
+          "back_ladder": [
+            {
+              "price": 2.16,
+              "size": 24.37
+            },
+            {
+              "price": 2.14,
+              "size": 24.26
+            },
+            {
+              "price": 2.12,
+              "size": 7.4
+            },
+            {
+              "price": 2.1,
+              "size": 421.55
+            },
+            {
+              "price": 2.08,
+              "size": 91.97
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.2,
+              "size": 3.62
+            },
+            {
+              "price": 2.26,
+              "size": 18.0
+            },
+            {
+              "price": 2.3,
+              "size": 27.43
+            },
+            {
+              "price": 2.36,
+              "size": 25.17
+            },
+            {
+              "price": 2.42,
+              "size": 24.19
+            }
+          ],
+          "runner_matched_volume": 4204.96,
+          "last_price_traded": 2.16,
+          "market_prob": 0.458055,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100486086,
+          "name": "4. Bring It On Sal",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 200.0,
+          "best_back_size": 3.99,
+          "best_lay": 380.0,
+          "best_lay_size": 3.87,
+          "spread": 180.0,
+          "back_ladder": [
+            {
+              "price": 200.0,
+              "size": 3.99
+            },
+            {
+              "price": 190.0,
+              "size": 6.06
+            },
+            {
+              "price": 170.0,
+              "size": 1.48
+            },
+            {
+              "price": 150.0,
+              "size": 5.47
+            },
+            {
+              "price": 140.0,
+              "size": 2.23
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 380.0,
+              "size": 3.87
+            },
+            {
+              "price": 390.0,
+              "size": 5.0
+            }
+          ],
+          "runner_matched_volume": 44.41,
+          "last_price_traded": 220.0,
+          "market_prob": 0.004947,
+          "market_rank": 10
+        },
+        {
+          "selection_id": 100486088,
+          "name": "6. Miss Dipsey",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 60.0,
+          "best_back_size": 4.1,
+          "best_lay": 70.0,
+          "best_lay_size": 1.39,
+          "spread": 10.0,
+          "back_ladder": [
+            {
+              "price": 60.0,
+              "size": 4.1
+            },
+            {
+              "price": 55.0,
+              "size": 2.65
+            },
+            {
+              "price": 50.0,
+              "size": 4.88
+            },
+            {
+              "price": 48.0,
+              "size": 1.62
+            },
+            {
+              "price": 44.0,
+              "size": 6.78
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 70.0,
+              "size": 1.39
+            },
+            {
+              "price": 75.0,
+              "size": 5.78
+            },
+            {
+              "price": 320.0,
+              "size": 1.15
+            },
+            {
+              "price": 440.0,
+              "size": 4.1
+            },
+            {
+              "price": 600.0,
+              "size": 23.39
+            }
+          ],
+          "runner_matched_volume": 146.18,
+          "last_price_traded": 65.0,
+          "market_prob": 0.01649,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 100262460,
+          "name": "7. Worth The Ride",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 180.0,
+          "best_back_size": 6.26,
+          "best_lay": 740.0,
+          "best_lay_size": 1.37,
+          "spread": 560.0,
+          "back_ladder": [
+            {
+              "price": 180.0,
+              "size": 6.26
+            },
+            {
+              "price": 140.0,
+              "size": 1.61
+            },
+            {
+              "price": 130.0,
+              "size": 1.6
+            },
+            {
+              "price": 120.0,
+              "size": 1.24
+            },
+            {
+              "price": 110.0,
+              "size": 5.09
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 740.0,
+              "size": 1.37
+            }
+          ],
+          "runner_matched_volume": 23.58,
+          "last_price_traded": 210.0,
+          "market_prob": 0.005497,
+          "market_rank": 9
+        },
+        {
+          "selection_id": 85542182,
+          "name": "8. I Am Steffi",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 22.0,
+          "best_back_size": 1.43,
+          "best_lay": 32.0,
+          "best_lay_size": 7.65,
+          "spread": 10.0,
+          "back_ladder": [
+            {
+              "price": 22.0,
+              "size": 1.43
+            },
+            {
+              "price": 21.0,
+              "size": 3.77
+            },
+            {
+              "price": 19.0,
+              "size": 1.06
+            },
+            {
+              "price": 18.5,
+              "size": 1.99
+            },
+            {
+              "price": 18.0,
+              "size": 5.43
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 32.0,
+              "size": 7.65
+            },
+            {
+              "price": 34.0,
+              "size": 5.0
+            },
+            {
+              "price": 100.0,
+              "size": 21.52
+            },
+            {
+              "price": 120.0,
+              "size": 2.37
+            },
+            {
+              "price": 200.0,
+              "size": 3.87
+            }
+          ],
+          "runner_matched_volume": 73.85,
+          "last_price_traded": 22.0,
+          "market_prob": 0.044973,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 4787488,
+          "name": "9. Words Of Fire",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 8.2,
+          "best_back_size": 2.73,
+          "best_lay": 8.6,
+          "best_lay_size": 3.74,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 8.2,
+              "size": 2.73
+            },
+            {
+              "price": 8.0,
+              "size": 59.55
+            },
+            {
+              "price": 7.8,
+              "size": 25.68
+            },
+            {
+              "price": 7.6,
+              "size": 18.43
+            },
+            {
+              "price": 7.4,
+              "size": 23.4
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.6,
+              "size": 3.74
+            },
+            {
+              "price": 9.0,
+              "size": 9.78
+            },
+            {
+              "price": 9.8,
+              "size": 2.96
+            },
+            {
+              "price": 13.0,
+              "size": 11.18
+            },
+            {
+              "price": 14.5,
+              "size": 3.94
+            }
+          ],
+          "runner_matched_volume": 411.62,
+          "last_price_traded": 8.4,
+          "market_prob": 0.120658,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 100486089,
+          "name": "10. Ibetty",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 130.0,
+          "best_back_size": 3.2,
+          "best_lay": 570.0,
+          "best_lay_size": 2.91,
+          "spread": 440.0,
+          "back_ladder": [
+            {
+              "price": 130.0,
+              "size": 3.2
+            },
+            {
+              "price": 85.0,
+              "size": 1.39
+            },
+            {
+              "price": 55.0,
+              "size": 6.05
+            },
+            {
+              "price": 38.0,
+              "size": 20.12
+            },
+            {
+              "price": 30.0,
+              "size": 4.26
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 570.0,
+              "size": 2.91
+            },
+            {
+              "price": 580.0,
+              "size": 1.93
+            },
+            {
+              "price": 590.0,
+              "size": 3.0
+            }
+          ],
+          "runner_matched_volume": 106.74,
+          "last_price_traded": 140.0,
+          "market_prob": 0.007611,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100486090,
+          "name": "11. Sinfull",
+          "saddle_cloth": 9,
+          "status": "ACTIVE",
+          "best_back": 7.0,
+          "best_back_size": 1.13,
+          "best_lay": 7.2,
+          "best_lay_size": 4.58,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 7.0,
+              "size": 1.13
+            },
+            {
+              "price": 6.8,
+              "size": 34.62
+            },
+            {
+              "price": 6.6,
+              "size": 15.02
+            },
+            {
+              "price": 6.4,
+              "size": 9.52
+            },
+            {
+              "price": 6.2,
+              "size": 7.93
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.2,
+              "size": 4.58
+            },
+            {
+              "price": 7.4,
+              "size": 63.26
+            },
+            {
+              "price": 7.6,
+              "size": 14.27
+            },
+            {
+              "price": 7.8,
+              "size": 7.73
+            },
+            {
+              "price": 8.0,
+              "size": 7.73
+            }
+          ],
+          "runner_matched_volume": 823.85,
+          "last_price_traded": 7.0,
+          "market_prob": 0.141343,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 86933774,
+          "name": "12. So Sain",
+          "saddle_cloth": 10,
+          "status": "ACTIVE",
+          "best_back": 7.8,
+          "best_back_size": 14.71,
+          "best_lay": 8.6,
+          "best_lay_size": 64.74,
+          "spread": 0.8,
+          "back_ladder": [
+            {
+              "price": 7.8,
+              "size": 14.71
+            },
+            {
+              "price": 7.6,
+              "size": 61.87
+            },
+            {
+              "price": 7.4,
+              "size": 10.75
+            },
+            {
+              "price": 7.2,
+              "size": 20.28
+            },
+            {
+              "price": 7.0,
+              "size": 82.81
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.6,
+              "size": 64.74
+            },
+            {
+              "price": 8.8,
+              "size": 13.32
+            },
+            {
+              "price": 9.0,
+              "size": 3.85
+            },
+            {
+              "price": 9.2,
+              "size": 3.85
+            },
+            {
+              "price": 9.4,
+              "size": 8.93
+            }
+          ],
+          "runner_matched_volume": 874.87,
+          "last_price_traded": 8.0,
+          "market_prob": 0.126846,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 85505629,
+          "name": "13. Pride Of Nations",
+          "saddle_cloth": 11,
+          "status": "ACTIVE",
+          "best_back": 340.0,
+          "best_back_size": 1.04,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [
+            {
+              "price": 340.0,
+              "size": 1.04
+            },
+            {
+              "price": 330.0,
+              "size": 5.13
+            },
+            {
+              "price": 230.0,
+              "size": 1.51
+            },
+            {
+              "price": 160.0,
+              "size": 4.55
+            },
+            {
+              "price": 70.0,
+              "size": 7.55
+            }
+          ],
+          "lay_ladder": [],
+          "runner_matched_volume": 11.92,
+          "last_price_traded": 340.0,
+          "market_prob": 0.00291,
+          "market_rank": 11
+        },
+        {
+          "selection_id": 100019102,
+          "name": "2. Arakoola",
+          "saddle_cloth": 12,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100486087,
+          "name": "5. Kobi Express",
+          "saddle_cloth": 13,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T02:52:30.372484Z",
+      "seconds_to_off": 450,
+      "market_matched_volume": 7948.28,
+      "overround_pct": 102.1,
+      "runners": [
+        {
+          "selection_id": 100486084,
+          "name": "1. Secessionist",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 13.5,
+          "best_back_size": 3.72,
+          "best_lay": 15.5,
+          "best_lay_size": 4.46,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 13.5,
+              "size": 3.72
+            },
+            {
+              "price": 13.0,
+              "size": 16.68
+            },
+            {
+              "price": 12.5,
+              "size": 12.9
+            },
+            {
+              "price": 12.0,
+              "size": 15.51
+            },
+            {
+              "price": 11.5,
+              "size": 7.76
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 15.5,
+              "size": 4.46
+            },
+            {
+              "price": 16.5,
+              "size": 1.4
+            },
+            {
+              "price": 18.0,
+              "size": 10.5
+            },
+            {
+              "price": 22.0,
+              "size": 1.35
+            },
+            {
+              "price": 23.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 477.46,
+          "last_price_traded": 14.0,
+          "market_prob": 0.072524,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100486085,
+          "name": "3. Didies Meadow",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 2.18,
+          "best_back_size": 81.34,
+          "best_lay": 2.22,
+          "best_lay_size": 32.89,
+          "spread": 0.04,
+          "back_ladder": [
+            {
+              "price": 2.18,
+              "size": 81.34
+            },
+            {
+              "price": 2.16,
+              "size": 69.09
+            },
+            {
+              "price": 2.14,
+              "size": 67.05
+            },
+            {
+              "price": 2.12,
+              "size": 11.6
+            },
+            {
+              "price": 2.1,
+              "size": 423.92
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.22,
+              "size": 32.89
+            },
+            {
+              "price": 2.26,
+              "size": 3.92
+            },
+            {
+              "price": 2.28,
+              "size": 9.2
+            },
+            {
+              "price": 2.3,
+              "size": 2.37
+            },
+            {
+              "price": 2.34,
+              "size": 9.24
+            }
+          ],
+          "runner_matched_volume": 4574.24,
+          "last_price_traded": 2.22,
+          "market_prob": 0.449115,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100486086,
+          "name": "4. Bring It On Sal",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 180.0,
+          "best_back_size": 4.86,
+          "best_lay": 320.0,
+          "best_lay_size": 1.93,
+          "spread": 140.0,
+          "back_ladder": [
+            {
+              "price": 180.0,
+              "size": 4.86
+            },
+            {
+              "price": 170.0,
+              "size": 1.01
+            },
+            {
+              "price": 150.0,
+              "size": 5.47
+            },
+            {
+              "price": 140.0,
+              "size": 2.57
+            },
+            {
+              "price": 85.0,
+              "size": 15.01
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 320.0,
+              "size": 1.93
+            },
+            {
+              "price": 330.0,
+              "size": 3.87
+            },
+            {
+              "price": 390.0,
+              "size": 5.0
+            }
+          ],
+          "runner_matched_volume": 65.06,
+          "last_price_traded": 190.0,
+          "market_prob": 0.005439,
+          "market_rank": 10
+        },
+        {
+          "selection_id": 100486088,
+          "name": "6. Miss Dipsey",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 65.0,
+          "best_back_size": 3.87,
+          "best_lay": 70.0,
+          "best_lay_size": 5.06,
+          "spread": 5.0,
+          "back_ladder": [
+            {
+              "price": 65.0,
+              "size": 3.87
+            },
+            {
+              "price": 60.0,
+              "size": 3.05
+            },
+            {
+              "price": 55.0,
+              "size": 1.18
+            },
+            {
+              "price": 50.0,
+              "size": 4.88
+            },
+            {
+              "price": 48.0,
+              "size": 1.26
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 70.0,
+              "size": 5.06
+            },
+            {
+              "price": 320.0,
+              "size": 1.54
+            },
+            {
+              "price": 440.0,
+              "size": 4.76
+            },
+            {
+              "price": 600.0,
+              "size": 23.39
+            }
+          ],
+          "runner_matched_volume": 162.63,
+          "last_price_traded": 65.0,
+          "market_prob": 0.015063,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 100262460,
+          "name": "7. Worth The Ride",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 170.0,
+          "best_back_size": 4.72,
+          "best_lay": 350.0,
+          "best_lay_size": 1.93,
+          "spread": 180.0,
+          "back_ladder": [
+            {
+              "price": 170.0,
+              "size": 4.72
+            },
+            {
+              "price": 150.0,
+              "size": 2.19
+            },
+            {
+              "price": 130.0,
+              "size": 2.46
+            },
+            {
+              "price": 110.0,
+              "size": 1.01
+            },
+            {
+              "price": 100.0,
+              "size": 1.3
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 350.0,
+              "size": 1.93
+            },
+            {
+              "price": 360.0,
+              "size": 3.87
+            },
+            {
+              "price": 370.0,
+              "size": 2.39
+            },
+            {
+              "price": 440.0,
+              "size": 4.29
+            }
+          ],
+          "runner_matched_volume": 44.42,
+          "last_price_traded": 200.0,
+          "market_prob": 0.005759,
+          "market_rank": 9
+        },
+        {
+          "selection_id": 85542182,
+          "name": "8. I Am Steffi",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 20.0,
+          "best_back_size": 2.67,
+          "best_lay": 23.0,
+          "best_lay_size": 1.93,
+          "spread": 3.0,
+          "back_ladder": [
+            {
+              "price": 20.0,
+              "size": 2.67
+            },
+            {
+              "price": 18.5,
+              "size": 5.3
+            },
+            {
+              "price": 18.0,
+              "size": 5.43
+            },
+            {
+              "price": 17.0,
+              "size": 28.59
+            },
+            {
+              "price": 16.5,
+              "size": 32.04
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 23.0,
+              "size": 1.93
+            },
+            {
+              "price": 24.0,
+              "size": 4.82
+            },
+            {
+              "price": 30.0,
+              "size": 1.41
+            },
+            {
+              "price": 34.0,
+              "size": 5.95
+            },
+            {
+              "price": 130.0,
+              "size": 2.16
+            }
+          ],
+          "runner_matched_volume": 131.85,
+          "last_price_traded": 20.0,
+          "market_prob": 0.048954,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 4787488,
+          "name": "9. Words Of Fire",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 8.0,
+          "best_back_size": 19.12,
+          "best_lay": 8.6,
+          "best_lay_size": 5.9,
+          "spread": 0.6,
+          "back_ladder": [
+            {
+              "price": 8.0,
+              "size": 19.12
+            },
+            {
+              "price": 7.8,
+              "size": 58.11
+            },
+            {
+              "price": 7.6,
+              "size": 17.16
+            },
+            {
+              "price": 7.4,
+              "size": 23.4
+            },
+            {
+              "price": 7.2,
+              "size": 59.15
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.6,
+              "size": 5.9
+            },
+            {
+              "price": 9.0,
+              "size": 8.2
+            },
+            {
+              "price": 9.8,
+              "size": 2.96
+            },
+            {
+              "price": 14.5,
+              "size": 4.04
+            },
+            {
+              "price": 15.5,
+              "size": 16.41
+            }
+          ],
+          "runner_matched_volume": 438.28,
+          "last_price_traded": 8.4,
+          "market_prob": 0.122384,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100486089,
+          "name": "10. Ibetty",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 85.0,
+          "best_back_size": 1.22,
+          "best_lay": 140.0,
+          "best_lay_size": 1.93,
+          "spread": 55.0,
+          "back_ladder": [
+            {
+              "price": 85.0,
+              "size": 1.22
+            },
+            {
+              "price": 80.0,
+              "size": 4.18
+            },
+            {
+              "price": 75.0,
+              "size": 9.44
+            },
+            {
+              "price": 65.0,
+              "size": 1.26
+            },
+            {
+              "price": 60.0,
+              "size": 2.56
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 140.0,
+              "size": 1.93
+            },
+            {
+              "price": 150.0,
+              "size": 3.92
+            },
+            {
+              "price": 570.0,
+              "size": 1.44
+            },
+            {
+              "price": 590.0,
+              "size": 3.0
+            }
+          ],
+          "runner_matched_volume": 107.66,
+          "last_price_traded": 130.0,
+          "market_prob": 0.011518,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100486090,
+          "name": "11. Sinfull",
+          "saddle_cloth": 9,
+          "status": "ACTIVE",
+          "best_back": 6.8,
+          "best_back_size": 10.8,
+          "best_lay": 7.0,
+          "best_lay_size": 15.03,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 6.8,
+              "size": 10.8
+            },
+            {
+              "price": 6.6,
+              "size": 5.36
+            },
+            {
+              "price": 6.4,
+              "size": 9.62
+            },
+            {
+              "price": 6.2,
+              "size": 5.81
+            },
+            {
+              "price": 6.0,
+              "size": 433.02
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.0,
+              "size": 15.03
+            },
+            {
+              "price": 7.2,
+              "size": 13.0
+            },
+            {
+              "price": 7.4,
+              "size": 50.8
+            },
+            {
+              "price": 7.6,
+              "size": 26.35
+            },
+            {
+              "price": 7.8,
+              "size": 7.73
+            }
+          ],
+          "runner_matched_volume": 938.55,
+          "last_price_traded": 7.0,
+          "market_prob": 0.143981,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 86933774,
+          "name": "12. So Sain",
+          "saddle_cloth": 10,
+          "status": "ACTIVE",
+          "best_back": 8.0,
+          "best_back_size": 9.67,
+          "best_lay": 8.2,
+          "best_lay_size": 13.09,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 8.0,
+              "size": 9.67
+            },
+            {
+              "price": 7.8,
+              "size": 3.96
+            },
+            {
+              "price": 7.6,
+              "size": 68.03
+            },
+            {
+              "price": 7.4,
+              "size": 16.4
+            },
+            {
+              "price": 7.2,
+              "size": 19.45
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.2,
+              "size": 13.09
+            },
+            {
+              "price": 8.4,
+              "size": 10.0
+            },
+            {
+              "price": 8.6,
+              "size": 80.64
+            },
+            {
+              "price": 8.8,
+              "size": 6.31
+            },
+            {
+              "price": 9.0,
+              "size": 3.85
+            }
+          ],
+          "runner_matched_volume": 995.71,
+          "last_price_traded": 8.0,
+          "market_prob": 0.122384,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 85505629,
+          "name": "13. Pride Of Nations",
+          "saddle_cloth": 11,
+          "status": "ACTIVE",
+          "best_back": 340.0,
+          "best_back_size": 1.18,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [
+            {
+              "price": 340.0,
+              "size": 1.18
+            },
+            {
+              "price": 330.0,
+              "size": 3.87
+            },
+            {
+              "price": 230.0,
+              "size": 1.51
+            },
+            {
+              "price": 160.0,
+              "size": 4.55
+            },
+            {
+              "price": 70.0,
+              "size": 7.55
+            }
+          ],
+          "lay_ladder": [],
+          "runner_matched_volume": 12.35,
+          "last_price_traded": 360.0,
+          "market_prob": 0.00288,
+          "market_rank": 11
+        },
+        {
+          "selection_id": 100019102,
+          "name": "2. Arakoola",
+          "saddle_cloth": 12,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100486087,
+          "name": "5. Kobi Express",
+          "saddle_cloth": 13,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T02:53:45.361661Z",
+      "seconds_to_off": 375,
+      "market_matched_volume": 8541.85,
+      "overround_pct": 101.9,
+      "runners": [
+        {
+          "selection_id": 100486084,
+          "name": "1. Secessionist",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 12.0,
+          "best_back_size": 2.05,
+          "best_lay": 13.5,
+          "best_lay_size": 19.17,
+          "spread": 1.5,
+          "back_ladder": [
+            {
+              "price": 12.0,
+              "size": 2.05
+            },
+            {
+              "price": 11.5,
+              "size": 7.86
+            },
+            {
+              "price": 11.0,
+              "size": 42.82
+            },
+            {
+              "price": 10.5,
+              "size": 24.4
+            },
+            {
+              "price": 10.0,
+              "size": 22.8
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 13.5,
+              "size": 19.17
+            },
+            {
+              "price": 14.0,
+              "size": 7.73
+            },
+            {
+              "price": 14.5,
+              "size": 5.8
+            },
+            {
+              "price": 15.0,
+              "size": 7.73
+            },
+            {
+              "price": 15.5,
+              "size": 4.66
+            }
+          ],
+          "runner_matched_volume": 519.95,
+          "last_price_traded": 13.0,
+          "market_prob": 0.081808,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100486085,
+          "name": "3. Didies Meadow",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 2.2,
+          "best_back_size": 153.31,
+          "best_lay": 2.28,
+          "best_lay_size": 6.63,
+          "spread": 0.08,
+          "back_ladder": [
+            {
+              "price": 2.2,
+              "size": 153.31
+            },
+            {
+              "price": 2.18,
+              "size": 132.4
+            },
+            {
+              "price": 2.16,
+              "size": 54.09
+            },
+            {
+              "price": 2.14,
+              "size": 63.35
+            },
+            {
+              "price": 2.12,
+              "size": 66.63
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.28,
+              "size": 6.63
+            },
+            {
+              "price": 2.3,
+              "size": 6.12
+            },
+            {
+              "price": 2.32,
+              "size": 42.85
+            },
+            {
+              "price": 2.34,
+              "size": 4.99
+            },
+            {
+              "price": 2.36,
+              "size": 55.79
+            }
+          ],
+          "runner_matched_volume": 4866.52,
+          "last_price_traded": 2.22,
+          "market_prob": 0.446226,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100486086,
+          "name": "4. Bring It On Sal",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 210.0,
+          "best_back_size": 3.87,
+          "best_lay": 320.0,
+          "best_lay_size": 1.93,
+          "spread": 110.0,
+          "back_ladder": [
+            {
+              "price": 210.0,
+              "size": 3.87
+            },
+            {
+              "price": 180.0,
+              "size": 1.41
+            },
+            {
+              "price": 160.0,
+              "size": 5.59
+            },
+            {
+              "price": 130.0,
+              "size": 2.96
+            },
+            {
+              "price": 85.0,
+              "size": 6.32
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 320.0,
+              "size": 1.93
+            },
+            {
+              "price": 330.0,
+              "size": 3.87
+            },
+            {
+              "price": 370.0,
+              "size": 2.0
+            },
+            {
+              "price": 390.0,
+              "size": 5.0
+            }
+          ],
+          "runner_matched_volume": 73.56,
+          "last_price_traded": 200.0,
+          "market_prob": 0.004675,
+          "market_rank": 10
+        },
+        {
+          "selection_id": 100486088,
+          "name": "6. Miss Dipsey",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 60.0,
+          "best_back_size": 6.35,
+          "best_lay": 70.0,
+          "best_lay_size": 4.63,
+          "spread": 10.0,
+          "back_ladder": [
+            {
+              "price": 60.0,
+              "size": 6.35
+            },
+            {
+              "price": 55.0,
+              "size": 1.18
+            },
+            {
+              "price": 50.0,
+              "size": 4.88
+            },
+            {
+              "price": 48.0,
+              "size": 1.26
+            },
+            {
+              "price": 44.0,
+              "size": 1.33
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 70.0,
+              "size": 4.63
+            },
+            {
+              "price": 310.0,
+              "size": 1.75
+            },
+            {
+              "price": 440.0,
+              "size": 4.1
+            },
+            {
+              "price": 600.0,
+              "size": 23.39
+            }
+          ],
+          "runner_matched_volume": 164.28,
+          "last_price_traded": 60.0,
+          "market_prob": 0.016362,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 100262460,
+          "name": "7. Worth The Ride",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 180.0,
+          "best_back_size": 1.36,
+          "best_lay": 380.0,
+          "best_lay_size": 2.39,
+          "spread": 200.0,
+          "back_ladder": [
+            {
+              "price": 180.0,
+              "size": 1.36
+            },
+            {
+              "price": 170.0,
+              "size": 3.87
+            },
+            {
+              "price": 140.0,
+              "size": 1.61
+            },
+            {
+              "price": 130.0,
+              "size": 1.6
+            },
+            {
+              "price": 110.0,
+              "size": 1.01
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 380.0,
+              "size": 2.39
+            },
+            {
+              "price": 390.0,
+              "size": 3.89
+            }
+          ],
+          "runner_matched_volume": 45.94,
+          "last_price_traded": 200.0,
+          "market_prob": 0.005454,
+          "market_rank": 9
+        },
+        {
+          "selection_id": 85542182,
+          "name": "8. I Am Steffi",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 21.0,
+          "best_back_size": 3.27,
+          "best_lay": 26.0,
+          "best_lay_size": 1.06,
+          "spread": 5.0,
+          "back_ladder": [
+            {
+              "price": 21.0,
+              "size": 3.27
+            },
+            {
+              "price": 19.5,
+              "size": 2.08
+            },
+            {
+              "price": 19.0,
+              "size": 2.14
+            },
+            {
+              "price": 18.5,
+              "size": 5.03
+            },
+            {
+              "price": 18.0,
+              "size": 10.46
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 26.0,
+              "size": 1.06
+            },
+            {
+              "price": 28.0,
+              "size": 3.44
+            },
+            {
+              "price": 32.0,
+              "size": 2.88
+            },
+            {
+              "price": 34.0,
+              "size": 5.0
+            },
+            {
+              "price": 80.0,
+              "size": 21.52
+            }
+          ],
+          "runner_matched_volume": 136.39,
+          "last_price_traded": 22.0,
+          "market_prob": 0.046748,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 4787488,
+          "name": "9. Words Of Fire",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 8.0,
+          "best_back_size": 21.35,
+          "best_lay": 8.8,
+          "best_lay_size": 10.0,
+          "spread": 0.8,
+          "back_ladder": [
+            {
+              "price": 8.0,
+              "size": 21.35
+            },
+            {
+              "price": 7.8,
+              "size": 11.49
+            },
+            {
+              "price": 7.6,
+              "size": 42.94
+            },
+            {
+              "price": 7.4,
+              "size": 23.4
+            },
+            {
+              "price": 7.2,
+              "size": 57.82
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.8,
+              "size": 10.0
+            },
+            {
+              "price": 9.0,
+              "size": 10.09
+            },
+            {
+              "price": 9.6,
+              "size": 6.72
+            },
+            {
+              "price": 9.8,
+              "size": 2.96
+            },
+            {
+              "price": 14.5,
+              "size": 4.04
+            }
+          ],
+          "runner_matched_volume": 473.03,
+          "last_price_traded": 8.0,
+          "market_prob": 0.122712,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100486089,
+          "name": "10. Ibetty",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 95.0,
+          "best_back_size": 1.87,
+          "best_lay": 580.0,
+          "best_lay_size": 2.84,
+          "spread": 485.0,
+          "back_ladder": [
+            {
+              "price": 95.0,
+              "size": 1.87
+            },
+            {
+              "price": 85.0,
+              "size": 1.93
+            },
+            {
+              "price": 60.0,
+              "size": 3.51
+            },
+            {
+              "price": 55.0,
+              "size": 2.15
+            },
+            {
+              "price": 50.0,
+              "size": 6.32
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 580.0,
+              "size": 2.84
+            },
+            {
+              "price": 590.0,
+              "size": 3.0
+            }
+          ],
+          "runner_matched_volume": 109.11,
+          "last_price_traded": 95.0,
+          "market_prob": 0.010334,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100486090,
+          "name": "11. Sinfull",
+          "saddle_cloth": 9,
+          "status": "ACTIVE",
+          "best_back": 7.0,
+          "best_back_size": 39.01,
+          "best_lay": 7.2,
+          "best_lay_size": 15.04,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 7.0,
+              "size": 39.01
+            },
+            {
+              "price": 6.8,
+              "size": 9.16
+            },
+            {
+              "price": 6.6,
+              "size": 16.96
+            },
+            {
+              "price": 6.4,
+              "size": 9.62
+            },
+            {
+              "price": 6.2,
+              "size": 41.84
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.2,
+              "size": 15.04
+            },
+            {
+              "price": 7.4,
+              "size": 50.8
+            },
+            {
+              "price": 7.6,
+              "size": 26.35
+            },
+            {
+              "price": 7.8,
+              "size": 17.72
+            },
+            {
+              "price": 8.0,
+              "size": 34.21
+            }
+          ],
+          "runner_matched_volume": 1011.12,
+          "last_price_traded": 7.0,
+          "market_prob": 0.140243,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 86933774,
+          "name": "12. So Sain",
+          "saddle_cloth": 10,
+          "status": "ACTIVE",
+          "best_back": 8.0,
+          "best_back_size": 7.73,
+          "best_lay": 8.4,
+          "best_lay_size": 10.0,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 8.0,
+              "size": 7.73
+            },
+            {
+              "price": 7.8,
+              "size": 5.41
+            },
+            {
+              "price": 7.6,
+              "size": 64.8
+            },
+            {
+              "price": 7.4,
+              "size": 31.11
+            },
+            {
+              "price": 7.2,
+              "size": 19.45
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.4,
+              "size": 10.0
+            },
+            {
+              "price": 8.6,
+              "size": 30.64
+            },
+            {
+              "price": 8.8,
+              "size": 30.53
+            },
+            {
+              "price": 9.0,
+              "size": 9.38
+            },
+            {
+              "price": 9.2,
+              "size": 19.35
+            }
+          ],
+          "runner_matched_volume": 1129.24,
+          "last_price_traded": 8.2,
+          "market_prob": 0.122712,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 85505629,
+          "name": "13. Pride Of Nations",
+          "saddle_cloth": 11,
+          "status": "ACTIVE",
+          "best_back": 360.0,
+          "best_back_size": 3.87,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [
+            {
+              "price": 360.0,
+              "size": 3.87
+            },
+            {
+              "price": 340.0,
+              "size": 1.85
+            },
+            {
+              "price": 220.0,
+              "size": 1.48
+            },
+            {
+              "price": 150.0,
+              "size": 4.85
+            },
+            {
+              "price": 70.0,
+              "size": 7.55
+            }
+          ],
+          "lay_ladder": [],
+          "runner_matched_volume": 12.66,
+          "last_price_traded": 340.0,
+          "market_prob": 0.002727,
+          "market_rank": 11
+        },
+        {
+          "selection_id": 100019102,
+          "name": "2. Arakoola",
+          "saddle_cloth": 12,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100486087,
+          "name": "5. Kobi Express",
+          "saddle_cloth": 13,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T02:55:31.782546Z",
+      "seconds_to_off": 269,
+      "market_matched_volume": 13795.33,
+      "overround_pct": 100.4,
+      "runners": [
+        {
+          "selection_id": 100486084,
+          "name": "1. Secessionist",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 10.5,
+          "best_back_size": 24.58,
+          "best_lay": 12.5,
+          "best_lay_size": 7.78,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 10.5,
+              "size": 24.58
+            },
+            {
+              "price": 10.0,
+              "size": 29.9
+            },
+            {
+              "price": 9.8,
+              "size": 40.48
+            },
+            {
+              "price": 9.6,
+              "size": 16.47
+            },
+            {
+              "price": 9.4,
+              "size": 20.16
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 12.5,
+              "size": 7.78
+            },
+            {
+              "price": 13.0,
+              "size": 32.2
+            },
+            {
+              "price": 13.5,
+              "size": 5.8
+            },
+            {
+              "price": 14.0,
+              "size": 5.8
+            },
+            {
+              "price": 14.5,
+              "size": 7.73
+            }
+          ],
+          "runner_matched_volume": 598.79,
+          "last_price_traded": 11.0,
+          "market_prob": 0.094841,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100486085,
+          "name": "3. Didies Meadow",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 2.54,
+          "best_back_size": 149.44,
+          "best_lay": 2.58,
+          "best_lay_size": 45.93,
+          "spread": 0.04,
+          "back_ladder": [
+            {
+              "price": 2.54,
+              "size": 149.44
+            },
+            {
+              "price": 2.42,
+              "size": 21.76
+            },
+            {
+              "price": 2.4,
+              "size": 15.47
+            },
+            {
+              "price": 2.38,
+              "size": 9.67
+            },
+            {
+              "price": 2.36,
+              "size": 15.47
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.58,
+              "size": 45.93
+            },
+            {
+              "price": 2.64,
+              "size": 41.93
+            },
+            {
+              "price": 2.74,
+              "size": 1.15
+            },
+            {
+              "price": 3.3,
+              "size": 42.95
+            },
+            {
+              "price": 3.4,
+              "size": 40.42
+            }
+          ],
+          "runner_matched_volume": 8643.79,
+          "last_price_traded": 2.56,
+          "market_prob": 0.392058,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100486086,
+          "name": "4. Bring It On Sal",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 190.0,
+          "best_back_size": 4.79,
+          "best_lay": 220.0,
+          "best_lay_size": 2.03,
+          "spread": 30.0,
+          "back_ladder": [
+            {
+              "price": 190.0,
+              "size": 4.79
+            },
+            {
+              "price": 140.0,
+              "size": 1.0
+            },
+            {
+              "price": 46.0,
+              "size": 11.49
+            },
+            {
+              "price": 32.0,
+              "size": 3.13
+            },
+            {
+              "price": 30.0,
+              "size": 3.87
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 220.0,
+              "size": 2.03
+            },
+            {
+              "price": 240.0,
+              "size": 4.62
+            },
+            {
+              "price": 380.0,
+              "size": 4.45
+            },
+            {
+              "price": 390.0,
+              "size": 5.0
+            }
+          ],
+          "runner_matched_volume": 158.32,
+          "last_price_traded": 200.0,
+          "market_prob": 0.005241,
+          "market_rank": 10
+        },
+        {
+          "selection_id": 100486088,
+          "name": "6. Miss Dipsey",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 55.0,
+          "best_back_size": 2.4,
+          "best_lay": 70.0,
+          "best_lay_size": 4.74,
+          "spread": 15.0,
+          "back_ladder": [
+            {
+              "price": 55.0,
+              "size": 2.4
+            },
+            {
+              "price": 50.0,
+              "size": 12.43
+            },
+            {
+              "price": 48.0,
+              "size": 3.31
+            },
+            {
+              "price": 46.0,
+              "size": 7.97
+            },
+            {
+              "price": 44.0,
+              "size": 3.18
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 70.0,
+              "size": 4.74
+            },
+            {
+              "price": 75.0,
+              "size": 5.06
+            },
+            {
+              "price": 440.0,
+              "size": 4.59
+            },
+            {
+              "price": 600.0,
+              "size": 23.57
+            }
+          ],
+          "runner_matched_volume": 310.08,
+          "last_price_traded": 55.0,
+          "market_prob": 0.018106,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 100262460,
+          "name": "7. Worth The Ride",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 180.0,
+          "best_back_size": 3.28,
+          "best_lay": 210.0,
+          "best_lay_size": 4.79,
+          "spread": 30.0,
+          "back_ladder": [
+            {
+              "price": 180.0,
+              "size": 3.28
+            },
+            {
+              "price": 140.0,
+              "size": 1.14
+            },
+            {
+              "price": 120.0,
+              "size": 1.21
+            },
+            {
+              "price": 100.0,
+              "size": 1.01
+            },
+            {
+              "price": 60.0,
+              "size": 5.49
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 210.0,
+              "size": 4.79
+            }
+          ],
+          "runner_matched_volume": 59.36,
+          "last_price_traded": 180.0,
+          "market_prob": 0.005532,
+          "market_rank": 9
+        },
+        {
+          "selection_id": 85542182,
+          "name": "8. I Am Steffi",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 18.5,
+          "best_back_size": 5.06,
+          "best_lay": 22.0,
+          "best_lay_size": 4.28,
+          "spread": 3.5,
+          "back_ladder": [
+            {
+              "price": 18.5,
+              "size": 5.06
+            },
+            {
+              "price": 18.0,
+              "size": 16.38
+            },
+            {
+              "price": 17.5,
+              "size": 20.47
+            },
+            {
+              "price": 17.0,
+              "size": 20.28
+            },
+            {
+              "price": 16.5,
+              "size": 17.81
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 22.0,
+              "size": 4.28
+            },
+            {
+              "price": 25.0,
+              "size": 4.56
+            },
+            {
+              "price": 32.0,
+              "size": 1.72
+            },
+            {
+              "price": 34.0,
+              "size": 5.0
+            },
+            {
+              "price": 42.0,
+              "size": 1.62
+            }
+          ],
+          "runner_matched_volume": 437.57,
+          "last_price_traded": 18.5,
+          "market_prob": 0.053828,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 4787488,
+          "name": "9. Words Of Fire",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 7.6,
+          "best_back_size": 190.9,
+          "best_lay": 8.0,
+          "best_lay_size": 11.36,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 7.6,
+              "size": 190.9
+            },
+            {
+              "price": 7.4,
+              "size": 5.49
+            },
+            {
+              "price": 7.2,
+              "size": 40.83
+            },
+            {
+              "price": 7.0,
+              "size": 39.96
+            },
+            {
+              "price": 6.8,
+              "size": 25.23
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.0,
+              "size": 11.36
+            },
+            {
+              "price": 8.2,
+              "size": 2.66
+            },
+            {
+              "price": 8.4,
+              "size": 12.52
+            },
+            {
+              "price": 9.4,
+              "size": 3.74
+            },
+            {
+              "price": 9.8,
+              "size": 2.96
+            }
+          ],
+          "runner_matched_volume": 756.04,
+          "last_price_traded": 7.6,
+          "market_prob": 0.13103,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 100486089,
+          "name": "10. Ibetty",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 90.0,
+          "best_back_size": 4.54,
+          "best_lay": 540.0,
+          "best_lay_size": 2.02,
+          "spread": 450.0,
+          "back_ladder": [
+            {
+              "price": 90.0,
+              "size": 4.54
+            },
+            {
+              "price": 85.0,
+              "size": 4.91
+            },
+            {
+              "price": 70.0,
+              "size": 1.23
+            },
+            {
+              "price": 60.0,
+              "size": 1.15
+            },
+            {
+              "price": 55.0,
+              "size": 2.15
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 540.0,
+              "size": 2.02
+            },
+            {
+              "price": 550.0,
+              "size": 4.22
+            },
+            {
+              "price": 560.0,
+              "size": 2.0
+            },
+            {
+              "price": 590.0,
+              "size": 3.58
+            }
+          ],
+          "runner_matched_volume": 124.2,
+          "last_price_traded": 95.0,
+          "market_prob": 0.011065,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100486090,
+          "name": "11. Sinfull",
+          "saddle_cloth": 9,
+          "status": "ACTIVE",
+          "best_back": 6.6,
+          "best_back_size": 29.04,
+          "best_lay": 7.0,
+          "best_lay_size": 104.85,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 6.6,
+              "size": 29.04
+            },
+            {
+              "price": 6.4,
+              "size": 26.33
+            },
+            {
+              "price": 6.2,
+              "size": 21.93
+            },
+            {
+              "price": 6.0,
+              "size": 371.45
+            },
+            {
+              "price": 5.9,
+              "size": 42.61
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.0,
+              "size": 104.85
+            },
+            {
+              "price": 7.2,
+              "size": 21.75
+            },
+            {
+              "price": 7.4,
+              "size": 12.52
+            },
+            {
+              "price": 7.6,
+              "size": 36.83
+            },
+            {
+              "price": 7.8,
+              "size": 8.24
+            }
+          ],
+          "runner_matched_volume": 1362.09,
+          "last_price_traded": 6.6,
+          "market_prob": 0.150883,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 86933774,
+          "name": "12. So Sain",
+          "saddle_cloth": 10,
+          "status": "ACTIVE",
+          "best_back": 7.4,
+          "best_back_size": 2.38,
+          "best_lay": 7.8,
+          "best_lay_size": 13.15,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 7.4,
+              "size": 2.38
+            },
+            {
+              "price": 7.2,
+              "size": 23.41
+            },
+            {
+              "price": 7.0,
+              "size": 54.89
+            },
+            {
+              "price": 6.8,
+              "size": 47.33
+            },
+            {
+              "price": 6.6,
+              "size": 276.82
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.8,
+              "size": 13.15
+            },
+            {
+              "price": 8.0,
+              "size": 55.85
+            },
+            {
+              "price": 8.2,
+              "size": 16.45
+            },
+            {
+              "price": 8.4,
+              "size": 10.0
+            },
+            {
+              "price": 8.6,
+              "size": 21.44
+            }
+          ],
+          "runner_matched_volume": 1331.67,
+          "last_price_traded": 7.4,
+          "market_prob": 0.134571,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 85505629,
+          "name": "13. Pride Of Nations",
+          "saddle_cloth": 11,
+          "status": "ACTIVE",
+          "best_back": 350.0,
+          "best_back_size": 4.14,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [
+            {
+              "price": 350.0,
+              "size": 4.14
+            },
+            {
+              "price": 330.0,
+              "size": 3.0
+            },
+            {
+              "price": 70.0,
+              "size": 7.55
+            },
+            {
+              "price": 46.0,
+              "size": 2.16
+            },
+            {
+              "price": 34.0,
+              "size": 2.94
+            }
+          ],
+          "lay_ladder": [],
+          "runner_matched_volume": 13.37,
+          "last_price_traded": 360.0,
+          "market_prob": 0.002845,
+          "market_rank": 11
+        },
+        {
+          "selection_id": 100019102,
+          "name": "2. Arakoola",
+          "saddle_cloth": 12,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100486087,
+          "name": "5. Kobi Express",
+          "saddle_cloth": 13,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T02:57:11.694108Z",
+      "seconds_to_off": 169,
+      "market_matched_volume": 19726.84,
+      "overround_pct": 101.6,
+      "runners": [
+        {
+          "selection_id": 100486084,
+          "name": "1. Secessionist",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 10.0,
+          "best_back_size": 45.04,
+          "best_lay": 11.5,
+          "best_lay_size": 6.3,
+          "spread": 1.5,
+          "back_ladder": [
+            {
+              "price": 10.0,
+              "size": 45.04
+            },
+            {
+              "price": 9.8,
+              "size": 13.0
+            },
+            {
+              "price": 9.6,
+              "size": 22.51
+            },
+            {
+              "price": 9.4,
+              "size": 54.08
+            },
+            {
+              "price": 9.2,
+              "size": 27.7
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 11.5,
+              "size": 6.3
+            },
+            {
+              "price": 12.0,
+              "size": 3.11
+            },
+            {
+              "price": 12.5,
+              "size": 7.3
+            },
+            {
+              "price": 13.0,
+              "size": 30.0
+            },
+            {
+              "price": 13.5,
+              "size": 5.8
+            }
+          ],
+          "runner_matched_volume": 853.53,
+          "last_price_traded": 10.0,
+          "market_prob": 0.098439,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100486085,
+          "name": "3. Didies Meadow",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 2.5,
+          "best_back_size": 40.39,
+          "best_lay": 2.56,
+          "best_lay_size": 44.35,
+          "spread": 0.06,
+          "back_ladder": [
+            {
+              "price": 2.5,
+              "size": 40.39
+            },
+            {
+              "price": 2.48,
+              "size": 55.78
+            },
+            {
+              "price": 2.46,
+              "size": 11.58
+            },
+            {
+              "price": 2.44,
+              "size": 114.22
+            },
+            {
+              "price": 2.42,
+              "size": 76.42
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.56,
+              "size": 44.35
+            },
+            {
+              "price": 2.58,
+              "size": 3.0
+            },
+            {
+              "price": 2.62,
+              "size": 7.91
+            },
+            {
+              "price": 2.64,
+              "size": 18.83
+            },
+            {
+              "price": 2.66,
+              "size": 8.3
+            }
+          ],
+          "runner_matched_volume": 10321.29,
+          "last_price_traded": 2.5,
+          "market_prob": 0.393758,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100486086,
+          "name": "4. Bring It On Sal",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 210.0,
+          "best_back_size": 2.31,
+          "best_lay": 220.0,
+          "best_lay_size": 2.07,
+          "spread": 10.0,
+          "back_ladder": [
+            {
+              "price": 210.0,
+              "size": 2.31
+            },
+            {
+              "price": 200.0,
+              "size": 3.9
+            },
+            {
+              "price": 160.0,
+              "size": 1.21
+            },
+            {
+              "price": 120.0,
+              "size": 3.3
+            },
+            {
+              "price": 80.0,
+              "size": 9.14
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 220.0,
+              "size": 2.07
+            },
+            {
+              "price": 240.0,
+              "size": 4.58
+            },
+            {
+              "price": 310.0,
+              "size": 6.38
+            },
+            {
+              "price": 320.0,
+              "size": 5.0
+            }
+          ],
+          "runner_matched_volume": 167.09,
+          "last_price_traded": 210.0,
+          "market_prob": 0.004688,
+          "market_rank": 10
+        },
+        {
+          "selection_id": 100486088,
+          "name": "6. Miss Dipsey",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 55.0,
+          "best_back_size": 5.09,
+          "best_lay": 70.0,
+          "best_lay_size": 9.69,
+          "spread": 15.0,
+          "back_ladder": [
+            {
+              "price": 55.0,
+              "size": 5.09
+            },
+            {
+              "price": 50.0,
+              "size": 12.56
+            },
+            {
+              "price": 48.0,
+              "size": 11.71
+            },
+            {
+              "price": 46.0,
+              "size": 4.19
+            },
+            {
+              "price": 44.0,
+              "size": 8.22
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 70.0,
+              "size": 9.69
+            },
+            {
+              "price": 75.0,
+              "size": 3.35
+            },
+            {
+              "price": 320.0,
+              "size": 1.31
+            },
+            {
+              "price": 440.0,
+              "size": 4.1
+            },
+            {
+              "price": 600.0,
+              "size": 23.57
+            }
+          ],
+          "runner_matched_volume": 354.86,
+          "last_price_traded": 60.0,
+          "market_prob": 0.017898,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 100262460,
+          "name": "7. Worth The Ride",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 200.0,
+          "best_back_size": 4.41,
+          "best_lay": 260.0,
+          "best_lay_size": 7.46,
+          "spread": 60.0,
+          "back_ladder": [
+            {
+              "price": 200.0,
+              "size": 4.41
+            },
+            {
+              "price": 190.0,
+              "size": 1.98
+            },
+            {
+              "price": 160.0,
+              "size": 1.26
+            },
+            {
+              "price": 110.0,
+              "size": 7.69
+            },
+            {
+              "price": 75.0,
+              "size": 3.92
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 260.0,
+              "size": 7.46
+            },
+            {
+              "price": 300.0,
+              "size": 3.87
+            }
+          ],
+          "runner_matched_volume": 72.42,
+          "last_price_traded": 200.0,
+          "market_prob": 0.004922,
+          "market_rank": 9
+        },
+        {
+          "selection_id": 85542182,
+          "name": "8. I Am Steffi",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 19.0,
+          "best_back_size": 9.42,
+          "best_lay": 19.5,
+          "best_lay_size": 3.89,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 19.0,
+              "size": 9.42
+            },
+            {
+              "price": 18.5,
+              "size": 11.93
+            },
+            {
+              "price": 18.0,
+              "size": 3.32
+            },
+            {
+              "price": 17.5,
+              "size": 68.15
+            },
+            {
+              "price": 17.0,
+              "size": 12.68
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 19.5,
+              "size": 3.89
+            },
+            {
+              "price": 20.0,
+              "size": 14.07
+            },
+            {
+              "price": 21.0,
+              "size": 17.77
+            },
+            {
+              "price": 22.0,
+              "size": 22.85
+            },
+            {
+              "price": 23.0,
+              "size": 5.8
+            }
+          ],
+          "runner_matched_volume": 777.08,
+          "last_price_traded": 19.5,
+          "market_prob": 0.05181,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 4787488,
+          "name": "9. Words Of Fire",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 7.4,
+          "best_back_size": 147.2,
+          "best_lay": 7.8,
+          "best_lay_size": 41.27,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 7.4,
+              "size": 147.2
+            },
+            {
+              "price": 7.2,
+              "size": 53.73
+            },
+            {
+              "price": 7.0,
+              "size": 43.49
+            },
+            {
+              "price": 6.8,
+              "size": 117.88
+            },
+            {
+              "price": 6.6,
+              "size": 92.21
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.8,
+              "size": 41.27
+            },
+            {
+              "price": 8.0,
+              "size": 10.73
+            },
+            {
+              "price": 8.2,
+              "size": 6.35
+            },
+            {
+              "price": 8.4,
+              "size": 18.25
+            },
+            {
+              "price": 8.6,
+              "size": 12.27
+            }
+          ],
+          "runner_matched_volume": 1950.2,
+          "last_price_traded": 7.6,
+          "market_prob": 0.133026,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100486089,
+          "name": "10. Ibetty",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 90.0,
+          "best_back_size": 20.0,
+          "best_lay": 120.0,
+          "best_lay_size": 2.67,
+          "spread": 30.0,
+          "back_ladder": [
+            {
+              "price": 90.0,
+              "size": 20.0
+            },
+            {
+              "price": 75.0,
+              "size": 7.6
+            },
+            {
+              "price": 65.0,
+              "size": 6.22
+            },
+            {
+              "price": 50.0,
+              "size": 3.05
+            },
+            {
+              "price": 48.0,
+              "size": 3.08
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 120.0,
+              "size": 2.67
+            },
+            {
+              "price": 130.0,
+              "size": 4.29
+            },
+            {
+              "price": 590.0,
+              "size": 3.72
+            }
+          ],
+          "runner_matched_volume": 131.71,
+          "last_price_traded": 90.0,
+          "market_prob": 0.010938,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100486090,
+          "name": "11. Sinfull",
+          "saddle_cloth": 9,
+          "status": "ACTIVE",
+          "best_back": 6.6,
+          "best_back_size": 6.0,
+          "best_lay": 6.8,
+          "best_lay_size": 25.0,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 6.6,
+              "size": 6.0
+            },
+            {
+              "price": 6.4,
+              "size": 49.16
+            },
+            {
+              "price": 6.2,
+              "size": 21.05
+            },
+            {
+              "price": 6.0,
+              "size": 58.13
+            },
+            {
+              "price": 5.9,
+              "size": 45.04
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.8,
+              "size": 25.0
+            },
+            {
+              "price": 7.0,
+              "size": 77.65
+            },
+            {
+              "price": 7.2,
+              "size": 47.04
+            },
+            {
+              "price": 7.4,
+              "size": 41.52
+            },
+            {
+              "price": 7.6,
+              "size": 36.83
+            }
+          ],
+          "runner_matched_volume": 3134.66,
+          "last_price_traded": 6.8,
+          "market_prob": 0.149151,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 86933774,
+          "name": "12. So Sain",
+          "saddle_cloth": 10,
+          "status": "ACTIVE",
+          "best_back": 7.4,
+          "best_back_size": 11.43,
+          "best_lay": 8.2,
+          "best_lay_size": 2.0,
+          "spread": 0.8,
+          "back_ladder": [
+            {
+              "price": 7.4,
+              "size": 11.43
+            },
+            {
+              "price": 7.2,
+              "size": 14.78
+            },
+            {
+              "price": 7.0,
+              "size": 38.42
+            },
+            {
+              "price": 6.8,
+              "size": 41.89
+            },
+            {
+              "price": 6.6,
+              "size": 237.73
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.2,
+              "size": 2.0
+            },
+            {
+              "price": 8.4,
+              "size": 40.0
+            },
+            {
+              "price": 8.6,
+              "size": 22.23
+            },
+            {
+              "price": 8.8,
+              "size": 33.52
+            },
+            {
+              "price": 9.0,
+              "size": 3.85
+            }
+          ],
+          "runner_matched_volume": 1945.0,
+          "last_price_traded": 7.4,
+          "market_prob": 0.133026,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 85505629,
+          "name": "13. Pride Of Nations",
+          "saddle_cloth": 11,
+          "status": "ACTIVE",
+          "best_back": 420.0,
+          "best_back_size": 2.83,
+          "best_lay": 900.0,
+          "best_lay_size": 2.0,
+          "spread": 480.0,
+          "back_ladder": [
+            {
+              "price": 420.0,
+              "size": 2.83
+            },
+            {
+              "price": 360.0,
+              "size": 1.07
+            },
+            {
+              "price": 350.0,
+              "size": 1.18
+            },
+            {
+              "price": 330.0,
+              "size": 6.89
+            },
+            {
+              "price": 230.0,
+              "size": 2.04
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 900.0,
+              "size": 2.0
+            }
+          ],
+          "runner_matched_volume": 18.96,
+          "last_price_traded": 360.0,
+          "market_prob": 0.002344,
+          "market_rank": 11
+        },
+        {
+          "selection_id": 100019102,
+          "name": "2. Arakoola",
+          "saddle_cloth": 12,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100486087,
+          "name": "5. Kobi Express",
+          "saddle_cloth": 13,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T02:58:44.004585Z",
+      "seconds_to_off": 76,
+      "market_matched_volume": 26782.36,
+      "overround_pct": 102.0,
+      "runners": [
+        {
+          "selection_id": 100486084,
+          "name": "1. Secessionist",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 10.5,
+          "best_back_size": 13.14,
+          "best_lay": 11.0,
+          "best_lay_size": 4.73,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 10.5,
+              "size": 13.14
+            },
+            {
+              "price": 10.0,
+              "size": 24.86
+            },
+            {
+              "price": 9.8,
+              "size": 22.31
+            },
+            {
+              "price": 9.6,
+              "size": 33.61
+            },
+            {
+              "price": 9.4,
+              "size": 30.08
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 11.0,
+              "size": 4.73
+            },
+            {
+              "price": 11.5,
+              "size": 28.39
+            },
+            {
+              "price": 12.0,
+              "size": 4.85
+            },
+            {
+              "price": 12.5,
+              "size": 18.24
+            },
+            {
+              "price": 13.0,
+              "size": 55.38
+            }
+          ],
+          "runner_matched_volume": 1105.71,
+          "last_price_traded": 11.0,
+          "market_prob": 0.09339,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100486085,
+          "name": "3. Didies Meadow",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 2.64,
+          "best_back_size": 46.07,
+          "best_lay": 2.7,
+          "best_lay_size": 12.23,
+          "spread": 0.06,
+          "back_ladder": [
+            {
+              "price": 2.64,
+              "size": 46.07
+            },
+            {
+              "price": 2.62,
+              "size": 154.28
+            },
+            {
+              "price": 2.6,
+              "size": 21.55
+            },
+            {
+              "price": 2.58,
+              "size": 63.51
+            },
+            {
+              "price": 2.56,
+              "size": 61.96
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.7,
+              "size": 12.23
+            },
+            {
+              "price": 2.74,
+              "size": 6.29
+            },
+            {
+              "price": 2.76,
+              "size": 1.0
+            },
+            {
+              "price": 2.78,
+              "size": 93.55
+            },
+            {
+              "price": 2.82,
+              "size": 105.14
+            }
+          ],
+          "runner_matched_volume": 13699.73,
+          "last_price_traded": 2.66,
+          "market_prob": 0.371438,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100486086,
+          "name": "4. Bring It On Sal",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 230.0,
+          "best_back_size": 3.87,
+          "best_lay": 240.0,
+          "best_lay_size": 4.45,
+          "spread": 10.0,
+          "back_ladder": [
+            {
+              "price": 230.0,
+              "size": 3.87
+            },
+            {
+              "price": 170.0,
+              "size": 1.24
+            },
+            {
+              "price": 150.0,
+              "size": 3.0
+            },
+            {
+              "price": 140.0,
+              "size": 4.39
+            },
+            {
+              "price": 130.0,
+              "size": 1.76
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 240.0,
+              "size": 4.45
+            },
+            {
+              "price": 380.0,
+              "size": 7.21
+            },
+            {
+              "price": 390.0,
+              "size": 9.0
+            }
+          ],
+          "runner_matched_volume": 196.81,
+          "last_price_traded": 240.0,
+          "market_prob": 0.004263,
+          "market_rank": 9
+        },
+        {
+          "selection_id": 100486088,
+          "name": "6. Miss Dipsey",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 50.0,
+          "best_back_size": 19.62,
+          "best_lay": 65.0,
+          "best_lay_size": 14.12,
+          "spread": 15.0,
+          "back_ladder": [
+            {
+              "price": 50.0,
+              "size": 19.62
+            },
+            {
+              "price": 48.0,
+              "size": 18.0
+            },
+            {
+              "price": 46.0,
+              "size": 11.84
+            },
+            {
+              "price": 44.0,
+              "size": 19.72
+            },
+            {
+              "price": 42.0,
+              "size": 11.0
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 65.0,
+              "size": 14.12
+            },
+            {
+              "price": 70.0,
+              "size": 4.94
+            },
+            {
+              "price": 75.0,
+              "size": 9.56
+            },
+            {
+              "price": 90.0,
+              "size": 1.2
+            },
+            {
+              "price": 350.0,
+              "size": 1.29
+            }
+          ],
+          "runner_matched_volume": 442.52,
+          "last_price_traded": 65.0,
+          "market_prob": 0.019612,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 100262460,
+          "name": "7. Worth The Ride",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 230.0,
+          "best_back_size": 1.57,
+          "best_lay": 330.0,
+          "best_lay_size": 4.34,
+          "spread": 100.0,
+          "back_ladder": [
+            {
+              "price": 230.0,
+              "size": 1.57
+            },
+            {
+              "price": 220.0,
+              "size": 2.14
+            },
+            {
+              "price": 210.0,
+              "size": 1.93
+            },
+            {
+              "price": 200.0,
+              "size": 1.07
+            },
+            {
+              "price": 190.0,
+              "size": 3.04
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 330.0,
+              "size": 4.34
+            },
+            {
+              "price": 670.0,
+              "size": 3.91
+            },
+            {
+              "price": 680.0,
+              "size": 2.0
+            }
+          ],
+          "runner_matched_volume": 77.17,
+          "last_price_traded": 230.0,
+          "market_prob": 0.004263,
+          "market_rank": 10
+        },
+        {
+          "selection_id": 85542182,
+          "name": "8. I Am Steffi",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 19.0,
+          "best_back_size": 26.96,
+          "best_lay": 20.0,
+          "best_lay_size": 4.49,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 19.0,
+              "size": 26.96
+            },
+            {
+              "price": 18.5,
+              "size": 14.12
+            },
+            {
+              "price": 18.0,
+              "size": 22.25
+            },
+            {
+              "price": 17.5,
+              "size": 27.26
+            },
+            {
+              "price": 17.0,
+              "size": 11.11
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 20.0,
+              "size": 4.49
+            },
+            {
+              "price": 21.0,
+              "size": 15.83
+            },
+            {
+              "price": 22.0,
+              "size": 21.35
+            },
+            {
+              "price": 23.0,
+              "size": 5.8
+            },
+            {
+              "price": 24.0,
+              "size": 7.73
+            }
+          ],
+          "runner_matched_volume": 1323.57,
+          "last_price_traded": 19.0,
+          "market_prob": 0.05161,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 4787488,
+          "name": "9. Words Of Fire",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 6.8,
+          "best_back_size": 31.45,
+          "best_lay": 7.2,
+          "best_lay_size": 41.91,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 6.8,
+              "size": 31.45
+            },
+            {
+              "price": 6.6,
+              "size": 164.89
+            },
+            {
+              "price": 6.4,
+              "size": 93.45
+            },
+            {
+              "price": 6.2,
+              "size": 85.44
+            },
+            {
+              "price": 6.0,
+              "size": 116.99
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.2,
+              "size": 41.91
+            },
+            {
+              "price": 7.4,
+              "size": 7.73
+            },
+            {
+              "price": 7.6,
+              "size": 9.73
+            },
+            {
+              "price": 7.8,
+              "size": 15.35
+            },
+            {
+              "price": 8.0,
+              "size": 38.48
+            }
+          ],
+          "runner_matched_volume": 2593.36,
+          "last_price_traded": 6.8,
+          "market_prob": 0.144205,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100486089,
+          "name": "10. Ibetty",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 95.0,
+          "best_back_size": 6.94,
+          "best_lay": 120.0,
+          "best_lay_size": 3.93,
+          "spread": 25.0,
+          "back_ladder": [
+            {
+              "price": 95.0,
+              "size": 6.94
+            },
+            {
+              "price": 80.0,
+              "size": 10.37
+            },
+            {
+              "price": 75.0,
+              "size": 2.54
+            },
+            {
+              "price": 70.0,
+              "size": 1.76
+            },
+            {
+              "price": 65.0,
+              "size": 14.5
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 120.0,
+              "size": 3.93
+            },
+            {
+              "price": 140.0,
+              "size": 5.52
+            },
+            {
+              "price": 590.0,
+              "size": 3.54
+            }
+          ],
+          "runner_matched_volume": 169.11,
+          "last_price_traded": 95.0,
+          "market_prob": 0.010322,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100486090,
+          "name": "11. Sinfull",
+          "saddle_cloth": 9,
+          "status": "ACTIVE",
+          "best_back": 5.9,
+          "best_back_size": 23.53,
+          "best_lay": 6.0,
+          "best_lay_size": 125.83,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.9,
+              "size": 23.53
+            },
+            {
+              "price": 5.8,
+              "size": 311.74
+            },
+            {
+              "price": 5.7,
+              "size": 54.88
+            },
+            {
+              "price": 5.6,
+              "size": 34.1
+            },
+            {
+              "price": 5.5,
+              "size": 36.0
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.0,
+              "size": 125.83
+            },
+            {
+              "price": 6.2,
+              "size": 8.47
+            },
+            {
+              "price": 6.4,
+              "size": 40.22
+            },
+            {
+              "price": 6.6,
+              "size": 39.2
+            },
+            {
+              "price": 6.8,
+              "size": 65.31
+            }
+          ],
+          "runner_matched_volume": 4883.3,
+          "last_price_traded": 6.0,
+          "market_prob": 0.166203,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 86933774,
+          "name": "12. So Sain",
+          "saddle_cloth": 10,
+          "status": "ACTIVE",
+          "best_back": 7.4,
+          "best_back_size": 3.58,
+          "best_lay": 7.8,
+          "best_lay_size": 1.42,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 7.4,
+              "size": 3.58
+            },
+            {
+              "price": 7.2,
+              "size": 7.33
+            },
+            {
+              "price": 7.0,
+              "size": 28.61
+            },
+            {
+              "price": 6.8,
+              "size": 40.36
+            },
+            {
+              "price": 6.6,
+              "size": 257.3
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.8,
+              "size": 1.42
+            },
+            {
+              "price": 8.0,
+              "size": 55.04
+            },
+            {
+              "price": 8.2,
+              "size": 23.88
+            },
+            {
+              "price": 8.4,
+              "size": 26.39
+            },
+            {
+              "price": 8.6,
+              "size": 21.44
+            }
+          ],
+          "runner_matched_volume": 2254.81,
+          "last_price_traded": 7.8,
+          "market_prob": 0.132513,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 85505629,
+          "name": "13. Pride Of Nations",
+          "saddle_cloth": 11,
+          "status": "ACTIVE",
+          "best_back": 450.0,
+          "best_back_size": 1.96,
+          "best_lay": 520.0,
+          "best_lay_size": 1.91,
+          "spread": 70.0,
+          "back_ladder": [
+            {
+              "price": 450.0,
+              "size": 1.96
+            },
+            {
+              "price": 370.0,
+              "size": 3.87
+            },
+            {
+              "price": 310.0,
+              "size": 1.05
+            },
+            {
+              "price": 240.0,
+              "size": 1.42
+            },
+            {
+              "price": 170.0,
+              "size": 4.83
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 520.0,
+              "size": 1.91
+            },
+            {
+              "price": 530.0,
+              "size": 3.87
+            },
+            {
+              "price": 550.0,
+              "size": 9.0
+            }
+          ],
+          "runner_matched_volume": 36.21,
+          "last_price_traded": 540.0,
+          "market_prob": 0.002179,
+          "market_rank": 11
+        },
+        {
+          "selection_id": 100019102,
+          "name": "2. Arakoola",
+          "saddle_cloth": 12,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100486087,
+          "name": "5. Kobi Express",
+          "saddle_cloth": 13,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    }
+  ],
+  "finalized_at": "2026-07-12T03:10:22.652856Z"
+}
