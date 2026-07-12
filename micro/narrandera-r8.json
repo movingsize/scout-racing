@@ -1,0 +1,5187 @@
+{
+  "event_id": "narrandera-2026-07-12-r8",
+  "market_id": "1.259895841",
+  "venue": "Narrandera",
+  "race_name": "R8 1400m Hcap",
+  "start_time_utc": "2026-07-12T06:35:00.000Z",
+  "captured_by": "micro-series v1",
+  "field_size": 12,
+  "model_overlay": {
+    "72915307": {
+      "model_prob": 0.190993,
+      "model_rank": 1,
+      "model_version": "2026-07-08"
+    },
+    "76389949": {
+      "model_prob": 0.160706,
+      "model_rank": 2,
+      "model_version": "2026-07-08"
+    },
+    "11037199": {
+      "model_prob": 0.12453,
+      "model_rank": 3,
+      "model_version": "2026-07-08"
+    },
+    "80678491": {
+      "model_prob": 0.121038,
+      "model_rank": 4,
+      "model_version": "2026-07-08"
+    },
+    "93167900": {
+      "model_prob": 0.090699,
+      "model_rank": 5,
+      "model_version": "2026-07-08"
+    },
+    "79330428": {
+      "model_prob": 0.081599,
+      "model_rank": 6,
+      "model_version": "2026-07-08"
+    },
+    "100486273": {
+      "model_prob": 0.042885,
+      "model_rank": 9,
+      "model_version": "2026-07-08"
+    },
+    "100486274": {
+      "model_prob": 0.044792,
+      "model_rank": 8,
+      "model_version": "2026-07-08"
+    },
+    "100486271": {
+      "model_prob": 0.058745,
+      "model_rank": 7,
+      "model_version": "2026-07-08"
+    },
+    "91115440": {
+      "model_prob": 0.034637,
+      "model_rank": 10,
+      "model_version": "2026-07-08"
+    },
+    "100486272": {
+      "model_prob": 0.027372,
+      "model_rank": 11,
+      "model_version": "2026-07-08"
+    },
+    "35453625": {
+      "model_prob": 0.022004,
+      "model_rank": 12,
+      "model_version": "2026-07-08"
+    }
+  },
+  "bsp": {
+    "100486275": {
+      "bsp": NaN,
+      "status": "REMOVED"
+    },
+    "76389949": {
+      "bsp": 6.56,
+      "status": "LOSER"
+    },
+    "93167900": {
+      "bsp": 17.9,
+      "status": "LOSER"
+    },
+    "79330428": {
+      "bsp": 18.53,
+      "status": "LOSER"
+    },
+    "80678491": {
+      "bsp": 8.66,
+      "status": "LOSER"
+    },
+    "72915307": {
+      "bsp": 3.52,
+      "status": "LOSER"
+    },
+    "100486271": {
+      "bsp": 29.72,
+      "status": "LOSER"
+    },
+    "100486272": {
+      "bsp": 36.0,
+      "status": "LOSER"
+    },
+    "11037199": {
+      "bsp": 6.2,
+      "status": "WINNER"
+    },
+    "100486273": {
+      "bsp": 26.39,
+      "status": "LOSER"
+    },
+    "100486274": {
+      "bsp": 26.86,
+      "status": "LOSER"
+    },
+    "35453625": {
+      "bsp": 139.39,
+      "status": "LOSER"
+    },
+    "91115440": {
+      "bsp": 48.58,
+      "status": "LOSER"
+    }
+  },
+  "result": {
+    "winner": "9. National Asset",
+    "winner_bsp": 6.2,
+    "placings": [
+      "9. National Asset"
+    ],
+    "settled_at": "2026-07-12T06:38:32.261411Z"
+  },
+  "frames": [
+    {
+      "at": "2026-07-12T06:25:03.539421Z",
+      "seconds_to_off": 597,
+      "market_matched_volume": 938.45,
+      "overround_pct": 103.9,
+      "runners": [
+        {
+          "selection_id": 76389949,
+          "name": "1. Missile Defence",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 6.8,
+          "best_back_size": 1.23,
+          "best_lay": 8.2,
+          "best_lay_size": 1.93,
+          "spread": 1.4,
+          "back_ladder": [
+            {
+              "price": 6.8,
+              "size": 1.23
+            },
+            {
+              "price": 6.6,
+              "size": 5.34
+            },
+            {
+              "price": 6.2,
+              "size": 3.23
+            },
+            {
+              "price": 6.0,
+              "size": 9.61
+            },
+            {
+              "price": 5.9,
+              "size": 3.33
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.2,
+              "size": 1.93
+            },
+            {
+              "price": 8.4,
+              "size": 6.6
+            },
+            {
+              "price": 8.8,
+              "size": 7.73
+            },
+            {
+              "price": 9.0,
+              "size": 25.91
+            },
+            {
+              "price": 9.2,
+              "size": 21.5
+            }
+          ],
+          "runner_matched_volume": 85.75,
+          "last_price_traded": 6.8,
+          "market_prob": 0.141479,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 93167900,
+          "name": "2. Vasala",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 9.0,
+          "best_back_size": 4.34,
+          "best_lay": 15.0,
+          "best_lay_size": 1.37,
+          "spread": 6.0,
+          "back_ladder": [
+            {
+              "price": 9.0,
+              "size": 4.34
+            },
+            {
+              "price": 8.8,
+              "size": 30.22
+            },
+            {
+              "price": 8.6,
+              "size": 36.43
+            },
+            {
+              "price": 8.4,
+              "size": 7.49
+            },
+            {
+              "price": 8.2,
+              "size": 7.73
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 15.0,
+              "size": 1.37
+            },
+            {
+              "price": 16.5,
+              "size": 3.75
+            },
+            {
+              "price": 17.0,
+              "size": 29.44
+            },
+            {
+              "price": 18.5,
+              "size": 26.27
+            },
+            {
+              "price": 20.0,
+              "size": 20.45
+            }
+          ],
+          "runner_matched_volume": 40.18,
+          "last_price_traded": 11.5,
+          "market_prob": 0.106895,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 79330428,
+          "name": "3. Ischyros",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 12.5,
+          "best_back_size": 4.35,
+          "best_lay": 18.0,
+          "best_lay_size": 3.07,
+          "spread": 5.5,
+          "back_ladder": [
+            {
+              "price": 12.5,
+              "size": 4.35
+            },
+            {
+              "price": 12.0,
+              "size": 3.87
+            },
+            {
+              "price": 10.5,
+              "size": 11.49
+            },
+            {
+              "price": 10.0,
+              "size": 20.95
+            },
+            {
+              "price": 9.8,
+              "size": 33.98
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 18.0,
+              "size": 3.07
+            },
+            {
+              "price": 18.5,
+              "size": 3.69
+            },
+            {
+              "price": 19.0,
+              "size": 3.87
+            },
+            {
+              "price": 25.0,
+              "size": 6.0
+            },
+            {
+              "price": 30.0,
+              "size": 21.52
+            }
+          ],
+          "runner_matched_volume": 20.92,
+          "last_price_traded": 13.0,
+          "market_prob": 0.076965,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 80678491,
+          "name": "4. Black Adam",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 7.2,
+          "best_back_size": 1.23,
+          "best_lay": 9.2,
+          "best_lay_size": 3.87,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 7.2,
+              "size": 1.23
+            },
+            {
+              "price": 7.0,
+              "size": 3.87
+            },
+            {
+              "price": 6.8,
+              "size": 3.87
+            },
+            {
+              "price": 6.6,
+              "size": 10.8
+            },
+            {
+              "price": 6.4,
+              "size": 55.25
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 9.2,
+              "size": 3.87
+            },
+            {
+              "price": 9.4,
+              "size": 8.66
+            },
+            {
+              "price": 9.6,
+              "size": 24.05
+            },
+            {
+              "price": 9.8,
+              "size": 30.16
+            },
+            {
+              "price": 10.0,
+              "size": 3.87
+            }
+          ],
+          "runner_matched_volume": 97.46,
+          "last_price_traded": 7.2,
+          "market_prob": 0.133619,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 72915307,
+          "name": "5. King Incanto",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 3.6,
+          "best_back_size": 5.27,
+          "best_lay": 4.0,
+          "best_lay_size": 1.0,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 3.6,
+              "size": 5.27
+            },
+            {
+              "price": 3.55,
+              "size": 50.84
+            },
+            {
+              "price": 3.5,
+              "size": 50.0
+            },
+            {
+              "price": 3.45,
+              "size": 6.4
+            },
+            {
+              "price": 3.4,
+              "size": 47.85
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.0,
+              "size": 1.0
+            },
+            {
+              "price": 4.5,
+              "size": 1.93
+            },
+            {
+              "price": 4.6,
+              "size": 11.87
+            },
+            {
+              "price": 4.7,
+              "size": 1.93
+            },
+            {
+              "price": 4.8,
+              "size": 17.6
+            }
+          ],
+          "runner_matched_volume": 103.03,
+          "last_price_traded": 3.6,
+          "market_prob": 0.267239,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100486271,
+          "name": "7. Adasiti",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 32.0,
+          "best_back_size": 3.91,
+          "best_lay": 44.0,
+          "best_lay_size": 1.93,
+          "spread": 12.0,
+          "back_ladder": [
+            {
+              "price": 32.0,
+              "size": 3.91
+            },
+            {
+              "price": 28.0,
+              "size": 3.82
+            },
+            {
+              "price": 25.0,
+              "size": 5.81
+            },
+            {
+              "price": 24.0,
+              "size": 17.59
+            },
+            {
+              "price": 23.0,
+              "size": 8.01
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 44.0,
+              "size": 1.93
+            },
+            {
+              "price": 46.0,
+              "size": 3.87
+            },
+            {
+              "price": 50.0,
+              "size": 4.47
+            },
+            {
+              "price": 55.0,
+              "size": 2.0
+            },
+            {
+              "price": 200.0,
+              "size": 2.16
+            }
+          ],
+          "runner_matched_volume": 44.21,
+          "last_price_traded": 34.0,
+          "market_prob": 0.030064,
+          "market_rank": 9
+        },
+        {
+          "selection_id": 100486272,
+          "name": "8. Jannik",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 110.0,
+          "best_back_size": 3.77,
+          "best_lay": 360.0,
+          "best_lay_size": 2.0,
+          "spread": 250.0,
+          "back_ladder": [
+            {
+              "price": 110.0,
+              "size": 3.77
+            },
+            {
+              "price": 100.0,
+              "size": 5.08
+            },
+            {
+              "price": 95.0,
+              "size": 5.32
+            },
+            {
+              "price": 90.0,
+              "size": 6.88
+            },
+            {
+              "price": 80.0,
+              "size": 1.5
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 360.0,
+              "size": 2.0
+            },
+            {
+              "price": 370.0,
+              "size": 1.17
+            },
+            {
+              "price": 590.0,
+              "size": 2.01
+            },
+            {
+              "price": 600.0,
+              "size": 21.55
+            },
+            {
+              "price": 610.0,
+              "size": 3.87
+            }
+          ],
+          "runner_matched_volume": 13.99,
+          "last_price_traded": 110.0,
+          "market_prob": 0.008746,
+          "market_rank": 11
+        },
+        {
+          "selection_id": 11037199,
+          "name": "9. National Asset",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 7.2,
+          "best_back_size": 1.33,
+          "best_lay": 9.4,
+          "best_lay_size": 2.0,
+          "spread": 2.2,
+          "back_ladder": [
+            {
+              "price": 7.2,
+              "size": 1.33
+            },
+            {
+              "price": 6.6,
+              "size": 7.44
+            },
+            {
+              "price": 6.4,
+              "size": 36.51
+            },
+            {
+              "price": 6.2,
+              "size": 6.75
+            },
+            {
+              "price": 6.0,
+              "size": 26.8
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 9.4,
+              "size": 2.0
+            },
+            {
+              "price": 9.6,
+              "size": 1.93
+            },
+            {
+              "price": 9.8,
+              "size": 2.96
+            },
+            {
+              "price": 10.0,
+              "size": 3.19
+            },
+            {
+              "price": 17.0,
+              "size": 3.87
+            }
+          ],
+          "runner_matched_volume": 298.74,
+          "last_price_traded": 7.6,
+          "market_prob": 0.133619,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 100486273,
+          "name": "10. King De Lune",
+          "saddle_cloth": 9,
+          "status": "ACTIVE",
+          "best_back": 25.0,
+          "best_back_size": 5.22,
+          "best_lay": 30.0,
+          "best_lay_size": 38.06,
+          "spread": 5.0,
+          "back_ladder": [
+            {
+              "price": 25.0,
+              "size": 5.22
+            },
+            {
+              "price": 24.0,
+              "size": 12.68
+            },
+            {
+              "price": 23.0,
+              "size": 4.39
+            },
+            {
+              "price": 22.0,
+              "size": 4.6
+            },
+            {
+              "price": 21.0,
+              "size": 6.19
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 30.0,
+              "size": 38.06
+            },
+            {
+              "price": 32.0,
+              "size": 1.93
+            },
+            {
+              "price": 34.0,
+              "size": 1.93
+            },
+            {
+              "price": 36.0,
+              "size": 11.77
+            },
+            {
+              "price": 38.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 101.71,
+          "last_price_traded": 26.0,
+          "market_prob": 0.038482,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 100486274,
+          "name": "11. Malinga Missile",
+          "saddle_cloth": 10,
+          "status": "ACTIVE",
+          "best_back": 27.0,
+          "best_back_size": 2.0,
+          "best_lay": 32.0,
+          "best_lay_size": 1.93,
+          "spread": 5.0,
+          "back_ladder": [
+            {
+              "price": 27.0,
+              "size": 2.0
+            },
+            {
+              "price": 26.0,
+              "size": 6.01
+            },
+            {
+              "price": 24.0,
+              "size": 5.41
+            },
+            {
+              "price": 23.0,
+              "size": 4.39
+            },
+            {
+              "price": 22.0,
+              "size": 10.05
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 32.0,
+              "size": 1.93
+            },
+            {
+              "price": 95.0,
+              "size": 1.93
+            },
+            {
+              "price": 100.0,
+              "size": 21.52
+            },
+            {
+              "price": 110.0,
+              "size": 1.93
+            },
+            {
+              "price": 120.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 78.11,
+          "last_price_traded": 28.0,
+          "market_prob": 0.035632,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 35453625,
+          "name": "12. Magic Merv",
+          "saddle_cloth": 11,
+          "status": "ACTIVE",
+          "best_back": 120.0,
+          "best_back_size": 3.52,
+          "best_lay": 310.0,
+          "best_lay_size": 3.93,
+          "spread": 190.0,
+          "back_ladder": [
+            {
+              "price": 120.0,
+              "size": 3.52
+            },
+            {
+              "price": 85.0,
+              "size": 7.84
+            },
+            {
+              "price": 70.0,
+              "size": 1.86
+            },
+            {
+              "price": 50.0,
+              "size": 69.69
+            },
+            {
+              "price": 48.0,
+              "size": 2.05
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 310.0,
+              "size": 3.93
+            },
+            {
+              "price": 320.0,
+              "size": 3.87
+            },
+            {
+              "price": 450.0,
+              "size": 1.51
+            }
+          ],
+          "runner_matched_volume": 11.38,
+          "last_price_traded": 130.0,
+          "market_prob": 0.008017,
+          "market_rank": 12
+        },
+        {
+          "selection_id": 91115440,
+          "name": "13. Desert Opal",
+          "saddle_cloth": 12,
+          "status": "ACTIVE",
+          "best_back": 50.0,
+          "best_back_size": 3.06,
+          "best_lay": 100.0,
+          "best_lay_size": 1.93,
+          "spread": 50.0,
+          "back_ladder": [
+            {
+              "price": 50.0,
+              "size": 3.06
+            },
+            {
+              "price": 48.0,
+              "size": 1.84
+            },
+            {
+              "price": 42.0,
+              "size": 2.86
+            },
+            {
+              "price": 40.0,
+              "size": 2.38
+            },
+            {
+              "price": 38.0,
+              "size": 2.84
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 100.0,
+              "size": 1.93
+            },
+            {
+              "price": 110.0,
+              "size": 4.54
+            },
+            {
+              "price": 320.0,
+              "size": 3.04
+            },
+            {
+              "price": 410.0,
+              "size": 1.97
+            },
+            {
+              "price": 600.0,
+              "size": 21.27
+            }
+          ],
+          "runner_matched_volume": 42.91,
+          "last_price_traded": 55.0,
+          "market_prob": 0.019241,
+          "market_rank": 10
+        },
+        {
+          "selection_id": 100486275,
+          "name": "14. Boy From Tennessee",
+          "saddle_cloth": 13,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T06:26:40.853349Z",
+      "seconds_to_off": 500,
+      "market_matched_volume": 1754.54,
+      "overround_pct": 101.5,
+      "runners": [
+        {
+          "selection_id": 76389949,
+          "name": "1. Missile Defence",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 6.2,
+          "best_back_size": 13.56,
+          "best_lay": 6.8,
+          "best_lay_size": 3.62,
+          "spread": 0.6,
+          "back_ladder": [
+            {
+              "price": 6.2,
+              "size": 13.56
+            },
+            {
+              "price": 6.0,
+              "size": 19.25
+            },
+            {
+              "price": 5.9,
+              "size": 2.2
+            },
+            {
+              "price": 5.8,
+              "size": 55.82
+            },
+            {
+              "price": 5.7,
+              "size": 7.5
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.8,
+              "size": 3.62
+            },
+            {
+              "price": 7.2,
+              "size": 1.33
+            },
+            {
+              "price": 7.4,
+              "size": 27.47
+            },
+            {
+              "price": 8.4,
+              "size": 6.6
+            },
+            {
+              "price": 8.8,
+              "size": 3.87
+            }
+          ],
+          "runner_matched_volume": 132.97,
+          "last_price_traded": 6.8,
+          "market_prob": 0.158842,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 93167900,
+          "name": "2. Vasala",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 10.5,
+          "best_back_size": 5.26,
+          "best_lay": 13.5,
+          "best_lay_size": 2.46,
+          "spread": 3.0,
+          "back_ladder": [
+            {
+              "price": 10.5,
+              "size": 5.26
+            },
+            {
+              "price": 10.0,
+              "size": 13.01
+            },
+            {
+              "price": 9.8,
+              "size": 24.95
+            },
+            {
+              "price": 9.6,
+              "size": 12.33
+            },
+            {
+              "price": 9.4,
+              "size": 29.25
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 13.5,
+              "size": 2.46
+            },
+            {
+              "price": 15.5,
+              "size": 4.6
+            },
+            {
+              "price": 16.0,
+              "size": 30.58
+            },
+            {
+              "price": 16.5,
+              "size": 1.93
+            },
+            {
+              "price": 17.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 159.49,
+          "last_price_traded": 13.5,
+          "market_prob": 0.093793,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 79330428,
+          "name": "3. Ischyros",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 14.5,
+          "best_back_size": 3.7,
+          "best_lay": 16.0,
+          "best_lay_size": 6.8,
+          "spread": 1.5,
+          "back_ladder": [
+            {
+              "price": 14.5,
+              "size": 3.7
+            },
+            {
+              "price": 14.0,
+              "size": 3.87
+            },
+            {
+              "price": 12.5,
+              "size": 1.55
+            },
+            {
+              "price": 12.0,
+              "size": 8.55
+            },
+            {
+              "price": 11.5,
+              "size": 9.69
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 16.0,
+              "size": 6.8
+            },
+            {
+              "price": 18.5,
+              "size": 3.6
+            },
+            {
+              "price": 25.0,
+              "size": 6.0
+            },
+            {
+              "price": 30.0,
+              "size": 21.52
+            },
+            {
+              "price": 38.0,
+              "size": 21.52
+            }
+          ],
+          "runner_matched_volume": 115.64,
+          "last_price_traded": 16.0,
+          "market_prob": 0.067919,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 80678491,
+          "name": "4. Black Adam",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 7.6,
+          "best_back_size": 10.29,
+          "best_lay": 8.8,
+          "best_lay_size": 7.95,
+          "spread": 1.2,
+          "back_ladder": [
+            {
+              "price": 7.6,
+              "size": 10.29
+            },
+            {
+              "price": 7.4,
+              "size": 2.05
+            },
+            {
+              "price": 7.2,
+              "size": 10.39
+            },
+            {
+              "price": 7.0,
+              "size": 1.93
+            },
+            {
+              "price": 6.6,
+              "size": 43.2
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.8,
+              "size": 7.95
+            },
+            {
+              "price": 9.4,
+              "size": 8.66
+            },
+            {
+              "price": 9.6,
+              "size": 1.93
+            },
+            {
+              "price": 9.8,
+              "size": 1.93
+            },
+            {
+              "price": 10.0,
+              "size": 30.22
+            }
+          ],
+          "runner_matched_volume": 179.09,
+          "last_price_traded": 8.0,
+          "market_prob": 0.129582,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 72915307,
+          "name": "5. King Incanto",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 3.75,
+          "best_back_size": 18.18,
+          "best_lay": 4.0,
+          "best_lay_size": 7.46,
+          "spread": 0.25,
+          "back_ladder": [
+            {
+              "price": 3.75,
+              "size": 18.18
+            },
+            {
+              "price": 3.7,
+              "size": 2.13
+            },
+            {
+              "price": 3.65,
+              "size": 9.73
+            },
+            {
+              "price": 3.6,
+              "size": 48.94
+            },
+            {
+              "price": 3.55,
+              "size": 102.9
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.0,
+              "size": 7.46
+            },
+            {
+              "price": 4.1,
+              "size": 9.99
+            },
+            {
+              "price": 4.2,
+              "size": 9.67
+            },
+            {
+              "price": 4.4,
+              "size": 1.93
+            },
+            {
+              "price": 4.5,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 239.62,
+          "last_price_traded": 4.0,
+          "market_prob": 0.262619,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100486271,
+          "name": "7. Adasiti",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 29.0,
+          "best_back_size": 1.79,
+          "best_lay": 34.0,
+          "best_lay_size": 1.75,
+          "spread": 5.0,
+          "back_ladder": [
+            {
+              "price": 29.0,
+              "size": 1.79
+            },
+            {
+              "price": 28.0,
+              "size": 2.11
+            },
+            {
+              "price": 25.0,
+              "size": 2.24
+            },
+            {
+              "price": 24.0,
+              "size": 1.79
+            },
+            {
+              "price": 23.0,
+              "size": 12.22
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 34.0,
+              "size": 1.75
+            },
+            {
+              "price": 36.0,
+              "size": 8.56
+            },
+            {
+              "price": 40.0,
+              "size": 1.16
+            },
+            {
+              "price": 42.0,
+              "size": 1.93
+            },
+            {
+              "price": 44.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 85.06,
+          "last_price_traded": 28.0,
+          "market_prob": 0.033959,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 100486272,
+          "name": "8. Jannik",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 90.0,
+          "best_back_size": 3.13,
+          "best_lay": 140.0,
+          "best_lay_size": 2.02,
+          "spread": 50.0,
+          "back_ladder": [
+            {
+              "price": 90.0,
+              "size": 3.13
+            },
+            {
+              "price": 70.0,
+              "size": 1.71
+            },
+            {
+              "price": 60.0,
+              "size": 7.05
+            },
+            {
+              "price": 55.0,
+              "size": 10.01
+            },
+            {
+              "price": 50.0,
+              "size": 4.0
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 140.0,
+              "size": 2.02
+            },
+            {
+              "price": 600.0,
+              "size": 1.21
+            }
+          ],
+          "runner_matched_volume": 34.84,
+          "last_price_traded": 140.0,
+          "market_prob": 0.010942,
+          "market_rank": 11
+        },
+        {
+          "selection_id": 11037199,
+          "name": "9. National Asset",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 6.4,
+          "best_back_size": 2.67,
+          "best_lay": 7.2,
+          "best_lay_size": 1.64,
+          "spread": 0.8,
+          "back_ladder": [
+            {
+              "price": 6.4,
+              "size": 2.67
+            },
+            {
+              "price": 6.2,
+              "size": 9.62
+            },
+            {
+              "price": 6.0,
+              "size": 2.76
+            },
+            {
+              "price": 5.9,
+              "size": 3.0
+            },
+            {
+              "price": 5.8,
+              "size": 1.66
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.2,
+              "size": 1.64
+            },
+            {
+              "price": 7.4,
+              "size": 7.5
+            },
+            {
+              "price": 7.6,
+              "size": 1.33
+            },
+            {
+              "price": 10.0,
+              "size": 3.19
+            },
+            {
+              "price": 14.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 367.43,
+          "last_price_traded": 7.2,
+          "market_prob": 0.153878,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100486273,
+          "name": "10. King De Lune",
+          "saddle_cloth": 9,
+          "status": "ACTIVE",
+          "best_back": 30.0,
+          "best_back_size": 1.72,
+          "best_lay": 38.0,
+          "best_lay_size": 3.73,
+          "spread": 8.0,
+          "back_ladder": [
+            {
+              "price": 30.0,
+              "size": 1.72
+            },
+            {
+              "price": 29.0,
+              "size": 2.88
+            },
+            {
+              "price": 27.0,
+              "size": 4.64
+            },
+            {
+              "price": 26.0,
+              "size": 4.93
+            },
+            {
+              "price": 25.0,
+              "size": 6.39
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 38.0,
+              "size": 3.73
+            },
+            {
+              "price": 40.0,
+              "size": 3.87
+            },
+            {
+              "price": 42.0,
+              "size": 1.66
+            },
+            {
+              "price": 46.0,
+              "size": 3.87
+            },
+            {
+              "price": 160.0,
+              "size": 3.63
+            }
+          ],
+          "runner_matched_volume": 248.81,
+          "last_price_traded": 38.0,
+          "market_prob": 0.032827,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100486274,
+          "name": "11. Malinga Missile",
+          "saddle_cloth": 10,
+          "status": "ACTIVE",
+          "best_back": 34.0,
+          "best_back_size": 1.52,
+          "best_lay": 75.0,
+          "best_lay_size": 3.03,
+          "spread": 41.0,
+          "back_ladder": [
+            {
+              "price": 34.0,
+              "size": 1.52
+            },
+            {
+              "price": 32.0,
+              "size": 1.7
+            },
+            {
+              "price": 30.0,
+              "size": 2.51
+            },
+            {
+              "price": 29.0,
+              "size": 2.88
+            },
+            {
+              "price": 28.0,
+              "size": 2.69
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 75.0,
+              "size": 3.03
+            },
+            {
+              "price": 80.0,
+              "size": 2.0
+            },
+            {
+              "price": 85.0,
+              "size": 1.91
+            },
+            {
+              "price": 90.0,
+              "size": 21.52
+            },
+            {
+              "price": 95.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 108.5,
+          "last_price_traded": 38.0,
+          "market_prob": 0.028965,
+          "market_rank": 9
+        },
+        {
+          "selection_id": 35453625,
+          "name": "12. Magic Merv",
+          "saddle_cloth": 11,
+          "status": "ACTIVE",
+          "best_back": 160.0,
+          "best_back_size": 1.03,
+          "best_lay": 330.0,
+          "best_lay_size": 2.05,
+          "spread": 170.0,
+          "back_ladder": [
+            {
+              "price": 160.0,
+              "size": 1.03
+            },
+            {
+              "price": 140.0,
+              "size": 4.05
+            },
+            {
+              "price": 100.0,
+              "size": 7.78
+            },
+            {
+              "price": 80.0,
+              "size": 1.17
+            },
+            {
+              "price": 70.0,
+              "size": 1.44
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 330.0,
+              "size": 2.05
+            },
+            {
+              "price": 340.0,
+              "size": 3.87
+            },
+            {
+              "price": 580.0,
+              "size": 1.18
+            }
+          ],
+          "runner_matched_volume": 13.88,
+          "last_price_traded": 160.0,
+          "market_prob": 0.006155,
+          "market_rank": 12
+        },
+        {
+          "selection_id": 91115440,
+          "name": "13. Desert Opal",
+          "saddle_cloth": 12,
+          "status": "ACTIVE",
+          "best_back": 48.0,
+          "best_back_size": 1.06,
+          "best_lay": 60.0,
+          "best_lay_size": 5.85,
+          "spread": 12.0,
+          "back_ladder": [
+            {
+              "price": 48.0,
+              "size": 1.06
+            },
+            {
+              "price": 44.0,
+              "size": 4.5
+            },
+            {
+              "price": 42.0,
+              "size": 1.99
+            },
+            {
+              "price": 38.0,
+              "size": 2.84
+            },
+            {
+              "price": 36.0,
+              "size": 3.37
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 60.0,
+              "size": 5.85
+            },
+            {
+              "price": 75.0,
+              "size": 4.33
+            },
+            {
+              "price": 130.0,
+              "size": 1.18
+            },
+            {
+              "price": 290.0,
+              "size": 2.79
+            },
+            {
+              "price": 600.0,
+              "size": 21.3
+            }
+          ],
+          "runner_matched_volume": 69.17,
+          "last_price_traded": 46.0,
+          "market_prob": 0.020517,
+          "market_rank": 10
+        },
+        {
+          "selection_id": 100486275,
+          "name": "14. Boy From Tennessee",
+          "saddle_cloth": 13,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T06:28:13.355408Z",
+      "seconds_to_off": 407,
+      "market_matched_volume": 2794.25,
+      "overround_pct": 107.6,
+      "runners": [
+        {
+          "selection_id": 76389949,
+          "name": "1. Missile Defence",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 5.6,
+          "best_back_size": 8.05,
+          "best_lay": 5.9,
+          "best_lay_size": 29.96,
+          "spread": 0.3,
+          "back_ladder": [
+            {
+              "price": 5.6,
+              "size": 8.05
+            },
+            {
+              "price": 5.5,
+              "size": 4.41
+            },
+            {
+              "price": 5.4,
+              "size": 57.62
+            },
+            {
+              "price": 5.3,
+              "size": 3.51
+            },
+            {
+              "price": 5.2,
+              "size": 3.87
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.9,
+              "size": 29.96
+            },
+            {
+              "price": 6.0,
+              "size": 25.0
+            },
+            {
+              "price": 6.6,
+              "size": 8.66
+            },
+            {
+              "price": 6.8,
+              "size": 8.85
+            },
+            {
+              "price": 7.2,
+              "size": 1.33
+            }
+          ],
+          "runner_matched_volume": 547.02,
+          "last_price_traded": 5.7,
+          "market_prob": 0.166003,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 93167900,
+          "name": "2. Vasala",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 9.6,
+          "best_back_size": 7.73,
+          "best_lay": 14.0,
+          "best_lay_size": 1.14,
+          "spread": 4.4,
+          "back_ladder": [
+            {
+              "price": 9.6,
+              "size": 7.73
+            },
+            {
+              "price": 9.4,
+              "size": 29.37
+            },
+            {
+              "price": 9.2,
+              "size": 11.92
+            },
+            {
+              "price": 9.0,
+              "size": 39.14
+            },
+            {
+              "price": 8.8,
+              "size": 23.46
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 14.0,
+              "size": 1.14
+            },
+            {
+              "price": 15.5,
+              "size": 3.81
+            },
+            {
+              "price": 16.0,
+              "size": 11.48
+            },
+            {
+              "price": 16.5,
+              "size": 1.93
+            },
+            {
+              "price": 17.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 198.92,
+          "last_price_traded": 9.8,
+          "market_prob": 0.096835,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 79330428,
+          "name": "3. Ischyros",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 13.0,
+          "best_back_size": 5.53,
+          "best_lay": 16.5,
+          "best_lay_size": 1.93,
+          "spread": 3.5,
+          "back_ladder": [
+            {
+              "price": 13.0,
+              "size": 5.53
+            },
+            {
+              "price": 12.5,
+              "size": 1.55
+            },
+            {
+              "price": 12.0,
+              "size": 7.73
+            },
+            {
+              "price": 11.5,
+              "size": 31.78
+            },
+            {
+              "price": 11.0,
+              "size": 7.73
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 16.5,
+              "size": 1.93
+            },
+            {
+              "price": 17.0,
+              "size": 8.18
+            },
+            {
+              "price": 18.5,
+              "size": 1.88
+            },
+            {
+              "price": 19.0,
+              "size": 5.8
+            },
+            {
+              "price": 25.0,
+              "size": 6.04
+            }
+          ],
+          "runner_matched_volume": 159.16,
+          "last_price_traded": 14.5,
+          "market_prob": 0.071509,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 80678491,
+          "name": "4. Black Adam",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 7.4,
+          "best_back_size": 4.18,
+          "best_lay": 7.8,
+          "best_lay_size": 18.27,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 7.4,
+              "size": 4.18
+            },
+            {
+              "price": 7.2,
+              "size": 33.72
+            },
+            {
+              "price": 7.0,
+              "size": 44.47
+            },
+            {
+              "price": 6.8,
+              "size": 3.87
+            },
+            {
+              "price": 6.6,
+              "size": 4.04
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.8,
+              "size": 18.27
+            },
+            {
+              "price": 8.0,
+              "size": 8.0
+            },
+            {
+              "price": 8.4,
+              "size": 7.81
+            },
+            {
+              "price": 8.6,
+              "size": 20.76
+            },
+            {
+              "price": 8.8,
+              "size": 20.32
+            }
+          ],
+          "runner_matched_volume": 294.69,
+          "last_price_traded": 7.8,
+          "market_prob": 0.125624,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 72915307,
+          "name": "5. King Incanto",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 3.65,
+          "best_back_size": 16.28,
+          "best_lay": 4.1,
+          "best_lay_size": 9.43,
+          "spread": 0.45,
+          "back_ladder": [
+            {
+              "price": 3.65,
+              "size": 16.28
+            },
+            {
+              "price": 3.6,
+              "size": 58.99
+            },
+            {
+              "price": 3.55,
+              "size": 100.84
+            },
+            {
+              "price": 3.5,
+              "size": 3.87
+            },
+            {
+              "price": 3.45,
+              "size": 6.4
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.1,
+              "size": 9.43
+            },
+            {
+              "price": 4.2,
+              "size": 9.67
+            },
+            {
+              "price": 4.3,
+              "size": 2.22
+            },
+            {
+              "price": 4.4,
+              "size": 6.61
+            },
+            {
+              "price": 4.5,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 418.81,
+          "last_price_traded": 3.95,
+          "market_prob": 0.25469,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100486271,
+          "name": "7. Adasiti",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 29.0,
+          "best_back_size": 1.37,
+          "best_lay": 34.0,
+          "best_lay_size": 8.26,
+          "spread": 5.0,
+          "back_ladder": [
+            {
+              "price": 29.0,
+              "size": 1.37
+            },
+            {
+              "price": 25.0,
+              "size": 1.47
+            },
+            {
+              "price": 24.0,
+              "size": 1.84
+            },
+            {
+              "price": 23.0,
+              "size": 12.35
+            },
+            {
+              "price": 22.0,
+              "size": 12.75
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 34.0,
+              "size": 8.26
+            },
+            {
+              "price": 40.0,
+              "size": 1.74
+            },
+            {
+              "price": 55.0,
+              "size": 2.6
+            },
+            {
+              "price": 170.0,
+              "size": 2.52
+            },
+            {
+              "price": 250.0,
+              "size": 3.87
+            }
+          ],
+          "runner_matched_volume": 110.63,
+          "last_price_traded": 29.0,
+          "market_prob": 0.032056,
+          "market_rank": 9
+        },
+        {
+          "selection_id": 100486272,
+          "name": "8. Jannik",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 65.0,
+          "best_back_size": 5.17,
+          "best_lay": 160.0,
+          "best_lay_size": 4.35,
+          "spread": 95.0,
+          "back_ladder": [
+            {
+              "price": 65.0,
+              "size": 5.17
+            },
+            {
+              "price": 60.0,
+              "size": 4.52
+            },
+            {
+              "price": 55.0,
+              "size": 3.87
+            },
+            {
+              "price": 50.0,
+              "size": 2.03
+            },
+            {
+              "price": 48.0,
+              "size": 2.03
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 160.0,
+              "size": 4.35
+            },
+            {
+              "price": 170.0,
+              "size": 3.87
+            },
+            {
+              "price": 380.0,
+              "size": 1.37
+            }
+          ],
+          "runner_matched_volume": 40.08,
+          "last_price_traded": 160.0,
+          "market_prob": 0.014302,
+          "market_rank": 11
+        },
+        {
+          "selection_id": 11037199,
+          "name": "9. National Asset",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 6.4,
+          "best_back_size": 4.54,
+          "best_lay": 7.4,
+          "best_lay_size": 12.68,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 6.4,
+              "size": 4.54
+            },
+            {
+              "price": 6.2,
+              "size": 5.24
+            },
+            {
+              "price": 6.0,
+              "size": 28.01
+            },
+            {
+              "price": 5.9,
+              "size": 34.29
+            },
+            {
+              "price": 5.7,
+              "size": 33.5
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.4,
+              "size": 12.68
+            },
+            {
+              "price": 7.6,
+              "size": 1.93
+            },
+            {
+              "price": 7.8,
+              "size": 1.93
+            },
+            {
+              "price": 8.0,
+              "size": 1.93
+            },
+            {
+              "price": 9.8,
+              "size": 3.56
+            }
+          ],
+          "runner_matched_volume": 469.68,
+          "last_price_traded": 6.6,
+          "market_prob": 0.145253,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100486273,
+          "name": "10. King De Lune",
+          "saddle_cloth": 9,
+          "status": "ACTIVE",
+          "best_back": 27.0,
+          "best_back_size": 3.87,
+          "best_lay": 36.0,
+          "best_lay_size": 4.38,
+          "spread": 9.0,
+          "back_ladder": [
+            {
+              "price": 27.0,
+              "size": 3.87
+            },
+            {
+              "price": 25.0,
+              "size": 1.55
+            },
+            {
+              "price": 24.0,
+              "size": 3.41
+            },
+            {
+              "price": 23.0,
+              "size": 11.34
+            },
+            {
+              "price": 22.0,
+              "size": 4.6
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 36.0,
+              "size": 4.38
+            },
+            {
+              "price": 38.0,
+              "size": 5.0
+            },
+            {
+              "price": 44.0,
+              "size": 3.89
+            },
+            {
+              "price": 190.0,
+              "size": 3.05
+            },
+            {
+              "price": 210.0,
+              "size": 3.87
+            }
+          ],
+          "runner_matched_volume": 291.3,
+          "last_price_traded": 36.0,
+          "market_prob": 0.03443,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100486274,
+          "name": "11. Malinga Missile",
+          "saddle_cloth": 10,
+          "status": "ACTIVE",
+          "best_back": 26.0,
+          "best_back_size": 4.31,
+          "best_lay": 55.0,
+          "best_lay_size": 2.9,
+          "spread": 29.0,
+          "back_ladder": [
+            {
+              "price": 26.0,
+              "size": 4.31
+            },
+            {
+              "price": 24.0,
+              "size": 5.39
+            },
+            {
+              "price": 23.0,
+              "size": 4.39
+            },
+            {
+              "price": 22.0,
+              "size": 19.93
+            },
+            {
+              "price": 21.0,
+              "size": 75.71
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 55.0,
+              "size": 2.9
+            },
+            {
+              "price": 60.0,
+              "size": 2.0
+            },
+            {
+              "price": 160.0,
+              "size": 1.93
+            },
+            {
+              "price": 170.0,
+              "size": 3.01
+            },
+            {
+              "price": 200.0,
+              "size": 3.87
+            }
+          ],
+          "runner_matched_volume": 146.52,
+          "last_price_traded": 36.0,
+          "market_prob": 0.035755,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 35453625,
+          "name": "12. Magic Merv",
+          "saddle_cloth": 11,
+          "status": "ACTIVE",
+          "best_back": 140.0,
+          "best_back_size": 4.82,
+          "best_lay": 350.0,
+          "best_lay_size": 2.52,
+          "spread": 210.0,
+          "back_ladder": [
+            {
+              "price": 140.0,
+              "size": 4.82
+            },
+            {
+              "price": 130.0,
+              "size": 5.0
+            },
+            {
+              "price": 120.0,
+              "size": 1.87
+            },
+            {
+              "price": 75.0,
+              "size": 6.09
+            },
+            {
+              "price": 50.0,
+              "size": 61.32
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 350.0,
+              "size": 2.52
+            },
+            {
+              "price": 360.0,
+              "size": 3.87
+            }
+          ],
+          "runner_matched_volume": 15.9,
+          "last_price_traded": 350.0,
+          "market_prob": 0.00664,
+          "market_rank": 12
+        },
+        {
+          "selection_id": 91115440,
+          "name": "13. Desert Opal",
+          "saddle_cloth": 12,
+          "status": "ACTIVE",
+          "best_back": 55.0,
+          "best_back_size": 3.87,
+          "best_lay": 85.0,
+          "best_lay_size": 1.91,
+          "spread": 30.0,
+          "back_ladder": [
+            {
+              "price": 55.0,
+              "size": 3.87
+            },
+            {
+              "price": 50.0,
+              "size": 1.76
+            },
+            {
+              "price": 48.0,
+              "size": 3.21
+            },
+            {
+              "price": 42.0,
+              "size": 5.73
+            },
+            {
+              "price": 40.0,
+              "size": 9.89
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 85.0,
+              "size": 1.91
+            },
+            {
+              "price": 100.0,
+              "size": 3.87
+            },
+            {
+              "price": 290.0,
+              "size": 1.06
+            },
+            {
+              "price": 350.0,
+              "size": 2.31
+            },
+            {
+              "price": 600.0,
+              "size": 21.3
+            }
+          ],
+          "runner_matched_volume": 101.49,
+          "last_price_traded": 60.0,
+          "market_prob": 0.016902,
+          "market_rank": 10
+        },
+        {
+          "selection_id": 100486275,
+          "name": "14. Boy From Tennessee",
+          "saddle_cloth": 13,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T06:29:30.230641Z",
+      "seconds_to_off": 330,
+      "market_matched_volume": 3416.24,
+      "overround_pct": 101.3,
+      "runners": [
+        {
+          "selection_id": 76389949,
+          "name": "1. Missile Defence",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 5.3,
+          "best_back_size": 67.17,
+          "best_lay": 5.6,
+          "best_lay_size": 2.08,
+          "spread": 0.3,
+          "back_ladder": [
+            {
+              "price": 5.3,
+              "size": 67.17
+            },
+            {
+              "price": 5.2,
+              "size": 3.87
+            },
+            {
+              "price": 5.1,
+              "size": 11.23
+            },
+            {
+              "price": 5.0,
+              "size": 45.64
+            },
+            {
+              "price": 4.9,
+              "size": 149.86
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.6,
+              "size": 2.08
+            },
+            {
+              "price": 5.9,
+              "size": 1.93
+            },
+            {
+              "price": 6.0,
+              "size": 25.0
+            },
+            {
+              "price": 6.6,
+              "size": 8.84
+            },
+            {
+              "price": 6.8,
+              "size": 8.85
+            }
+          ],
+          "runner_matched_volume": 734.7,
+          "last_price_traded": 5.3,
+          "market_prob": 0.186306,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 93167900,
+          "name": "2. Vasala",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 11.0,
+          "best_back_size": 6.0,
+          "best_lay": 15.0,
+          "best_lay_size": 3.69,
+          "spread": 4.0,
+          "back_ladder": [
+            {
+              "price": 11.0,
+              "size": 6.0
+            },
+            {
+              "price": 9.6,
+              "size": 11.6
+            },
+            {
+              "price": 9.4,
+              "size": 29.37
+            },
+            {
+              "price": 9.2,
+              "size": 8.06
+            },
+            {
+              "price": 9.0,
+              "size": 39.14
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 15.0,
+              "size": 3.69
+            },
+            {
+              "price": 15.5,
+              "size": 3.81
+            },
+            {
+              "price": 16.0,
+              "size": 32.79
+            },
+            {
+              "price": 16.5,
+              "size": 3.87
+            },
+            {
+              "price": 17.0,
+              "size": 3.87
+            }
+          ],
+          "runner_matched_volume": 205.2,
+          "last_price_traded": 11.5,
+          "market_prob": 0.089765,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 79330428,
+          "name": "3. Ischyros",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 15.5,
+          "best_back_size": 7.48,
+          "best_lay": 17.0,
+          "best_lay_size": 1.32,
+          "spread": 1.5,
+          "back_ladder": [
+            {
+              "price": 15.5,
+              "size": 7.48
+            },
+            {
+              "price": 13.5,
+              "size": 4.28
+            },
+            {
+              "price": 13.0,
+              "size": 3.82
+            },
+            {
+              "price": 12.5,
+              "size": 4.95
+            },
+            {
+              "price": 12.0,
+              "size": 11.13
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 17.0,
+              "size": 1.32
+            },
+            {
+              "price": 18.5,
+              "size": 2.24
+            },
+            {
+              "price": 19.0,
+              "size": 3.87
+            },
+            {
+              "price": 19.5,
+              "size": 1.49
+            },
+            {
+              "price": 20.0,
+              "size": 4.65
+            }
+          ],
+          "runner_matched_volume": 175.95,
+          "last_price_traded": 15.5,
+          "market_prob": 0.063705,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 80678491,
+          "name": "4. Black Adam",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 7.6,
+          "best_back_size": 8.0,
+          "best_lay": 7.8,
+          "best_lay_size": 19.49,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 7.6,
+              "size": 8.0
+            },
+            {
+              "price": 7.4,
+              "size": 14.41
+            },
+            {
+              "price": 7.2,
+              "size": 38.86
+            },
+            {
+              "price": 7.0,
+              "size": 2.26
+            },
+            {
+              "price": 6.8,
+              "size": 53.26
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.8,
+              "size": 19.49
+            },
+            {
+              "price": 8.0,
+              "size": 8.0
+            },
+            {
+              "price": 8.4,
+              "size": 7.81
+            },
+            {
+              "price": 8.6,
+              "size": 20.76
+            },
+            {
+              "price": 8.8,
+              "size": 20.32
+            }
+          ],
+          "runner_matched_volume": 376.62,
+          "last_price_traded": 7.6,
+          "market_prob": 0.129924,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 72915307,
+          "name": "5. King Incanto",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 3.95,
+          "best_back_size": 2.13,
+          "best_lay": 4.1,
+          "best_lay_size": 8.73,
+          "spread": 0.15,
+          "back_ladder": [
+            {
+              "price": 3.95,
+              "size": 2.13
+            },
+            {
+              "price": 3.9,
+              "size": 20.69
+            },
+            {
+              "price": 3.7,
+              "size": 9.29
+            },
+            {
+              "price": 3.65,
+              "size": 16.24
+            },
+            {
+              "price": 3.6,
+              "size": 71.16
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.1,
+              "size": 8.73
+            },
+            {
+              "price": 4.2,
+              "size": 9.98
+            },
+            {
+              "price": 4.3,
+              "size": 2.22
+            },
+            {
+              "price": 4.4,
+              "size": 1.93
+            },
+            {
+              "price": 4.5,
+              "size": 16.9
+            }
+          ],
+          "runner_matched_volume": 508.72,
+          "last_price_traded": 4.0,
+          "market_prob": 0.24998,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100486271,
+          "name": "7. Adasiti",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 34.0,
+          "best_back_size": 1.58,
+          "best_lay": 36.0,
+          "best_lay_size": 7.13,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 34.0,
+              "size": 1.58
+            },
+            {
+              "price": 32.0,
+              "size": 3.71
+            },
+            {
+              "price": 30.0,
+              "size": 2.73
+            },
+            {
+              "price": 29.0,
+              "size": 2.73
+            },
+            {
+              "price": 28.0,
+              "size": 1.59
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 36.0,
+              "size": 7.13
+            },
+            {
+              "price": 40.0,
+              "size": 1.51
+            },
+            {
+              "price": 55.0,
+              "size": 2.62
+            },
+            {
+              "price": 190.0,
+              "size": 2.26
+            },
+            {
+              "price": 250.0,
+              "size": 3.87
+            }
+          ],
+          "runner_matched_volume": 118.71,
+          "last_price_traded": 34.0,
+          "market_prob": 0.029042,
+          "market_rank": 9
+        },
+        {
+          "selection_id": 100486272,
+          "name": "8. Jannik",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 80.0,
+          "best_back_size": 1.05,
+          "best_lay": 150.0,
+          "best_lay_size": 4.37,
+          "spread": 70.0,
+          "back_ladder": [
+            {
+              "price": 80.0,
+              "size": 1.05
+            },
+            {
+              "price": 70.0,
+              "size": 1.45
+            },
+            {
+              "price": 65.0,
+              "size": 5.0
+            },
+            {
+              "price": 60.0,
+              "size": 4.52
+            },
+            {
+              "price": 50.0,
+              "size": 2.03
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 150.0,
+              "size": 4.37
+            },
+            {
+              "price": 380.0,
+              "size": 2.34
+            }
+          ],
+          "runner_matched_volume": 40.71,
+          "last_price_traded": 95.0,
+          "market_prob": 0.012343,
+          "market_rank": 11
+        },
+        {
+          "selection_id": 11037199,
+          "name": "9. National Asset",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 6.8,
+          "best_back_size": 2.12,
+          "best_lay": 7.0,
+          "best_lay_size": 85.72,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 6.8,
+              "size": 2.12
+            },
+            {
+              "price": 6.6,
+              "size": 16.87
+            },
+            {
+              "price": 6.4,
+              "size": 6.44
+            },
+            {
+              "price": 6.2,
+              "size": 16.54
+            },
+            {
+              "price": 6.0,
+              "size": 50.93
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.0,
+              "size": 85.72
+            },
+            {
+              "price": 7.4,
+              "size": 11.13
+            },
+            {
+              "price": 7.6,
+              "size": 1.93
+            },
+            {
+              "price": 7.8,
+              "size": 3.87
+            },
+            {
+              "price": 8.0,
+              "size": 3.87
+            }
+          ],
+          "runner_matched_volume": 539.15,
+          "last_price_traded": 6.8,
+          "market_prob": 0.145209,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100486273,
+          "name": "10. King De Lune",
+          "saddle_cloth": 9,
+          "status": "ACTIVE",
+          "best_back": 28.0,
+          "best_back_size": 4.56,
+          "best_lay": 36.0,
+          "best_lay_size": 4.17,
+          "spread": 8.0,
+          "back_ladder": [
+            {
+              "price": 28.0,
+              "size": 4.56
+            },
+            {
+              "price": 27.0,
+              "size": 1.08
+            },
+            {
+              "price": 26.0,
+              "size": 2.75
+            },
+            {
+              "price": 25.0,
+              "size": 3.14
+            },
+            {
+              "price": 24.0,
+              "size": 7.61
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 36.0,
+              "size": 4.17
+            },
+            {
+              "price": 38.0,
+              "size": 5.0
+            },
+            {
+              "price": 44.0,
+              "size": 3.89
+            },
+            {
+              "price": 170.0,
+              "size": 3.41
+            },
+            {
+              "price": 210.0,
+              "size": 3.87
+            }
+          ],
+          "runner_matched_volume": 373.36,
+          "last_price_traded": 30.0,
+          "market_prob": 0.035265,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 100486274,
+          "name": "11. Malinga Missile",
+          "saddle_cloth": 10,
+          "status": "ACTIVE",
+          "best_back": 30.0,
+          "best_back_size": 2.51,
+          "best_lay": 55.0,
+          "best_lay_size": 1.79,
+          "spread": 25.0,
+          "back_ladder": [
+            {
+              "price": 30.0,
+              "size": 2.51
+            },
+            {
+              "price": 29.0,
+              "size": 3.82
+            },
+            {
+              "price": 28.0,
+              "size": 2.01
+            },
+            {
+              "price": 26.0,
+              "size": 4.43
+            },
+            {
+              "price": 25.0,
+              "size": 4.41
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 55.0,
+              "size": 1.79
+            },
+            {
+              "price": 140.0,
+              "size": 1.17
+            },
+            {
+              "price": 160.0,
+              "size": 2.28
+            },
+            {
+              "price": 170.0,
+              "size": 3.01
+            },
+            {
+              "price": 200.0,
+              "size": 5.8
+            }
+          ],
+          "runner_matched_volume": 151.04,
+          "last_price_traded": 29.0,
+          "market_prob": 0.032914,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 35453625,
+          "name": "12. Magic Merv",
+          "saddle_cloth": 11,
+          "status": "ACTIVE",
+          "best_back": 130.0,
+          "best_back_size": 4.5,
+          "best_lay": 140.0,
+          "best_lay_size": 32.83,
+          "spread": 10.0,
+          "back_ladder": [
+            {
+              "price": 130.0,
+              "size": 4.5
+            },
+            {
+              "price": 120.0,
+              "size": 8.66
+            },
+            {
+              "price": 110.0,
+              "size": 2.32
+            },
+            {
+              "price": 90.0,
+              "size": 1.16
+            },
+            {
+              "price": 75.0,
+              "size": 5.93
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 140.0,
+              "size": 32.83
+            },
+            {
+              "price": 340.0,
+              "size": 2.43
+            }
+          ],
+          "runner_matched_volume": 50.58,
+          "last_price_traded": 140.0,
+          "market_prob": 0.007596,
+          "market_rank": 12
+        },
+        {
+          "selection_id": 91115440,
+          "name": "13. Desert Opal",
+          "saddle_cloth": 12,
+          "status": "ACTIVE",
+          "best_back": 55.0,
+          "best_back_size": 4.61,
+          "best_lay": 75.0,
+          "best_lay_size": 3.09,
+          "spread": 20.0,
+          "back_ladder": [
+            {
+              "price": 55.0,
+              "size": 4.61
+            },
+            {
+              "price": 50.0,
+              "size": 6.77
+            },
+            {
+              "price": 48.0,
+              "size": 2.74
+            },
+            {
+              "price": 46.0,
+              "size": 2.15
+            },
+            {
+              "price": 44.0,
+              "size": 5.66
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 75.0,
+              "size": 3.09
+            },
+            {
+              "price": 110.0,
+              "size": 6.77
+            },
+            {
+              "price": 120.0,
+              "size": 1.93
+            },
+            {
+              "price": 130.0,
+              "size": 2.43
+            },
+            {
+              "price": 140.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 141.45,
+          "last_price_traded": 60.0,
+          "market_prob": 0.017953,
+          "market_rank": 10
+        },
+        {
+          "selection_id": 100486275,
+          "name": "14. Boy From Tennessee",
+          "saddle_cloth": 13,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T06:31:03.951229Z",
+      "seconds_to_off": 237,
+      "market_matched_volume": 5018.15,
+      "overround_pct": 101.7,
+      "runners": [
+        {
+          "selection_id": 76389949,
+          "name": "1. Missile Defence",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 5.2,
+          "best_back_size": 39.14,
+          "best_lay": 5.6,
+          "best_lay_size": 16.99,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 5.2,
+              "size": 39.14
+            },
+            {
+              "price": 5.1,
+              "size": 13.65
+            },
+            {
+              "price": 5.0,
+              "size": 10.04
+            },
+            {
+              "price": 4.9,
+              "size": 215.78
+            },
+            {
+              "price": 4.8,
+              "size": 3.87
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.6,
+              "size": 16.99
+            },
+            {
+              "price": 5.7,
+              "size": 6.84
+            },
+            {
+              "price": 6.0,
+              "size": 49.17
+            },
+            {
+              "price": 6.4,
+              "size": 1.93
+            },
+            {
+              "price": 6.6,
+              "size": 8.84
+            }
+          ],
+          "runner_matched_volume": 1627.96,
+          "last_price_traded": 5.1,
+          "market_prob": 0.189103,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 93167900,
+          "name": "2. Vasala",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 11.5,
+          "best_back_size": 6.88,
+          "best_lay": 12.5,
+          "best_lay_size": 5.0,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 11.5,
+              "size": 6.88
+            },
+            {
+              "price": 10.5,
+              "size": 4.44
+            },
+            {
+              "price": 10.0,
+              "size": 2.19
+            },
+            {
+              "price": 9.8,
+              "size": 6.79
+            },
+            {
+              "price": 9.6,
+              "size": 7.73
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 12.5,
+              "size": 5.0
+            },
+            {
+              "price": 15.0,
+              "size": 1.93
+            },
+            {
+              "price": 15.5,
+              "size": 5.8
+            },
+            {
+              "price": 17.5,
+              "size": 1.47
+            },
+            {
+              "price": 18.5,
+              "size": 5.3
+            }
+          ],
+          "runner_matched_volume": 244.73,
+          "last_price_traded": 12.0,
+          "market_prob": 0.085507,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 79330428,
+          "name": "3. Ischyros",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 15.5,
+          "best_back_size": 3.14,
+          "best_lay": 18.0,
+          "best_lay_size": 8.72,
+          "spread": 2.5,
+          "back_ladder": [
+            {
+              "price": 15.5,
+              "size": 3.14
+            },
+            {
+              "price": 15.0,
+              "size": 3.67
+            },
+            {
+              "price": 14.5,
+              "size": 1.97
+            },
+            {
+              "price": 14.0,
+              "size": 4.56
+            },
+            {
+              "price": 13.5,
+              "size": 3.58
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 18.0,
+              "size": 8.72
+            },
+            {
+              "price": 18.5,
+              "size": 4.51
+            },
+            {
+              "price": 19.0,
+              "size": 1.53
+            },
+            {
+              "price": 23.0,
+              "size": 2.9
+            },
+            {
+              "price": 25.0,
+              "size": 7.57
+            }
+          ],
+          "runner_matched_volume": 199.4,
+          "last_price_traded": 15.5,
+          "market_prob": 0.063441,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 80678491,
+          "name": "4. Black Adam",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 7.4,
+          "best_back_size": 20.31,
+          "best_lay": 8.0,
+          "best_lay_size": 7.67,
+          "spread": 0.6,
+          "back_ladder": [
+            {
+              "price": 7.4,
+              "size": 20.31
+            },
+            {
+              "price": 7.2,
+              "size": 5.16
+            },
+            {
+              "price": 7.0,
+              "size": 2.23
+            },
+            {
+              "price": 6.8,
+              "size": 53.26
+            },
+            {
+              "price": 6.6,
+              "size": 13.43
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.0,
+              "size": 7.67
+            },
+            {
+              "price": 8.4,
+              "size": 7.81
+            },
+            {
+              "price": 8.6,
+              "size": 20.76
+            },
+            {
+              "price": 8.8,
+              "size": 20.32
+            },
+            {
+              "price": 9.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 671.57,
+          "last_price_traded": 7.6,
+          "market_prob": 0.132883,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 72915307,
+          "name": "5. King Incanto",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 4.1,
+          "best_back_size": 4.35,
+          "best_lay": 4.2,
+          "best_lay_size": 7.91,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 4.1,
+              "size": 4.35
+            },
+            {
+              "price": 4.0,
+              "size": 3.01
+            },
+            {
+              "price": 3.75,
+              "size": 18.62
+            },
+            {
+              "price": 3.7,
+              "size": 23.58
+            },
+            {
+              "price": 3.65,
+              "size": 11.35
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.2,
+              "size": 7.91
+            },
+            {
+              "price": 4.4,
+              "size": 4.72
+            },
+            {
+              "price": 4.5,
+              "size": 3.87
+            },
+            {
+              "price": 4.6,
+              "size": 9.93
+            },
+            {
+              "price": 4.7,
+              "size": 3.87
+            }
+          ],
+          "runner_matched_volume": 588.04,
+          "last_price_traded": 4.1,
+          "market_prob": 0.239838,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100486271,
+          "name": "7. Adasiti",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 30.0,
+          "best_back_size": 7.22,
+          "best_lay": 34.0,
+          "best_lay_size": 5.64,
+          "spread": 4.0,
+          "back_ladder": [
+            {
+              "price": 30.0,
+              "size": 7.22
+            },
+            {
+              "price": 28.0,
+              "size": 5.17
+            },
+            {
+              "price": 27.0,
+              "size": 19.87
+            },
+            {
+              "price": 26.0,
+              "size": 6.25
+            },
+            {
+              "price": 25.0,
+              "size": 5.49
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 34.0,
+              "size": 5.64
+            },
+            {
+              "price": 36.0,
+              "size": 16.2
+            },
+            {
+              "price": 40.0,
+              "size": 7.29
+            },
+            {
+              "price": 42.0,
+              "size": 3.87
+            },
+            {
+              "price": 44.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 156.18,
+          "last_price_traded": 32.0,
+          "market_prob": 0.032778,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100486272,
+          "name": "8. Jannik",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 65.0,
+          "best_back_size": 4.24,
+          "best_lay": 90.0,
+          "best_lay_size": 5.05,
+          "spread": 25.0,
+          "back_ladder": [
+            {
+              "price": 65.0,
+              "size": 4.24
+            },
+            {
+              "price": 50.0,
+              "size": 2.03
+            },
+            {
+              "price": 48.0,
+              "size": 2.03
+            },
+            {
+              "price": 44.0,
+              "size": 2.16
+            },
+            {
+              "price": 42.0,
+              "size": 18.29
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 90.0,
+              "size": 5.05
+            },
+            {
+              "price": 150.0,
+              "size": 6.71
+            },
+            {
+              "price": 190.0,
+              "size": 1.72
+            },
+            {
+              "price": 200.0,
+              "size": 5.03
+            },
+            {
+              "price": 220.0,
+              "size": 1.26
+            }
+          ],
+          "runner_matched_volume": 55.38,
+          "last_price_traded": 65.0,
+          "market_prob": 0.015128,
+          "market_rank": 11
+        },
+        {
+          "selection_id": 11037199,
+          "name": "9. National Asset",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 6.6,
+          "best_back_size": 12.23,
+          "best_lay": 7.0,
+          "best_lay_size": 95.84,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 6.6,
+              "size": 12.23
+            },
+            {
+              "price": 6.4,
+              "size": 10.96
+            },
+            {
+              "price": 6.2,
+              "size": 25.24
+            },
+            {
+              "price": 6.0,
+              "size": 24.58
+            },
+            {
+              "price": 5.9,
+              "size": 42.41
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.0,
+              "size": 95.84
+            },
+            {
+              "price": 7.2,
+              "size": 1.93
+            },
+            {
+              "price": 7.4,
+              "size": 11.13
+            },
+            {
+              "price": 7.6,
+              "size": 3.87
+            },
+            {
+              "price": 7.8,
+              "size": 3.87
+            }
+          ],
+          "runner_matched_volume": 632.71,
+          "last_price_traded": 6.8,
+          "market_prob": 0.14899,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100486273,
+          "name": "10. King De Lune",
+          "saddle_cloth": 9,
+          "status": "ACTIVE",
+          "best_back": 30.0,
+          "best_back_size": 2.07,
+          "best_lay": 36.0,
+          "best_lay_size": 9.35,
+          "spread": 6.0,
+          "back_ladder": [
+            {
+              "price": 30.0,
+              "size": 2.07
+            },
+            {
+              "price": 27.0,
+              "size": 10.21
+            },
+            {
+              "price": 26.0,
+              "size": 2.75
+            },
+            {
+              "price": 25.0,
+              "size": 6.77
+            },
+            {
+              "price": 24.0,
+              "size": 16.97
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 36.0,
+              "size": 9.35
+            },
+            {
+              "price": 38.0,
+              "size": 5.0
+            },
+            {
+              "price": 44.0,
+              "size": 3.89
+            },
+            {
+              "price": 65.0,
+              "size": 5.14
+            },
+            {
+              "price": 75.0,
+              "size": 5.36
+            }
+          ],
+          "runner_matched_volume": 379.45,
+          "last_price_traded": 29.0,
+          "market_prob": 0.032778,
+          "market_rank": 9
+        },
+        {
+          "selection_id": 100486274,
+          "name": "11. Malinga Missile",
+          "saddle_cloth": 10,
+          "status": "ACTIVE",
+          "best_back": 28.0,
+          "best_back_size": 2.53,
+          "best_lay": 34.0,
+          "best_lay_size": 1.65,
+          "spread": 6.0,
+          "back_ladder": [
+            {
+              "price": 28.0,
+              "size": 2.53
+            },
+            {
+              "price": 27.0,
+              "size": 1.93
+            },
+            {
+              "price": 26.0,
+              "size": 10.35
+            },
+            {
+              "price": 25.0,
+              "size": 4.02
+            },
+            {
+              "price": 24.0,
+              "size": 14.23
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 34.0,
+              "size": 1.65
+            },
+            {
+              "price": 38.0,
+              "size": 1.93
+            },
+            {
+              "price": 40.0,
+              "size": 3.87
+            },
+            {
+              "price": 50.0,
+              "size": 1.7
+            },
+            {
+              "price": 60.0,
+              "size": 5.5
+            }
+          ],
+          "runner_matched_volume": 187.25,
+          "last_price_traded": 32.0,
+          "market_prob": 0.035119,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 35453625,
+          "name": "12. Magic Merv",
+          "saddle_cloth": 11,
+          "status": "ACTIVE",
+          "best_back": 150.0,
+          "best_back_size": 8.11,
+          "best_lay": 160.0,
+          "best_lay_size": 3.92,
+          "spread": 10.0,
+          "back_ladder": [
+            {
+              "price": 150.0,
+              "size": 8.11
+            },
+            {
+              "price": 140.0,
+              "size": 1.14
+            },
+            {
+              "price": 130.0,
+              "size": 3.0
+            },
+            {
+              "price": 120.0,
+              "size": 3.24
+            },
+            {
+              "price": 110.0,
+              "size": 2.32
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 160.0,
+              "size": 3.92
+            },
+            {
+              "price": 180.0,
+              "size": 1.99
+            },
+            {
+              "price": 530.0,
+              "size": 1.8
+            }
+          ],
+          "runner_matched_volume": 120.81,
+          "last_price_traded": 150.0,
+          "market_prob": 0.006556,
+          "market_rank": 12
+        },
+        {
+          "selection_id": 91115440,
+          "name": "13. Desert Opal",
+          "saddle_cloth": 12,
+          "status": "ACTIVE",
+          "best_back": 55.0,
+          "best_back_size": 1.11,
+          "best_lay": 60.0,
+          "best_lay_size": 10.97,
+          "spread": 5.0,
+          "back_ladder": [
+            {
+              "price": 55.0,
+              "size": 1.11
+            },
+            {
+              "price": 50.0,
+              "size": 3.38
+            },
+            {
+              "price": 48.0,
+              "size": 1.91
+            },
+            {
+              "price": 46.0,
+              "size": 2.63
+            },
+            {
+              "price": 44.0,
+              "size": 2.91
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 60.0,
+              "size": 10.97
+            },
+            {
+              "price": 65.0,
+              "size": 1.54
+            },
+            {
+              "price": 75.0,
+              "size": 3.09
+            },
+            {
+              "price": 130.0,
+              "size": 2.65
+            },
+            {
+              "price": 150.0,
+              "size": 1.86
+            }
+          ],
+          "runner_matched_volume": 154.64,
+          "last_price_traded": 50.0,
+          "market_prob": 0.017879,
+          "market_rank": 10
+        },
+        {
+          "selection_id": 100486275,
+          "name": "14. Boy From Tennessee",
+          "saddle_cloth": 13,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T06:32:29.006331Z",
+      "seconds_to_off": 151,
+      "market_matched_volume": 7125.93,
+      "overround_pct": 100.1,
+      "runners": [
+        {
+          "selection_id": 76389949,
+          "name": "1. Missile Defence",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 5.5,
+          "best_back_size": 33.51,
+          "best_lay": 5.6,
+          "best_lay_size": 18.49,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.5,
+              "size": 33.51
+            },
+            {
+              "price": 5.4,
+              "size": 9.26
+            },
+            {
+              "price": 5.3,
+              "size": 19.41
+            },
+            {
+              "price": 5.2,
+              "size": 37.11
+            },
+            {
+              "price": 5.1,
+              "size": 37.93
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.6,
+              "size": 18.49
+            },
+            {
+              "price": 5.7,
+              "size": 8.59
+            },
+            {
+              "price": 5.8,
+              "size": 5.78
+            },
+            {
+              "price": 5.9,
+              "size": 5.8
+            },
+            {
+              "price": 6.0,
+              "size": 48.66
+            }
+          ],
+          "runner_matched_volume": 1918.29,
+          "last_price_traded": 5.6,
+          "market_prob": 0.181644,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 93167900,
+          "name": "2. Vasala",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 13.5,
+          "best_back_size": 9.2,
+          "best_lay": 16.0,
+          "best_lay_size": 2.92,
+          "spread": 2.5,
+          "back_ladder": [
+            {
+              "price": 13.5,
+              "size": 9.2
+            },
+            {
+              "price": 13.0,
+              "size": 26.96
+            },
+            {
+              "price": 12.5,
+              "size": 11.12
+            },
+            {
+              "price": 12.0,
+              "size": 33.21
+            },
+            {
+              "price": 11.5,
+              "size": 13.72
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 16.0,
+              "size": 2.92
+            },
+            {
+              "price": 16.5,
+              "size": 12.35
+            },
+            {
+              "price": 17.0,
+              "size": 4.57
+            },
+            {
+              "price": 17.5,
+              "size": 4.58
+            },
+            {
+              "price": 18.0,
+              "size": 4.58
+            }
+          ],
+          "runner_matched_volume": 520.94,
+          "last_price_traded": 15.5,
+          "market_prob": 0.074003,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 79330428,
+          "name": "3. Ischyros",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 16.0,
+          "best_back_size": 21.67,
+          "best_lay": 16.5,
+          "best_lay_size": 22.56,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 16.0,
+              "size": 21.67
+            },
+            {
+              "price": 15.5,
+              "size": 3.19
+            },
+            {
+              "price": 15.0,
+              "size": 5.65
+            },
+            {
+              "price": 14.5,
+              "size": 15.63
+            },
+            {
+              "price": 14.0,
+              "size": 14.0
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 16.5,
+              "size": 22.56
+            },
+            {
+              "price": 17.0,
+              "size": 1.78
+            },
+            {
+              "price": 17.5,
+              "size": 1.93
+            },
+            {
+              "price": 18.0,
+              "size": 4.18
+            },
+            {
+              "price": 18.5,
+              "size": 3.44
+            }
+          ],
+          "runner_matched_volume": 533.99,
+          "last_price_traded": 16.5,
+          "market_prob": 0.06244,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 80678491,
+          "name": "4. Black Adam",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 7.6,
+          "best_back_size": 15.15,
+          "best_lay": 8.2,
+          "best_lay_size": 12.97,
+          "spread": 0.6,
+          "back_ladder": [
+            {
+              "price": 7.6,
+              "size": 15.15
+            },
+            {
+              "price": 7.4,
+              "size": 18.46
+            },
+            {
+              "price": 7.2,
+              "size": 31.46
+            },
+            {
+              "price": 7.0,
+              "size": 20.26
+            },
+            {
+              "price": 6.8,
+              "size": 45.28
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.2,
+              "size": 12.97
+            },
+            {
+              "price": 8.4,
+              "size": 9.74
+            },
+            {
+              "price": 8.6,
+              "size": 23.2
+            },
+            {
+              "price": 8.8,
+              "size": 20.32
+            },
+            {
+              "price": 9.0,
+              "size": 9.67
+            }
+          ],
+          "runner_matched_volume": 978.34,
+          "last_price_traded": 8.0,
+          "market_prob": 0.131453,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 72915307,
+          "name": "5. King Incanto",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 3.9,
+          "best_back_size": 42.37,
+          "best_lay": 3.95,
+          "best_lay_size": 10.4,
+          "spread": 0.05,
+          "back_ladder": [
+            {
+              "price": 3.9,
+              "size": 42.37
+            },
+            {
+              "price": 3.85,
+              "size": 43.41
+            },
+            {
+              "price": 3.8,
+              "size": 13.83
+            },
+            {
+              "price": 3.75,
+              "size": 28.13
+            },
+            {
+              "price": 3.7,
+              "size": 38.66
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.95,
+              "size": 10.4
+            },
+            {
+              "price": 4.0,
+              "size": 96.61
+            },
+            {
+              "price": 4.1,
+              "size": 136.48
+            },
+            {
+              "price": 4.2,
+              "size": 9.22
+            },
+            {
+              "price": 4.3,
+              "size": 9.96
+            }
+          ],
+          "runner_matched_volume": 773.27,
+          "last_price_traded": 3.85,
+          "market_prob": 0.256164,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100486271,
+          "name": "7. Adasiti",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 32.0,
+          "best_back_size": 3.23,
+          "best_lay": 34.0,
+          "best_lay_size": 26.86,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 32.0,
+              "size": 3.23
+            },
+            {
+              "price": 30.0,
+              "size": 9.74
+            },
+            {
+              "price": 29.0,
+              "size": 6.03
+            },
+            {
+              "price": 28.0,
+              "size": 20.16
+            },
+            {
+              "price": 27.0,
+              "size": 19.56
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 34.0,
+              "size": 26.86
+            },
+            {
+              "price": 36.0,
+              "size": 7.48
+            },
+            {
+              "price": 38.0,
+              "size": 13.78
+            },
+            {
+              "price": 40.0,
+              "size": 12.39
+            },
+            {
+              "price": 42.0,
+              "size": 7.73
+            }
+          ],
+          "runner_matched_volume": 362.92,
+          "last_price_traded": 34.0,
+          "market_prob": 0.03122,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100486272,
+          "name": "8. Jannik",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 55.0,
+          "best_back_size": 4.83,
+          "best_lay": 60.0,
+          "best_lay_size": 14.87,
+          "spread": 5.0,
+          "back_ladder": [
+            {
+              "price": 55.0,
+              "size": 4.83
+            },
+            {
+              "price": 50.0,
+              "size": 6.16
+            },
+            {
+              "price": 48.0,
+              "size": 9.03
+            },
+            {
+              "price": 46.0,
+              "size": 10.66
+            },
+            {
+              "price": 44.0,
+              "size": 5.59
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 60.0,
+              "size": 14.87
+            },
+            {
+              "price": 65.0,
+              "size": 3.27
+            },
+            {
+              "price": 75.0,
+              "size": 1.93
+            },
+            {
+              "price": 85.0,
+              "size": 6.4
+            },
+            {
+              "price": 90.0,
+              "size": 1.95
+            }
+          ],
+          "runner_matched_volume": 84.67,
+          "last_price_traded": 60.0,
+          "market_prob": 0.018164,
+          "market_rank": 11
+        },
+        {
+          "selection_id": 11037199,
+          "name": "9. National Asset",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 6.6,
+          "best_back_size": 50.13,
+          "best_lay": 6.8,
+          "best_lay_size": 20.26,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 6.6,
+              "size": 50.13
+            },
+            {
+              "price": 6.4,
+              "size": 30.41
+            },
+            {
+              "price": 6.2,
+              "size": 28.68
+            },
+            {
+              "price": 6.0,
+              "size": 27.91
+            },
+            {
+              "price": 5.9,
+              "size": 55.87
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.8,
+              "size": 20.26
+            },
+            {
+              "price": 7.0,
+              "size": 79.04
+            },
+            {
+              "price": 7.2,
+              "size": 9.67
+            },
+            {
+              "price": 7.4,
+              "size": 11.13
+            },
+            {
+              "price": 7.6,
+              "size": 7.71
+            }
+          ],
+          "runner_matched_volume": 748.77,
+          "last_price_traded": 6.8,
+          "market_prob": 0.15137,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100486273,
+          "name": "10. King De Lune",
+          "saddle_cloth": 9,
+          "status": "ACTIVE",
+          "best_back": 32.0,
+          "best_back_size": 4.58,
+          "best_lay": 34.0,
+          "best_lay_size": 15.29,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 32.0,
+              "size": 4.58
+            },
+            {
+              "price": 30.0,
+              "size": 7.55
+            },
+            {
+              "price": 29.0,
+              "size": 7.6
+            },
+            {
+              "price": 28.0,
+              "size": 16.82
+            },
+            {
+              "price": 27.0,
+              "size": 19.31
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 34.0,
+              "size": 15.29
+            },
+            {
+              "price": 36.0,
+              "size": 1.93
+            },
+            {
+              "price": 38.0,
+              "size": 11.88
+            },
+            {
+              "price": 40.0,
+              "size": 3.87
+            },
+            {
+              "price": 42.0,
+              "size": 9.78
+            }
+          ],
+          "runner_matched_volume": 443.75,
+          "last_price_traded": 34.0,
+          "market_prob": 0.03122,
+          "market_rank": 9
+        },
+        {
+          "selection_id": 100486274,
+          "name": "11. Malinga Missile",
+          "saddle_cloth": 10,
+          "status": "ACTIVE",
+          "best_back": 28.0,
+          "best_back_size": 2.68,
+          "best_lay": 32.0,
+          "best_lay_size": 2.32,
+          "spread": 4.0,
+          "back_ladder": [
+            {
+              "price": 28.0,
+              "size": 2.68
+            },
+            {
+              "price": 27.0,
+              "size": 2.06
+            },
+            {
+              "price": 26.0,
+              "size": 27.94
+            },
+            {
+              "price": 25.0,
+              "size": 10.75
+            },
+            {
+              "price": 24.0,
+              "size": 14.23
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 32.0,
+              "size": 2.32
+            },
+            {
+              "price": 36.0,
+              "size": 5.8
+            },
+            {
+              "price": 38.0,
+              "size": 7.1
+            },
+            {
+              "price": 40.0,
+              "size": 3.87
+            },
+            {
+              "price": 42.0,
+              "size": 4.27
+            }
+          ],
+          "runner_matched_volume": 260.94,
+          "last_price_traded": 28.0,
+          "market_prob": 0.03568,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 35453625,
+          "name": "12. Magic Merv",
+          "saddle_cloth": 11,
+          "status": "ACTIVE",
+          "best_back": 150.0,
+          "best_back_size": 4.54,
+          "best_lay": 170.0,
+          "best_lay_size": 10.0,
+          "spread": 20.0,
+          "back_ladder": [
+            {
+              "price": 150.0,
+              "size": 4.54
+            },
+            {
+              "price": 130.0,
+              "size": 8.63
+            },
+            {
+              "price": 120.0,
+              "size": 3.41
+            },
+            {
+              "price": 110.0,
+              "size": 2.32
+            },
+            {
+              "price": 100.0,
+              "size": 2.18
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 170.0,
+              "size": 10.0
+            },
+            {
+              "price": 180.0,
+              "size": 3.98
+            },
+            {
+              "price": 190.0,
+              "size": 4.37
+            },
+            {
+              "price": 200.0,
+              "size": 2.3
+            },
+            {
+              "price": 210.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 213.26,
+          "last_price_traded": 170.0,
+          "market_prob": 0.00666,
+          "market_rank": 12
+        },
+        {
+          "selection_id": 91115440,
+          "name": "13. Desert Opal",
+          "saddle_cloth": 12,
+          "status": "ACTIVE",
+          "best_back": 50.0,
+          "best_back_size": 5.07,
+          "best_lay": 55.0,
+          "best_lay_size": 3.59,
+          "spread": 5.0,
+          "back_ladder": [
+            {
+              "price": 50.0,
+              "size": 5.07
+            },
+            {
+              "price": 48.0,
+              "size": 6.92
+            },
+            {
+              "price": 46.0,
+              "size": 7.79
+            },
+            {
+              "price": 44.0,
+              "size": 11.64
+            },
+            {
+              "price": 42.0,
+              "size": 7.44
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 55.0,
+              "size": 3.59
+            },
+            {
+              "price": 60.0,
+              "size": 7.15
+            },
+            {
+              "price": 65.0,
+              "size": 5.83
+            },
+            {
+              "price": 70.0,
+              "size": 5.76
+            },
+            {
+              "price": 75.0,
+              "size": 11.64
+            }
+          ],
+          "runner_matched_volume": 286.75,
+          "last_price_traded": 55.0,
+          "market_prob": 0.019981,
+          "market_rank": 10
+        },
+        {
+          "selection_id": 100486275,
+          "name": "14. Boy From Tennessee",
+          "saddle_cloth": 13,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T06:33:43.937638Z",
+      "seconds_to_off": 77,
+      "market_matched_volume": 12264.86,
+      "overround_pct": 102.4,
+      "runners": [
+        {
+          "selection_id": 76389949,
+          "name": "1. Missile Defence",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 5.5,
+          "best_back_size": 33.68,
+          "best_lay": 5.7,
+          "best_lay_size": 25.42,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 5.5,
+              "size": 33.68
+            },
+            {
+              "price": 5.4,
+              "size": 29.65
+            },
+            {
+              "price": 5.3,
+              "size": 55.46
+            },
+            {
+              "price": 5.2,
+              "size": 75.44
+            },
+            {
+              "price": 5.1,
+              "size": 80.66
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.7,
+              "size": 25.42
+            },
+            {
+              "price": 5.8,
+              "size": 5.8
+            },
+            {
+              "price": 5.9,
+              "size": 8.77
+            },
+            {
+              "price": 6.0,
+              "size": 52.58
+            },
+            {
+              "price": 6.2,
+              "size": 18.31
+            }
+          ],
+          "runner_matched_volume": 2416.26,
+          "last_price_traded": 5.5,
+          "market_prob": 0.177489,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 93167900,
+          "name": "2. Vasala",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 14.5,
+          "best_back_size": 8.05,
+          "best_lay": 15.0,
+          "best_lay_size": 13.53,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 14.5,
+              "size": 8.05
+            },
+            {
+              "price": 14.0,
+              "size": 5.92
+            },
+            {
+              "price": 13.5,
+              "size": 16.78
+            },
+            {
+              "price": 13.0,
+              "size": 27.02
+            },
+            {
+              "price": 12.5,
+              "size": 24.28
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 15.0,
+              "size": 13.53
+            },
+            {
+              "price": 15.5,
+              "size": 4.0
+            },
+            {
+              "price": 16.0,
+              "size": 3.99
+            },
+            {
+              "price": 16.5,
+              "size": 1.93
+            },
+            {
+              "price": 17.0,
+              "size": 2.63
+            }
+          ],
+          "runner_matched_volume": 747.99,
+          "last_price_traded": 15.0,
+          "market_prob": 0.067323,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 79330428,
+          "name": "3. Ischyros",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 18.0,
+          "best_back_size": 6.46,
+          "best_lay": 18.5,
+          "best_lay_size": 10.34,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 18.0,
+              "size": 6.46
+            },
+            {
+              "price": 17.5,
+              "size": 10.27
+            },
+            {
+              "price": 17.0,
+              "size": 42.92
+            },
+            {
+              "price": 16.5,
+              "size": 66.54
+            },
+            {
+              "price": 16.0,
+              "size": 27.38
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 18.5,
+              "size": 10.34
+            },
+            {
+              "price": 19.0,
+              "size": 1.93
+            },
+            {
+              "price": 19.5,
+              "size": 1.93
+            },
+            {
+              "price": 20.0,
+              "size": 1.93
+            },
+            {
+              "price": 21.0,
+              "size": 2.5
+            }
+          ],
+          "runner_matched_volume": 832.4,
+          "last_price_traded": 18.5,
+          "market_prob": 0.054233,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 80678491,
+          "name": "4. Black Adam",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 7.2,
+          "best_back_size": 84.48,
+          "best_lay": 7.6,
+          "best_lay_size": 4.27,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 7.2,
+              "size": 84.48
+            },
+            {
+              "price": 7.0,
+              "size": 34.31
+            },
+            {
+              "price": 6.8,
+              "size": 47.21
+            },
+            {
+              "price": 6.6,
+              "size": 115.37
+            },
+            {
+              "price": 6.4,
+              "size": 66.95
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.6,
+              "size": 4.27
+            },
+            {
+              "price": 7.8,
+              "size": 6.92
+            },
+            {
+              "price": 8.0,
+              "size": 29.92
+            },
+            {
+              "price": 8.2,
+              "size": 34.35
+            },
+            {
+              "price": 8.4,
+              "size": 9.67
+            }
+          ],
+          "runner_matched_volume": 1519.7,
+          "last_price_traded": 7.4,
+          "market_prob": 0.135582,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 72915307,
+          "name": "5. King Incanto",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 3.7,
+          "best_back_size": 11.33,
+          "best_lay": 3.8,
+          "best_lay_size": 15.0,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 3.7,
+              "size": 11.33
+            },
+            {
+              "price": 3.65,
+              "size": 70.24
+            },
+            {
+              "price": 3.6,
+              "size": 119.69
+            },
+            {
+              "price": 3.55,
+              "size": 172.57
+            },
+            {
+              "price": 3.5,
+              "size": 83.57
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.8,
+              "size": 15.0
+            },
+            {
+              "price": 3.85,
+              "size": 62.0
+            },
+            {
+              "price": 3.9,
+              "size": 2.58
+            },
+            {
+              "price": 3.95,
+              "size": 69.36
+            },
+            {
+              "price": 4.0,
+              "size": 29.0
+            }
+          ],
+          "runner_matched_volume": 2776.89,
+          "last_price_traded": 3.65,
+          "market_prob": 0.263835,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100486271,
+          "name": "7. Adasiti",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 29.0,
+          "best_back_size": 13.59,
+          "best_lay": 32.0,
+          "best_lay_size": 9.9,
+          "spread": 3.0,
+          "back_ladder": [
+            {
+              "price": 29.0,
+              "size": 13.59
+            },
+            {
+              "price": 28.0,
+              "size": 21.43
+            },
+            {
+              "price": 27.0,
+              "size": 10.64
+            },
+            {
+              "price": 26.0,
+              "size": 20.54
+            },
+            {
+              "price": 25.0,
+              "size": 7.9
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 32.0,
+              "size": 9.9
+            },
+            {
+              "price": 34.0,
+              "size": 3.87
+            },
+            {
+              "price": 36.0,
+              "size": 14.52
+            },
+            {
+              "price": 38.0,
+              "size": 11.85
+            },
+            {
+              "price": 40.0,
+              "size": 18.27
+            }
+          ],
+          "runner_matched_volume": 529.3,
+          "last_price_traded": 32.0,
+          "market_prob": 0.033662,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100486272,
+          "name": "8. Jannik",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 40.0,
+          "best_back_size": 4.38,
+          "best_lay": 42.0,
+          "best_lay_size": 5.27,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 40.0,
+              "size": 4.38
+            },
+            {
+              "price": 38.0,
+              "size": 10.75
+            },
+            {
+              "price": 36.0,
+              "size": 18.43
+            },
+            {
+              "price": 34.0,
+              "size": 16.14
+            },
+            {
+              "price": 32.0,
+              "size": 6.86
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 42.0,
+              "size": 5.27
+            },
+            {
+              "price": 44.0,
+              "size": 2.33
+            },
+            {
+              "price": 46.0,
+              "size": 13.07
+            },
+            {
+              "price": 48.0,
+              "size": 6.88
+            },
+            {
+              "price": 50.0,
+              "size": 10.61
+            }
+          ],
+          "runner_matched_volume": 191.91,
+          "last_price_traded": 40.0,
+          "market_prob": 0.024405,
+          "market_rank": 10
+        },
+        {
+          "selection_id": 11037199,
+          "name": "9. National Asset",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 6.8,
+          "best_back_size": 73.59,
+          "best_lay": 7.0,
+          "best_lay_size": 43.26,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 6.8,
+              "size": 73.59
+            },
+            {
+              "price": 6.6,
+              "size": 125.85
+            },
+            {
+              "price": 6.4,
+              "size": 34.46
+            },
+            {
+              "price": 6.2,
+              "size": 58.08
+            },
+            {
+              "price": 6.0,
+              "size": 109.75
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.0,
+              "size": 43.26
+            },
+            {
+              "price": 7.2,
+              "size": 10.78
+            },
+            {
+              "price": 7.4,
+              "size": 13.63
+            },
+            {
+              "price": 7.6,
+              "size": 34.34
+            },
+            {
+              "price": 7.8,
+              "size": 33.38
+            }
+          ],
+          "runner_matched_volume": 1470.93,
+          "last_price_traded": 6.8,
+          "market_prob": 0.143557,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100486273,
+          "name": "10. King De Lune",
+          "saddle_cloth": 9,
+          "status": "ACTIVE",
+          "best_back": 27.0,
+          "best_back_size": 21.69,
+          "best_lay": 29.0,
+          "best_lay_size": 6.06,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 27.0,
+              "size": 21.69
+            },
+            {
+              "price": 26.0,
+              "size": 11.86
+            },
+            {
+              "price": 25.0,
+              "size": 11.91
+            },
+            {
+              "price": 24.0,
+              "size": 11.43
+            },
+            {
+              "price": 23.0,
+              "size": 27.76
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 29.0,
+              "size": 6.06
+            },
+            {
+              "price": 30.0,
+              "size": 4.5
+            },
+            {
+              "price": 32.0,
+              "size": 11.89
+            },
+            {
+              "price": 34.0,
+              "size": 8.3
+            },
+            {
+              "price": 36.0,
+              "size": 3.87
+            }
+          ],
+          "runner_matched_volume": 665.68,
+          "last_price_traded": 29.0,
+          "market_prob": 0.036155,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 100486274,
+          "name": "11. Malinga Missile",
+          "saddle_cloth": 10,
+          "status": "ACTIVE",
+          "best_back": 29.0,
+          "best_back_size": 6.85,
+          "best_lay": 34.0,
+          "best_lay_size": 3.97,
+          "spread": 5.0,
+          "back_ladder": [
+            {
+              "price": 29.0,
+              "size": 6.85
+            },
+            {
+              "price": 28.0,
+              "size": 46.53
+            },
+            {
+              "price": 27.0,
+              "size": 10.54
+            },
+            {
+              "price": 26.0,
+              "size": 27.12
+            },
+            {
+              "price": 25.0,
+              "size": 17.56
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 34.0,
+              "size": 3.97
+            },
+            {
+              "price": 36.0,
+              "size": 1.93
+            },
+            {
+              "price": 38.0,
+              "size": 12.8
+            },
+            {
+              "price": 40.0,
+              "size": 5.8
+            },
+            {
+              "price": 42.0,
+              "size": 4.27
+            }
+          ],
+          "runner_matched_volume": 333.59,
+          "last_price_traded": 30.0,
+          "market_prob": 0.033662,
+          "market_rank": 9
+        },
+        {
+          "selection_id": 35453625,
+          "name": "12. Magic Merv",
+          "saddle_cloth": 11,
+          "status": "ACTIVE",
+          "best_back": 100.0,
+          "best_back_size": 7.31,
+          "best_lay": 120.0,
+          "best_lay_size": 17.07,
+          "spread": 20.0,
+          "back_ladder": [
+            {
+              "price": 100.0,
+              "size": 7.31
+            },
+            {
+              "price": 90.0,
+              "size": 2.96
+            },
+            {
+              "price": 80.0,
+              "size": 1.34
+            },
+            {
+              "price": 70.0,
+              "size": 4.89
+            },
+            {
+              "price": 65.0,
+              "size": 10.06
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 120.0,
+              "size": 17.07
+            },
+            {
+              "price": 140.0,
+              "size": 6.88
+            },
+            {
+              "price": 150.0,
+              "size": 1.93
+            },
+            {
+              "price": 160.0,
+              "size": 3.25
+            },
+            {
+              "price": 170.0,
+              "size": 5.35
+            }
+          ],
+          "runner_matched_volume": 370.61,
+          "last_price_traded": 110.0,
+          "market_prob": 0.009762,
+          "market_rank": 12
+        },
+        {
+          "selection_id": 91115440,
+          "name": "13. Desert Opal",
+          "saddle_cloth": 12,
+          "status": "ACTIVE",
+          "best_back": 48.0,
+          "best_back_size": 8.29,
+          "best_lay": 50.0,
+          "best_lay_size": 6.87,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 48.0,
+              "size": 8.29
+            },
+            {
+              "price": 46.0,
+              "size": 10.42
+            },
+            {
+              "price": 44.0,
+              "size": 9.25
+            },
+            {
+              "price": 42.0,
+              "size": 17.7
+            },
+            {
+              "price": 40.0,
+              "size": 10.54
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 50.0,
+              "size": 6.87
+            },
+            {
+              "price": 55.0,
+              "size": 8.56
+            },
+            {
+              "price": 60.0,
+              "size": 12.79
+            },
+            {
+              "price": 65.0,
+              "size": 11.08
+            },
+            {
+              "price": 70.0,
+              "size": 11.91
+            }
+          ],
+          "runner_matched_volume": 409.54,
+          "last_price_traded": 50.0,
+          "market_prob": 0.020337,
+          "market_rank": 11
+        },
+        {
+          "selection_id": 100486275,
+          "name": "14. Boy From Tennessee",
+          "saddle_cloth": 13,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    }
+  ],
+  "finalized_at": "2026-07-12T06:38:39.357205Z"
+}
