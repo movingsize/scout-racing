@@ -1,0 +1,3663 @@
+{
+  "event_id": "port-hedland-2026-07-12-r3",
+  "market_id": "1.259897682",
+  "venue": "Port Hedland",
+  "race_name": "R3 1600m Hcap",
+  "start_time_utc": "2026-07-12T06:15:00.000Z",
+  "captured_by": "micro-series v1",
+  "field_size": 8,
+  "model_overlay": null,
+  "bsp": {
+    "64208129": {
+      "bsp": NaN,
+      "status": "REMOVED"
+    },
+    "75964817": {
+      "bsp": NaN,
+      "status": "REMOVED"
+    },
+    "83940960": {
+      "bsp": 9.85,
+      "status": "LOSER"
+    },
+    "92967308": {
+      "bsp": 7.0,
+      "status": "LOSER"
+    },
+    "58454091": {
+      "bsp": 3.76,
+      "status": "LOSER"
+    },
+    "62949865": {
+      "bsp": 7.77,
+      "status": "WINNER"
+    },
+    "100455469": {
+      "bsp": 37.1,
+      "status": "LOSER"
+    },
+    "100455470": {
+      "bsp": 10.5,
+      "status": "LOSER"
+    },
+    "98960370": {
+      "bsp": 7.4,
+      "status": "LOSER"
+    },
+    "98960371": {
+      "bsp": 14.82,
+      "status": "LOSER"
+    }
+  },
+  "result": {
+    "winner": "5. Oscar Winner",
+    "winner_bsp": 7.77,
+    "placings": [
+      "5. Oscar Winner",
+      "4. Warby Ranges",
+      "8. Holdout"
+    ],
+    "settled_at": "2026-07-12T06:19:33.402211Z"
+  },
+  "frames": [
+    {
+      "at": "2026-07-12T06:05:12.391497Z",
+      "seconds_to_off": 588,
+      "market_matched_volume": 4629.0,
+      "overround_pct": 102.7,
+      "runners": [
+        {
+          "selection_id": 83940960,
+          "name": "2. Renovation Show",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 8.2,
+          "best_back_size": 4.89,
+          "best_lay": 8.6,
+          "best_lay_size": 2.36,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 8.2,
+              "size": 4.89
+            },
+            {
+              "price": 7.8,
+              "size": 26.23
+            },
+            {
+              "price": 7.6,
+              "size": 28.28
+            },
+            {
+              "price": 7.4,
+              "size": 77.01
+            },
+            {
+              "price": 7.2,
+              "size": 77.31
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.6,
+              "size": 2.36
+            },
+            {
+              "price": 8.8,
+              "size": 28.06
+            },
+            {
+              "price": 9.0,
+              "size": 9.42
+            },
+            {
+              "price": 9.2,
+              "size": 13.15
+            },
+            {
+              "price": 9.4,
+              "size": 10.05
+            }
+          ],
+          "runner_matched_volume": 312.36,
+          "last_price_traded": 8.8,
+          "market_prob": 0.118736,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 92967308,
+          "name": "3. Tousled Crown",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 6.6,
+          "best_back_size": 20.71,
+          "best_lay": 7.0,
+          "best_lay_size": 41.87,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 6.6,
+              "size": 20.71
+            },
+            {
+              "price": 6.4,
+              "size": 6.26
+            },
+            {
+              "price": 6.2,
+              "size": 9.35
+            },
+            {
+              "price": 6.0,
+              "size": 14.02
+            },
+            {
+              "price": 5.9,
+              "size": 36.71
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.0,
+              "size": 41.87
+            },
+            {
+              "price": 7.2,
+              "size": 26.49
+            },
+            {
+              "price": 7.4,
+              "size": 21.77
+            },
+            {
+              "price": 7.6,
+              "size": 106.81
+            },
+            {
+              "price": 7.8,
+              "size": 32.9
+            }
+          ],
+          "runner_matched_volume": 2290.88,
+          "last_price_traded": 6.8,
+          "market_prob": 0.147521,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 58454091,
+          "name": "4. Warby Ranges",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 3.85,
+          "best_back_size": 19.39,
+          "best_lay": 3.95,
+          "best_lay_size": 26.55,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 3.85,
+              "size": 19.39
+            },
+            {
+              "price": 3.8,
+              "size": 26.51
+            },
+            {
+              "price": 3.75,
+              "size": 9.86
+            },
+            {
+              "price": 3.7,
+              "size": 1.0
+            },
+            {
+              "price": 3.65,
+              "size": 76.65
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.95,
+              "size": 26.55
+            },
+            {
+              "price": 4.0,
+              "size": 15.57
+            },
+            {
+              "price": 4.1,
+              "size": 40.19
+            },
+            {
+              "price": 4.2,
+              "size": 52.35
+            },
+            {
+              "price": 4.3,
+              "size": 62.25
+            }
+          ],
+          "runner_matched_volume": 661.83,
+          "last_price_traded": 3.95,
+          "market_prob": 0.252893,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 62949865,
+          "name": "5. Oscar Winner",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 6.8,
+          "best_back_size": 12.21,
+          "best_lay": 7.2,
+          "best_lay_size": 6.24,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 6.8,
+              "size": 12.21
+            },
+            {
+              "price": 6.6,
+              "size": 5.68
+            },
+            {
+              "price": 6.4,
+              "size": 25.76
+            },
+            {
+              "price": 6.2,
+              "size": 24.32
+            },
+            {
+              "price": 6.0,
+              "size": 48.67
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.2,
+              "size": 6.24
+            },
+            {
+              "price": 7.4,
+              "size": 5.88
+            },
+            {
+              "price": 7.6,
+              "size": 1.95
+            },
+            {
+              "price": 7.8,
+              "size": 30.76
+            },
+            {
+              "price": 8.0,
+              "size": 15.0
+            }
+          ],
+          "runner_matched_volume": 503.46,
+          "last_price_traded": 6.4,
+          "market_prob": 0.143182,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100455469,
+          "name": "6. Grundy Three Votes",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 32.0,
+          "best_back_size": 6.7,
+          "best_lay": 38.0,
+          "best_lay_size": 4.88,
+          "spread": 6.0,
+          "back_ladder": [
+            {
+              "price": 32.0,
+              "size": 6.7
+            },
+            {
+              "price": 30.0,
+              "size": 3.17
+            },
+            {
+              "price": 29.0,
+              "size": 6.07
+            },
+            {
+              "price": 28.0,
+              "size": 4.29
+            },
+            {
+              "price": 27.0,
+              "size": 4.44
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 38.0,
+              "size": 4.88
+            },
+            {
+              "price": 40.0,
+              "size": 2.88
+            },
+            {
+              "price": 44.0,
+              "size": 2.73
+            },
+            {
+              "price": 48.0,
+              "size": 2.5
+            },
+            {
+              "price": 50.0,
+              "size": 2.4
+            }
+          ],
+          "runner_matched_volume": 85.83,
+          "last_price_traded": 32.0,
+          "market_prob": 0.030426,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100455470,
+          "name": "7. My De Grece",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 8.8,
+          "best_back_size": 2.39,
+          "best_lay": 10.0,
+          "best_lay_size": 6.34,
+          "spread": 1.2,
+          "back_ladder": [
+            {
+              "price": 8.8,
+              "size": 2.39
+            },
+            {
+              "price": 8.6,
+              "size": 14.28
+            },
+            {
+              "price": 8.4,
+              "size": 19.74
+            },
+            {
+              "price": 8.2,
+              "size": 25.21
+            },
+            {
+              "price": 8.0,
+              "size": 35.49
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 10.0,
+              "size": 6.34
+            },
+            {
+              "price": 10.5,
+              "size": 27.69
+            },
+            {
+              "price": 11.0,
+              "size": 27.16
+            },
+            {
+              "price": 11.5,
+              "size": 22.79
+            },
+            {
+              "price": 12.0,
+              "size": 36.51
+            }
+          ],
+          "runner_matched_volume": 512.21,
+          "last_price_traded": 9.4,
+          "market_prob": 0.110641,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 98960370,
+          "name": "8. Holdout",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 8.0,
+          "best_back_size": 24.22,
+          "best_lay": 8.6,
+          "best_lay_size": 19.56,
+          "spread": 0.6,
+          "back_ladder": [
+            {
+              "price": 8.0,
+              "size": 24.22
+            },
+            {
+              "price": 7.8,
+              "size": 6.63
+            },
+            {
+              "price": 7.6,
+              "size": 19.47
+            },
+            {
+              "price": 7.4,
+              "size": 40.01
+            },
+            {
+              "price": 7.2,
+              "size": 75.97
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.6,
+              "size": 19.56
+            },
+            {
+              "price": 8.8,
+              "size": 2.86
+            },
+            {
+              "price": 9.0,
+              "size": 10.0
+            },
+            {
+              "price": 9.2,
+              "size": 14.15
+            },
+            {
+              "price": 9.4,
+              "size": 16.7
+            }
+          ],
+          "runner_matched_volume": 196.98,
+          "last_price_traded": 8.4,
+          "market_prob": 0.121705,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 98960371,
+          "name": "10. Tobian",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 13.0,
+          "best_back_size": 5.16,
+          "best_lay": 13.5,
+          "best_lay_size": 1.84,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 13.0,
+              "size": 5.16
+            },
+            {
+              "price": 12.5,
+              "size": 55.68
+            },
+            {
+              "price": 12.0,
+              "size": 37.73
+            },
+            {
+              "price": 11.5,
+              "size": 58.4
+            },
+            {
+              "price": 11.0,
+              "size": 72.19
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 13.5,
+              "size": 1.84
+            },
+            {
+              "price": 14.0,
+              "size": 9.42
+            },
+            {
+              "price": 14.5,
+              "size": 8.02
+            },
+            {
+              "price": 15.0,
+              "size": 14.09
+            },
+            {
+              "price": 15.5,
+              "size": 61.52
+            }
+          ],
+          "runner_matched_volume": 65.4,
+          "last_price_traded": 13.5,
+          "market_prob": 0.074895,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 64208129,
+          "name": "1. Fellafromdownunder",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 75964817,
+          "name": "9. Spirit Of Luna",
+          "saddle_cloth": 10,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T06:06:49.594762Z",
+      "seconds_to_off": 491,
+      "market_matched_volume": 5488.45,
+      "overround_pct": 102.2,
+      "runners": [
+        {
+          "selection_id": 83940960,
+          "name": "2. Renovation Show",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 8.2,
+          "best_back_size": 32.66,
+          "best_lay": 8.6,
+          "best_lay_size": 2.49,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 8.2,
+              "size": 32.66
+            },
+            {
+              "price": 8.0,
+              "size": 11.12
+            },
+            {
+              "price": 7.8,
+              "size": 10.36
+            },
+            {
+              "price": 7.6,
+              "size": 19.45
+            },
+            {
+              "price": 7.4,
+              "size": 22.37
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.6,
+              "size": 2.49
+            },
+            {
+              "price": 8.8,
+              "size": 45.96
+            },
+            {
+              "price": 9.0,
+              "size": 9.42
+            },
+            {
+              "price": 9.2,
+              "size": 8.68
+            },
+            {
+              "price": 9.4,
+              "size": 26.9
+            }
+          ],
+          "runner_matched_volume": 499.83,
+          "last_price_traded": 8.2,
+          "market_prob": 0.119301,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 92967308,
+          "name": "3. Tousled Crown",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 6.2,
+          "best_back_size": 33.21,
+          "best_lay": 6.4,
+          "best_lay_size": 28.16,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 6.2,
+              "size": 33.21
+            },
+            {
+              "price": 6.0,
+              "size": 41.35
+            },
+            {
+              "price": 5.9,
+              "size": 9.28
+            },
+            {
+              "price": 5.8,
+              "size": 84.7
+            },
+            {
+              "price": 5.7,
+              "size": 19.27
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.4,
+              "size": 28.16
+            },
+            {
+              "price": 6.6,
+              "size": 21.4
+            },
+            {
+              "price": 6.8,
+              "size": 19.29
+            },
+            {
+              "price": 7.0,
+              "size": 24.8
+            },
+            {
+              "price": 7.2,
+              "size": 27.72
+            }
+          ],
+          "runner_matched_volume": 2546.63,
+          "last_price_traded": 6.4,
+          "market_prob": 0.157786,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 58454091,
+          "name": "4. Warby Ranges",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 3.9,
+          "best_back_size": 17.34,
+          "best_lay": 4.0,
+          "best_lay_size": 17.0,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 3.9,
+              "size": 17.34
+            },
+            {
+              "price": 3.85,
+              "size": 21.99
+            },
+            {
+              "price": 3.8,
+              "size": 17.36
+            },
+            {
+              "price": 3.75,
+              "size": 44.74
+            },
+            {
+              "price": 3.7,
+              "size": 43.96
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.0,
+              "size": 17.0
+            },
+            {
+              "price": 4.1,
+              "size": 40.19
+            },
+            {
+              "price": 4.2,
+              "size": 52.66
+            },
+            {
+              "price": 4.3,
+              "size": 62.25
+            },
+            {
+              "price": 4.4,
+              "size": 34.12
+            }
+          ],
+          "runner_matched_volume": 717.94,
+          "last_price_traded": 3.9,
+          "market_prob": 0.250839,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 62949865,
+          "name": "5. Oscar Winner",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 6.8,
+          "best_back_size": 7.51,
+          "best_lay": 7.2,
+          "best_lay_size": 8.96,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 6.8,
+              "size": 7.51
+            },
+            {
+              "price": 6.6,
+              "size": 15.04
+            },
+            {
+              "price": 6.4,
+              "size": 25.94
+            },
+            {
+              "price": 6.2,
+              "size": 33.99
+            },
+            {
+              "price": 6.0,
+              "size": 48.67
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.2,
+              "size": 8.96
+            },
+            {
+              "price": 7.4,
+              "size": 5.88
+            },
+            {
+              "price": 7.6,
+              "size": 19.68
+            },
+            {
+              "price": 7.8,
+              "size": 30.76
+            },
+            {
+              "price": 8.0,
+              "size": 15.0
+            }
+          ],
+          "runner_matched_volume": 543.46,
+          "last_price_traded": 6.8,
+          "market_prob": 0.143863,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100455469,
+          "name": "6. Grundy Three Votes",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 34.0,
+          "best_back_size": 5.87,
+          "best_lay": 38.0,
+          "best_lay_size": 4.88,
+          "spread": 4.0,
+          "back_ladder": [
+            {
+              "price": 34.0,
+              "size": 5.87
+            },
+            {
+              "price": 32.0,
+              "size": 9.11
+            },
+            {
+              "price": 30.0,
+              "size": 10.63
+            },
+            {
+              "price": 29.0,
+              "size": 6.07
+            },
+            {
+              "price": 28.0,
+              "size": 4.29
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 38.0,
+              "size": 4.88
+            },
+            {
+              "price": 40.0,
+              "size": 2.88
+            },
+            {
+              "price": 44.0,
+              "size": 2.75
+            },
+            {
+              "price": 46.0,
+              "size": 1.04
+            },
+            {
+              "price": 48.0,
+              "size": 2.5
+            }
+          ],
+          "runner_matched_volume": 85.83,
+          "last_price_traded": 32.0,
+          "market_prob": 0.028773,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100455470,
+          "name": "7. My De Grece",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 9.6,
+          "best_back_size": 2.01,
+          "best_lay": 10.0,
+          "best_lay_size": 3.92,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 9.6,
+              "size": 2.01
+            },
+            {
+              "price": 9.4,
+              "size": 15.76
+            },
+            {
+              "price": 9.2,
+              "size": 5.41
+            },
+            {
+              "price": 9.0,
+              "size": 8.05
+            },
+            {
+              "price": 8.8,
+              "size": 14.87
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 10.0,
+              "size": 3.92
+            },
+            {
+              "price": 10.5,
+              "size": 17.33
+            },
+            {
+              "price": 11.0,
+              "size": 27.26
+            },
+            {
+              "price": 11.5,
+              "size": 22.79
+            },
+            {
+              "price": 12.0,
+              "size": 37.81
+            }
+          ],
+          "runner_matched_volume": 736.32,
+          "last_price_traded": 9.8,
+          "market_prob": 0.101903,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 98960370,
+          "name": "8. Holdout",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 8.0,
+          "best_back_size": 12.52,
+          "best_lay": 8.4,
+          "best_lay_size": 10.71,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 8.0,
+              "size": 12.52
+            },
+            {
+              "price": 7.8,
+              "size": 11.99
+            },
+            {
+              "price": 7.6,
+              "size": 19.47
+            },
+            {
+              "price": 7.4,
+              "size": 18.13
+            },
+            {
+              "price": 7.2,
+              "size": 75.97
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.4,
+              "size": 10.71
+            },
+            {
+              "price": 8.6,
+              "size": 5.33
+            },
+            {
+              "price": 8.8,
+              "size": 15.51
+            },
+            {
+              "price": 9.0,
+              "size": 14.5
+            },
+            {
+              "price": 9.2,
+              "size": 24.44
+            }
+          ],
+          "runner_matched_volume": 289.33,
+          "last_price_traded": 8.2,
+          "market_prob": 0.122284,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 98960371,
+          "name": "10. Tobian",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 13.0,
+          "best_back_size": 18.14,
+          "best_lay": 14.0,
+          "best_lay_size": 10.34,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 13.0,
+              "size": 18.14
+            },
+            {
+              "price": 12.5,
+              "size": 58.96
+            },
+            {
+              "price": 12.0,
+              "size": 38.19
+            },
+            {
+              "price": 11.5,
+              "size": 58.4
+            },
+            {
+              "price": 11.0,
+              "size": 43.81
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 14.0,
+              "size": 10.34
+            },
+            {
+              "price": 14.5,
+              "size": 8.02
+            },
+            {
+              "price": 15.0,
+              "size": 14.17
+            },
+            {
+              "price": 15.5,
+              "size": 61.52
+            },
+            {
+              "price": 16.0,
+              "size": 7.73
+            }
+          ],
+          "runner_matched_volume": 69.08,
+          "last_price_traded": 13.5,
+          "market_prob": 0.075252,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 64208129,
+          "name": "1. Fellafromdownunder",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 75964817,
+          "name": "9. Spirit Of Luna",
+          "saddle_cloth": 10,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T06:08:21.317705Z",
+      "seconds_to_off": 399,
+      "market_matched_volume": 6272.37,
+      "overround_pct": 102.3,
+      "runners": [
+        {
+          "selection_id": 83940960,
+          "name": "2. Renovation Show",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 8.8,
+          "best_back_size": 7.23,
+          "best_lay": 9.2,
+          "best_lay_size": 7.6,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 8.8,
+              "size": 7.23
+            },
+            {
+              "price": 8.6,
+              "size": 23.05
+            },
+            {
+              "price": 8.4,
+              "size": 19.29
+            },
+            {
+              "price": 8.2,
+              "size": 25.04
+            },
+            {
+              "price": 8.0,
+              "size": 16.7
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 9.2,
+              "size": 7.6
+            },
+            {
+              "price": 9.4,
+              "size": 11.62
+            },
+            {
+              "price": 9.6,
+              "size": 3.85
+            },
+            {
+              "price": 9.8,
+              "size": 7.71
+            },
+            {
+              "price": 10.0,
+              "size": 75.38
+            }
+          ],
+          "runner_matched_volume": 958.45,
+          "last_price_traded": 9.2,
+          "market_prob": 0.11112,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 92967308,
+          "name": "3. Tousled Crown",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 6.2,
+          "best_back_size": 65.15,
+          "best_lay": 6.6,
+          "best_lay_size": 57.59,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 6.2,
+              "size": 65.15
+            },
+            {
+              "price": 6.0,
+              "size": 52.62
+            },
+            {
+              "price": 5.9,
+              "size": 10.65
+            },
+            {
+              "price": 5.8,
+              "size": 84.7
+            },
+            {
+              "price": 5.7,
+              "size": 31.8
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.6,
+              "size": 57.59
+            },
+            {
+              "price": 6.8,
+              "size": 18.71
+            },
+            {
+              "price": 7.0,
+              "size": 24.8
+            },
+            {
+              "price": 7.2,
+              "size": 26.37
+            },
+            {
+              "price": 7.4,
+              "size": 58.25
+            }
+          ],
+          "runner_matched_volume": 2635.91,
+          "last_price_traded": 6.6,
+          "market_prob": 0.157718,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 58454091,
+          "name": "4. Warby Ranges",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 3.85,
+          "best_back_size": 49.51,
+          "best_lay": 3.9,
+          "best_lay_size": 18.8,
+          "spread": 0.05,
+          "back_ladder": [
+            {
+              "price": 3.85,
+              "size": 49.51
+            },
+            {
+              "price": 3.8,
+              "size": 34.22
+            },
+            {
+              "price": 3.75,
+              "size": 37.07
+            },
+            {
+              "price": 3.7,
+              "size": 43.96
+            },
+            {
+              "price": 3.65,
+              "size": 76.65
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.9,
+              "size": 18.8
+            },
+            {
+              "price": 3.95,
+              "size": 6.44
+            },
+            {
+              "price": 4.0,
+              "size": 43.92
+            },
+            {
+              "price": 4.1,
+              "size": 40.19
+            },
+            {
+              "price": 4.2,
+              "size": 66.24
+            }
+          ],
+          "runner_matched_volume": 817.93,
+          "last_price_traded": 3.9,
+          "market_prob": 0.253988,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 62949865,
+          "name": "5. Oscar Winner",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 6.8,
+          "best_back_size": 10.07,
+          "best_lay": 7.2,
+          "best_lay_size": 8.96,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 6.8,
+              "size": 10.07
+            },
+            {
+              "price": 6.6,
+              "size": 15.04
+            },
+            {
+              "price": 6.4,
+              "size": 39.78
+            },
+            {
+              "price": 6.2,
+              "size": 33.99
+            },
+            {
+              "price": 6.0,
+              "size": 48.67
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.2,
+              "size": 8.96
+            },
+            {
+              "price": 7.4,
+              "size": 34.26
+            },
+            {
+              "price": 7.6,
+              "size": 19.68
+            },
+            {
+              "price": 7.8,
+              "size": 30.76
+            },
+            {
+              "price": 8.0,
+              "size": 42.88
+            }
+          ],
+          "runner_matched_volume": 543.46,
+          "last_price_traded": 6.8,
+          "market_prob": 0.143802,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100455469,
+          "name": "6. Grundy Three Votes",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 34.0,
+          "best_back_size": 6.71,
+          "best_lay": 38.0,
+          "best_lay_size": 4.88,
+          "spread": 4.0,
+          "back_ladder": [
+            {
+              "price": 34.0,
+              "size": 6.71
+            },
+            {
+              "price": 32.0,
+              "size": 9.11
+            },
+            {
+              "price": 30.0,
+              "size": 10.63
+            },
+            {
+              "price": 29.0,
+              "size": 6.07
+            },
+            {
+              "price": 28.0,
+              "size": 4.29
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 38.0,
+              "size": 4.88
+            },
+            {
+              "price": 40.0,
+              "size": 2.88
+            },
+            {
+              "price": 44.0,
+              "size": 2.75
+            },
+            {
+              "price": 46.0,
+              "size": 1.14
+            },
+            {
+              "price": 48.0,
+              "size": 2.5
+            }
+          ],
+          "runner_matched_volume": 85.83,
+          "last_price_traded": 32.0,
+          "market_prob": 0.02876,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100455470,
+          "name": "7. My De Grece",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 9.4,
+          "best_back_size": 1.95,
+          "best_lay": 10.5,
+          "best_lay_size": 5.99,
+          "spread": 1.1,
+          "back_ladder": [
+            {
+              "price": 9.4,
+              "size": 1.95
+            },
+            {
+              "price": 9.2,
+              "size": 14.83
+            },
+            {
+              "price": 9.0,
+              "size": 8.05
+            },
+            {
+              "price": 8.8,
+              "size": 6.41
+            },
+            {
+              "price": 8.6,
+              "size": 32.78
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 10.5,
+              "size": 5.99
+            },
+            {
+              "price": 11.0,
+              "size": 27.26
+            },
+            {
+              "price": 11.5,
+              "size": 22.79
+            },
+            {
+              "price": 12.0,
+              "size": 44.11
+            },
+            {
+              "price": 12.5,
+              "size": 68.84
+            }
+          ],
+          "runner_matched_volume": 846.82,
+          "last_price_traded": 10.5,
+          "market_prob": 0.104027,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 98960370,
+          "name": "8. Holdout",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 7.8,
+          "best_back_size": 12.14,
+          "best_lay": 8.2,
+          "best_lay_size": 2.13,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 7.8,
+              "size": 12.14
+            },
+            {
+              "price": 7.6,
+              "size": 5.45
+            },
+            {
+              "price": 7.4,
+              "size": 18.13
+            },
+            {
+              "price": 7.2,
+              "size": 75.97
+            },
+            {
+              "price": 7.0,
+              "size": 97.44
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.2,
+              "size": 2.13
+            },
+            {
+              "price": 8.4,
+              "size": 13.68
+            },
+            {
+              "price": 8.6,
+              "size": 3.83
+            },
+            {
+              "price": 8.8,
+              "size": 15.51
+            },
+            {
+              "price": 9.0,
+              "size": 22.75
+            }
+          ],
+          "runner_matched_volume": 314.84,
+          "last_price_traded": 8.0,
+          "market_prob": 0.125366,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 98960371,
+          "name": "10. Tobian",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 13.0,
+          "best_back_size": 18.32,
+          "best_lay": 14.0,
+          "best_lay_size": 10.34,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 13.0,
+              "size": 18.32
+            },
+            {
+              "price": 12.5,
+              "size": 58.96
+            },
+            {
+              "price": 12.0,
+              "size": 38.19
+            },
+            {
+              "price": 11.5,
+              "size": 58.4
+            },
+            {
+              "price": 11.0,
+              "size": 67.01
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 14.0,
+              "size": 10.34
+            },
+            {
+              "price": 14.5,
+              "size": 8.02
+            },
+            {
+              "price": 15.0,
+              "size": 14.17
+            },
+            {
+              "price": 15.5,
+              "size": 8.0
+            },
+            {
+              "price": 16.0,
+              "size": 7.73
+            }
+          ],
+          "runner_matched_volume": 69.08,
+          "last_price_traded": 13.5,
+          "market_prob": 0.075219,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 64208129,
+          "name": "1. Fellafromdownunder",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 75964817,
+          "name": "9. Spirit Of Luna",
+          "saddle_cloth": 10,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T06:09:36.311111Z",
+      "seconds_to_off": 324,
+      "market_matched_volume": 7317.87,
+      "overround_pct": 101.6,
+      "runners": [
+        {
+          "selection_id": 83940960,
+          "name": "2. Renovation Show",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 9.0,
+          "best_back_size": 8.58,
+          "best_lay": 9.4,
+          "best_lay_size": 8.11,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 9.0,
+              "size": 8.58
+            },
+            {
+              "price": 8.8,
+              "size": 20.66
+            },
+            {
+              "price": 8.6,
+              "size": 20.65
+            },
+            {
+              "price": 8.4,
+              "size": 25.58
+            },
+            {
+              "price": 8.2,
+              "size": 25.11
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 9.4,
+              "size": 8.11
+            },
+            {
+              "price": 9.6,
+              "size": 4.87
+            },
+            {
+              "price": 9.8,
+              "size": 3.87
+            },
+            {
+              "price": 10.0,
+              "size": 80.89
+            },
+            {
+              "price": 10.5,
+              "size": 16.65
+            }
+          ],
+          "runner_matched_volume": 1058.32,
+          "last_price_traded": 9.2,
+          "market_prob": 0.109309,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 92967308,
+          "name": "3. Tousled Crown",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 5.9,
+          "best_back_size": 8.87,
+          "best_lay": 6.0,
+          "best_lay_size": 17.07,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.9,
+              "size": 8.87
+            },
+            {
+              "price": 5.8,
+              "size": 117.03
+            },
+            {
+              "price": 5.7,
+              "size": 19.55
+            },
+            {
+              "price": 5.6,
+              "size": 16.27
+            },
+            {
+              "price": 5.5,
+              "size": 21.27
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.0,
+              "size": 17.07
+            },
+            {
+              "price": 6.2,
+              "size": 40.17
+            },
+            {
+              "price": 6.4,
+              "size": 22.64
+            },
+            {
+              "price": 6.6,
+              "size": 15.12
+            },
+            {
+              "price": 6.8,
+              "size": 31.53
+            }
+          ],
+          "runner_matched_volume": 3320.17,
+          "last_price_traded": 5.9,
+          "market_prob": 0.166743,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 58454091,
+          "name": "4. Warby Ranges",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 3.85,
+          "best_back_size": 62.6,
+          "best_lay": 3.95,
+          "best_lay_size": 17.07,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 3.85,
+              "size": 62.6
+            },
+            {
+              "price": 3.8,
+              "size": 26.54
+            },
+            {
+              "price": 3.75,
+              "size": 36.47
+            },
+            {
+              "price": 3.7,
+              "size": 43.96
+            },
+            {
+              "price": 3.65,
+              "size": 76.65
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.95,
+              "size": 17.07
+            },
+            {
+              "price": 4.0,
+              "size": 15.57
+            },
+            {
+              "price": 4.1,
+              "size": 40.19
+            },
+            {
+              "price": 4.2,
+              "size": 66.24
+            },
+            {
+              "price": 4.3,
+              "size": 77.24
+            }
+          ],
+          "runner_matched_volume": 856.89,
+          "last_price_traded": 3.9,
+          "market_prob": 0.255528,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 62949865,
+          "name": "5. Oscar Winner",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 7.0,
+          "best_back_size": 17.77,
+          "best_lay": 7.2,
+          "best_lay_size": 19.05,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 7.0,
+              "size": 17.77
+            },
+            {
+              "price": 6.8,
+              "size": 8.12
+            },
+            {
+              "price": 6.6,
+              "size": 49.59
+            },
+            {
+              "price": 6.4,
+              "size": 43.63
+            },
+            {
+              "price": 6.2,
+              "size": 50.34
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.2,
+              "size": 19.05
+            },
+            {
+              "price": 7.4,
+              "size": 10.35
+            },
+            {
+              "price": 7.6,
+              "size": 28.69
+            },
+            {
+              "price": 7.8,
+              "size": 23.33
+            },
+            {
+              "price": 8.0,
+              "size": 21.5
+            }
+          ],
+          "runner_matched_volume": 563.42,
+          "last_price_traded": 7.2,
+          "market_prob": 0.14054,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100455469,
+          "name": "6. Grundy Three Votes",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 34.0,
+          "best_back_size": 8.2,
+          "best_lay": 36.0,
+          "best_lay_size": 1.17,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 34.0,
+              "size": 8.2
+            },
+            {
+              "price": 32.0,
+              "size": 9.11
+            },
+            {
+              "price": 30.0,
+              "size": 10.3
+            },
+            {
+              "price": 29.0,
+              "size": 6.4
+            },
+            {
+              "price": 28.0,
+              "size": 4.29
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 36.0,
+              "size": 1.17
+            },
+            {
+              "price": 38.0,
+              "size": 2.15
+            },
+            {
+              "price": 40.0,
+              "size": 2.88
+            },
+            {
+              "price": 44.0,
+              "size": 2.75
+            },
+            {
+              "price": 46.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 118.95,
+          "last_price_traded": 34.0,
+          "market_prob": 0.028935,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100455470,
+          "name": "7. My De Grece",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 11.0,
+          "best_back_size": 11.31,
+          "best_lay": 11.5,
+          "best_lay_size": 3.86,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 11.0,
+              "size": 11.31
+            },
+            {
+              "price": 10.5,
+              "size": 13.07
+            },
+            {
+              "price": 10.0,
+              "size": 19.8
+            },
+            {
+              "price": 9.8,
+              "size": 18.56
+            },
+            {
+              "price": 9.6,
+              "size": 39.49
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 11.5,
+              "size": 3.86
+            },
+            {
+              "price": 12.0,
+              "size": 27.58
+            },
+            {
+              "price": 12.5,
+              "size": 5.86
+            },
+            {
+              "price": 13.0,
+              "size": 11.6
+            },
+            {
+              "price": 13.5,
+              "size": 20.49
+            }
+          ],
+          "runner_matched_volume": 961.02,
+          "last_price_traded": 11.5,
+          "market_prob": 0.089435,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 98960370,
+          "name": "8. Holdout",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 7.2,
+          "best_back_size": 15.86,
+          "best_lay": 7.6,
+          "best_lay_size": 4.14,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 7.2,
+              "size": 15.86
+            },
+            {
+              "price": 7.0,
+              "size": 32.46
+            },
+            {
+              "price": 6.8,
+              "size": 98.68
+            },
+            {
+              "price": 6.6,
+              "size": 28.44
+            },
+            {
+              "price": 6.4,
+              "size": 49.47
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.6,
+              "size": 4.14
+            },
+            {
+              "price": 7.8,
+              "size": 12.47
+            },
+            {
+              "price": 8.0,
+              "size": 53.19
+            },
+            {
+              "price": 8.2,
+              "size": 18.23
+            },
+            {
+              "price": 8.4,
+              "size": 22.43
+            }
+          ],
+          "runner_matched_volume": 362.21,
+          "last_price_traded": 7.4,
+          "market_prob": 0.136637,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 98960371,
+          "name": "10. Tobian",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 13.5,
+          "best_back_size": 29.21,
+          "best_lay": 14.5,
+          "best_lay_size": 8.02,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 13.5,
+              "size": 29.21
+            },
+            {
+              "price": 13.0,
+              "size": 18.32
+            },
+            {
+              "price": 12.5,
+              "size": 55.57
+            },
+            {
+              "price": 12.0,
+              "size": 38.19
+            },
+            {
+              "price": 11.5,
+              "size": 58.4
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 14.5,
+              "size": 8.02
+            },
+            {
+              "price": 15.0,
+              "size": 5.88
+            },
+            {
+              "price": 15.5,
+              "size": 8.0
+            },
+            {
+              "price": 16.0,
+              "size": 7.73
+            },
+            {
+              "price": 16.5,
+              "size": 9.77
+            }
+          ],
+          "runner_matched_volume": 76.85,
+          "last_price_traded": 14.0,
+          "market_prob": 0.072873,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 64208129,
+          "name": "1. Fellafromdownunder",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 75964817,
+          "name": "9. Spirit Of Luna",
+          "saddle_cloth": 10,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T06:10:50.974649Z",
+      "seconds_to_off": 250,
+      "market_matched_volume": 8412.12,
+      "overround_pct": 102.2,
+      "runners": [
+        {
+          "selection_id": 83940960,
+          "name": "2. Renovation Show",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 8.8,
+          "best_back_size": 26.69,
+          "best_lay": 9.2,
+          "best_lay_size": 6.98,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 8.8,
+              "size": 26.69
+            },
+            {
+              "price": 8.6,
+              "size": 22.56
+            },
+            {
+              "price": 8.4,
+              "size": 29.18
+            },
+            {
+              "price": 8.2,
+              "size": 25.11
+            },
+            {
+              "price": 8.0,
+              "size": 32.22
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 9.2,
+              "size": 6.98
+            },
+            {
+              "price": 9.4,
+              "size": 6.69
+            },
+            {
+              "price": 9.6,
+              "size": 6.81
+            },
+            {
+              "price": 9.8,
+              "size": 11.09
+            },
+            {
+              "price": 10.0,
+              "size": 80.89
+            }
+          ],
+          "runner_matched_volume": 1171.32,
+          "last_price_traded": 9.0,
+          "market_prob": 0.111142,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 92967308,
+          "name": "3. Tousled Crown",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 6.2,
+          "best_back_size": 47.67,
+          "best_lay": 6.6,
+          "best_lay_size": 30.85,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 6.2,
+              "size": 47.67
+            },
+            {
+              "price": 6.0,
+              "size": 58.78
+            },
+            {
+              "price": 5.9,
+              "size": 33.39
+            },
+            {
+              "price": 5.8,
+              "size": 144.74
+            },
+            {
+              "price": 5.7,
+              "size": 10.71
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.6,
+              "size": 30.85
+            },
+            {
+              "price": 6.8,
+              "size": 16.0
+            },
+            {
+              "price": 7.0,
+              "size": 27.2
+            },
+            {
+              "price": 7.2,
+              "size": 44.96
+            },
+            {
+              "price": 7.4,
+              "size": 64.62
+            }
+          ],
+          "runner_matched_volume": 3597.74,
+          "last_price_traded": 6.2,
+          "market_prob": 0.15775,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 58454091,
+          "name": "4. Warby Ranges",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 3.8,
+          "best_back_size": 20.42,
+          "best_lay": 3.9,
+          "best_lay_size": 10.0,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 3.8,
+              "size": 20.42
+            },
+            {
+              "price": 3.75,
+              "size": 34.77
+            },
+            {
+              "price": 3.7,
+              "size": 32.71
+            },
+            {
+              "price": 3.65,
+              "size": 62.52
+            },
+            {
+              "price": 3.6,
+              "size": 83.73
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.9,
+              "size": 10.0
+            },
+            {
+              "price": 3.95,
+              "size": 42.55
+            },
+            {
+              "price": 4.0,
+              "size": 19.92
+            },
+            {
+              "price": 4.1,
+              "size": 39.34
+            },
+            {
+              "price": 4.2,
+              "size": 80.69
+            }
+          ],
+          "runner_matched_volume": 1373.43,
+          "last_price_traded": 3.9,
+          "market_prob": 0.257381,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 62949865,
+          "name": "5. Oscar Winner",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 6.8,
+          "best_back_size": 10.39,
+          "best_lay": 7.0,
+          "best_lay_size": 5.68,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 6.8,
+              "size": 10.39
+            },
+            {
+              "price": 6.6,
+              "size": 39.52
+            },
+            {
+              "price": 6.4,
+              "size": 58.13
+            },
+            {
+              "price": 6.2,
+              "size": 50.34
+            },
+            {
+              "price": 6.0,
+              "size": 55.43
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.0,
+              "size": 5.68
+            },
+            {
+              "price": 7.2,
+              "size": 27.55
+            },
+            {
+              "price": 7.4,
+              "size": 24.53
+            },
+            {
+              "price": 7.6,
+              "size": 32.36
+            },
+            {
+              "price": 7.8,
+              "size": 23.33
+            }
+          ],
+          "runner_matched_volume": 601.02,
+          "last_price_traded": 7.0,
+          "market_prob": 0.143831,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100455469,
+          "name": "6. Grundy Three Votes",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 36.0,
+          "best_back_size": 1.27,
+          "best_lay": 40.0,
+          "best_lay_size": 2.9,
+          "spread": 4.0,
+          "back_ladder": [
+            {
+              "price": 36.0,
+              "size": 1.27
+            },
+            {
+              "price": 34.0,
+              "size": 25.63
+            },
+            {
+              "price": 32.0,
+              "size": 5.8
+            },
+            {
+              "price": 30.0,
+              "size": 15.02
+            },
+            {
+              "price": 29.0,
+              "size": 6.4
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 40.0,
+              "size": 2.9
+            },
+            {
+              "price": 44.0,
+              "size": 3.5
+            },
+            {
+              "price": 46.0,
+              "size": 1.0
+            },
+            {
+              "price": 48.0,
+              "size": 4.43
+            },
+            {
+              "price": 50.0,
+              "size": 6.47
+            }
+          ],
+          "runner_matched_volume": 144.68,
+          "last_price_traded": 36.0,
+          "market_prob": 0.027168,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100455470,
+          "name": "7. My De Grece",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 10.5,
+          "best_back_size": 12.82,
+          "best_lay": 11.5,
+          "best_lay_size": 16.63,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 10.5,
+              "size": 12.82
+            },
+            {
+              "price": 10.0,
+              "size": 19.2
+            },
+            {
+              "price": 9.8,
+              "size": 16.65
+            },
+            {
+              "price": 9.6,
+              "size": 35.64
+            },
+            {
+              "price": 9.4,
+              "size": 49.55
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 11.5,
+              "size": 16.63
+            },
+            {
+              "price": 12.0,
+              "size": 27.58
+            },
+            {
+              "price": 12.5,
+              "size": 12.14
+            },
+            {
+              "price": 13.0,
+              "size": 17.38
+            },
+            {
+              "price": 13.5,
+              "size": 26.27
+            }
+          ],
+          "runner_matched_volume": 996.29,
+          "last_price_traded": 10.5,
+          "market_prob": 0.093147,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 98960370,
+          "name": "8. Holdout",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 7.0,
+          "best_back_size": 5.16,
+          "best_lay": 7.4,
+          "best_lay_size": 13.34,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 7.0,
+              "size": 5.16
+            },
+            {
+              "price": 6.8,
+              "size": 24.41
+            },
+            {
+              "price": 6.6,
+              "size": 58.45
+            },
+            {
+              "price": 6.4,
+              "size": 53.74
+            },
+            {
+              "price": 6.2,
+              "size": 52.21
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.4,
+              "size": 13.34
+            },
+            {
+              "price": 7.6,
+              "size": 7.66
+            },
+            {
+              "price": 7.8,
+              "size": 23.72
+            },
+            {
+              "price": 8.0,
+              "size": 65.94
+            },
+            {
+              "price": 8.2,
+              "size": 26.61
+            }
+          ],
+          "runner_matched_volume": 429.31,
+          "last_price_traded": 7.2,
+          "market_prob": 0.139721,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 98960371,
+          "name": "10. Tobian",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 14.0,
+          "best_back_size": 8.53,
+          "best_lay": 15.5,
+          "best_lay_size": 2.42,
+          "spread": 1.5,
+          "back_ladder": [
+            {
+              "price": 14.0,
+              "size": 8.53
+            },
+            {
+              "price": 13.5,
+              "size": 7.88
+            },
+            {
+              "price": 13.0,
+              "size": 18.67
+            },
+            {
+              "price": 12.5,
+              "size": 73.51
+            },
+            {
+              "price": 12.0,
+              "size": 61.07
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 15.5,
+              "size": 2.42
+            },
+            {
+              "price": 16.0,
+              "size": 12.64
+            },
+            {
+              "price": 16.5,
+              "size": 3.85
+            },
+            {
+              "price": 17.0,
+              "size": 10.15
+            },
+            {
+              "price": 17.5,
+              "size": 7.04
+            }
+          ],
+          "runner_matched_volume": 98.3,
+          "last_price_traded": 15.0,
+          "market_prob": 0.069861,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 64208129,
+          "name": "1. Fellafromdownunder",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 75964817,
+          "name": "9. Spirit Of Luna",
+          "saddle_cloth": 10,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T06:12:05.973627Z",
+      "seconds_to_off": 175,
+      "market_matched_volume": 11035.33,
+      "overround_pct": 102.6,
+      "runners": [
+        {
+          "selection_id": 83940960,
+          "name": "2. Renovation Show",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 9.0,
+          "best_back_size": 19.68,
+          "best_lay": 9.4,
+          "best_lay_size": 12.23,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 9.0,
+              "size": 19.68
+            },
+            {
+              "price": 8.8,
+              "size": 56.96
+            },
+            {
+              "price": 8.6,
+              "size": 34.49
+            },
+            {
+              "price": 8.4,
+              "size": 50.35
+            },
+            {
+              "price": 8.2,
+              "size": 40.38
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 9.4,
+              "size": 12.23
+            },
+            {
+              "price": 9.6,
+              "size": 13.49
+            },
+            {
+              "price": 9.8,
+              "size": 23.94
+            },
+            {
+              "price": 10.0,
+              "size": 91.82
+            },
+            {
+              "price": 10.5,
+              "size": 27.57
+            }
+          ],
+          "runner_matched_volume": 1419.35,
+          "last_price_traded": 9.2,
+          "market_prob": 0.108304,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 92967308,
+          "name": "3. Tousled Crown",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 6.6,
+          "best_back_size": 192.19,
+          "best_lay": 7.0,
+          "best_lay_size": 155.22,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 6.6,
+              "size": 192.19
+            },
+            {
+              "price": 6.4,
+              "size": 76.72
+            },
+            {
+              "price": 6.2,
+              "size": 59.76
+            },
+            {
+              "price": 6.0,
+              "size": 121.94
+            },
+            {
+              "price": 5.9,
+              "size": 89.66
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.0,
+              "size": 155.22
+            },
+            {
+              "price": 7.2,
+              "size": 68.04
+            },
+            {
+              "price": 7.4,
+              "size": 59.37
+            },
+            {
+              "price": 7.6,
+              "size": 94.83
+            },
+            {
+              "price": 7.8,
+              "size": 65.1
+            }
+          ],
+          "runner_matched_volume": 4013.41,
+          "last_price_traded": 6.8,
+          "market_prob": 0.147687,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 58454091,
+          "name": "4. Warby Ranges",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 3.75,
+          "best_back_size": 20.84,
+          "best_lay": 3.85,
+          "best_lay_size": 29.56,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 3.75,
+              "size": 20.84
+            },
+            {
+              "price": 3.7,
+              "size": 101.78
+            },
+            {
+              "price": 3.65,
+              "size": 146.65
+            },
+            {
+              "price": 3.6,
+              "size": 63.32
+            },
+            {
+              "price": 3.55,
+              "size": 60.94
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.85,
+              "size": 29.56
+            },
+            {
+              "price": 3.9,
+              "size": 27.96
+            },
+            {
+              "price": 3.95,
+              "size": 28.42
+            },
+            {
+              "price": 4.0,
+              "size": 44.26
+            },
+            {
+              "price": 4.1,
+              "size": 79.77
+            }
+          ],
+          "runner_matched_volume": 2722.23,
+          "last_price_traded": 3.8,
+          "market_prob": 0.259929,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 62949865,
+          "name": "5. Oscar Winner",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 7.0,
+          "best_back_size": 31.18,
+          "best_lay": 7.4,
+          "best_lay_size": 31.39,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 7.0,
+              "size": 31.18
+            },
+            {
+              "price": 6.8,
+              "size": 19.72
+            },
+            {
+              "price": 6.6,
+              "size": 44.32
+            },
+            {
+              "price": 6.4,
+              "size": 75.5
+            },
+            {
+              "price": 6.2,
+              "size": 99.57
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.4,
+              "size": 31.39
+            },
+            {
+              "price": 7.6,
+              "size": 68.55
+            },
+            {
+              "price": 7.8,
+              "size": 42.53
+            },
+            {
+              "price": 8.0,
+              "size": 33.89
+            },
+            {
+              "price": 8.2,
+              "size": 105.0
+            }
+          ],
+          "runner_matched_volume": 696.13,
+          "last_price_traded": 7.2,
+          "market_prob": 0.139248,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 100455469,
+          "name": "6. Grundy Three Votes",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 32.0,
+          "best_back_size": 16.92,
+          "best_lay": 40.0,
+          "best_lay_size": 18.67,
+          "spread": 8.0,
+          "back_ladder": [
+            {
+              "price": 32.0,
+              "size": 16.92
+            },
+            {
+              "price": 30.0,
+              "size": 17.41
+            },
+            {
+              "price": 29.0,
+              "size": 19.83
+            },
+            {
+              "price": 28.0,
+              "size": 15.02
+            },
+            {
+              "price": 27.0,
+              "size": 25.04
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 40.0,
+              "size": 18.67
+            },
+            {
+              "price": 42.0,
+              "size": 10.9
+            },
+            {
+              "price": 44.0,
+              "size": 8.76
+            },
+            {
+              "price": 46.0,
+              "size": 3.87
+            },
+            {
+              "price": 48.0,
+              "size": 33.46
+            }
+          ],
+          "runner_matched_volume": 263.52,
+          "last_price_traded": 34.0,
+          "market_prob": 0.03046,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100455470,
+          "name": "7. My De Grece",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 9.8,
+          "best_back_size": 9.41,
+          "best_lay": 10.5,
+          "best_lay_size": 34.4,
+          "spread": 0.7,
+          "back_ladder": [
+            {
+              "price": 9.8,
+              "size": 9.41
+            },
+            {
+              "price": 9.6,
+              "size": 37.25
+            },
+            {
+              "price": 9.4,
+              "size": 47.23
+            },
+            {
+              "price": 9.2,
+              "size": 49.77
+            },
+            {
+              "price": 9.0,
+              "size": 33.1
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 10.5,
+              "size": 34.4
+            },
+            {
+              "price": 11.0,
+              "size": 42.76
+            },
+            {
+              "price": 11.5,
+              "size": 42.01
+            },
+            {
+              "price": 12.0,
+              "size": 28.4
+            },
+            {
+              "price": 12.5,
+              "size": 52.0
+            }
+          ],
+          "runner_matched_volume": 1180.04,
+          "last_price_traded": 10.0,
+          "market_prob": 0.099463,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 98960370,
+          "name": "8. Holdout",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 6.6,
+          "best_back_size": 33.37,
+          "best_lay": 6.8,
+          "best_lay_size": 129.83,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 6.6,
+              "size": 33.37
+            },
+            {
+              "price": 6.4,
+              "size": 79.92
+            },
+            {
+              "price": 6.2,
+              "size": 117.06
+            },
+            {
+              "price": 6.0,
+              "size": 84.62
+            },
+            {
+              "price": 5.9,
+              "size": 42.18
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.8,
+              "size": 129.83
+            },
+            {
+              "price": 7.0,
+              "size": 19.17
+            },
+            {
+              "price": 7.2,
+              "size": 14.82
+            },
+            {
+              "price": 7.4,
+              "size": 37.78
+            },
+            {
+              "price": 7.6,
+              "size": 47.05
+            }
+          ],
+          "runner_matched_volume": 623.71,
+          "last_price_traded": 6.8,
+          "market_prob": 0.147687,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 98960371,
+          "name": "10. Tobian",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 14.5,
+          "best_back_size": 7.9,
+          "best_lay": 15.5,
+          "best_lay_size": 4.95,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 14.5,
+              "size": 7.9
+            },
+            {
+              "price": 14.0,
+              "size": 24.35
+            },
+            {
+              "price": 13.5,
+              "size": 20.62
+            },
+            {
+              "price": 13.0,
+              "size": 51.54
+            },
+            {
+              "price": 12.5,
+              "size": 25.0
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 15.5,
+              "size": 4.95
+            },
+            {
+              "price": 16.0,
+              "size": 11.01
+            },
+            {
+              "price": 16.5,
+              "size": 11.58
+            },
+            {
+              "price": 17.0,
+              "size": 38.66
+            },
+            {
+              "price": 17.5,
+              "size": 16.32
+            }
+          ],
+          "runner_matched_volume": 116.89,
+          "last_price_traded": 15.0,
+          "market_prob": 0.067223,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 64208129,
+          "name": "1. Fellafromdownunder",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 75964817,
+          "name": "9. Spirit Of Luna",
+          "saddle_cloth": 10,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T06:13:30.677414Z",
+      "seconds_to_off": 90,
+      "market_matched_volume": 14844.84,
+      "overround_pct": 101.9,
+      "runners": [
+        {
+          "selection_id": 83940960,
+          "name": "2. Renovation Show",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 9.4,
+          "best_back_size": 41.03,
+          "best_lay": 9.8,
+          "best_lay_size": 22.06,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 9.4,
+              "size": 41.03
+            },
+            {
+              "price": 9.2,
+              "size": 48.46
+            },
+            {
+              "price": 9.0,
+              "size": 78.63
+            },
+            {
+              "price": 8.8,
+              "size": 46.15
+            },
+            {
+              "price": 8.6,
+              "size": 45.34
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 9.8,
+              "size": 22.06
+            },
+            {
+              "price": 10.0,
+              "size": 84.42
+            },
+            {
+              "price": 10.5,
+              "size": 20.57
+            },
+            {
+              "price": 11.0,
+              "size": 48.64
+            },
+            {
+              "price": 11.5,
+              "size": 62.56
+            }
+          ],
+          "runner_matched_volume": 1444.25,
+          "last_price_traded": 9.4,
+          "market_prob": 0.104373,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 92967308,
+          "name": "3. Tousled Crown",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 6.8,
+          "best_back_size": 273.16,
+          "best_lay": 7.2,
+          "best_lay_size": 185.99,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 6.8,
+              "size": 273.16
+            },
+            {
+              "price": 6.6,
+              "size": 185.19
+            },
+            {
+              "price": 6.4,
+              "size": 100.12
+            },
+            {
+              "price": 6.2,
+              "size": 133.48
+            },
+            {
+              "price": 6.0,
+              "size": 128.06
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.2,
+              "size": 185.99
+            },
+            {
+              "price": 7.4,
+              "size": 394.49
+            },
+            {
+              "price": 7.6,
+              "size": 214.6
+            },
+            {
+              "price": 7.8,
+              "size": 65.1
+            },
+            {
+              "price": 8.0,
+              "size": 82.41
+            }
+          ],
+          "runner_matched_volume": 5096.1,
+          "last_price_traded": 7.0,
+          "market_prob": 0.14428,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 58454091,
+          "name": "4. Warby Ranges",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 3.85,
+          "best_back_size": 8.42,
+          "best_lay": 3.9,
+          "best_lay_size": 21.04,
+          "spread": 0.05,
+          "back_ladder": [
+            {
+              "price": 3.85,
+              "size": 8.42
+            },
+            {
+              "price": 3.8,
+              "size": 32.85
+            },
+            {
+              "price": 3.75,
+              "size": 28.85
+            },
+            {
+              "price": 3.7,
+              "size": 68.63
+            },
+            {
+              "price": 3.65,
+              "size": 187.72
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.9,
+              "size": 21.04
+            },
+            {
+              "price": 3.95,
+              "size": 25.44
+            },
+            {
+              "price": 4.0,
+              "size": 76.66
+            },
+            {
+              "price": 4.1,
+              "size": 57.54
+            },
+            {
+              "price": 4.2,
+              "size": 108.97
+            }
+          ],
+          "runner_matched_volume": 3819.0,
+          "last_price_traded": 3.85,
+          "market_prob": 0.254833,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 62949865,
+          "name": "5. Oscar Winner",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 7.4,
+          "best_back_size": 30.9,
+          "best_lay": 7.6,
+          "best_lay_size": 31.23,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 7.4,
+              "size": 30.9
+            },
+            {
+              "price": 7.2,
+              "size": 42.24
+            },
+            {
+              "price": 7.0,
+              "size": 59.79
+            },
+            {
+              "price": 6.8,
+              "size": 45.91
+            },
+            {
+              "price": 6.6,
+              "size": 90.73
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.6,
+              "size": 31.23
+            },
+            {
+              "price": 7.8,
+              "size": 23.13
+            },
+            {
+              "price": 8.0,
+              "size": 59.38
+            },
+            {
+              "price": 8.2,
+              "size": 36.22
+            },
+            {
+              "price": 8.4,
+              "size": 82.57
+            }
+          ],
+          "runner_matched_volume": 823.22,
+          "last_price_traded": 7.4,
+          "market_prob": 0.132582,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 100455469,
+          "name": "6. Grundy Three Votes",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 38.0,
+          "best_back_size": 6.34,
+          "best_lay": 42.0,
+          "best_lay_size": 11.66,
+          "spread": 4.0,
+          "back_ladder": [
+            {
+              "price": 38.0,
+              "size": 6.34
+            },
+            {
+              "price": 36.0,
+              "size": 61.74
+            },
+            {
+              "price": 34.0,
+              "size": 26.63
+            },
+            {
+              "price": 32.0,
+              "size": 25.41
+            },
+            {
+              "price": 30.0,
+              "size": 29.92
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 42.0,
+              "size": 11.66
+            },
+            {
+              "price": 44.0,
+              "size": 13.87
+            },
+            {
+              "price": 46.0,
+              "size": 18.42
+            },
+            {
+              "price": 48.0,
+              "size": 11.94
+            },
+            {
+              "price": 50.0,
+              "size": 7.83
+            }
+          ],
+          "runner_matched_volume": 340.71,
+          "last_price_traded": 36.0,
+          "market_prob": 0.025819,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100455470,
+          "name": "7. My De Grece",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 10.0,
+          "best_back_size": 52.71,
+          "best_lay": 11.0,
+          "best_lay_size": 79.37,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 10.0,
+              "size": 52.71
+            },
+            {
+              "price": 9.8,
+              "size": 33.36
+            },
+            {
+              "price": 9.6,
+              "size": 38.13
+            },
+            {
+              "price": 9.4,
+              "size": 63.65
+            },
+            {
+              "price": 9.2,
+              "size": 62.81
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 11.0,
+              "size": 79.37
+            },
+            {
+              "price": 11.5,
+              "size": 49.39
+            },
+            {
+              "price": 12.0,
+              "size": 69.89
+            },
+            {
+              "price": 12.5,
+              "size": 22.51
+            },
+            {
+              "price": 13.0,
+              "size": 81.18
+            }
+          ],
+          "runner_matched_volume": 1512.78,
+          "last_price_traded": 11.0,
+          "market_prob": 0.098111,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 98960370,
+          "name": "8. Holdout",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 6.2,
+          "best_back_size": 102.21,
+          "best_lay": 6.4,
+          "best_lay_size": 39.27,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 6.2,
+              "size": 102.21
+            },
+            {
+              "price": 6.0,
+              "size": 89.02
+            },
+            {
+              "price": 5.9,
+              "size": 124.97
+            },
+            {
+              "price": 5.8,
+              "size": 70.1
+            },
+            {
+              "price": 5.7,
+              "size": 64.01
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.4,
+              "size": 39.27
+            },
+            {
+              "price": 6.6,
+              "size": 46.93
+            },
+            {
+              "price": 6.8,
+              "size": 135.85
+            },
+            {
+              "price": 7.0,
+              "size": 34.86
+            },
+            {
+              "price": 7.2,
+              "size": 89.41
+            }
+          ],
+          "runner_matched_volume": 1050.25,
+          "last_price_traded": 6.4,
+          "market_prob": 0.158243,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 98960371,
+          "name": "10. Tobian",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 12.0,
+          "best_back_size": 19.66,
+          "best_lay": 13.0,
+          "best_lay_size": 15.04,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 12.0,
+              "size": 19.66
+            },
+            {
+              "price": 11.5,
+              "size": 33.59
+            },
+            {
+              "price": 11.0,
+              "size": 55.46
+            },
+            {
+              "price": 10.5,
+              "size": 75.02
+            },
+            {
+              "price": 10.0,
+              "size": 95.09
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 13.0,
+              "size": 15.04
+            },
+            {
+              "price": 13.5,
+              "size": 17.12
+            },
+            {
+              "price": 14.0,
+              "size": 44.36
+            },
+            {
+              "price": 14.5,
+              "size": 5.39
+            },
+            {
+              "price": 15.0,
+              "size": 8.58
+            }
+          ],
+          "runner_matched_volume": 758.49,
+          "last_price_traded": 12.5,
+          "market_prob": 0.081759,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 64208129,
+          "name": "1. Fellafromdownunder",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 75964817,
+          "name": "9. Spirit Of Luna",
+          "saddle_cloth": 10,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    }
+  ],
+  "finalized_at": "2026-07-12T06:19:40.280194Z"
+}
