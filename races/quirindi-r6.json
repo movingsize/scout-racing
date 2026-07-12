@@ -6,7 +6,7 @@
   "race_type": "Flat",
   "start_time_utc": "2026-07-13T05:50:00.000Z",
   "market_id": "1.259927698",
-  "market_overround_pct": 122.0,
+  "market_overround_pct": 122.3,
   "track_condition": "Soft 7",
   "weather": null,
   "form_analysis": null,
@@ -16,9 +16,9 @@
       "saddle_cloth": 7,
       "selection_id": 89018363,
       "status": "ACTIVE",
-      "best_back": 3.7,
-      "back_depth_aud": 416.0,
-      "bsp_near": 6.25,
+      "best_back": 3.8,
+      "back_depth_aud": 397.0,
+      "bsp_near": 125.5,
       "market_signal": "\u2744\ufe0f DRIFT",
       "trainer": "Rodney Northam",
       "jockey": "Reece Jones",
@@ -597,6 +597,34 @@
       }
     },
     {
+      "name": "11. Shoutaboutit",
+      "saddle_cloth": 11,
+      "selection_id": 67788332,
+      "status": "ACTIVE",
+      "best_back": 7.4,
+      "back_depth_aud": 192.0,
+      "bsp_near": 125.5,
+      "market_signal": "\u2744\ufe0f DRIFT",
+      "trainer": null,
+      "jockey": null,
+      "last5": null,
+      "career": null,
+      "weight_kg": null,
+      "barrier": null,
+      "form_status": "not_found",
+      "warnings": [],
+      "last5_parsed": [],
+      "data_status": "not_found",
+      "open_price": 8.0,
+      "call": {
+        "call": "NO_CALL",
+        "label": "DATA BAD",
+        "confidence": null,
+        "reason": "data bad: data_status=not_found and no race form on record",
+        "guard": "data_adequacy v1.0"
+      }
+    },
+    {
       "name": "2. Irish Jig",
       "saddle_cloth": 2,
       "selection_id": 5925299,
@@ -790,34 +818,6 @@
         "label": "OK",
         "confidence": "ok",
         "reason": "confirmed form, 16 career starts",
-        "guard": "data_adequacy v1.0"
-      }
-    },
-    {
-      "name": "11. Shoutaboutit",
-      "saddle_cloth": 11,
-      "selection_id": 67788332,
-      "status": "ACTIVE",
-      "best_back": 8.0,
-      "back_depth_aud": 178.0,
-      "bsp_near": 16.0,
-      "market_signal": "\u2744\ufe0f DRIFT",
-      "trainer": null,
-      "jockey": null,
-      "last5": null,
-      "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
-      "warnings": [],
-      "last5_parsed": [],
-      "data_status": "not_found",
-      "open_price": 8.0,
-      "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -1954,7 +1954,7 @@
       }
     }
   ],
-  "last_polled_at": "2026-07-12T04:19:06.990697Z",
+  "last_polled_at": "2026-07-12T04:49:29.577633Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
     "ok": 10,

@@ -6,7 +6,7 @@
   "race_type": "Flat",
   "start_time_utc": "2026-07-13T04:05:00.000Z",
   "market_id": "1.259927689",
-  "market_overround_pct": 122.9,
+  "market_overround_pct": 124.3,
   "track_condition": "Soft 7",
   "weather": null,
   "form_analysis": null,
@@ -858,41 +858,13 @@
       }
     },
     {
-      "name": "7. Krasaki",
-      "saddle_cloth": 7,
-      "selection_id": 100486069,
-      "status": "ACTIVE",
-      "best_back": 40.0,
-      "back_depth_aud": 39.0,
-      "bsp_near": 150.0,
-      "market_signal": "\u2744\ufe0f DRIFT",
-      "trainer": null,
-      "jockey": null,
-      "last5": null,
-      "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
-      "warnings": [],
-      "last5_parsed": [],
-      "data_status": "not_found",
-      "open_price": 40.0,
-      "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
-        "guard": "data_adequacy v1.0"
-      }
-    },
-    {
       "name": "4. The Bubayaga",
       "saddle_cloth": 4,
       "selection_id": 100486068,
       "status": "ACTIVE",
-      "best_back": 50.0,
-      "back_depth_aud": 31.0,
-      "bsp_near": 185.0,
+      "best_back": 29.0,
+      "back_depth_aud": 49.0,
+      "bsp_near": Infinity,
       "market_signal": "\u2744\ufe0f DRIFT",
       "trainer": "Simone Thompson",
       "jockey": "Grant Buckley",
@@ -1041,6 +1013,34 @@
         "label": "OK",
         "confidence": "ok",
         "reason": "confirmed form, 3 career starts",
+        "guard": "data_adequacy v1.0"
+      }
+    },
+    {
+      "name": "7. Krasaki",
+      "saddle_cloth": 7,
+      "selection_id": 100486069,
+      "status": "ACTIVE",
+      "best_back": 40.0,
+      "back_depth_aud": 39.0,
+      "bsp_near": 150.0,
+      "market_signal": "\u2744\ufe0f DRIFT",
+      "trainer": null,
+      "jockey": null,
+      "last5": null,
+      "career": null,
+      "weight_kg": null,
+      "barrier": null,
+      "form_status": "not_found",
+      "warnings": [],
+      "last5_parsed": [],
+      "data_status": "not_found",
+      "open_price": 40.0,
+      "call": {
+        "call": "NO_CALL",
+        "label": "DATA BAD",
+        "confidence": null,
+        "reason": "data bad: data_status=not_found and no race form on record",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -1225,7 +1225,7 @@
       }
     }
   ],
-  "last_polled_at": "2026-07-12T04:19:06.990697Z",
+  "last_polled_at": "2026-07-12T04:49:29.577633Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
     "ok": 9,
