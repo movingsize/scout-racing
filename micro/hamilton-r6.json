@@ -1,0 +1,2493 @@
+{
+  "event_id": "hamilton-2026-07-12-r6",
+  "market_id": "1.259893903",
+  "venue": "Hamilton",
+  "race_name": "R6 1200m Hcap",
+  "start_time_utc": "2026-07-12T06:25:00.000Z",
+  "captured_by": "micro-series v1",
+  "field_size": 5,
+  "model_overlay": {
+    "100487150": {
+      "model_prob": 0.419136,
+      "model_rank": 1,
+      "model_version": "2026-07-08"
+    },
+    "100487151": {
+      "model_prob": 0.203637,
+      "model_rank": 2,
+      "model_version": "2026-07-08"
+    },
+    "47241158": {
+      "model_prob": 0.164191,
+      "model_rank": 3,
+      "model_version": "2026-07-08"
+    },
+    "66862695": {
+      "model_prob": 0.109671,
+      "model_rank": 4,
+      "model_version": "2026-07-08"
+    },
+    "89348156": {
+      "model_prob": 0.103365,
+      "model_rank": 5,
+      "model_version": "2026-07-08"
+    }
+  },
+  "bsp": {
+    "47241158": {
+      "bsp": 6.71,
+      "status": "WINNER"
+    },
+    "66862695": {
+      "bsp": 11.57,
+      "status": "LOSER"
+    },
+    "100487150": {
+      "bsp": 1.98,
+      "status": "LOSER"
+    },
+    "100487151": {
+      "bsp": 6.68,
+      "status": "LOSER"
+    },
+    "89348156": {
+      "bsp": 11.5,
+      "status": "LOSER"
+    }
+  },
+  "result": {
+    "winner": "1. Port Louis",
+    "winner_bsp": 6.71,
+    "placings": [
+      "1. Port Louis"
+    ],
+    "settled_at": "2026-07-12T06:28:15.462905Z"
+  },
+  "frames": [
+    {
+      "at": "2026-07-12T06:15:04.476874Z",
+      "seconds_to_off": 596,
+      "market_matched_volume": 2492.15,
+      "overround_pct": 101.3,
+      "runners": [
+        {
+          "selection_id": 47241158,
+          "name": "1. Port Louis",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 8.4,
+          "best_back_size": 6.76,
+          "best_lay": 8.6,
+          "best_lay_size": 5.85,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 8.4,
+              "size": 6.76
+            },
+            {
+              "price": 8.2,
+              "size": 10.23
+            },
+            {
+              "price": 8.0,
+              "size": 9.14
+            },
+            {
+              "price": 7.8,
+              "size": 29.42
+            },
+            {
+              "price": 7.6,
+              "size": 23.27
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.6,
+              "size": 5.85
+            },
+            {
+              "price": 8.8,
+              "size": 6.8
+            },
+            {
+              "price": 9.0,
+              "size": 4.93
+            },
+            {
+              "price": 9.2,
+              "size": 21.13
+            },
+            {
+              "price": 9.4,
+              "size": 13.8
+            }
+          ],
+          "runner_matched_volume": 749.68,
+          "last_price_traded": 8.6,
+          "market_prob": 0.117565,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 66862695,
+          "name": "2. Prince Sonic",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 11.0,
+          "best_back_size": 11.95,
+          "best_lay": 12.0,
+          "best_lay_size": 28.74,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 11.0,
+              "size": 11.95
+            },
+            {
+              "price": 10.5,
+              "size": 33.48
+            },
+            {
+              "price": 10.0,
+              "size": 20.63
+            },
+            {
+              "price": 9.8,
+              "size": 28.65
+            },
+            {
+              "price": 9.6,
+              "size": 29.9
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 12.0,
+              "size": 28.74
+            },
+            {
+              "price": 12.5,
+              "size": 13.34
+            },
+            {
+              "price": 13.0,
+              "size": 9.67
+            },
+            {
+              "price": 13.5,
+              "size": 17.52
+            },
+            {
+              "price": 14.0,
+              "size": 8.93
+            }
+          ],
+          "runner_matched_volume": 302.32,
+          "last_price_traded": 11.5,
+          "market_prob": 0.089777,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100487150,
+          "name": "4. Break The Taboo",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 1.92,
+          "best_back_size": 67.71,
+          "best_lay": 1.95,
+          "best_lay_size": 53.73,
+          "spread": 0.03,
+          "back_ladder": [
+            {
+              "price": 1.92,
+              "size": 67.71
+            },
+            {
+              "price": 1.91,
+              "size": 13.15
+            },
+            {
+              "price": 1.9,
+              "size": 162.74
+            },
+            {
+              "price": 1.88,
+              "size": 18.9
+            },
+            {
+              "price": 1.86,
+              "size": 24.94
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 1.95,
+              "size": 53.73
+            },
+            {
+              "price": 1.96,
+              "size": 2.13
+            },
+            {
+              "price": 1.97,
+              "size": 1.93
+            },
+            {
+              "price": 1.98,
+              "size": 1.93
+            },
+            {
+              "price": 1.99,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 633.77,
+          "last_price_traded": 1.91,
+          "market_prob": 0.514347,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100487151,
+          "name": "5. Tallapoosa",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 5.7,
+          "best_back_size": 3.05,
+          "best_lay": 6.0,
+          "best_lay_size": 2.44,
+          "spread": 0.3,
+          "back_ladder": [
+            {
+              "price": 5.7,
+              "size": 3.05
+            },
+            {
+              "price": 5.6,
+              "size": 23.21
+            },
+            {
+              "price": 5.5,
+              "size": 38.56
+            },
+            {
+              "price": 5.3,
+              "size": 26.97
+            },
+            {
+              "price": 5.2,
+              "size": 74.96
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.0,
+              "size": 2.44
+            },
+            {
+              "price": 6.2,
+              "size": 26.35
+            },
+            {
+              "price": 6.4,
+              "size": 25.19
+            },
+            {
+              "price": 6.6,
+              "size": 20.71
+            },
+            {
+              "price": 6.8,
+              "size": 13.67
+            }
+          ],
+          "runner_matched_volume": 179.2,
+          "last_price_traded": 5.7,
+          "market_prob": 0.173254,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 89348156,
+          "name": "7. Tuxedo Miss",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 9.4,
+          "best_back_size": 8.42,
+          "best_lay": 9.8,
+          "best_lay_size": 8.06,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 9.4,
+              "size": 8.42
+            },
+            {
+              "price": 9.2,
+              "size": 9.21
+            },
+            {
+              "price": 9.0,
+              "size": 10.83
+            },
+            {
+              "price": 8.8,
+              "size": 21.92
+            },
+            {
+              "price": 8.6,
+              "size": 15.25
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 9.8,
+              "size": 8.06
+            },
+            {
+              "price": 10.0,
+              "size": 33.21
+            },
+            {
+              "price": 10.5,
+              "size": 16.09
+            },
+            {
+              "price": 11.0,
+              "size": 15.47
+            },
+            {
+              "price": 11.5,
+              "size": 26.22
+            }
+          ],
+          "runner_matched_volume": 627.17,
+          "last_price_traded": 9.4,
+          "market_prob": 0.105058,
+          "market_rank": 4
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T06:16:18.724538Z",
+      "seconds_to_off": 522,
+      "market_matched_volume": 3929.69,
+      "overround_pct": 101.9,
+      "runners": [
+        {
+          "selection_id": 47241158,
+          "name": "1. Port Louis",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 7.2,
+          "best_back_size": 21.24,
+          "best_lay": 7.6,
+          "best_lay_size": 9.78,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 7.2,
+              "size": 21.24
+            },
+            {
+              "price": 7.0,
+              "size": 5.97
+            },
+            {
+              "price": 6.8,
+              "size": 74.74
+            },
+            {
+              "price": 6.6,
+              "size": 100.53
+            },
+            {
+              "price": 6.4,
+              "size": 45.89
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.6,
+              "size": 9.78
+            },
+            {
+              "price": 7.8,
+              "size": 13.96
+            },
+            {
+              "price": 8.0,
+              "size": 8.31
+            },
+            {
+              "price": 8.2,
+              "size": 22.06
+            },
+            {
+              "price": 8.4,
+              "size": 15.68
+            }
+          ],
+          "runner_matched_volume": 1054.42,
+          "last_price_traded": 7.4,
+          "market_prob": 0.136263,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 66862695,
+          "name": "2. Prince Sonic",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 11.0,
+          "best_back_size": 9.16,
+          "best_lay": 12.0,
+          "best_lay_size": 25.98,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 11.0,
+              "size": 9.16
+            },
+            {
+              "price": 10.5,
+              "size": 38.07
+            },
+            {
+              "price": 10.0,
+              "size": 33.59
+            },
+            {
+              "price": 9.8,
+              "size": 19.84
+            },
+            {
+              "price": 9.6,
+              "size": 28.89
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 12.0,
+              "size": 25.98
+            },
+            {
+              "price": 12.5,
+              "size": 13.34
+            },
+            {
+              "price": 13.0,
+              "size": 13.98
+            },
+            {
+              "price": 13.5,
+              "size": 7.19
+            },
+            {
+              "price": 14.0,
+              "size": 14.0
+            }
+          ],
+          "runner_matched_volume": 373.13,
+          "last_price_traded": 12.0,
+          "market_prob": 0.089191,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 100487150,
+          "name": "4. Break The Taboo",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 1.99,
+          "best_back_size": 9.36,
+          "best_lay": 2.1,
+          "best_lay_size": 1.93,
+          "spread": 0.11,
+          "back_ladder": [
+            {
+              "price": 1.99,
+              "size": 9.36
+            },
+            {
+              "price": 1.98,
+              "size": 40.75
+            },
+            {
+              "price": 1.97,
+              "size": 33.01
+            },
+            {
+              "price": 1.96,
+              "size": 16.86
+            },
+            {
+              "price": 1.95,
+              "size": 11.87
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.1,
+              "size": 1.93
+            },
+            {
+              "price": 2.12,
+              "size": 11.66
+            },
+            {
+              "price": 2.14,
+              "size": 15.0
+            },
+            {
+              "price": 2.16,
+              "size": 1.93
+            },
+            {
+              "price": 2.18,
+              "size": 131.47
+            }
+          ],
+          "runner_matched_volume": 989.22,
+          "last_price_traded": 1.99,
+          "market_prob": 0.493014,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100487151,
+          "name": "5. Tallapoosa",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 5.0,
+          "best_back_size": 9.93,
+          "best_lay": 5.1,
+          "best_lay_size": 19.08,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.0,
+              "size": 9.93
+            },
+            {
+              "price": 4.9,
+              "size": 35.27
+            },
+            {
+              "price": 4.8,
+              "size": 56.99
+            },
+            {
+              "price": 4.7,
+              "size": 51.4
+            },
+            {
+              "price": 4.6,
+              "size": 60.27
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.1,
+              "size": 19.08
+            },
+            {
+              "price": 5.2,
+              "size": 5.86
+            },
+            {
+              "price": 5.3,
+              "size": 4.5
+            },
+            {
+              "price": 5.4,
+              "size": 31.72
+            },
+            {
+              "price": 5.5,
+              "size": 30.06
+            }
+          ],
+          "runner_matched_volume": 663.76,
+          "last_price_traded": 5.0,
+          "market_prob": 0.196219,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 89348156,
+          "name": "7. Tuxedo Miss",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 11.5,
+          "best_back_size": 7.52,
+          "best_lay": 12.5,
+          "best_lay_size": 1.93,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 11.5,
+              "size": 7.52
+            },
+            {
+              "price": 11.0,
+              "size": 16.94
+            },
+            {
+              "price": 10.5,
+              "size": 31.07
+            },
+            {
+              "price": 10.0,
+              "size": 19.89
+            },
+            {
+              "price": 9.8,
+              "size": 13.19
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 12.5,
+              "size": 1.93
+            },
+            {
+              "price": 13.0,
+              "size": 40.31
+            },
+            {
+              "price": 13.5,
+              "size": 13.13
+            },
+            {
+              "price": 14.0,
+              "size": 29.0
+            },
+            {
+              "price": 14.5,
+              "size": 36.9
+            }
+          ],
+          "runner_matched_volume": 849.16,
+          "last_price_traded": 12.0,
+          "market_prob": 0.085313,
+          "market_rank": 5
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T06:17:33.449704Z",
+      "seconds_to_off": 447,
+      "market_matched_volume": 4342.88,
+      "overround_pct": 100.6,
+      "runners": [
+        {
+          "selection_id": 47241158,
+          "name": "1. Port Louis",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 7.0,
+          "best_back_size": 14.44,
+          "best_lay": 7.2,
+          "best_lay_size": 14.67,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 7.0,
+              "size": 14.44
+            },
+            {
+              "price": 6.8,
+              "size": 31.04
+            },
+            {
+              "price": 6.6,
+              "size": 117.45
+            },
+            {
+              "price": 6.4,
+              "size": 45.89
+            },
+            {
+              "price": 6.2,
+              "size": 90.4
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.2,
+              "size": 14.67
+            },
+            {
+              "price": 7.4,
+              "size": 8.72
+            },
+            {
+              "price": 7.6,
+              "size": 17.02
+            },
+            {
+              "price": 7.8,
+              "size": 50.38
+            },
+            {
+              "price": 8.0,
+              "size": 18.5
+            }
+          ],
+          "runner_matched_volume": 1253.69,
+          "last_price_traded": 7.2,
+          "market_prob": 0.141978,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 66862695,
+          "name": "2. Prince Sonic",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 12.5,
+          "best_back_size": 7.97,
+          "best_lay": 13.0,
+          "best_lay_size": 43.07,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 12.5,
+              "size": 7.97
+            },
+            {
+              "price": 12.0,
+              "size": 20.61
+            },
+            {
+              "price": 11.5,
+              "size": 16.05
+            },
+            {
+              "price": 11.0,
+              "size": 18.75
+            },
+            {
+              "price": 10.5,
+              "size": 43.51
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 13.0,
+              "size": 43.07
+            },
+            {
+              "price": 13.5,
+              "size": 19.79
+            },
+            {
+              "price": 14.0,
+              "size": 8.93
+            },
+            {
+              "price": 14.5,
+              "size": 2.9
+            },
+            {
+              "price": 15.0,
+              "size": 9.9
+            }
+          ],
+          "runner_matched_volume": 474.83,
+          "last_price_traded": 12.5,
+          "market_prob": 0.079508,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100487150,
+          "name": "4. Break The Taboo",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 2.0,
+          "best_back_size": 6.36,
+          "best_lay": 2.02,
+          "best_lay_size": 6.73,
+          "spread": 0.02,
+          "back_ladder": [
+            {
+              "price": 2.0,
+              "size": 6.36
+            },
+            {
+              "price": 1.99,
+              "size": 54.38
+            },
+            {
+              "price": 1.98,
+              "size": 6.86
+            },
+            {
+              "price": 1.97,
+              "size": 26.86
+            },
+            {
+              "price": 1.96,
+              "size": 49.35
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.02,
+              "size": 6.73
+            },
+            {
+              "price": 2.04,
+              "size": 35.68
+            },
+            {
+              "price": 2.06,
+              "size": 8.02
+            },
+            {
+              "price": 2.08,
+              "size": 20.12
+            },
+            {
+              "price": 2.1,
+              "size": 12.27
+            }
+          ],
+          "runner_matched_volume": 1055.99,
+          "last_price_traded": 2.02,
+          "market_prob": 0.496924,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100487151,
+          "name": "5. Tallapoosa",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 5.0,
+          "best_back_size": 26.94,
+          "best_lay": 5.1,
+          "best_lay_size": 16.33,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.0,
+              "size": 26.94
+            },
+            {
+              "price": 4.9,
+              "size": 5.32
+            },
+            {
+              "price": 4.8,
+              "size": 57.61
+            },
+            {
+              "price": 4.7,
+              "size": 51.4
+            },
+            {
+              "price": 4.6,
+              "size": 92.06
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.1,
+              "size": 16.33
+            },
+            {
+              "price": 5.2,
+              "size": 5.86
+            },
+            {
+              "price": 5.3,
+              "size": 27.04
+            },
+            {
+              "price": 5.4,
+              "size": 36.06
+            },
+            {
+              "price": 5.5,
+              "size": 30.06
+            }
+          ],
+          "runner_matched_volume": 687.35,
+          "last_price_traded": 5.0,
+          "market_prob": 0.19877,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 89348156,
+          "name": "7. Tuxedo Miss",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 12.0,
+          "best_back_size": 3.41,
+          "best_lay": 12.5,
+          "best_lay_size": 12.54,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 12.0,
+              "size": 3.41
+            },
+            {
+              "price": 11.5,
+              "size": 5.22
+            },
+            {
+              "price": 11.0,
+              "size": 10.96
+            },
+            {
+              "price": 10.5,
+              "size": 25.15
+            },
+            {
+              "price": 10.0,
+              "size": 19.89
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 12.5,
+              "size": 12.54
+            },
+            {
+              "price": 13.0,
+              "size": 11.6
+            },
+            {
+              "price": 13.5,
+              "size": 29.26
+            },
+            {
+              "price": 14.0,
+              "size": 16.22
+            },
+            {
+              "price": 14.5,
+              "size": 13.21
+            }
+          ],
+          "runner_matched_volume": 871.01,
+          "last_price_traded": 12.0,
+          "market_prob": 0.082821,
+          "market_rank": 4
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T06:19:01.009311Z",
+      "seconds_to_off": 359,
+      "market_matched_volume": 5398.6,
+      "overround_pct": 101.6,
+      "runners": [
+        {
+          "selection_id": 47241158,
+          "name": "1. Port Louis",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 7.0,
+          "best_back_size": 6.76,
+          "best_lay": 7.2,
+          "best_lay_size": 25.55,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 7.0,
+              "size": 6.76
+            },
+            {
+              "price": 6.8,
+              "size": 12.18
+            },
+            {
+              "price": 6.6,
+              "size": 109.12
+            },
+            {
+              "price": 6.4,
+              "size": 46.56
+            },
+            {
+              "price": 6.2,
+              "size": 90.4
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.2,
+              "size": 25.55
+            },
+            {
+              "price": 7.4,
+              "size": 12.55
+            },
+            {
+              "price": 7.6,
+              "size": 17.02
+            },
+            {
+              "price": 7.8,
+              "size": 23.66
+            },
+            {
+              "price": 8.0,
+              "size": 18.5
+            }
+          ],
+          "runner_matched_volume": 1465.27,
+          "last_price_traded": 7.2,
+          "market_prob": 0.140553,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 66862695,
+          "name": "2. Prince Sonic",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 12.5,
+          "best_back_size": 4.6,
+          "best_lay": 13.0,
+          "best_lay_size": 17.07,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 12.5,
+              "size": 4.6
+            },
+            {
+              "price": 12.0,
+              "size": 20.61
+            },
+            {
+              "price": 11.5,
+              "size": 20.97
+            },
+            {
+              "price": 11.0,
+              "size": 40.27
+            },
+            {
+              "price": 10.5,
+              "size": 38.07
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 13.0,
+              "size": 17.07
+            },
+            {
+              "price": 13.5,
+              "size": 12.76
+            },
+            {
+              "price": 14.0,
+              "size": 27.91
+            },
+            {
+              "price": 14.5,
+              "size": 2.9
+            },
+            {
+              "price": 15.0,
+              "size": 9.9
+            }
+          ],
+          "runner_matched_volume": 519.23,
+          "last_price_traded": 13.0,
+          "market_prob": 0.07871,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100487150,
+          "name": "4. Break The Taboo",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 1.96,
+          "best_back_size": 13.17,
+          "best_lay": 1.98,
+          "best_lay_size": 11.46,
+          "spread": 0.02,
+          "back_ladder": [
+            {
+              "price": 1.96,
+              "size": 13.17
+            },
+            {
+              "price": 1.95,
+              "size": 18.41
+            },
+            {
+              "price": 1.94,
+              "size": 11.99
+            },
+            {
+              "price": 1.92,
+              "size": 26.99
+            },
+            {
+              "price": 1.91,
+              "size": 110.02
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 1.98,
+              "size": 11.46
+            },
+            {
+              "price": 1.99,
+              "size": 19.12
+            },
+            {
+              "price": 2.0,
+              "size": 137.64
+            },
+            {
+              "price": 2.02,
+              "size": 11.94
+            },
+            {
+              "price": 2.04,
+              "size": 30.36
+            }
+          ],
+          "runner_matched_volume": 1552.93,
+          "last_price_traded": 1.95,
+          "market_prob": 0.501974,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100487151,
+          "name": "5. Tallapoosa",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 5.0,
+          "best_back_size": 10.61,
+          "best_lay": 5.2,
+          "best_lay_size": 17.76,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 5.0,
+              "size": 10.61
+            },
+            {
+              "price": 4.9,
+              "size": 5.94
+            },
+            {
+              "price": 4.8,
+              "size": 50.57
+            },
+            {
+              "price": 4.7,
+              "size": 51.4
+            },
+            {
+              "price": 4.6,
+              "size": 92.06
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.2,
+              "size": 17.76
+            },
+            {
+              "price": 5.3,
+              "size": 3.91
+            },
+            {
+              "price": 5.4,
+              "size": 9.69
+            },
+            {
+              "price": 5.5,
+              "size": 41.23
+            },
+            {
+              "price": 5.6,
+              "size": 30.26
+            }
+          ],
+          "runner_matched_volume": 945.73,
+          "last_price_traded": 5.1,
+          "market_prob": 0.196774,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 89348156,
+          "name": "7. Tuxedo Miss",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 12.0,
+          "best_back_size": 1.89,
+          "best_lay": 12.5,
+          "best_lay_size": 7.72,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 12.0,
+              "size": 1.89
+            },
+            {
+              "price": 11.5,
+              "size": 5.65
+            },
+            {
+              "price": 11.0,
+              "size": 7.6
+            },
+            {
+              "price": 10.5,
+              "size": 32.0
+            },
+            {
+              "price": 10.0,
+              "size": 22.27
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 12.5,
+              "size": 7.72
+            },
+            {
+              "price": 13.0,
+              "size": 34.23
+            },
+            {
+              "price": 13.5,
+              "size": 13.13
+            },
+            {
+              "price": 14.0,
+              "size": 5.8
+            },
+            {
+              "price": 14.5,
+              "size": 13.21
+            }
+          ],
+          "runner_matched_volume": 915.43,
+          "last_price_traded": 12.0,
+          "market_prob": 0.081989,
+          "market_rank": 4
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T06:20:16.014464Z",
+      "seconds_to_off": 284,
+      "market_matched_volume": 6869.6,
+      "overround_pct": 101.0,
+      "runners": [
+        {
+          "selection_id": 47241158,
+          "name": "1. Port Louis",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 7.0,
+          "best_back_size": 38.38,
+          "best_lay": 7.2,
+          "best_lay_size": 14.52,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 7.0,
+              "size": 38.38
+            },
+            {
+              "price": 6.8,
+              "size": 10.9
+            },
+            {
+              "price": 6.6,
+              "size": 80.29
+            },
+            {
+              "price": 6.4,
+              "size": 58.99
+            },
+            {
+              "price": 6.2,
+              "size": 45.53
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.2,
+              "size": 14.52
+            },
+            {
+              "price": 7.4,
+              "size": 15.14
+            },
+            {
+              "price": 7.6,
+              "size": 45.63
+            },
+            {
+              "price": 7.8,
+              "size": 36.28
+            },
+            {
+              "price": 8.0,
+              "size": 18.5
+            }
+          ],
+          "runner_matched_volume": 1578.91,
+          "last_price_traded": 7.2,
+          "market_prob": 0.141459,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 66862695,
+          "name": "2. Prince Sonic",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 12.5,
+          "best_back_size": 9.16,
+          "best_lay": 13.0,
+          "best_lay_size": 21.43,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 12.5,
+              "size": 9.16
+            },
+            {
+              "price": 12.0,
+              "size": 20.61
+            },
+            {
+              "price": 11.5,
+              "size": 20.97
+            },
+            {
+              "price": 11.0,
+              "size": 18.75
+            },
+            {
+              "price": 10.5,
+              "size": 38.07
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 13.0,
+              "size": 21.43
+            },
+            {
+              "price": 13.5,
+              "size": 12.76
+            },
+            {
+              "price": 14.0,
+              "size": 23.96
+            },
+            {
+              "price": 14.5,
+              "size": 6.73
+            },
+            {
+              "price": 15.0,
+              "size": 9.9
+            }
+          ],
+          "runner_matched_volume": 551.81,
+          "last_price_traded": 13.0,
+          "market_prob": 0.079217,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100487150,
+          "name": "4. Break The Taboo",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 1.97,
+          "best_back_size": 67.95,
+          "best_lay": 1.99,
+          "best_lay_size": 29.72,
+          "spread": 0.02,
+          "back_ladder": [
+            {
+              "price": 1.97,
+              "size": 67.95
+            },
+            {
+              "price": 1.95,
+              "size": 8.6
+            },
+            {
+              "price": 1.94,
+              "size": 19.53
+            },
+            {
+              "price": 1.93,
+              "size": 30.54
+            },
+            {
+              "price": 1.92,
+              "size": 77.1
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 1.99,
+              "size": 29.72
+            },
+            {
+              "price": 2.0,
+              "size": 126.2
+            },
+            {
+              "price": 2.02,
+              "size": 5.0
+            },
+            {
+              "price": 2.04,
+              "size": 30.36
+            },
+            {
+              "price": 2.06,
+              "size": 5.0
+            }
+          ],
+          "runner_matched_volume": 2575.07,
+          "last_price_traded": 1.98,
+          "market_prob": 0.502646,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100487151,
+          "name": "5. Tallapoosa",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 5.1,
+          "best_back_size": 15.48,
+          "best_lay": 5.4,
+          "best_lay_size": 3.63,
+          "spread": 0.3,
+          "back_ladder": [
+            {
+              "price": 5.1,
+              "size": 15.48
+            },
+            {
+              "price": 5.0,
+              "size": 10.61
+            },
+            {
+              "price": 4.9,
+              "size": 4.47
+            },
+            {
+              "price": 4.8,
+              "size": 50.57
+            },
+            {
+              "price": 4.7,
+              "size": 35.22
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.4,
+              "size": 3.63
+            },
+            {
+              "price": 5.5,
+              "size": 5.84
+            },
+            {
+              "price": 5.6,
+              "size": 25.07
+            },
+            {
+              "price": 5.7,
+              "size": 2.53
+            },
+            {
+              "price": 5.8,
+              "size": 4.83
+            }
+          ],
+          "runner_matched_volume": 1196.34,
+          "last_price_traded": 5.3,
+          "market_prob": 0.19416,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 89348156,
+          "name": "7. Tuxedo Miss",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 12.0,
+          "best_back_size": 7.44,
+          "best_lay": 12.5,
+          "best_lay_size": 3.9,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 12.0,
+              "size": 7.44
+            },
+            {
+              "price": 11.5,
+              "size": 5.82
+            },
+            {
+              "price": 11.0,
+              "size": 18.31
+            },
+            {
+              "price": 10.5,
+              "size": 34.5
+            },
+            {
+              "price": 10.0,
+              "size": 25.11
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 12.5,
+              "size": 3.9
+            },
+            {
+              "price": 13.0,
+              "size": 14.5
+            },
+            {
+              "price": 13.5,
+              "size": 11.21
+            },
+            {
+              "price": 14.0,
+              "size": 39.37
+            },
+            {
+              "price": 14.5,
+              "size": 13.21
+            }
+          ],
+          "runner_matched_volume": 967.45,
+          "last_price_traded": 12.5,
+          "market_prob": 0.082518,
+          "market_rank": 4
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T06:21:31.044453Z",
+      "seconds_to_off": 209,
+      "market_matched_volume": 8312.98,
+      "overround_pct": 101.7,
+      "runners": [
+        {
+          "selection_id": 47241158,
+          "name": "1. Port Louis",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 7.0,
+          "best_back_size": 41.17,
+          "best_lay": 7.4,
+          "best_lay_size": 9.6,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 7.0,
+              "size": 41.17
+            },
+            {
+              "price": 6.8,
+              "size": 20.84
+            },
+            {
+              "price": 6.6,
+              "size": 125.96
+            },
+            {
+              "price": 6.4,
+              "size": 77.12
+            },
+            {
+              "price": 6.2,
+              "size": 82.14
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.4,
+              "size": 9.6
+            },
+            {
+              "price": 7.6,
+              "size": 10.02
+            },
+            {
+              "price": 7.8,
+              "size": 63.79
+            },
+            {
+              "price": 8.0,
+              "size": 43.34
+            },
+            {
+              "price": 8.2,
+              "size": 53.9
+            }
+          ],
+          "runner_matched_volume": 1653.01,
+          "last_price_traded": 7.4,
+          "market_prob": 0.140455,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 66862695,
+          "name": "2. Prince Sonic",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 11.0,
+          "best_back_size": 49.76,
+          "best_lay": 12.0,
+          "best_lay_size": 29.21,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 11.0,
+              "size": 49.76
+            },
+            {
+              "price": 10.5,
+              "size": 92.26
+            },
+            {
+              "price": 10.0,
+              "size": 106.51
+            },
+            {
+              "price": 9.8,
+              "size": 32.3
+            },
+            {
+              "price": 9.6,
+              "size": 51.27
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 12.0,
+              "size": 29.21
+            },
+            {
+              "price": 12.5,
+              "size": 61.85
+            },
+            {
+              "price": 13.0,
+              "size": 17.29
+            },
+            {
+              "price": 13.5,
+              "size": 37.5
+            },
+            {
+              "price": 14.0,
+              "size": 37.12
+            }
+          ],
+          "runner_matched_volume": 755.75,
+          "last_price_traded": 11.5,
+          "market_prob": 0.089381,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 100487150,
+          "name": "4. Break The Taboo",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 2.0,
+          "best_back_size": 46.48,
+          "best_lay": 2.04,
+          "best_lay_size": 72.33,
+          "spread": 0.04,
+          "back_ladder": [
+            {
+              "price": 2.0,
+              "size": 46.48
+            },
+            {
+              "price": 1.99,
+              "size": 50.83
+            },
+            {
+              "price": 1.98,
+              "size": 20.15
+            },
+            {
+              "price": 1.97,
+              "size": 69.03
+            },
+            {
+              "price": 1.96,
+              "size": 391.56
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.04,
+              "size": 72.33
+            },
+            {
+              "price": 2.06,
+              "size": 32.97
+            },
+            {
+              "price": 2.08,
+              "size": 50.92
+            },
+            {
+              "price": 2.1,
+              "size": 97.06
+            },
+            {
+              "price": 2.12,
+              "size": 141.29
+            }
+          ],
+          "runner_matched_volume": 3557.46,
+          "last_price_traded": 2.0,
+          "market_prob": 0.491594,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100487151,
+          "name": "5. Tallapoosa",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 5.0,
+          "best_back_size": 27.7,
+          "best_lay": 5.1,
+          "best_lay_size": 59.72,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.0,
+              "size": 27.7
+            },
+            {
+              "price": 4.9,
+              "size": 23.68
+            },
+            {
+              "price": 4.8,
+              "size": 65.55
+            },
+            {
+              "price": 4.7,
+              "size": 84.32
+            },
+            {
+              "price": 4.6,
+              "size": 74.27
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.1,
+              "size": 59.72
+            },
+            {
+              "price": 5.2,
+              "size": 11.11
+            },
+            {
+              "price": 5.3,
+              "size": 40.17
+            },
+            {
+              "price": 5.4,
+              "size": 38.39
+            },
+            {
+              "price": 5.5,
+              "size": 20.72
+            }
+          ],
+          "runner_matched_volume": 1351.22,
+          "last_price_traded": 5.0,
+          "market_prob": 0.196638,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 89348156,
+          "name": "7. Tuxedo Miss",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 12.0,
+          "best_back_size": 3.92,
+          "best_lay": 12.5,
+          "best_lay_size": 8.12,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 12.0,
+              "size": 3.92
+            },
+            {
+              "price": 11.5,
+              "size": 20.76
+            },
+            {
+              "price": 11.0,
+              "size": 27.91
+            },
+            {
+              "price": 10.5,
+              "size": 40.23
+            },
+            {
+              "price": 10.0,
+              "size": 34.79
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 12.5,
+              "size": 8.12
+            },
+            {
+              "price": 13.0,
+              "size": 12.76
+            },
+            {
+              "price": 13.5,
+              "size": 38.65
+            },
+            {
+              "price": 14.0,
+              "size": 19.62
+            },
+            {
+              "price": 14.5,
+              "size": 42.33
+            }
+          ],
+          "runner_matched_volume": 995.51,
+          "last_price_traded": 12.5,
+          "market_prob": 0.081932,
+          "market_rank": 5
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T06:22:46.024235Z",
+      "seconds_to_off": 134,
+      "market_matched_volume": 10912.43,
+      "overround_pct": 100.9,
+      "runners": [
+        {
+          "selection_id": 47241158,
+          "name": "1. Port Louis",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 6.8,
+          "best_back_size": 78.5,
+          "best_lay": 7.0,
+          "best_lay_size": 8.8,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 6.8,
+              "size": 78.5
+            },
+            {
+              "price": 6.6,
+              "size": 123.85
+            },
+            {
+              "price": 6.4,
+              "size": 124.02
+            },
+            {
+              "price": 6.2,
+              "size": 63.79
+            },
+            {
+              "price": 6.0,
+              "size": 167.54
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.0,
+              "size": 8.8
+            },
+            {
+              "price": 7.2,
+              "size": 57.1
+            },
+            {
+              "price": 7.4,
+              "size": 34.51
+            },
+            {
+              "price": 7.6,
+              "size": 17.15
+            },
+            {
+              "price": 7.8,
+              "size": 77.13
+            }
+          ],
+          "runner_matched_volume": 2336.9,
+          "last_price_traded": 7.0,
+          "market_prob": 0.145772,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 66862695,
+          "name": "2. Prince Sonic",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 11.0,
+          "best_back_size": 66.7,
+          "best_lay": 11.5,
+          "best_lay_size": 68.09,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 11.0,
+              "size": 66.7
+            },
+            {
+              "price": 10.5,
+              "size": 77.8
+            },
+            {
+              "price": 10.0,
+              "size": 83.28
+            },
+            {
+              "price": 9.8,
+              "size": 72.8
+            },
+            {
+              "price": 9.6,
+              "size": 51.27
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 11.5,
+              "size": 68.09
+            },
+            {
+              "price": 12.0,
+              "size": 95.84
+            },
+            {
+              "price": 12.5,
+              "size": 49.95
+            },
+            {
+              "price": 13.0,
+              "size": 36.48
+            },
+            {
+              "price": 13.5,
+              "size": 36.53
+            }
+          ],
+          "runner_matched_volume": 1272.97,
+          "last_price_traded": 11.5,
+          "market_prob": 0.090113,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100487150,
+          "name": "4. Break The Taboo",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 2.14,
+          "best_back_size": 67.59,
+          "best_lay": 2.16,
+          "best_lay_size": 28.52,
+          "spread": 0.02,
+          "back_ladder": [
+            {
+              "price": 2.14,
+              "size": 67.59
+            },
+            {
+              "price": 2.12,
+              "size": 262.45
+            },
+            {
+              "price": 2.1,
+              "size": 177.27
+            },
+            {
+              "price": 2.08,
+              "size": 166.37
+            },
+            {
+              "price": 2.06,
+              "size": 293.08
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.16,
+              "size": 28.52
+            },
+            {
+              "price": 2.18,
+              "size": 55.06
+            },
+            {
+              "price": 2.2,
+              "size": 47.24
+            },
+            {
+              "price": 2.22,
+              "size": 140.89
+            },
+            {
+              "price": 2.24,
+              "size": 40.62
+            }
+          ],
+          "runner_matched_volume": 4263.35,
+          "last_price_traded": 2.14,
+          "market_prob": 0.4632,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100487151,
+          "name": "5. Tallapoosa",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 4.8,
+          "best_back_size": 94.3,
+          "best_lay": 4.9,
+          "best_lay_size": 40.82,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 4.8,
+              "size": 94.3
+            },
+            {
+              "price": 4.7,
+              "size": 94.36
+            },
+            {
+              "price": 4.6,
+              "size": 145.4
+            },
+            {
+              "price": 4.5,
+              "size": 121.38
+            },
+            {
+              "price": 4.4,
+              "size": 115.07
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.9,
+              "size": 40.82
+            },
+            {
+              "price": 5.0,
+              "size": 26.84
+            },
+            {
+              "price": 5.1,
+              "size": 42.15
+            },
+            {
+              "price": 5.2,
+              "size": 10.56
+            },
+            {
+              "price": 5.3,
+              "size": 32.89
+            }
+          ],
+          "runner_matched_volume": 1864.37,
+          "last_price_traded": 4.8,
+          "market_prob": 0.20651,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 89348156,
+          "name": "7. Tuxedo Miss",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 10.5,
+          "best_back_size": 23.9,
+          "best_lay": 11.0,
+          "best_lay_size": 22.99,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 10.5,
+              "size": 23.9
+            },
+            {
+              "price": 10.0,
+              "size": 43.51
+            },
+            {
+              "price": 9.8,
+              "size": 103.76
+            },
+            {
+              "price": 9.6,
+              "size": 57.67
+            },
+            {
+              "price": 9.4,
+              "size": 53.63
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 11.0,
+              "size": 22.99
+            },
+            {
+              "price": 11.5,
+              "size": 20.12
+            },
+            {
+              "price": 12.0,
+              "size": 73.93
+            },
+            {
+              "price": 12.5,
+              "size": 42.7
+            },
+            {
+              "price": 13.0,
+              "size": 20.08
+            }
+          ],
+          "runner_matched_volume": 1174.82,
+          "last_price_traded": 10.5,
+          "market_prob": 0.094405,
+          "market_rank": 4
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T06:24:01.491025Z",
+      "seconds_to_off": 59,
+      "market_matched_volume": 18456.2,
+      "overround_pct": 101.2,
+      "runners": [
+        {
+          "selection_id": 47241158,
+          "name": "1. Port Louis",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 7.0,
+          "best_back_size": 47.35,
+          "best_lay": 7.2,
+          "best_lay_size": 16.76,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 7.0,
+              "size": 47.35
+            },
+            {
+              "price": 6.8,
+              "size": 117.78
+            },
+            {
+              "price": 6.6,
+              "size": 154.26
+            },
+            {
+              "price": 6.4,
+              "size": 130.34
+            },
+            {
+              "price": 6.2,
+              "size": 117.14
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.2,
+              "size": 16.76
+            },
+            {
+              "price": 7.4,
+              "size": 42.05
+            },
+            {
+              "price": 7.6,
+              "size": 17.58
+            },
+            {
+              "price": 7.8,
+              "size": 77.13
+            },
+            {
+              "price": 8.0,
+              "size": 36.37
+            }
+          ],
+          "runner_matched_volume": 2777.07,
+          "last_price_traded": 7.2,
+          "market_prob": 0.141116,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 66862695,
+          "name": "2. Prince Sonic",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 11.0,
+          "best_back_size": 67.13,
+          "best_lay": 11.5,
+          "best_lay_size": 149.8,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 11.0,
+              "size": 67.13
+            },
+            {
+              "price": 10.5,
+              "size": 95.41
+            },
+            {
+              "price": 10.0,
+              "size": 93.8
+            },
+            {
+              "price": 9.8,
+              "size": 92.93
+            },
+            {
+              "price": 9.6,
+              "size": 72.27
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 11.5,
+              "size": 149.8
+            },
+            {
+              "price": 12.0,
+              "size": 79.55
+            },
+            {
+              "price": 12.5,
+              "size": 82.68
+            },
+            {
+              "price": 13.0,
+              "size": 44.85
+            },
+            {
+              "price": 13.5,
+              "size": 72.18
+            }
+          ],
+          "runner_matched_volume": 2293.71,
+          "last_price_traded": 11.5,
+          "market_prob": 0.089801,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100487150,
+          "name": "4. Break The Taboo",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 2.0,
+          "best_back_size": 144.17,
+          "best_lay": 2.02,
+          "best_lay_size": 36.32,
+          "spread": 0.02,
+          "back_ladder": [
+            {
+              "price": 2.0,
+              "size": 144.17
+            },
+            {
+              "price": 1.99,
+              "size": 56.23
+            },
+            {
+              "price": 1.98,
+              "size": 271.73
+            },
+            {
+              "price": 1.97,
+              "size": 84.05
+            },
+            {
+              "price": 1.96,
+              "size": 35.35
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.02,
+              "size": 36.32
+            },
+            {
+              "price": 2.04,
+              "size": 136.28
+            },
+            {
+              "price": 2.06,
+              "size": 46.29
+            },
+            {
+              "price": 2.08,
+              "size": 58.74
+            },
+            {
+              "price": 2.1,
+              "size": 183.69
+            }
+          ],
+          "runner_matched_volume": 8708.01,
+          "last_price_traded": 2.02,
+          "market_prob": 0.493906,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100487151,
+          "name": "5. Tallapoosa",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 5.6,
+          "best_back_size": 35.68,
+          "best_lay": 5.7,
+          "best_lay_size": 6.81,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.6,
+              "size": 35.68
+            },
+            {
+              "price": 5.5,
+              "size": 46.07
+            },
+            {
+              "price": 5.4,
+              "size": 76.7
+            },
+            {
+              "price": 5.3,
+              "size": 86.32
+            },
+            {
+              "price": 5.2,
+              "size": 148.72
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.7,
+              "size": 6.81
+            },
+            {
+              "price": 5.8,
+              "size": 34.33
+            },
+            {
+              "price": 5.9,
+              "size": 34.28
+            },
+            {
+              "price": 6.0,
+              "size": 29.18
+            },
+            {
+              "price": 6.2,
+              "size": 60.65
+            }
+          ],
+          "runner_matched_volume": 2956.51,
+          "last_price_traded": 5.7,
+          "market_prob": 0.176395,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 89348156,
+          "name": "7. Tuxedo Miss",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 10.0,
+          "best_back_size": 43.06,
+          "best_lay": 10.5,
+          "best_lay_size": 70.76,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 10.0,
+              "size": 43.06
+            },
+            {
+              "price": 9.8,
+              "size": 39.98
+            },
+            {
+              "price": 9.6,
+              "size": 58.16
+            },
+            {
+              "price": 9.4,
+              "size": 41.91
+            },
+            {
+              "price": 9.2,
+              "size": 40.42
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 10.5,
+              "size": 70.76
+            },
+            {
+              "price": 11.0,
+              "size": 37.57
+            },
+            {
+              "price": 11.5,
+              "size": 39.91
+            },
+            {
+              "price": 12.0,
+              "size": 51.63
+            },
+            {
+              "price": 12.5,
+              "size": 34.88
+            }
+          ],
+          "runner_matched_volume": 1720.88,
+          "last_price_traded": 10.5,
+          "market_prob": 0.098781,
+          "market_rank": 4
+        }
+      ]
+    }
+  ],
+  "finalized_at": "2026-07-12T06:28:22.664379Z"
+}
