@@ -6,25 +6,167 @@
   "race_type": "Flat",
   "start_time_utc": "2026-07-12T06:00:00.000Z",
   "market_id": "1.259893645",
-  "market_overround_pct": null,
+  "market_overround_pct": 101.0,
   "track_condition": "Synthetic",
   "weather": {
-    "temperature_c": 9.5,
-    "precipitation_mm": 0.1,
-    "wind_speed_kmh": 21.1,
+    "temperature_c": 7.6,
+    "precipitation_mm": 0.0,
+    "wind_speed_kmh": 25.4,
     "wind_direction": "NW",
-    "condition": "Light drizzle"
+    "condition": "Overcast"
   },
   "form_analysis": null,
   "runners": [
+    {
+      "name": "7. Salizou",
+      "saddle_cloth": 4,
+      "selection_id": 100487005,
+      "status": "ACTIVE",
+      "best_back": 2.58,
+      "back_depth_aud": 154.0,
+      "bsp_near": 2.59,
+      "market_signal": "NEUTRAL",
+      "trainer": "Mitchell Freedman",
+      "jockey": "John Allen",
+      "last5": "1x6x",
+      "career": "2:1-0-0",
+      "weight_kg": 56.5,
+      "barrier": 2,
+      "official_rating": 61,
+      "prizemoney": 18400,
+      "first_up_record": "2:1-0-0",
+      "second_up_record": "0:0-0-0",
+      "track_record": "0:0-0-0",
+      "dist_record": "1:0-0-0",
+      "track_dist_record": "0:0-0-0",
+      "distances_won": "1100 (1)",
+      "going_record": {
+        "Firm": "0:0-0-0",
+        "Good": "1:1-0-0",
+        "Soft": "0:0-0-0",
+        "Heavy": "1:0-0-0",
+        "Synthetic": "0:0-0-0"
+      },
+      "recent_runs": [
+        {
+          "pos": 1,
+          "date": "2026-07-03",
+          "class": "Jump Out",
+          "trial": true,
+          "distance_m": 850,
+          "going": "JumpOut",
+          "winner_time": 54.0,
+          "beaten_margin": 0.0,
+          "runner_time": null,
+          "runner_time_reduced": null,
+          "sectional_600": null,
+          "in_run": null
+        },
+        {
+          "pos": 6,
+          "date": "2026-05-08",
+          "class": "BM62",
+          "trial": false,
+          "distance_m": 1200,
+          "going": "Heavy8",
+          "winner_time": 70.91,
+          "beaten_margin": 4.0,
+          "runner_time": 71.48,
+          "runner_time_reduced": true,
+          "sectional_600": 35.42,
+          "in_run": {
+            "@800": 6,
+            "@400": 5
+          }
+        },
+        {
+          "pos": 4,
+          "date": "2026-04-21",
+          "class": "Jump Out",
+          "trial": true,
+          "distance_m": 800,
+          "going": "Jump",
+          "winner_time": 49.08,
+          "beaten_margin": null,
+          "runner_time": null,
+          "runner_time_reduced": null,
+          "sectional_600": null,
+          "in_run": null
+        },
+        {
+          "pos": 1,
+          "date": "2025-12-13",
+          "class": "MDN-SW",
+          "trial": false,
+          "distance_m": 1100,
+          "going": "Good4",
+          "winner_time": 65.6,
+          "beaten_margin": 0.0,
+          "runner_time": 65.6,
+          "runner_time_reduced": false,
+          "sectional_600": 33.64,
+          "in_run": {
+            "@800": 3,
+            "@400": 3
+          }
+        }
+      ],
+      "recent_class": [
+        "Jump Out",
+        "BM62",
+        "Jump Out",
+        "MDN-SW"
+      ],
+      "days_since_run": 9,
+      "runs_this_prep": 3,
+      "form_status": "confirmed",
+      "warnings": [],
+      "last5_parsed": [
+        {
+          "raw": "1",
+          "pos": 1,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "x",
+          "pos": null,
+          "nonFinish": false,
+          "spell": true
+        },
+        {
+          "raw": "6",
+          "pos": 6,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "x",
+          "pos": null,
+          "nonFinish": false,
+          "spell": true
+        }
+      ],
+      "data_status": "confirmed",
+      "open_price": 5.2,
+      "call": {
+        "call": "OK",
+        "label": "OK",
+        "confidence": "thin",
+        "reason": "form present (2 career starts, ds=confirmed)",
+        "guard": "data_adequacy v1.0"
+      },
+      "predProb": 0.320028,
+      "model_version": "2026-07-08"
+    },
     {
       "name": "1. Endless Summer",
       "saddle_cloth": 1,
       "selection_id": 71473962,
       "status": "ACTIVE",
-      "best_back": null,
-      "back_depth_aud": 0,
-      "bsp_near": null,
+      "best_back": 3.95,
+      "back_depth_aud": 88.0,
+      "bsp_near": 3.9,
       "market_signal": "NEUTRAL",
       "trainer": "Andrew Bobbin",
       "jockey": "Ms Shayleigh Ingelse (a3/52kg), (late alt)",
@@ -203,16 +345,18 @@
         "confidence": "ok",
         "reason": "confirmed form, 7 career starts",
         "guard": "data_adequacy v1.0"
-      }
+      },
+      "predProb": 0.225377,
+      "model_version": "2026-07-08"
     },
     {
       "name": "4. The Opportunist",
       "saddle_cloth": 2,
       "selection_id": 75018898,
       "status": "ACTIVE",
-      "best_back": null,
-      "back_depth_aud": 0,
-      "bsp_near": null,
+      "best_back": 5.3,
+      "back_depth_aud": 73.0,
+      "bsp_near": 5.2,
       "market_signal": "NEUTRAL",
       "trainer": "Ben, Will & JD Hayes",
       "jockey": "Jye McNeil",
@@ -397,16 +541,18 @@
         "confidence": "ok",
         "reason": "confirmed form, 10 career starts",
         "guard": "data_adequacy v1.0"
-      }
+      },
+      "predProb": 0.190232,
+      "model_version": "2026-07-08"
     },
     {
       "name": "6. Princess Sakiko",
       "saddle_cloth": 3,
       "selection_id": 90048850,
       "status": "ACTIVE",
-      "best_back": null,
-      "back_depth_aud": 0,
-      "bsp_near": null,
+      "best_back": 7.2,
+      "back_depth_aud": 80.0,
+      "bsp_near": 7.2,
       "market_signal": "NEUTRAL",
       "trainer": "Shane Jackson",
       "jockey": "Jack Hill",
@@ -564,156 +710,18 @@
         "confidence": "ok",
         "reason": "confirmed form, 4 career starts",
         "guard": "data_adequacy v1.0"
-      }
-    },
-    {
-      "name": "7. Salizou",
-      "saddle_cloth": 4,
-      "selection_id": 100487005,
-      "status": "ACTIVE",
-      "best_back": null,
-      "back_depth_aud": 0,
-      "bsp_near": null,
-      "market_signal": "NEUTRAL",
-      "trainer": "Mitchell Freedman",
-      "jockey": "John Allen",
-      "last5": "1x6x",
-      "career": "2:1-0-0",
-      "weight_kg": 56.5,
-      "barrier": 2,
-      "official_rating": 61,
-      "prizemoney": 18400,
-      "first_up_record": "2:1-0-0",
-      "second_up_record": "0:0-0-0",
-      "track_record": "0:0-0-0",
-      "dist_record": "1:0-0-0",
-      "track_dist_record": "0:0-0-0",
-      "distances_won": "1100 (1)",
-      "going_record": {
-        "Firm": "0:0-0-0",
-        "Good": "1:1-0-0",
-        "Soft": "0:0-0-0",
-        "Heavy": "1:0-0-0",
-        "Synthetic": "0:0-0-0"
       },
-      "recent_runs": [
-        {
-          "pos": 1,
-          "date": "2026-07-03",
-          "class": "Jump Out",
-          "trial": true,
-          "distance_m": 850,
-          "going": "JumpOut",
-          "winner_time": 54.0,
-          "beaten_margin": 0.0,
-          "runner_time": null,
-          "runner_time_reduced": null,
-          "sectional_600": null,
-          "in_run": null
-        },
-        {
-          "pos": 6,
-          "date": "2026-05-08",
-          "class": "BM62",
-          "trial": false,
-          "distance_m": 1200,
-          "going": "Heavy8",
-          "winner_time": 70.91,
-          "beaten_margin": 4.0,
-          "runner_time": 71.48,
-          "runner_time_reduced": true,
-          "sectional_600": 35.42,
-          "in_run": {
-            "@800": 6,
-            "@400": 5
-          }
-        },
-        {
-          "pos": 4,
-          "date": "2026-04-21",
-          "class": "Jump Out",
-          "trial": true,
-          "distance_m": 800,
-          "going": "Jump",
-          "winner_time": 49.08,
-          "beaten_margin": null,
-          "runner_time": null,
-          "runner_time_reduced": null,
-          "sectional_600": null,
-          "in_run": null
-        },
-        {
-          "pos": 1,
-          "date": "2025-12-13",
-          "class": "MDN-SW",
-          "trial": false,
-          "distance_m": 1100,
-          "going": "Good4",
-          "winner_time": 65.6,
-          "beaten_margin": 0.0,
-          "runner_time": 65.6,
-          "runner_time_reduced": false,
-          "sectional_600": 33.64,
-          "in_run": {
-            "@800": 3,
-            "@400": 3
-          }
-        }
-      ],
-      "recent_class": [
-        "Jump Out",
-        "BM62",
-        "Jump Out",
-        "MDN-SW"
-      ],
-      "days_since_run": 9,
-      "runs_this_prep": 3,
-      "form_status": "confirmed",
-      "warnings": [],
-      "last5_parsed": [
-        {
-          "raw": "1",
-          "pos": 1,
-          "nonFinish": false,
-          "spell": false
-        },
-        {
-          "raw": "x",
-          "pos": null,
-          "nonFinish": false,
-          "spell": true
-        },
-        {
-          "raw": "6",
-          "pos": 6,
-          "nonFinish": false,
-          "spell": false
-        },
-        {
-          "raw": "x",
-          "pos": null,
-          "nonFinish": false,
-          "spell": true
-        }
-      ],
-      "data_status": "confirmed",
-      "open_price": 5.2,
-      "call": {
-        "call": "OK",
-        "label": "OK",
-        "confidence": "thin",
-        "reason": "form present (2 career starts, ds=confirmed)",
-        "guard": "data_adequacy v1.0"
-      }
+      "predProb": 0.162374,
+      "model_version": "2026-07-08"
     },
     {
       "name": "8. Eire To The Jungle",
       "saddle_cloth": 5,
       "selection_id": 100487006,
       "status": "ACTIVE",
-      "best_back": null,
-      "back_depth_aud": 0,
-      "bsp_near": null,
+      "best_back": 34.0,
+      "back_depth_aud": 44.0,
+      "bsp_near": 35.33,
       "market_signal": "NEUTRAL",
       "trainer": "Toby Lake",
       "jockey": "Ms Holly Durnan (a3/52kg)",
@@ -901,17 +909,19 @@
         "confidence": "ok",
         "reason": "confirmed form, 16 career starts",
         "guard": "data_adequacy v1.0"
-      }
+      },
+      "predProb": 0.066267,
+      "model_version": "2026-07-08"
     },
     {
       "name": "10. Platinum Executive",
       "saddle_cloth": 6,
       "selection_id": 100487007,
       "status": "ACTIVE",
-      "best_back": null,
-      "back_depth_aud": 0,
-      "bsp_near": null,
-      "market_signal": "NEUTRAL",
+      "best_back": 85.0,
+      "back_depth_aud": 12.0,
+      "bsp_near": 31.75,
+      "market_signal": "\ud83d\udd25 STEAM",
       "trainer": "Matt Ivill",
       "jockey": "Craig Newitt",
       "last5": "64159380x8",
@@ -1092,13 +1102,15 @@
         "confidence": "ok",
         "reason": "confirmed form, 17 career starts",
         "guard": "data_adequacy v1.0"
-      }
+      },
+      "predProb": 0.035722,
+      "model_version": "2026-07-08"
     },
     {
       "name": "2. Golden Magnate",
       "saddle_cloth": 7,
       "selection_id": 98214017,
-      "status": "ACTIVE",
+      "status": "REMOVED",
       "best_back": null,
       "back_depth_aud": 0,
       "bsp_near": null,
@@ -1156,7 +1168,7 @@
       "name": "3. Dazzling Secret",
       "saddle_cloth": 8,
       "selection_id": 93239665,
-      "status": "ACTIVE",
+      "status": "REMOVED",
       "best_back": null,
       "back_depth_aud": 0,
       "bsp_near": null,
@@ -1244,7 +1256,7 @@
       "name": "11. Flying Damore",
       "saddle_cloth": 9,
       "selection_id": 63363578,
-      "status": "ACTIVE",
+      "status": "REMOVED",
       "best_back": null,
       "back_depth_aud": 0,
       "bsp_near": null,
@@ -1338,7 +1350,7 @@
       "name": "9. Queen Christine",
       "saddle_cloth": 10,
       "selection_id": 90324472,
-      "status": "ACTIVE",
+      "status": "REMOVED",
       "best_back": null,
       "back_depth_aud": 0,
       "bsp_near": null,
@@ -1417,10 +1429,12 @@
       }
     }
   ],
-  "last_polled_at": "2026-07-12T05:48:38.451404Z",
+  "last_polled_at": "2026-07-12T05:56:30.480395Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
     "ok": 10,
     "no_call": 0
-  }
+  },
+  "final_snapshot": true,
+  "final_snapshot_at": "2026-07-12T05:56:30.480395Z"
 }
