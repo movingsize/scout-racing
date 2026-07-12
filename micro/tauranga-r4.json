@@ -1,0 +1,2608 @@
+{
+  "event_id": "tauranga-2026-07-12-r4",
+  "market_id": "1.259900335",
+  "venue": "Tauranga",
+  "race_name": "R4 1300m Mdn",
+  "start_time_utc": "2026-07-12T02:37:00.000Z",
+  "captured_by": "micro-series v1",
+  "field_size": 5,
+  "model_overlay": null,
+  "bsp": {
+    "100454391": {
+      "bsp": NaN,
+      "status": "REMOVED"
+    },
+    "1192739": {
+      "bsp": 1.62,
+      "status": "WINNER"
+    },
+    "100454390": {
+      "bsp": 60.0,
+      "status": "LOSER"
+    },
+    "100454392": {
+      "bsp": 40.0,
+      "status": "LOSER"
+    },
+    "100454393": {
+      "bsp": 6.57,
+      "status": "LOSER"
+    },
+    "100454394": {
+      "bsp": 5.59,
+      "status": "LOSER"
+    }
+  },
+  "result": {
+    "winner": "1. Brass Monkey",
+    "winner_bsp": 1.62,
+    "placings": [
+      "1. Brass Monkey",
+      "2. Linton Flyer"
+    ],
+    "settled_at": "2026-07-12T02:40:02.348698Z"
+  },
+  "frames": [
+    {
+      "at": "2026-07-12T02:27:07.817295Z",
+      "seconds_to_off": 593,
+      "market_matched_volume": 1163.57,
+      "overround_pct": 107.6,
+      "runners": [
+        {
+          "selection_id": 1192739,
+          "name": "1. Brass Monkey",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 2.02,
+          "best_back_size": 3.43,
+          "best_lay": 2.1,
+          "best_lay_size": 15.0,
+          "spread": 0.08,
+          "back_ladder": [
+            {
+              "price": 2.02,
+              "size": 3.43
+            },
+            {
+              "price": 2.0,
+              "size": 3.93
+            },
+            {
+              "price": 1.98,
+              "size": 11.6
+            },
+            {
+              "price": 1.97,
+              "size": 8.18
+            },
+            {
+              "price": 1.96,
+              "size": 3.33
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.1,
+              "size": 15.0
+            },
+            {
+              "price": 2.28,
+              "size": 12.53
+            },
+            {
+              "price": 2.3,
+              "size": 3.33
+            },
+            {
+              "price": 3.0,
+              "size": 38.1
+            },
+            {
+              "price": 3.05,
+              "size": 11.31
+            }
+          ],
+          "runner_matched_volume": 220.17,
+          "last_price_traded": 2.04,
+          "market_prob": 0.460125,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100454390,
+          "name": "2. Linton Flyer",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 18.0,
+          "best_back_size": 33.03,
+          "best_lay": 29.0,
+          "best_lay_size": 11.3,
+          "spread": 11.0,
+          "back_ladder": [
+            {
+              "price": 18.0,
+              "size": 33.03
+            },
+            {
+              "price": 15.5,
+              "size": 3.22
+            },
+            {
+              "price": 15.0,
+              "size": 41.49
+            },
+            {
+              "price": 14.5,
+              "size": 3.31
+            },
+            {
+              "price": 14.0,
+              "size": 4.41
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 29.0,
+              "size": 11.3
+            },
+            {
+              "price": 30.0,
+              "size": 2.35
+            },
+            {
+              "price": 32.0,
+              "size": 2.22
+            },
+            {
+              "price": 34.0,
+              "size": 3.5
+            },
+            {
+              "price": 38.0,
+              "size": 1.09
+            }
+          ],
+          "runner_matched_volume": 7.43,
+          "last_price_traded": 19.5,
+          "market_prob": 0.051636,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100454392,
+          "name": "4. Gherkin",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 12.0,
+          "best_back_size": 19.69,
+          "best_lay": 23.0,
+          "best_lay_size": 2.81,
+          "spread": 11.0,
+          "back_ladder": [
+            {
+              "price": 12.0,
+              "size": 19.69
+            },
+            {
+              "price": 11.5,
+              "size": 15.26
+            },
+            {
+              "price": 10.0,
+              "size": 6.83
+            },
+            {
+              "price": 9.8,
+              "size": 31.15
+            },
+            {
+              "price": 9.6,
+              "size": 41.91
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 23.0,
+              "size": 2.81
+            },
+            {
+              "price": 24.0,
+              "size": 1.2
+            },
+            {
+              "price": 25.0,
+              "size": 3.54
+            },
+            {
+              "price": 26.0,
+              "size": 4.68
+            },
+            {
+              "price": 28.0,
+              "size": 1.86
+            }
+          ],
+          "runner_matched_volume": 15.42,
+          "last_price_traded": 18.5,
+          "market_prob": 0.077454,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 100454393,
+          "name": "5. Spirit Of Ardsley",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 3.5,
+          "best_back_size": 5.8,
+          "best_lay": 4.1,
+          "best_lay_size": 3.87,
+          "spread": 0.6,
+          "back_ladder": [
+            {
+              "price": 3.5,
+              "size": 5.8
+            },
+            {
+              "price": 3.45,
+              "size": 11.41
+            },
+            {
+              "price": 3.4,
+              "size": 27.07
+            },
+            {
+              "price": 3.35,
+              "size": 9.88
+            },
+            {
+              "price": 3.3,
+              "size": 1.93
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.1,
+              "size": 3.87
+            },
+            {
+              "price": 4.2,
+              "size": 4.46
+            },
+            {
+              "price": 4.4,
+              "size": 6.82
+            },
+            {
+              "price": 4.5,
+              "size": 6.44
+            },
+            {
+              "price": 4.6,
+              "size": 6.44
+            }
+          ],
+          "runner_matched_volume": 693.83,
+          "last_price_traded": 3.95,
+          "market_prob": 0.265558,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 100454394,
+          "name": "6. Roc Goddess",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 6.4,
+          "best_back_size": 5.57,
+          "best_lay": 8.8,
+          "best_lay_size": 3.12,
+          "spread": 2.4,
+          "back_ladder": [
+            {
+              "price": 6.4,
+              "size": 5.57
+            },
+            {
+              "price": 6.2,
+              "size": 46.1
+            },
+            {
+              "price": 5.9,
+              "size": 21.84
+            },
+            {
+              "price": 5.8,
+              "size": 31.29
+            },
+            {
+              "price": 5.6,
+              "size": 101.71
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.8,
+              "size": 3.12
+            },
+            {
+              "price": 9.0,
+              "size": 2.22
+            },
+            {
+              "price": 9.8,
+              "size": 1.93
+            },
+            {
+              "price": 10.5,
+              "size": 39.27
+            },
+            {
+              "price": 11.5,
+              "size": 2.9
+            }
+          ],
+          "runner_matched_volume": 226.71,
+          "last_price_traded": 6.8,
+          "market_prob": 0.145227,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100454391,
+          "name": "3. Kalgarry Ally",
+          "saddle_cloth": 6,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T02:28:23.779522Z",
+      "seconds_to_off": 517,
+      "market_matched_volume": 1298.49,
+      "overround_pct": 106.8,
+      "runners": [
+        {
+          "selection_id": 1192739,
+          "name": "1. Brass Monkey",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 1.94,
+          "best_back_size": 5.49,
+          "best_lay": 2.1,
+          "best_lay_size": 15.99,
+          "spread": 0.16,
+          "back_ladder": [
+            {
+              "price": 1.94,
+              "size": 5.49
+            },
+            {
+              "price": 1.92,
+              "size": 3.33
+            },
+            {
+              "price": 1.91,
+              "size": 6.58
+            },
+            {
+              "price": 1.9,
+              "size": 6.66
+            },
+            {
+              "price": 1.89,
+              "size": 23.1
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.1,
+              "size": 15.99
+            },
+            {
+              "price": 2.28,
+              "size": 12.53
+            },
+            {
+              "price": 2.3,
+              "size": 3.33
+            },
+            {
+              "price": 2.8,
+              "size": 8.26
+            },
+            {
+              "price": 3.0,
+              "size": 38.1
+            }
+          ],
+          "runner_matched_volume": 296.9,
+          "last_price_traded": 1.97,
+          "market_prob": 0.48264,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100454390,
+          "name": "2. Linton Flyer",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 18.0,
+          "best_back_size": 33.8,
+          "best_lay": 27.0,
+          "best_lay_size": 13.55,
+          "spread": 9.0,
+          "back_ladder": [
+            {
+              "price": 18.0,
+              "size": 33.8
+            },
+            {
+              "price": 15.5,
+              "size": 3.22
+            },
+            {
+              "price": 15.0,
+              "size": 2.82
+            },
+            {
+              "price": 14.5,
+              "size": 3.31
+            },
+            {
+              "price": 14.0,
+              "size": 6.34
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 27.0,
+              "size": 13.55
+            },
+            {
+              "price": 28.0,
+              "size": 1.93
+            },
+            {
+              "price": 29.0,
+              "size": 2.62
+            },
+            {
+              "price": 30.0,
+              "size": 1.34
+            },
+            {
+              "price": 32.0,
+              "size": 4.15
+            }
+          ],
+          "runner_matched_volume": 7.43,
+          "last_price_traded": 19.5,
+          "market_prob": 0.052018,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100454392,
+          "name": "4. Gherkin",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 13.5,
+          "best_back_size": 1.51,
+          "best_lay": 23.0,
+          "best_lay_size": 3.78,
+          "spread": 9.5,
+          "back_ladder": [
+            {
+              "price": 13.5,
+              "size": 1.51
+            },
+            {
+              "price": 13.0,
+              "size": 22.46
+            },
+            {
+              "price": 12.5,
+              "size": 2.71
+            },
+            {
+              "price": 12.0,
+              "size": 6.86
+            },
+            {
+              "price": 11.5,
+              "size": 15.26
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 23.0,
+              "size": 3.78
+            },
+            {
+              "price": 24.0,
+              "size": 1.2
+            },
+            {
+              "price": 25.0,
+              "size": 1.61
+            },
+            {
+              "price": 27.0,
+              "size": 8.6
+            },
+            {
+              "price": 48.0,
+              "size": 22.45
+            }
+          ],
+          "runner_matched_volume": 15.42,
+          "last_price_traded": 18.5,
+          "market_prob": 0.069357,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 100454393,
+          "name": "5. Spirit Of Ardsley",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 3.75,
+          "best_back_size": 4.23,
+          "best_lay": 4.2,
+          "best_lay_size": 4.46,
+          "spread": 0.45,
+          "back_ladder": [
+            {
+              "price": 3.75,
+              "size": 4.23
+            },
+            {
+              "price": 3.7,
+              "size": 15.23
+            },
+            {
+              "price": 3.65,
+              "size": 4.54
+            },
+            {
+              "price": 3.6,
+              "size": 4.54
+            },
+            {
+              "price": 3.55,
+              "size": 9.11
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.2,
+              "size": 4.46
+            },
+            {
+              "price": 4.5,
+              "size": 6.44
+            },
+            {
+              "price": 4.6,
+              "size": 6.44
+            },
+            {
+              "price": 4.7,
+              "size": 4.63
+            },
+            {
+              "price": 4.8,
+              "size": 4.46
+            }
+          ],
+          "runner_matched_volume": 752.01,
+          "last_price_traded": 4.1,
+          "market_prob": 0.249686,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 100454394,
+          "name": "6. Roc Goddess",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 6.4,
+          "best_back_size": 6.34,
+          "best_lay": 8.8,
+          "best_lay_size": 4.09,
+          "spread": 2.4,
+          "back_ladder": [
+            {
+              "price": 6.4,
+              "size": 6.34
+            },
+            {
+              "price": 6.2,
+              "size": 46.1
+            },
+            {
+              "price": 5.9,
+              "size": 21.84
+            },
+            {
+              "price": 5.8,
+              "size": 31.29
+            },
+            {
+              "price": 5.6,
+              "size": 101.71
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.8,
+              "size": 4.09
+            },
+            {
+              "price": 9.0,
+              "size": 2.22
+            },
+            {
+              "price": 9.8,
+              "size": 1.93
+            },
+            {
+              "price": 10.5,
+              "size": 39.27
+            },
+            {
+              "price": 11.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 226.71,
+          "last_price_traded": 6.8,
+          "market_prob": 0.1463,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100454391,
+          "name": "3. Kalgarry Ally",
+          "saddle_cloth": 6,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T02:29:55.453069Z",
+      "seconds_to_off": 425,
+      "market_matched_volume": 1373.54,
+      "overround_pct": 101.6,
+      "runners": [
+        {
+          "selection_id": 1192739,
+          "name": "1. Brass Monkey",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 1.95,
+          "best_back_size": 3.73,
+          "best_lay": 2.08,
+          "best_lay_size": 7.08,
+          "spread": 0.13,
+          "back_ladder": [
+            {
+              "price": 1.95,
+              "size": 3.73
+            },
+            {
+              "price": 1.92,
+              "size": 3.33
+            },
+            {
+              "price": 1.91,
+              "size": 28.46
+            },
+            {
+              "price": 1.9,
+              "size": 6.66
+            },
+            {
+              "price": 1.88,
+              "size": 25.91
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.08,
+              "size": 7.08
+            },
+            {
+              "price": 2.1,
+              "size": 15.0
+            },
+            {
+              "price": 2.12,
+              "size": 6.66
+            },
+            {
+              "price": 2.28,
+              "size": 12.53
+            },
+            {
+              "price": 2.3,
+              "size": 3.33
+            }
+          ],
+          "runner_matched_volume": 313.91,
+          "last_price_traded": 1.95,
+          "market_prob": 0.504828,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100454390,
+          "name": "2. Linton Flyer",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 24.0,
+          "best_back_size": 3.87,
+          "best_lay": 28.0,
+          "best_lay_size": 5.22,
+          "spread": 4.0,
+          "back_ladder": [
+            {
+              "price": 24.0,
+              "size": 3.87
+            },
+            {
+              "price": 21.0,
+              "size": 1.2
+            },
+            {
+              "price": 20.0,
+              "size": 1.0
+            },
+            {
+              "price": 19.5,
+              "size": 1.03
+            },
+            {
+              "price": 18.0,
+              "size": 29.93
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 28.0,
+              "size": 5.22
+            },
+            {
+              "price": 30.0,
+              "size": 3.66
+            },
+            {
+              "price": 32.0,
+              "size": 2.22
+            },
+            {
+              "price": 34.0,
+              "size": 1.57
+            },
+            {
+              "price": 36.0,
+              "size": 2.13
+            }
+          ],
+          "runner_matched_volume": 36.93,
+          "last_price_traded": 27.0,
+          "market_prob": 0.041017,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100454392,
+          "name": "4. Gherkin",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 21.0,
+          "best_back_size": 9.08,
+          "best_lay": 27.0,
+          "best_lay_size": 1.2,
+          "spread": 6.0,
+          "back_ladder": [
+            {
+              "price": 21.0,
+              "size": 9.08
+            },
+            {
+              "price": 19.0,
+              "size": 1.18
+            },
+            {
+              "price": 18.5,
+              "size": 1.08
+            },
+            {
+              "price": 18.0,
+              "size": 1.11
+            },
+            {
+              "price": 14.0,
+              "size": 13.26
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 27.0,
+              "size": 1.2
+            },
+            {
+              "price": 32.0,
+              "size": 1.55
+            },
+            {
+              "price": 34.0,
+              "size": 2.52
+            },
+            {
+              "price": 46.0,
+              "size": 2.47
+            },
+            {
+              "price": 60.0,
+              "size": 21.52
+            }
+          ],
+          "runner_matched_volume": 30.71,
+          "last_price_traded": 23.0,
+          "market_prob": 0.046877,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 100454393,
+          "name": "5. Spirit Of Ardsley",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 3.75,
+          "best_back_size": 7.48,
+          "best_lay": 4.2,
+          "best_lay_size": 7.75,
+          "spread": 0.45,
+          "back_ladder": [
+            {
+              "price": 3.75,
+              "size": 7.48
+            },
+            {
+              "price": 3.7,
+              "size": 44.23
+            },
+            {
+              "price": 3.65,
+              "size": 4.54
+            },
+            {
+              "price": 3.6,
+              "size": 4.54
+            },
+            {
+              "price": 3.55,
+              "size": 9.11
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.2,
+              "size": 7.75
+            },
+            {
+              "price": 4.5,
+              "size": 34.64
+            },
+            {
+              "price": 4.6,
+              "size": 6.44
+            },
+            {
+              "price": 4.7,
+              "size": 4.63
+            },
+            {
+              "price": 4.8,
+              "size": 4.46
+            }
+          ],
+          "runner_matched_volume": 752.01,
+          "last_price_traded": 4.1,
+          "market_prob": 0.262511,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 100454394,
+          "name": "6. Roc Goddess",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 6.8,
+          "best_back_size": 3.25,
+          "best_lay": 8.0,
+          "best_lay_size": 30.12,
+          "spread": 1.2,
+          "back_ladder": [
+            {
+              "price": 6.8,
+              "size": 3.25
+            },
+            {
+              "price": 6.6,
+              "size": 7.39
+            },
+            {
+              "price": 6.4,
+              "size": 14.56
+            },
+            {
+              "price": 6.2,
+              "size": 13.24
+            },
+            {
+              "price": 5.9,
+              "size": 21.84
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.0,
+              "size": 30.12
+            },
+            {
+              "price": 8.2,
+              "size": 3.23
+            },
+            {
+              "price": 8.4,
+              "size": 9.44
+            },
+            {
+              "price": 8.6,
+              "size": 2.34
+            },
+            {
+              "price": 8.8,
+              "size": 4.85
+            }
+          ],
+          "runner_matched_volume": 239.97,
+          "last_price_traded": 7.6,
+          "market_prob": 0.144767,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100454391,
+          "name": "3. Kalgarry Ally",
+          "saddle_cloth": 6,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T02:31:28.140376Z",
+      "seconds_to_off": 332,
+      "market_matched_volume": 1584.86,
+      "overround_pct": 103.0,
+      "runners": [
+        {
+          "selection_id": 1192739,
+          "name": "1. Brass Monkey",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 1.81,
+          "best_back_size": 3.42,
+          "best_lay": 1.9,
+          "best_lay_size": 14.97,
+          "spread": 0.09,
+          "back_ladder": [
+            {
+              "price": 1.81,
+              "size": 3.42
+            },
+            {
+              "price": 1.8,
+              "size": 1.34
+            },
+            {
+              "price": 1.79,
+              "size": 25.19
+            },
+            {
+              "price": 1.78,
+              "size": 142.31
+            },
+            {
+              "price": 1.76,
+              "size": 24.64
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 1.9,
+              "size": 14.97
+            },
+            {
+              "price": 1.97,
+              "size": 1.31
+            },
+            {
+              "price": 2.18,
+              "size": 89.93
+            },
+            {
+              "price": 2.98,
+              "size": 106.86
+            },
+            {
+              "price": 3.0,
+              "size": 22.5
+            }
+          ],
+          "runner_matched_volume": 416.82,
+          "last_price_traded": 1.9,
+          "market_prob": 0.536486,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100454390,
+          "name": "2. Linton Flyer",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 34.0,
+          "best_back_size": 3.87,
+          "best_lay": 50.0,
+          "best_lay_size": 5.41,
+          "spread": 16.0,
+          "back_ladder": [
+            {
+              "price": 34.0,
+              "size": 3.87
+            },
+            {
+              "price": 30.0,
+              "size": 1.46
+            },
+            {
+              "price": 28.0,
+              "size": 1.4
+            },
+            {
+              "price": 26.0,
+              "size": 1.51
+            },
+            {
+              "price": 24.0,
+              "size": 1.63
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 50.0,
+              "size": 5.41
+            },
+            {
+              "price": 55.0,
+              "size": 3.87
+            },
+            {
+              "price": 70.0,
+              "size": 2.65
+            },
+            {
+              "price": 210.0,
+              "size": 4.69
+            },
+            {
+              "price": 250.0,
+              "size": 19.33
+            }
+          ],
+          "runner_matched_volume": 79.31,
+          "last_price_traded": 44.0,
+          "market_prob": 0.02856,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100454392,
+          "name": "4. Gherkin",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 25.0,
+          "best_back_size": 6.98,
+          "best_lay": 36.0,
+          "best_lay_size": 4.42,
+          "spread": 11.0,
+          "back_ladder": [
+            {
+              "price": 25.0,
+              "size": 6.98
+            },
+            {
+              "price": 23.0,
+              "size": 1.7
+            },
+            {
+              "price": 19.0,
+              "size": 3.14
+            },
+            {
+              "price": 18.5,
+              "size": 2.16
+            },
+            {
+              "price": 18.0,
+              "size": 3.33
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 36.0,
+              "size": 4.42
+            },
+            {
+              "price": 38.0,
+              "size": 5.39
+            },
+            {
+              "price": 40.0,
+              "size": 1.52
+            },
+            {
+              "price": 42.0,
+              "size": 1.61
+            },
+            {
+              "price": 55.0,
+              "size": 2.9
+            }
+          ],
+          "runner_matched_volume": 63.57,
+          "last_price_traded": 32.0,
+          "market_prob": 0.038842,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 100454393,
+          "name": "5. Spirit Of Ardsley",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 3.9,
+          "best_back_size": 3.38,
+          "best_lay": 4.4,
+          "best_lay_size": 3.6,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 3.9,
+              "size": 3.38
+            },
+            {
+              "price": 3.85,
+              "size": 8.14
+            },
+            {
+              "price": 3.8,
+              "size": 3.36
+            },
+            {
+              "price": 3.7,
+              "size": 44.23
+            },
+            {
+              "price": 3.65,
+              "size": 4.54
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.4,
+              "size": 3.6
+            },
+            {
+              "price": 4.5,
+              "size": 43.66
+            },
+            {
+              "price": 4.6,
+              "size": 6.44
+            },
+            {
+              "price": 4.7,
+              "size": 35.59
+            },
+            {
+              "price": 4.8,
+              "size": 4.46
+            }
+          ],
+          "runner_matched_volume": 778.55,
+          "last_price_traded": 3.95,
+          "market_prob": 0.248985,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 100454394,
+          "name": "6. Roc Goddess",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 6.6,
+          "best_back_size": 1.52,
+          "best_lay": 7.4,
+          "best_lay_size": 3.63,
+          "spread": 0.8,
+          "back_ladder": [
+            {
+              "price": 6.6,
+              "size": 1.52
+            },
+            {
+              "price": 6.4,
+              "size": 17.49
+            },
+            {
+              "price": 6.2,
+              "size": 15.17
+            },
+            {
+              "price": 6.0,
+              "size": 1.93
+            },
+            {
+              "price": 5.8,
+              "size": 31.29
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.4,
+              "size": 3.63
+            },
+            {
+              "price": 7.6,
+              "size": 26.46
+            },
+            {
+              "price": 7.8,
+              "size": 3.4
+            },
+            {
+              "price": 8.2,
+              "size": 4.08
+            },
+            {
+              "price": 8.4,
+              "size": 2.38
+            }
+          ],
+          "runner_matched_volume": 246.58,
+          "last_price_traded": 6.8,
+          "market_prob": 0.147127,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100454391,
+          "name": "3. Kalgarry Ally",
+          "saddle_cloth": 6,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T02:32:51.180411Z",
+      "seconds_to_off": 249,
+      "market_matched_volume": 1934.53,
+      "overround_pct": 103.2,
+      "runners": [
+        {
+          "selection_id": 1192739,
+          "name": "1. Brass Monkey",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 1.79,
+          "best_back_size": 5.49,
+          "best_lay": 1.86,
+          "best_lay_size": 1.7,
+          "spread": 0.07,
+          "back_ladder": [
+            {
+              "price": 1.79,
+              "size": 5.49
+            },
+            {
+              "price": 1.78,
+              "size": 76.73
+            },
+            {
+              "price": 1.75,
+              "size": 26.23
+            },
+            {
+              "price": 1.74,
+              "size": 21.62
+            },
+            {
+              "price": 1.73,
+              "size": 304.11
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 1.86,
+              "size": 1.7
+            },
+            {
+              "price": 1.93,
+              "size": 4.3
+            },
+            {
+              "price": 1.97,
+              "size": 1.31
+            },
+            {
+              "price": 2.22,
+              "size": 12.55
+            },
+            {
+              "price": 2.24,
+              "size": 89.91
+            }
+          ],
+          "runner_matched_volume": 579.13,
+          "last_price_traded": 1.8,
+          "market_prob": 0.541533,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100454390,
+          "name": "2. Linton Flyer",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 32.0,
+          "best_back_size": 10.4,
+          "best_lay": 46.0,
+          "best_lay_size": 5.26,
+          "spread": 14.0,
+          "back_ladder": [
+            {
+              "price": 32.0,
+              "size": 10.4
+            },
+            {
+              "price": 30.0,
+              "size": 6.53
+            },
+            {
+              "price": 29.0,
+              "size": 16.16
+            },
+            {
+              "price": 28.0,
+              "size": 2.64
+            },
+            {
+              "price": 27.0,
+              "size": 2.67
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 46.0,
+              "size": 5.26
+            },
+            {
+              "price": 48.0,
+              "size": 4.48
+            },
+            {
+              "price": 50.0,
+              "size": 1.19
+            },
+            {
+              "price": 70.0,
+              "size": 1.04
+            },
+            {
+              "price": 160.0,
+              "size": 1.48
+            }
+          ],
+          "runner_matched_volume": 79.95,
+          "last_price_traded": 34.0,
+          "market_prob": 0.030292,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100454392,
+          "name": "4. Gherkin",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 27.0,
+          "best_back_size": 13.59,
+          "best_lay": 38.0,
+          "best_lay_size": 6.57,
+          "spread": 11.0,
+          "back_ladder": [
+            {
+              "price": 27.0,
+              "size": 13.59
+            },
+            {
+              "price": 26.0,
+              "size": 6.72
+            },
+            {
+              "price": 25.0,
+              "size": 6.6
+            },
+            {
+              "price": 24.0,
+              "size": 2.76
+            },
+            {
+              "price": 23.0,
+              "size": 2.8
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 38.0,
+              "size": 6.57
+            },
+            {
+              "price": 40.0,
+              "size": 3.87
+            },
+            {
+              "price": 42.0,
+              "size": 1.61
+            },
+            {
+              "price": 48.0,
+              "size": 1.26
+            },
+            {
+              "price": 70.0,
+              "size": 1.65
+            }
+          ],
+          "runner_matched_volume": 74.37,
+          "last_price_traded": 28.0,
+          "market_prob": 0.035902,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 100454393,
+          "name": "5. Spirit Of Ardsley",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 3.95,
+          "best_back_size": 15.29,
+          "best_lay": 4.5,
+          "best_lay_size": 3.01,
+          "spread": 0.55,
+          "back_ladder": [
+            {
+              "price": 3.95,
+              "size": 15.29
+            },
+            {
+              "price": 3.9,
+              "size": 10.87
+            },
+            {
+              "price": 3.85,
+              "size": 16.43
+            },
+            {
+              "price": 3.7,
+              "size": 37.58
+            },
+            {
+              "price": 3.65,
+              "size": 4.54
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.5,
+              "size": 3.01
+            },
+            {
+              "price": 4.6,
+              "size": 6.44
+            },
+            {
+              "price": 4.7,
+              "size": 4.63
+            },
+            {
+              "price": 4.8,
+              "size": 41.53
+            },
+            {
+              "price": 4.9,
+              "size": 43.96
+            }
+          ],
+          "runner_matched_volume": 931.82,
+          "last_price_traded": 4.5,
+          "market_prob": 0.245403,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 100454394,
+          "name": "6. Roc Goddess",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 6.6,
+          "best_back_size": 16.24,
+          "best_lay": 7.4,
+          "best_lay_size": 24.92,
+          "spread": 0.8,
+          "back_ladder": [
+            {
+              "price": 6.6,
+              "size": 16.24
+            },
+            {
+              "price": 6.4,
+              "size": 7.83
+            },
+            {
+              "price": 6.2,
+              "size": 15.17
+            },
+            {
+              "price": 6.0,
+              "size": 1.93
+            },
+            {
+              "price": 5.8,
+              "size": 31.29
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.4,
+              "size": 24.92
+            },
+            {
+              "price": 7.8,
+              "size": 3.4
+            },
+            {
+              "price": 8.2,
+              "size": 4.08
+            },
+            {
+              "price": 8.4,
+              "size": 4.31
+            },
+            {
+              "price": 8.6,
+              "size": 23.86
+            }
+          ],
+          "runner_matched_volume": 269.23,
+          "last_price_traded": 6.6,
+          "market_prob": 0.14687,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100454391,
+          "name": "3. Kalgarry Ally",
+          "saddle_cloth": 6,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T02:34:06.119454Z",
+      "seconds_to_off": 174,
+      "market_matched_volume": 2911.57,
+      "overround_pct": 103.9,
+      "runners": [
+        {
+          "selection_id": 1192739,
+          "name": "1. Brass Monkey",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 1.69,
+          "best_back_size": 11.01,
+          "best_lay": 1.76,
+          "best_lay_size": 22.22,
+          "spread": 0.07,
+          "back_ladder": [
+            {
+              "price": 1.69,
+              "size": 11.01
+            },
+            {
+              "price": 1.68,
+              "size": 167.11
+            },
+            {
+              "price": 1.67,
+              "size": 32.58
+            },
+            {
+              "price": 1.65,
+              "size": 15.97
+            },
+            {
+              "price": 1.64,
+              "size": 44.36
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 1.76,
+              "size": 22.22
+            },
+            {
+              "price": 1.77,
+              "size": 42.44
+            },
+            {
+              "price": 1.78,
+              "size": 19.86
+            },
+            {
+              "price": 1.79,
+              "size": 11.91
+            },
+            {
+              "price": 1.8,
+              "size": 10.46
+            }
+          ],
+          "runner_matched_volume": 1230.87,
+          "last_price_traded": 1.69,
+          "market_prob": 0.569769,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100454390,
+          "name": "2. Linton Flyer",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 34.0,
+          "best_back_size": 7.4,
+          "best_lay": 46.0,
+          "best_lay_size": 6.29,
+          "spread": 12.0,
+          "back_ladder": [
+            {
+              "price": 34.0,
+              "size": 7.4
+            },
+            {
+              "price": 32.0,
+              "size": 23.08
+            },
+            {
+              "price": 30.0,
+              "size": 2.7
+            },
+            {
+              "price": 29.0,
+              "size": 45.16
+            },
+            {
+              "price": 28.0,
+              "size": 2.64
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 46.0,
+              "size": 6.29
+            },
+            {
+              "price": 50.0,
+              "size": 1.22
+            },
+            {
+              "price": 55.0,
+              "size": 3.87
+            },
+            {
+              "price": 70.0,
+              "size": 1.04
+            },
+            {
+              "price": 210.0,
+              "size": 4.24
+            }
+          ],
+          "runner_matched_volume": 81.79,
+          "last_price_traded": 34.0,
+          "market_prob": 0.028321,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100454392,
+          "name": "4. Gherkin",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 30.0,
+          "best_back_size": 3.22,
+          "best_lay": 42.0,
+          "best_lay_size": 1.93,
+          "spread": 12.0,
+          "back_ladder": [
+            {
+              "price": 30.0,
+              "size": 3.22
+            },
+            {
+              "price": 29.0,
+              "size": 8.9
+            },
+            {
+              "price": 28.0,
+              "size": 3.04
+            },
+            {
+              "price": 27.0,
+              "size": 6.04
+            },
+            {
+              "price": 26.0,
+              "size": 3.67
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 42.0,
+              "size": 1.93
+            },
+            {
+              "price": 44.0,
+              "size": 4.73
+            },
+            {
+              "price": 60.0,
+              "size": 1.33
+            },
+            {
+              "price": 75.0,
+              "size": 23.45
+            },
+            {
+              "price": 80.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 76.46,
+          "last_price_traded": 30.0,
+          "market_prob": 0.032097,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 100454393,
+          "name": "5. Spirit Of Ardsley",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 4.6,
+          "best_back_size": 14.04,
+          "best_lay": 4.9,
+          "best_lay_size": 10.41,
+          "spread": 0.3,
+          "back_ladder": [
+            {
+              "price": 4.6,
+              "size": 14.04
+            },
+            {
+              "price": 4.5,
+              "size": 18.17
+            },
+            {
+              "price": 4.4,
+              "size": 15.73
+            },
+            {
+              "price": 4.3,
+              "size": 6.71
+            },
+            {
+              "price": 4.2,
+              "size": 15.97
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.9,
+              "size": 10.41
+            },
+            {
+              "price": 5.1,
+              "size": 6.92
+            },
+            {
+              "price": 5.2,
+              "size": 34.37
+            },
+            {
+              "price": 5.3,
+              "size": 49.88
+            },
+            {
+              "price": 5.4,
+              "size": 49.87
+            }
+          ],
+          "runner_matched_volume": 1195.41,
+          "last_price_traded": 4.9,
+          "market_prob": 0.209328,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 100454394,
+          "name": "6. Roc Goddess",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 6.0,
+          "best_back_size": 14.04,
+          "best_lay": 6.6,
+          "best_lay_size": 33.23,
+          "spread": 0.6,
+          "back_ladder": [
+            {
+              "price": 6.0,
+              "size": 14.04
+            },
+            {
+              "price": 5.9,
+              "size": 9.87
+            },
+            {
+              "price": 5.8,
+              "size": 17.74
+            },
+            {
+              "price": 5.7,
+              "size": 9.69
+            },
+            {
+              "price": 5.6,
+              "size": 14.71
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.6,
+              "size": 33.23
+            },
+            {
+              "price": 6.8,
+              "size": 9.29
+            },
+            {
+              "price": 7.0,
+              "size": 9.38
+            },
+            {
+              "price": 7.2,
+              "size": 5.55
+            },
+            {
+              "price": 7.4,
+              "size": 26.86
+            }
+          ],
+          "runner_matched_volume": 327.01,
+          "last_price_traded": 6.2,
+          "market_prob": 0.160485,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100454391,
+          "name": "3. Kalgarry Ally",
+          "saddle_cloth": 6,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T02:35:20.785115Z",
+      "seconds_to_off": 100,
+      "market_matched_volume": 3415.04,
+      "overround_pct": 102.7,
+      "runners": [
+        {
+          "selection_id": 1192739,
+          "name": "1. Brass Monkey",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 1.68,
+          "best_back_size": 19.48,
+          "best_lay": 1.71,
+          "best_lay_size": 17.03,
+          "spread": 0.03,
+          "back_ladder": [
+            {
+              "price": 1.68,
+              "size": 19.48
+            },
+            {
+              "price": 1.67,
+              "size": 1.45
+            },
+            {
+              "price": 1.65,
+              "size": 15.97
+            },
+            {
+              "price": 1.64,
+              "size": 44.36
+            },
+            {
+              "price": 1.63,
+              "size": 201.64
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 1.71,
+              "size": 17.03
+            },
+            {
+              "price": 1.72,
+              "size": 40.85
+            },
+            {
+              "price": 1.73,
+              "size": 12.89
+            },
+            {
+              "price": 1.74,
+              "size": 33.63
+            },
+            {
+              "price": 1.76,
+              "size": 16.46
+            }
+          ],
+          "runner_matched_volume": 1433.41,
+          "last_price_traded": 1.68,
+          "market_prob": 0.579321,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100454390,
+          "name": "2. Linton Flyer",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 34.0,
+          "best_back_size": 8.85,
+          "best_lay": 50.0,
+          "best_lay_size": 7.51,
+          "spread": 16.0,
+          "back_ladder": [
+            {
+              "price": 34.0,
+              "size": 8.85
+            },
+            {
+              "price": 32.0,
+              "size": 23.08
+            },
+            {
+              "price": 30.0,
+              "size": 2.7
+            },
+            {
+              "price": 28.0,
+              "size": 3.33
+            },
+            {
+              "price": 27.0,
+              "size": 3.07
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 50.0,
+              "size": 7.51
+            },
+            {
+              "price": 55.0,
+              "size": 3.87
+            },
+            {
+              "price": 70.0,
+              "size": 1.04
+            },
+            {
+              "price": 120.0,
+              "size": 21.83
+            },
+            {
+              "price": 210.0,
+              "size": 3.99
+            }
+          ],
+          "runner_matched_volume": 92.37,
+          "last_price_traded": 46.0,
+          "market_prob": 0.028625,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100454392,
+          "name": "4. Gherkin",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 30.0,
+          "best_back_size": 4.05,
+          "best_lay": 42.0,
+          "best_lay_size": 5.04,
+          "spread": 12.0,
+          "back_ladder": [
+            {
+              "price": 30.0,
+              "size": 4.05
+            },
+            {
+              "price": 29.0,
+              "size": 8.9
+            },
+            {
+              "price": 28.0,
+              "size": 3.04
+            },
+            {
+              "price": 27.0,
+              "size": 6.04
+            },
+            {
+              "price": 25.0,
+              "size": 1.57
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 42.0,
+              "size": 5.04
+            },
+            {
+              "price": 44.0,
+              "size": 1.02
+            },
+            {
+              "price": 60.0,
+              "size": 1.33
+            },
+            {
+              "price": 75.0,
+              "size": 23.45
+            },
+            {
+              "price": 80.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 76.46,
+          "last_price_traded": 30.0,
+          "market_prob": 0.032442,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 100454393,
+          "name": "5. Spirit Of Ardsley",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 5.0,
+          "best_back_size": 15.47,
+          "best_lay": 5.2,
+          "best_lay_size": 7.0,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 5.0,
+              "size": 15.47
+            },
+            {
+              "price": 4.9,
+              "size": 12.19
+            },
+            {
+              "price": 4.8,
+              "size": 17.16
+            },
+            {
+              "price": 4.7,
+              "size": 13.77
+            },
+            {
+              "price": 4.6,
+              "size": 20.56
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.2,
+              "size": 7.0
+            },
+            {
+              "price": 5.3,
+              "size": 5.37
+            },
+            {
+              "price": 5.4,
+              "size": 9.65
+            },
+            {
+              "price": 5.5,
+              "size": 14.52
+            },
+            {
+              "price": 5.6,
+              "size": 34.5
+            }
+          ],
+          "runner_matched_volume": 1398.93,
+          "last_price_traded": 5.4,
+          "market_prob": 0.194652,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 100454394,
+          "name": "6. Roc Goddess",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 5.9,
+          "best_back_size": 12.56,
+          "best_lay": 6.2,
+          "best_lay_size": 13.97,
+          "spread": 0.3,
+          "back_ladder": [
+            {
+              "price": 5.9,
+              "size": 12.56
+            },
+            {
+              "price": 5.8,
+              "size": 17.74
+            },
+            {
+              "price": 5.7,
+              "size": 9.69
+            },
+            {
+              "price": 5.6,
+              "size": 14.71
+            },
+            {
+              "price": 5.5,
+              "size": 12.46
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.2,
+              "size": 13.97
+            },
+            {
+              "price": 6.4,
+              "size": 9.76
+            },
+            {
+              "price": 6.6,
+              "size": 12.79
+            },
+            {
+              "price": 6.8,
+              "size": 5.67
+            },
+            {
+              "price": 7.0,
+              "size": 5.76
+            }
+          ],
+          "runner_matched_volume": 413.85,
+          "last_price_traded": 6.2,
+          "market_prob": 0.164959,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100454391,
+          "name": "3. Kalgarry Ally",
+          "saddle_cloth": 6,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T02:36:35.782270Z",
+      "seconds_to_off": 25,
+      "market_matched_volume": 5001.29,
+      "overround_pct": 101.4,
+      "runners": [
+        {
+          "selection_id": 1192739,
+          "name": "1. Brass Monkey",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 1.65,
+          "best_back_size": 24.12,
+          "best_lay": 1.69,
+          "best_lay_size": 17.17,
+          "spread": 0.04,
+          "back_ladder": [
+            {
+              "price": 1.65,
+              "size": 24.12
+            },
+            {
+              "price": 1.64,
+              "size": 11.97
+            },
+            {
+              "price": 1.63,
+              "size": 11.98
+            },
+            {
+              "price": 1.62,
+              "size": 192.14
+            },
+            {
+              "price": 1.61,
+              "size": 74.7
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 1.69,
+              "size": 17.17
+            },
+            {
+              "price": 1.7,
+              "size": 11.14
+            },
+            {
+              "price": 1.71,
+              "size": 16.73
+            },
+            {
+              "price": 1.72,
+              "size": 17.62
+            },
+            {
+              "price": 1.73,
+              "size": 29.75
+            }
+          ],
+          "runner_matched_volume": 2288.45,
+          "last_price_traded": 1.65,
+          "market_prob": 0.597651,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100454390,
+          "name": "2. Linton Flyer",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 40.0,
+          "best_back_size": 5.28,
+          "best_lay": 48.0,
+          "best_lay_size": 10.93,
+          "spread": 8.0,
+          "back_ladder": [
+            {
+              "price": 40.0,
+              "size": 5.28
+            },
+            {
+              "price": 38.0,
+              "size": 6.42
+            },
+            {
+              "price": 36.0,
+              "size": 10.66
+            },
+            {
+              "price": 34.0,
+              "size": 8.92
+            },
+            {
+              "price": 32.0,
+              "size": 33.87
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 48.0,
+              "size": 10.93
+            },
+            {
+              "price": 50.0,
+              "size": 4.0
+            },
+            {
+              "price": 55.0,
+              "size": 3.87
+            },
+            {
+              "price": 70.0,
+              "size": 1.04
+            },
+            {
+              "price": 95.0,
+              "size": 1.31
+            }
+          ],
+          "runner_matched_volume": 123.54,
+          "last_price_traded": 38.0,
+          "market_prob": 0.024653,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100454392,
+          "name": "4. Gherkin",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 34.0,
+          "best_back_size": 1.18,
+          "best_lay": 36.0,
+          "best_lay_size": 2.3,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 34.0,
+              "size": 1.18
+            },
+            {
+              "price": 32.0,
+              "size": 11.94
+            },
+            {
+              "price": 30.0,
+              "size": 8.19
+            },
+            {
+              "price": 29.0,
+              "size": 17.52
+            },
+            {
+              "price": 28.0,
+              "size": 5.62
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 36.0,
+              "size": 2.3
+            },
+            {
+              "price": 38.0,
+              "size": 4.94
+            },
+            {
+              "price": 40.0,
+              "size": 1.0
+            },
+            {
+              "price": 42.0,
+              "size": 4.42
+            },
+            {
+              "price": 44.0,
+              "size": 1.47
+            }
+          ],
+          "runner_matched_volume": 97.22,
+          "last_price_traded": 32.0,
+          "market_prob": 0.029004,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 100454393,
+          "name": "5. Spirit Of Ardsley",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 6.2,
+          "best_back_size": 9.2,
+          "best_lay": 6.6,
+          "best_lay_size": 27.03,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 6.2,
+              "size": 9.2
+            },
+            {
+              "price": 6.0,
+              "size": 15.98
+            },
+            {
+              "price": 5.9,
+              "size": 17.78
+            },
+            {
+              "price": 5.8,
+              "size": 232.63
+            },
+            {
+              "price": 5.7,
+              "size": 30.98
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.6,
+              "size": 27.03
+            },
+            {
+              "price": 6.8,
+              "size": 8.15
+            },
+            {
+              "price": 7.0,
+              "size": 31.35
+            },
+            {
+              "price": 7.2,
+              "size": 17.17
+            },
+            {
+              "price": 7.4,
+              "size": 31.4
+            }
+          ],
+          "runner_matched_volume": 1937.71,
+          "last_price_traded": 6.2,
+          "market_prob": 0.159052,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100454394,
+          "name": "6. Roc Goddess",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 5.2,
+          "best_back_size": 10.58,
+          "best_lay": 5.3,
+          "best_lay_size": 5.47,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.2,
+              "size": 10.58
+            },
+            {
+              "price": 5.1,
+              "size": 20.98
+            },
+            {
+              "price": 5.0,
+              "size": 85.69
+            },
+            {
+              "price": 4.9,
+              "size": 8.14
+            },
+            {
+              "price": 4.8,
+              "size": 8.16
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.3,
+              "size": 5.47
+            },
+            {
+              "price": 5.4,
+              "size": 7.31
+            },
+            {
+              "price": 5.5,
+              "size": 9.54
+            },
+            {
+              "price": 5.6,
+              "size": 15.04
+            },
+            {
+              "price": 5.7,
+              "size": 6.46
+            }
+          ],
+          "runner_matched_volume": 554.35,
+          "last_price_traded": 5.2,
+          "market_prob": 0.189639,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 100454391,
+          "name": "3. Kalgarry Ally",
+          "saddle_cloth": 6,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    }
+  ],
+  "finalized_at": "2026-07-12T02:40:09.310484Z"
+}
