@@ -615,80 +615,22 @@
       "trainer": "Clayton Douglas",
       "jockey": "Jett Stanley",
       "last5": null,
-      "career": "0:0-0-0",
+      "career": null,
       "weight_kg": 57.0,
       "barrier": 17,
-      "prizemoney": 0,
-      "first_up_record": "0:0-0-0",
-      "second_up_record": "0:0-0-0",
-      "going_record": {
-        "Firm": "0:0-0-0",
-        "Good": "0:0-0-0",
-        "Soft": "0:0-0-0",
-        "Heavy": "0:0-0-0",
-        "Synthetic": "0:0-0-0"
-      },
-      "recent_runs": [
-        {
-          "pos": 1,
-          "date": "2026-06-29",
-          "class": "Jump Out",
-          "trial": true,
-          "distance_m": 1000,
-          "going": "Jump",
-          "winner_time": 61.65,
-          "beaten_margin": 0.0,
-          "runner_time": null,
-          "runner_time_reduced": null,
-          "sectional_600": null,
-          "in_run": null
-        },
-        {
-          "pos": 2,
-          "date": "2026-06-11",
-          "class": "2Y-TRL",
-          "trial": false,
-          "distance_m": 1050,
-          "going": "Soft6",
-          "winner_time": 64.0,
-          "beaten_margin": 1.25,
-          "runner_time": 64.18,
-          "runner_time_reduced": true,
-          "sectional_600": null,
-          "in_run": null
-        },
-        {
-          "pos": 7,
-          "date": "2026-05-18",
-          "class": "Jump Out",
-          "trial": true,
-          "distance_m": 800,
-          "going": "Jump",
-          "winner_time": 47.61,
-          "beaten_margin": 1.25,
-          "runner_time": null,
-          "runner_time_reduced": null,
-          "sectional_600": null,
-          "in_run": null
-        }
+      "scratched": true,
+      "form_status": "unraced",
+      "warnings": [
+        "form source shows this runner SCRATCHED but Betfair still lists it ACTIVE \u2014 cross-source timing mismatch, treat the price as unreliable until one side updates"
       ],
-      "recent_class": [
-        "Jump Out",
-        "2Y-TRL",
-        "Jump Out"
-      ],
-      "days_since_run": 14,
-      "runs_this_prep": 3,
-      "form_status": "confirmed",
-      "warnings": [],
       "last5_parsed": [],
       "data_status": "unraced",
       "open_price": 6.4,
       "call": {
-        "call": "OK",
-        "label": "OK",
-        "confidence": "thin",
-        "reason": "form present (0 career starts, ds=unraced)",
+        "call": "NO_CALL",
+        "label": "DATA BAD",
+        "confidence": null,
+        "reason": "data bad: data_status=unraced and no race form on record",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -1630,10 +1572,10 @@
       }
     }
   ],
-  "last_polled_at": "2026-07-12T07:03:46.012568Z",
+  "last_polled_at": "2026-07-12T07:17:31.237866Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
-    "ok": 9,
-    "no_call": 6
+    "ok": 8,
+    "no_call": 7
   }
 }
