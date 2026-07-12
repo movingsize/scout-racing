@@ -1,0 +1,5532 @@
+{
+  "event_id": "grafton-2026-07-12-r3",
+  "market_id": "1.259895418",
+  "venue": "Grafton",
+  "race_name": "R3 1006m CL1",
+  "start_time_utc": "2026-07-12T03:40:00.000Z",
+  "captured_by": "micro-series v1",
+  "field_size": 12,
+  "model_overlay": {
+    "100486092": {
+      "model_prob": 0.331142,
+      "model_rank": 1,
+      "model_version": "2026-07-08"
+    },
+    "30110611": {
+      "model_prob": 0.107874,
+      "model_rank": 2,
+      "model_version": "2026-07-08"
+    },
+    "53751301": {
+      "model_prob": 0.086306,
+      "model_rank": 4,
+      "model_version": "2026-07-08"
+    },
+    "97693363": {
+      "model_prob": 0.086963,
+      "model_rank": 3,
+      "model_version": "2026-07-08"
+    },
+    "89101007": {
+      "model_prob": 0.072774,
+      "model_rank": 5,
+      "model_version": "2026-07-08"
+    },
+    "82857184": {
+      "model_prob": 0.067955,
+      "model_rank": 6,
+      "model_version": "2026-07-08"
+    },
+    "100486093": {
+      "model_prob": 0.067445,
+      "model_rank": 7,
+      "model_version": "2026-07-08"
+    },
+    "85744444": {
+      "model_prob": 0.054742,
+      "model_rank": 8,
+      "model_version": "2026-07-08"
+    },
+    "100486094": {
+      "model_prob": 0.029846,
+      "model_rank": 12,
+      "model_version": "2026-07-08"
+    },
+    "82376419": {
+      "model_prob": 0.033088,
+      "model_rank": 9,
+      "model_version": "2026-07-08"
+    },
+    "27423681": {
+      "model_prob": 0.030558,
+      "model_rank": 11,
+      "model_version": "2026-07-08"
+    },
+    "61592718": {
+      "model_prob": 0.031308,
+      "model_rank": 10,
+      "model_version": "2026-07-08"
+    }
+  },
+  "bsp": {
+    "100486091": {
+      "bsp": NaN,
+      "status": "REMOVED"
+    },
+    "93466726": {
+      "bsp": NaN,
+      "status": "REMOVED"
+    },
+    "98995136": {
+      "bsp": NaN,
+      "status": "REMOVED"
+    },
+    "96771736": {
+      "bsp": NaN,
+      "status": "REMOVED"
+    },
+    "30110611": {
+      "bsp": 9.6,
+      "status": "LOSER"
+    },
+    "100486092": {
+      "bsp": 2.0,
+      "status": "WINNER"
+    },
+    "85744444": {
+      "bsp": 26.75,
+      "status": "LOSER"
+    },
+    "100486093": {
+      "bsp": 21.11,
+      "status": "LOSER"
+    },
+    "97693363": {
+      "bsp": 14.23,
+      "status": "LOSER"
+    },
+    "89101007": {
+      "bsp": 14.5,
+      "status": "LOSER"
+    },
+    "82376419": {
+      "bsp": 68.99,
+      "status": "LOSER"
+    },
+    "61592718": {
+      "bsp": 180.0,
+      "status": "LOSER"
+    },
+    "53751301": {
+      "bsp": 9.2,
+      "status": "LOSER"
+    },
+    "82857184": {
+      "bsp": 12.42,
+      "status": "LOSER"
+    },
+    "27423681": {
+      "bsp": 120.0,
+      "status": "LOSER"
+    },
+    "100486094": {
+      "bsp": 115.48,
+      "status": "LOSER"
+    }
+  },
+  "result": {
+    "winner": "4. Steffi Electrica",
+    "winner_bsp": 2.0,
+    "placings": [
+      "4. Steffi Electrica"
+    ],
+    "settled_at": "2026-07-12T03:43:01.367924Z"
+  },
+  "frames": [
+    {
+      "at": "2026-07-12T03:30:03.347449Z",
+      "seconds_to_off": 597,
+      "market_matched_volume": 1043.75,
+      "overround_pct": 105.8,
+      "runners": [
+        {
+          "selection_id": 30110611,
+          "name": "2. Constellation",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 11.0,
+          "best_back_size": 2.05,
+          "best_lay": 13.0,
+          "best_lay_size": 12.21,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 11.0,
+              "size": 2.05
+            },
+            {
+              "price": 10.5,
+              "size": 7.15
+            },
+            {
+              "price": 9.2,
+              "size": 5.34
+            },
+            {
+              "price": 8.6,
+              "size": 12.33
+            },
+            {
+              "price": 8.4,
+              "size": 13.67
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 13.0,
+              "size": 12.21
+            },
+            {
+              "price": 13.5,
+              "size": 6.79
+            },
+            {
+              "price": 15.0,
+              "size": 1.93
+            },
+            {
+              "price": 26.0,
+              "size": 21.52
+            },
+            {
+              "price": 32.0,
+              "size": 24.87
+            }
+          ],
+          "runner_matched_volume": 73.69,
+          "last_price_traded": 9.4,
+          "market_prob": 0.085912,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100486092,
+          "name": "4. Steffi Electrica",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 2.0,
+          "best_back_size": 13.22,
+          "best_lay": 2.3,
+          "best_lay_size": 3.87,
+          "spread": 0.3,
+          "back_ladder": [
+            {
+              "price": 2.0,
+              "size": 13.22
+            },
+            {
+              "price": 1.98,
+              "size": 15.65
+            },
+            {
+              "price": 1.95,
+              "size": 11.31
+            },
+            {
+              "price": 1.94,
+              "size": 7.69
+            },
+            {
+              "price": 1.92,
+              "size": 192.63
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.3,
+              "size": 3.87
+            },
+            {
+              "price": 2.32,
+              "size": 59.78
+            },
+            {
+              "price": 2.46,
+              "size": 4.0
+            },
+            {
+              "price": 3.7,
+              "size": 8.04
+            },
+            {
+              "price": 3.75,
+              "size": 41.0
+            }
+          ],
+          "runner_matched_volume": 571.32,
+          "last_price_traded": 2.08,
+          "market_prob": 0.472516,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 85744444,
+          "name": "7. Kemal",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 24.0,
+          "best_back_size": 6.43,
+          "best_lay": 40.0,
+          "best_lay_size": 2.87,
+          "spread": 16.0,
+          "back_ladder": [
+            {
+              "price": 24.0,
+              "size": 6.43
+            },
+            {
+              "price": 23.0,
+              "size": 7.0
+            },
+            {
+              "price": 22.0,
+              "size": 23.57
+            },
+            {
+              "price": 21.0,
+              "size": 7.33
+            },
+            {
+              "price": 20.0,
+              "size": 15.84
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 40.0,
+              "size": 2.87
+            },
+            {
+              "price": 42.0,
+              "size": 1.93
+            },
+            {
+              "price": 44.0,
+              "size": 3.87
+            },
+            {
+              "price": 90.0,
+              "size": 2.0
+            },
+            {
+              "price": 170.0,
+              "size": 2.16
+            }
+          ],
+          "runner_matched_volume": 0.75,
+          "last_price_traded": 26.0,
+          "market_prob": 0.039376,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100486093,
+          "name": "8. Vantante",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 16.5,
+          "best_back_size": 2.73,
+          "best_lay": 26.0,
+          "best_lay_size": 3.93,
+          "spread": 9.5,
+          "back_ladder": [
+            {
+              "price": 16.5,
+              "size": 2.73
+            },
+            {
+              "price": 16.0,
+              "size": 19.51
+            },
+            {
+              "price": 15.0,
+              "size": 4.95
+            },
+            {
+              "price": 14.5,
+              "size": 25.87
+            },
+            {
+              "price": 14.0,
+              "size": 12.42
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 26.0,
+              "size": 3.93
+            },
+            {
+              "price": 27.0,
+              "size": 8.14
+            },
+            {
+              "price": 30.0,
+              "size": 1.93
+            },
+            {
+              "price": 55.0,
+              "size": 2.0
+            },
+            {
+              "price": 70.0,
+              "size": 21.52
+            }
+          ],
+          "runner_matched_volume": 61.36,
+          "last_price_traded": 17.5,
+          "market_prob": 0.057275,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 97693363,
+          "name": "9. Hayleys Rocket",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 13.5,
+          "best_back_size": 5.65,
+          "best_lay": 17.5,
+          "best_lay_size": 3.6,
+          "spread": 4.0,
+          "back_ladder": [
+            {
+              "price": 13.5,
+              "size": 5.65
+            },
+            {
+              "price": 13.0,
+              "size": 28.82
+            },
+            {
+              "price": 12.5,
+              "size": 16.57
+            },
+            {
+              "price": 12.0,
+              "size": 30.09
+            },
+            {
+              "price": 11.5,
+              "size": 24.28
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 17.5,
+              "size": 3.6
+            },
+            {
+              "price": 18.0,
+              "size": 22.39
+            },
+            {
+              "price": 21.0,
+              "size": 7.84
+            },
+            {
+              "price": 26.0,
+              "size": 1.93
+            },
+            {
+              "price": 44.0,
+              "size": 4.0
+            }
+          ],
+          "runner_matched_volume": 107.23,
+          "last_price_traded": 13.5,
+          "market_prob": 0.070002,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 89101007,
+          "name": "10. Midwest Princess",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 17.0,
+          "best_back_size": 2.53,
+          "best_lay": 26.0,
+          "best_lay_size": 2.71,
+          "spread": 9.0,
+          "back_ladder": [
+            {
+              "price": 17.0,
+              "size": 2.53
+            },
+            {
+              "price": 16.5,
+              "size": 1.99
+            },
+            {
+              "price": 16.0,
+              "size": 1.95
+            },
+            {
+              "price": 15.5,
+              "size": 5.85
+            },
+            {
+              "price": 15.0,
+              "size": 3.28
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 26.0,
+              "size": 2.71
+            },
+            {
+              "price": 27.0,
+              "size": 12.85
+            },
+            {
+              "price": 28.0,
+              "size": 1.04
+            },
+            {
+              "price": 29.0,
+              "size": 3.87
+            },
+            {
+              "price": 32.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 1.23,
+          "last_price_traded": 15.5,
+          "market_prob": 0.05559,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 82376419,
+          "name": "11. On Her Word",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 65.0,
+          "best_back_size": 4.86,
+          "best_lay": 100.0,
+          "best_lay_size": 1.93,
+          "spread": 35.0,
+          "back_ladder": [
+            {
+              "price": 65.0,
+              "size": 4.86
+            },
+            {
+              "price": 50.0,
+              "size": 6.57
+            },
+            {
+              "price": 48.0,
+              "size": 4.1
+            },
+            {
+              "price": 46.0,
+              "size": 7.67
+            },
+            {
+              "price": 44.0,
+              "size": 4.2
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 100.0,
+              "size": 1.93
+            },
+            {
+              "price": 110.0,
+              "size": 3.05
+            },
+            {
+              "price": 120.0,
+              "size": 3.87
+            },
+            {
+              "price": 360.0,
+              "size": 1.02
+            },
+            {
+              "price": 450.0,
+              "size": 1.99
+            }
+          ],
+          "runner_matched_volume": 10.41,
+          "last_price_traded": 44.0,
+          "market_prob": 0.014539,
+          "market_rank": 10
+        },
+        {
+          "selection_id": 61592718,
+          "name": "12. Mum Knows",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 90.0,
+          "best_back_size": 4.32,
+          "best_lay": 130.0,
+          "best_lay_size": 2.4,
+          "spread": 40.0,
+          "back_ladder": [
+            {
+              "price": 90.0,
+              "size": 4.32
+            },
+            {
+              "price": 70.0,
+              "size": 2.35
+            },
+            {
+              "price": 60.0,
+              "size": 6.84
+            },
+            {
+              "price": 50.0,
+              "size": 15.03
+            },
+            {
+              "price": 48.0,
+              "size": 4.83
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 130.0,
+              "size": 2.4
+            },
+            {
+              "price": 140.0,
+              "size": 3.87
+            },
+            {
+              "price": 390.0,
+              "size": 1.02
+            },
+            {
+              "price": 520.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 103.04,
+          "last_price_traded": 95.0,
+          "market_prob": 0.0105,
+          "market_rank": 11
+        },
+        {
+          "selection_id": 53751301,
+          "name": "13. Devious Mind",
+          "saddle_cloth": 9,
+          "status": "ACTIVE",
+          "best_back": 9.4,
+          "best_back_size": 2.29,
+          "best_lay": 10.5,
+          "best_lay_size": 1.0,
+          "spread": 1.1,
+          "back_ladder": [
+            {
+              "price": 9.4,
+              "size": 2.29
+            },
+            {
+              "price": 9.2,
+              "size": 20.0
+            },
+            {
+              "price": 9.0,
+              "size": 2.22
+            },
+            {
+              "price": 8.6,
+              "size": 34.3
+            },
+            {
+              "price": 8.4,
+              "size": 6.94
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 10.5,
+              "size": 1.0
+            },
+            {
+              "price": 11.0,
+              "size": 5.8
+            },
+            {
+              "price": 12.0,
+              "size": 6.5
+            },
+            {
+              "price": 14.0,
+              "size": 1.93
+            },
+            {
+              "price": 15.0,
+              "size": 9.67
+            }
+          ],
+          "runner_matched_volume": 62.76,
+          "last_price_traded": 10.0,
+          "market_prob": 0.100535,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 82857184,
+          "name": "14. Monaco Flyer",
+          "saddle_cloth": 10,
+          "status": "ACTIVE",
+          "best_back": 14.0,
+          "best_back_size": 2.15,
+          "best_lay": 24.0,
+          "best_lay_size": 1.93,
+          "spread": 10.0,
+          "back_ladder": [
+            {
+              "price": 14.0,
+              "size": 2.15
+            },
+            {
+              "price": 13.5,
+              "size": 10.93
+            },
+            {
+              "price": 13.0,
+              "size": 12.89
+            },
+            {
+              "price": 12.5,
+              "size": 15.72
+            },
+            {
+              "price": 12.0,
+              "size": 26.97
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 24.0,
+              "size": 1.93
+            },
+            {
+              "price": 25.0,
+              "size": 4.74
+            },
+            {
+              "price": 26.0,
+              "size": 3.05
+            },
+            {
+              "price": 27.0,
+              "size": 10.4
+            },
+            {
+              "price": 28.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 51.28,
+          "last_price_traded": 13.5,
+          "market_prob": 0.067502,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 27423681,
+          "name": "15. Stratton",
+          "saddle_cloth": 11,
+          "status": "ACTIVE",
+          "best_back": 90.0,
+          "best_back_size": 4.56,
+          "best_lay": 260.0,
+          "best_lay_size": 1.93,
+          "spread": 170.0,
+          "back_ladder": [
+            {
+              "price": 90.0,
+              "size": 4.56
+            },
+            {
+              "price": 85.0,
+              "size": 1.95
+            },
+            {
+              "price": 80.0,
+              "size": 6.5
+            },
+            {
+              "price": 75.0,
+              "size": 7.26
+            },
+            {
+              "price": 70.0,
+              "size": 1.71
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 260.0,
+              "size": 1.93
+            },
+            {
+              "price": 270.0,
+              "size": 3.14
+            },
+            {
+              "price": 290.0,
+              "size": 3.87
+            }
+          ],
+          "runner_matched_volume": 0.26,
+          "last_price_traded": 70.0,
+          "market_prob": 0.0105,
+          "market_rank": 12
+        },
+        {
+          "selection_id": 100486094,
+          "name": "16. Miss Indi",
+          "saddle_cloth": 12,
+          "status": "ACTIVE",
+          "best_back": 60.0,
+          "best_back_size": 2.17,
+          "best_lay": 110.0,
+          "best_lay_size": 1.93,
+          "spread": 50.0,
+          "back_ladder": [
+            {
+              "price": 60.0,
+              "size": 2.17
+            },
+            {
+              "price": 55.0,
+              "size": 2.11
+            },
+            {
+              "price": 50.0,
+              "size": 9.01
+            },
+            {
+              "price": 48.0,
+              "size": 7.74
+            },
+            {
+              "price": 46.0,
+              "size": 2.15
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 110.0,
+              "size": 1.93
+            },
+            {
+              "price": 120.0,
+              "size": 5.86
+            },
+            {
+              "price": 130.0,
+              "size": 3.87
+            },
+            {
+              "price": 350.0,
+              "size": 1.04
+            },
+            {
+              "price": 580.0,
+              "size": 1.99
+            }
+          ],
+          "runner_matched_volume": 0.37,
+          "last_price_traded": 50.0,
+          "market_prob": 0.015751,
+          "market_rank": 9
+        },
+        {
+          "selection_id": 100486091,
+          "name": "1. Zouking",
+          "saddle_cloth": 13,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 93466726,
+          "name": "6. Autumngirl",
+          "saddle_cloth": 14,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 98995136,
+          "name": "3. Land Speed",
+          "saddle_cloth": 15,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 96771736,
+          "name": "17. Clan Doro",
+          "saddle_cloth": 16,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T03:31:40.982722Z",
+      "seconds_to_off": 500,
+      "market_matched_volume": 1070.35,
+      "overround_pct": 104.0,
+      "runners": [
+        {
+          "selection_id": 30110611,
+          "name": "2. Constellation",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 11.0,
+          "best_back_size": 2.05,
+          "best_lay": 13.0,
+          "best_lay_size": 12.21,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 11.0,
+              "size": 2.05
+            },
+            {
+              "price": 10.5,
+              "size": 7.15
+            },
+            {
+              "price": 9.6,
+              "size": 2.23
+            },
+            {
+              "price": 9.4,
+              "size": 28.38
+            },
+            {
+              "price": 9.2,
+              "size": 5.34
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 13.0,
+              "size": 12.21
+            },
+            {
+              "price": 13.5,
+              "size": 6.79
+            },
+            {
+              "price": 15.0,
+              "size": 1.93
+            },
+            {
+              "price": 26.0,
+              "size": 21.52
+            },
+            {
+              "price": 32.0,
+              "size": 24.87
+            }
+          ],
+          "runner_matched_volume": 73.69,
+          "last_price_traded": 9.4,
+          "market_prob": 0.08745,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100486092,
+          "name": "4. Steffi Electrica",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 1.98,
+          "best_back_size": 15.65,
+          "best_lay": 2.28,
+          "best_lay_size": 1.93,
+          "spread": 0.3,
+          "back_ladder": [
+            {
+              "price": 1.98,
+              "size": 15.65
+            },
+            {
+              "price": 1.95,
+              "size": 11.43
+            },
+            {
+              "price": 1.93,
+              "size": 104.19
+            },
+            {
+              "price": 1.92,
+              "size": 192.63
+            },
+            {
+              "price": 1.9,
+              "size": 6.75
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.28,
+              "size": 1.93
+            },
+            {
+              "price": 2.3,
+              "size": 1.93
+            },
+            {
+              "price": 2.32,
+              "size": 21.3
+            },
+            {
+              "price": 2.46,
+              "size": 4.0
+            },
+            {
+              "price": 3.75,
+              "size": 41.91
+            }
+          ],
+          "runner_matched_volume": 597.76,
+          "last_price_traded": 2.0,
+          "market_prob": 0.485834,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 85744444,
+          "name": "7. Kemal",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 26.0,
+          "best_back_size": 2.89,
+          "best_lay": 34.0,
+          "best_lay_size": 2.0,
+          "spread": 8.0,
+          "back_ladder": [
+            {
+              "price": 26.0,
+              "size": 2.89
+            },
+            {
+              "price": 25.0,
+              "size": 10.76
+            },
+            {
+              "price": 24.0,
+              "size": 1.16
+            },
+            {
+              "price": 23.0,
+              "size": 2.61
+            },
+            {
+              "price": 22.0,
+              "size": 7.77
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 34.0,
+              "size": 2.0
+            },
+            {
+              "price": 40.0,
+              "size": 1.0
+            },
+            {
+              "price": 90.0,
+              "size": 2.0
+            },
+            {
+              "price": 160.0,
+              "size": 2.29
+            },
+            {
+              "price": 220.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 0.75,
+          "last_price_traded": 26.0,
+          "market_prob": 0.036998,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100486093,
+          "name": "8. Vantante",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 20.0,
+          "best_back_size": 13.55,
+          "best_lay": 26.0,
+          "best_lay_size": 2.0,
+          "spread": 6.0,
+          "back_ladder": [
+            {
+              "price": 20.0,
+              "size": 13.55
+            },
+            {
+              "price": 19.5,
+              "size": 2.47
+            },
+            {
+              "price": 19.0,
+              "size": 1.99
+            },
+            {
+              "price": 18.5,
+              "size": 1.95
+            },
+            {
+              "price": 18.0,
+              "size": 1.95
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 26.0,
+              "size": 2.0
+            },
+            {
+              "price": 29.0,
+              "size": 1.08
+            },
+            {
+              "price": 30.0,
+              "size": 1.93
+            },
+            {
+              "price": 55.0,
+              "size": 2.0
+            },
+            {
+              "price": 65.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 61.36,
+          "last_price_traded": 17.5,
+          "market_prob": 0.048098,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 97693363,
+          "name": "9. Hayleys Rocket",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 14.0,
+          "best_back_size": 4.6,
+          "best_lay": 17.5,
+          "best_lay_size": 16.6,
+          "spread": 3.5,
+          "back_ladder": [
+            {
+              "price": 14.0,
+              "size": 4.6
+            },
+            {
+              "price": 13.5,
+              "size": 10.59
+            },
+            {
+              "price": 13.0,
+              "size": 29.55
+            },
+            {
+              "price": 12.5,
+              "size": 37.21
+            },
+            {
+              "price": 12.0,
+              "size": 8.51
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 17.5,
+              "size": 16.6
+            },
+            {
+              "price": 18.0,
+              "size": 8.91
+            },
+            {
+              "price": 21.0,
+              "size": 7.84
+            },
+            {
+              "price": 26.0,
+              "size": 1.93
+            },
+            {
+              "price": 44.0,
+              "size": 4.0
+            }
+          ],
+          "runner_matched_volume": 107.23,
+          "last_price_traded": 13.5,
+          "market_prob": 0.068711,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 89101007,
+          "name": "10. Midwest Princess",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 16.5,
+          "best_back_size": 2.55,
+          "best_lay": 18.5,
+          "best_lay_size": 4.63,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 16.5,
+              "size": 2.55
+            },
+            {
+              "price": 16.0,
+              "size": 1.95
+            },
+            {
+              "price": 15.5,
+              "size": 4.17
+            },
+            {
+              "price": 15.0,
+              "size": 9.33
+            },
+            {
+              "price": 14.5,
+              "size": 9.09
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 18.5,
+              "size": 4.63
+            },
+            {
+              "price": 27.0,
+              "size": 1.0
+            },
+            {
+              "price": 28.0,
+              "size": 1.04
+            },
+            {
+              "price": 29.0,
+              "size": 3.87
+            },
+            {
+              "price": 32.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 1.23,
+          "last_price_traded": 15.5,
+          "market_prob": 0.0583,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 82376419,
+          "name": "11. On Her Word",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 65.0,
+          "best_back_size": 4.86,
+          "best_lay": 110.0,
+          "best_lay_size": 4.71,
+          "spread": 45.0,
+          "back_ladder": [
+            {
+              "price": 65.0,
+              "size": 4.86
+            },
+            {
+              "price": 50.0,
+              "size": 6.47
+            },
+            {
+              "price": 48.0,
+              "size": 2.05
+            },
+            {
+              "price": 46.0,
+              "size": 5.52
+            },
+            {
+              "price": 44.0,
+              "size": 1.98
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 110.0,
+              "size": 4.71
+            },
+            {
+              "price": 120.0,
+              "size": 3.87
+            },
+            {
+              "price": 360.0,
+              "size": 1.02
+            },
+            {
+              "price": 450.0,
+              "size": 1.99
+            },
+            {
+              "price": 600.0,
+              "size": 19.33
+            }
+          ],
+          "runner_matched_volume": 10.41,
+          "last_price_traded": 44.0,
+          "market_prob": 0.014799,
+          "market_rank": 10
+        },
+        {
+          "selection_id": 61592718,
+          "name": "12. Mum Knows",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 95.0,
+          "best_back_size": 1.19,
+          "best_lay": 130.0,
+          "best_lay_size": 2.0,
+          "spread": 35.0,
+          "back_ladder": [
+            {
+              "price": 95.0,
+              "size": 1.19
+            },
+            {
+              "price": 90.0,
+              "size": 3.87
+            },
+            {
+              "price": 70.0,
+              "size": 2.35
+            },
+            {
+              "price": 60.0,
+              "size": 6.84
+            },
+            {
+              "price": 50.0,
+              "size": 15.03
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 130.0,
+              "size": 2.0
+            },
+            {
+              "price": 140.0,
+              "size": 3.87
+            },
+            {
+              "price": 380.0,
+              "size": 1.38
+            },
+            {
+              "price": 520.0,
+              "size": 1.97
+            }
+          ],
+          "runner_matched_volume": 103.04,
+          "last_price_traded": 95.0,
+          "market_prob": 0.010126,
+          "market_rank": 11
+        },
+        {
+          "selection_id": 53751301,
+          "name": "13. Devious Mind",
+          "saddle_cloth": 9,
+          "status": "ACTIVE",
+          "best_back": 10.0,
+          "best_back_size": 17.52,
+          "best_lay": 10.5,
+          "best_lay_size": 1.0,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 10.0,
+              "size": 17.52
+            },
+            {
+              "price": 9.4,
+              "size": 2.2
+            },
+            {
+              "price": 9.2,
+              "size": 11.92
+            },
+            {
+              "price": 9.0,
+              "size": 7.73
+            },
+            {
+              "price": 8.8,
+              "size": 7.73
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 10.5,
+              "size": 1.0
+            },
+            {
+              "price": 11.0,
+              "size": 5.8
+            },
+            {
+              "price": 12.0,
+              "size": 6.5
+            },
+            {
+              "price": 14.0,
+              "size": 1.93
+            },
+            {
+              "price": 15.0,
+              "size": 9.67
+            }
+          ],
+          "runner_matched_volume": 62.92,
+          "last_price_traded": 10.0,
+          "market_prob": 0.096195,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 82857184,
+          "name": "14. Monaco Flyer",
+          "saddle_cloth": 10,
+          "status": "ACTIVE",
+          "best_back": 14.0,
+          "best_back_size": 10.13,
+          "best_lay": 22.0,
+          "best_lay_size": 2.0,
+          "spread": 8.0,
+          "back_ladder": [
+            {
+              "price": 14.0,
+              "size": 10.13
+            },
+            {
+              "price": 13.5,
+              "size": 2.73
+            },
+            {
+              "price": 13.0,
+              "size": 12.89
+            },
+            {
+              "price": 12.5,
+              "size": 37.52
+            },
+            {
+              "price": 12.0,
+              "size": 17.4
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 22.0,
+              "size": 2.0
+            },
+            {
+              "price": 25.0,
+              "size": 1.93
+            },
+            {
+              "price": 26.0,
+              "size": 3.05
+            },
+            {
+              "price": 28.0,
+              "size": 1.93
+            },
+            {
+              "price": 30.0,
+              "size": 1.0
+            }
+          ],
+          "runner_matched_volume": 51.28,
+          "last_price_traded": 13.5,
+          "market_prob": 0.068711,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 27423681,
+          "name": "15. Stratton",
+          "saddle_cloth": 11,
+          "status": "ACTIVE",
+          "best_back": 110.0,
+          "best_back_size": 1.48,
+          "best_lay": 410.0,
+          "best_lay_size": 1.84,
+          "spread": 300.0,
+          "back_ladder": [
+            {
+              "price": 110.0,
+              "size": 1.48
+            },
+            {
+              "price": 90.0,
+              "size": 4.15
+            },
+            {
+              "price": 85.0,
+              "size": 8.89
+            },
+            {
+              "price": 80.0,
+              "size": 1.5
+            },
+            {
+              "price": 75.0,
+              "size": 3.39
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 410.0,
+              "size": 1.84
+            }
+          ],
+          "runner_matched_volume": 0.26,
+          "last_price_traded": 70.0,
+          "market_prob": 0.008745,
+          "market_rank": 12
+        },
+        {
+          "selection_id": 100486094,
+          "name": "16. Miss Indi",
+          "saddle_cloth": 12,
+          "status": "ACTIVE",
+          "best_back": 60.0,
+          "best_back_size": 2.17,
+          "best_lay": 80.0,
+          "best_lay_size": 6.07,
+          "spread": 20.0,
+          "back_ladder": [
+            {
+              "price": 60.0,
+              "size": 2.17
+            },
+            {
+              "price": 55.0,
+              "size": 2.28
+            },
+            {
+              "price": 50.0,
+              "size": 7.04
+            },
+            {
+              "price": 48.0,
+              "size": 7.74
+            },
+            {
+              "price": 42.0,
+              "size": 1.7
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 80.0,
+              "size": 6.07
+            },
+            {
+              "price": 350.0,
+              "size": 1.54
+            },
+            {
+              "price": 580.0,
+              "size": 1.99
+            },
+            {
+              "price": 600.0,
+              "size": 19.33
+            }
+          ],
+          "runner_matched_volume": 0.37,
+          "last_price_traded": 50.0,
+          "market_prob": 0.016033,
+          "market_rank": 9
+        },
+        {
+          "selection_id": 100486091,
+          "name": "1. Zouking",
+          "saddle_cloth": 13,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 93466726,
+          "name": "6. Autumngirl",
+          "saddle_cloth": 14,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 98995136,
+          "name": "3. Land Speed",
+          "saddle_cloth": 15,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 96771736,
+          "name": "17. Clan Doro",
+          "saddle_cloth": 16,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T03:33:13.659766Z",
+      "seconds_to_off": 407,
+      "market_matched_volume": 1445.6,
+      "overround_pct": 101.9,
+      "runners": [
+        {
+          "selection_id": 30110611,
+          "name": "2. Constellation",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 9.4,
+          "best_back_size": 2.75,
+          "best_lay": 11.0,
+          "best_lay_size": 6.31,
+          "spread": 1.6,
+          "back_ladder": [
+            {
+              "price": 9.4,
+              "size": 2.75
+            },
+            {
+              "price": 9.2,
+              "size": 31.81
+            },
+            {
+              "price": 8.8,
+              "size": 2.82
+            },
+            {
+              "price": 8.6,
+              "size": 7.09
+            },
+            {
+              "price": 8.4,
+              "size": 9.67
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 11.0,
+              "size": 6.31
+            },
+            {
+              "price": 13.0,
+              "size": 3.42
+            },
+            {
+              "price": 13.5,
+              "size": 6.79
+            },
+            {
+              "price": 14.0,
+              "size": 1.93
+            },
+            {
+              "price": 23.0,
+              "size": 21.52
+            }
+          ],
+          "runner_matched_volume": 73.69,
+          "last_price_traded": 9.4,
+          "market_prob": 0.104392,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 100486092,
+          "name": "4. Steffi Electrica",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 2.12,
+          "best_back_size": 146.33,
+          "best_lay": 2.2,
+          "best_lay_size": 52.21,
+          "spread": 0.08,
+          "back_ladder": [
+            {
+              "price": 2.12,
+              "size": 146.33
+            },
+            {
+              "price": 2.1,
+              "size": 7.69
+            },
+            {
+              "price": 2.06,
+              "size": 7.02
+            },
+            {
+              "price": 2.04,
+              "size": 12.64
+            },
+            {
+              "price": 1.98,
+              "size": 15.65
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.2,
+              "size": 52.21
+            },
+            {
+              "price": 2.4,
+              "size": 20.8
+            },
+            {
+              "price": 2.46,
+              "size": 4.0
+            },
+            {
+              "price": 3.75,
+              "size": 41.91
+            },
+            {
+              "price": 3.85,
+              "size": 243.66
+            }
+          ],
+          "runner_matched_volume": 755.02,
+          "last_price_traded": 2.12,
+          "market_prob": 0.46287,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 85744444,
+          "name": "7. Kemal",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 27.0,
+          "best_back_size": 1.86,
+          "best_lay": 34.0,
+          "best_lay_size": 2.0,
+          "spread": 7.0,
+          "back_ladder": [
+            {
+              "price": 27.0,
+              "size": 1.86
+            },
+            {
+              "price": 26.0,
+              "size": 2.3
+            },
+            {
+              "price": 25.0,
+              "size": 11.15
+            },
+            {
+              "price": 24.0,
+              "size": 5.36
+            },
+            {
+              "price": 23.0,
+              "size": 7.0
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 34.0,
+              "size": 2.0
+            },
+            {
+              "price": 40.0,
+              "size": 1.0
+            },
+            {
+              "price": 90.0,
+              "size": 2.0
+            },
+            {
+              "price": 170.0,
+              "size": 2.16
+            },
+            {
+              "price": 220.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 0.75,
+          "last_price_traded": 26.0,
+          "market_prob": 0.036344,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100486093,
+          "name": "8. Vantante",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 23.0,
+          "best_back_size": 12.36,
+          "best_lay": 29.0,
+          "best_lay_size": 10.75,
+          "spread": 6.0,
+          "back_ladder": [
+            {
+              "price": 23.0,
+              "size": 12.36
+            },
+            {
+              "price": 22.0,
+              "size": 2.4
+            },
+            {
+              "price": 21.0,
+              "size": 1.99
+            },
+            {
+              "price": 20.0,
+              "size": 3.77
+            },
+            {
+              "price": 19.5,
+              "size": 5.44
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 29.0,
+              "size": 10.75
+            },
+            {
+              "price": 55.0,
+              "size": 2.97
+            },
+            {
+              "price": 70.0,
+              "size": 21.52
+            },
+            {
+              "price": 140.0,
+              "size": 25.82
+            },
+            {
+              "price": 180.0,
+              "size": 3.87
+            }
+          ],
+          "runner_matched_volume": 61.36,
+          "last_price_traded": 17.5,
+          "market_prob": 0.042664,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 97693363,
+          "name": "9. Hayleys Rocket",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 14.0,
+          "best_back_size": 4.21,
+          "best_lay": 16.5,
+          "best_lay_size": 13.7,
+          "spread": 2.5,
+          "back_ladder": [
+            {
+              "price": 14.0,
+              "size": 4.21
+            },
+            {
+              "price": 13.5,
+              "size": 10.59
+            },
+            {
+              "price": 13.0,
+              "size": 23.5
+            },
+            {
+              "price": 12.5,
+              "size": 17.34
+            },
+            {
+              "price": 12.0,
+              "size": 30.09
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 16.5,
+              "size": 13.7
+            },
+            {
+              "price": 17.0,
+              "size": 2.0
+            },
+            {
+              "price": 18.0,
+              "size": 8.91
+            },
+            {
+              "price": 20.0,
+              "size": 5.0
+            },
+            {
+              "price": 26.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 107.23,
+          "last_price_traded": 13.5,
+          "market_prob": 0.070092,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 89101007,
+          "name": "10. Midwest Princess",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 15.5,
+          "best_back_size": 7.31,
+          "best_lay": 18.0,
+          "best_lay_size": 4.16,
+          "spread": 2.5,
+          "back_ladder": [
+            {
+              "price": 15.5,
+              "size": 7.31
+            },
+            {
+              "price": 15.0,
+              "size": 9.16
+            },
+            {
+              "price": 14.5,
+              "size": 14.09
+            },
+            {
+              "price": 14.0,
+              "size": 18.03
+            },
+            {
+              "price": 13.5,
+              "size": 27.78
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 18.0,
+              "size": 4.16
+            },
+            {
+              "price": 20.0,
+              "size": 5.0
+            },
+            {
+              "price": 27.0,
+              "size": 1.0
+            },
+            {
+              "price": 28.0,
+              "size": 1.04
+            },
+            {
+              "price": 29.0,
+              "size": 5.01
+            }
+          ],
+          "runner_matched_volume": 201.22,
+          "last_price_traded": 15.0,
+          "market_prob": 0.063309,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 82376419,
+          "name": "11. On Her Word",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 65.0,
+          "best_back_size": 4.86,
+          "best_lay": 110.0,
+          "best_lay_size": 4.71,
+          "spread": 45.0,
+          "back_ladder": [
+            {
+              "price": 65.0,
+              "size": 4.86
+            },
+            {
+              "price": 50.0,
+              "size": 6.57
+            },
+            {
+              "price": 48.0,
+              "size": 4.1
+            },
+            {
+              "price": 46.0,
+              "size": 7.67
+            },
+            {
+              "price": 44.0,
+              "size": 4.2
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 110.0,
+              "size": 4.71
+            },
+            {
+              "price": 120.0,
+              "size": 3.87
+            },
+            {
+              "price": 360.0,
+              "size": 1.02
+            },
+            {
+              "price": 600.0,
+              "size": 19.39
+            }
+          ],
+          "runner_matched_volume": 10.41,
+          "last_price_traded": 44.0,
+          "market_prob": 0.015097,
+          "market_rank": 10
+        },
+        {
+          "selection_id": 61592718,
+          "name": "12. Mum Knows",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 95.0,
+          "best_back_size": 1.19,
+          "best_lay": 130.0,
+          "best_lay_size": 2.0,
+          "spread": 35.0,
+          "back_ladder": [
+            {
+              "price": 95.0,
+              "size": 1.19
+            },
+            {
+              "price": 90.0,
+              "size": 3.87
+            },
+            {
+              "price": 80.0,
+              "size": 1.15
+            },
+            {
+              "price": 70.0,
+              "size": 1.87
+            },
+            {
+              "price": 65.0,
+              "size": 3.92
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 130.0,
+              "size": 2.0
+            },
+            {
+              "price": 140.0,
+              "size": 3.87
+            },
+            {
+              "price": 390.0,
+              "size": 1.4
+            }
+          ],
+          "runner_matched_volume": 103.04,
+          "last_price_traded": 95.0,
+          "market_prob": 0.010329,
+          "market_rank": 11
+        },
+        {
+          "selection_id": 53751301,
+          "name": "13. Devious Mind",
+          "saddle_cloth": 9,
+          "status": "ACTIVE",
+          "best_back": 10.0,
+          "best_back_size": 17.52,
+          "best_lay": 11.0,
+          "best_lay_size": 5.8,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 10.0,
+              "size": 17.52
+            },
+            {
+              "price": 9.8,
+              "size": 9.3
+            },
+            {
+              "price": 9.4,
+              "size": 2.2
+            },
+            {
+              "price": 9.2,
+              "size": 22.04
+            },
+            {
+              "price": 9.0,
+              "size": 7.73
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 11.0,
+              "size": 5.8
+            },
+            {
+              "price": 12.0,
+              "size": 2.63
+            },
+            {
+              "price": 13.0,
+              "size": 3.87
+            },
+            {
+              "price": 14.0,
+              "size": 1.93
+            },
+            {
+              "price": 15.0,
+              "size": 9.67
+            }
+          ],
+          "runner_matched_volume": 64.92,
+          "last_price_traded": 10.5,
+          "market_prob": 0.098128,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 82857184,
+          "name": "14. Monaco Flyer",
+          "saddle_cloth": 10,
+          "status": "ACTIVE",
+          "best_back": 14.0,
+          "best_back_size": 12.06,
+          "best_lay": 25.0,
+          "best_lay_size": 1.98,
+          "spread": 11.0,
+          "back_ladder": [
+            {
+              "price": 14.0,
+              "size": 12.06
+            },
+            {
+              "price": 13.5,
+              "size": 2.73
+            },
+            {
+              "price": 13.0,
+              "size": 12.89
+            },
+            {
+              "price": 12.5,
+              "size": 37.52
+            },
+            {
+              "price": 12.0,
+              "size": 17.4
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 25.0,
+              "size": 1.98
+            },
+            {
+              "price": 26.0,
+              "size": 1.16
+            },
+            {
+              "price": 27.0,
+              "size": 1.93
+            },
+            {
+              "price": 30.0,
+              "size": 1.0
+            },
+            {
+              "price": 34.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 51.28,
+          "last_price_traded": 13.5,
+          "market_prob": 0.070092,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 27423681,
+          "name": "15. Stratton",
+          "saddle_cloth": 11,
+          "status": "ACTIVE",
+          "best_back": 95.0,
+          "best_back_size": 2.98,
+          "best_lay": 400.0,
+          "best_lay_size": 2.95,
+          "spread": 305.0,
+          "back_ladder": [
+            {
+              "price": 95.0,
+              "size": 2.98
+            },
+            {
+              "price": 90.0,
+              "size": 3.24
+            },
+            {
+              "price": 85.0,
+              "size": 1.95
+            },
+            {
+              "price": 80.0,
+              "size": 4.79
+            },
+            {
+              "price": 70.0,
+              "size": 1.71
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 400.0,
+              "size": 2.95
+            },
+            {
+              "price": 740.0,
+              "size": 1.86
+            }
+          ],
+          "runner_matched_volume": 16.25,
+          "last_price_traded": 100.0,
+          "market_prob": 0.010329,
+          "market_rank": 12
+        },
+        {
+          "selection_id": 100486094,
+          "name": "16. Miss Indi",
+          "saddle_cloth": 12,
+          "status": "ACTIVE",
+          "best_back": 60.0,
+          "best_back_size": 2.17,
+          "best_lay": 80.0,
+          "best_lay_size": 6.07,
+          "spread": 20.0,
+          "back_ladder": [
+            {
+              "price": 60.0,
+              "size": 2.17
+            },
+            {
+              "price": 55.0,
+              "size": 2.28
+            },
+            {
+              "price": 50.0,
+              "size": 7.04
+            },
+            {
+              "price": 48.0,
+              "size": 7.74
+            },
+            {
+              "price": 46.0,
+              "size": 2.15
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 80.0,
+              "size": 6.07
+            },
+            {
+              "price": 350.0,
+              "size": 1.54
+            },
+            {
+              "price": 580.0,
+              "size": 1.99
+            },
+            {
+              "price": 600.0,
+              "size": 19.33
+            }
+          ],
+          "runner_matched_volume": 0.37,
+          "last_price_traded": 50.0,
+          "market_prob": 0.016355,
+          "market_rank": 9
+        },
+        {
+          "selection_id": 100486091,
+          "name": "1. Zouking",
+          "saddle_cloth": 13,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 93466726,
+          "name": "6. Autumngirl",
+          "saddle_cloth": 14,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 98995136,
+          "name": "3. Land Speed",
+          "saddle_cloth": 15,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 96771736,
+          "name": "17. Clan Doro",
+          "saddle_cloth": 16,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T03:34:48.663630Z",
+      "seconds_to_off": 312,
+      "market_matched_volume": 2161.86,
+      "overround_pct": 103.3,
+      "runners": [
+        {
+          "selection_id": 30110611,
+          "name": "2. Constellation",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 9.6,
+          "best_back_size": 2.49,
+          "best_lay": 11.0,
+          "best_lay_size": 4.31,
+          "spread": 1.4,
+          "back_ladder": [
+            {
+              "price": 9.6,
+              "size": 2.49
+            },
+            {
+              "price": 9.4,
+              "size": 2.0
+            },
+            {
+              "price": 9.2,
+              "size": 3.09
+            },
+            {
+              "price": 9.0,
+              "size": 29.8
+            },
+            {
+              "price": 8.8,
+              "size": 2.94
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 11.0,
+              "size": 4.31
+            },
+            {
+              "price": 13.0,
+              "size": 3.49
+            },
+            {
+              "price": 14.0,
+              "size": 1.93
+            },
+            {
+              "price": 20.0,
+              "size": 21.52
+            },
+            {
+              "price": 32.0,
+              "size": 24.87
+            }
+          ],
+          "runner_matched_volume": 73.69,
+          "last_price_traded": 9.4,
+          "market_prob": 0.100844,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 100486092,
+          "name": "4. Steffi Electrica",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 2.12,
+          "best_back_size": 69.97,
+          "best_lay": 2.2,
+          "best_lay_size": 52.41,
+          "spread": 0.08,
+          "back_ladder": [
+            {
+              "price": 2.12,
+              "size": 69.97
+            },
+            {
+              "price": 2.1,
+              "size": 7.69
+            },
+            {
+              "price": 2.06,
+              "size": 7.93
+            },
+            {
+              "price": 2.04,
+              "size": 12.64
+            },
+            {
+              "price": 2.02,
+              "size": 23.72
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.2,
+              "size": 52.41
+            },
+            {
+              "price": 2.4,
+              "size": 21.35
+            },
+            {
+              "price": 2.46,
+              "size": 4.0
+            },
+            {
+              "price": 3.75,
+              "size": 41.91
+            },
+            {
+              "price": 3.85,
+              "size": 50.63
+            }
+          ],
+          "runner_matched_volume": 938.56,
+          "last_price_traded": 2.12,
+          "market_prob": 0.456651,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 85744444,
+          "name": "7. Kemal",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 27.0,
+          "best_back_size": 2.66,
+          "best_lay": 34.0,
+          "best_lay_size": 2.0,
+          "spread": 7.0,
+          "back_ladder": [
+            {
+              "price": 27.0,
+              "size": 2.66
+            },
+            {
+              "price": 26.0,
+              "size": 2.67
+            },
+            {
+              "price": 25.0,
+              "size": 10.8
+            },
+            {
+              "price": 24.0,
+              "size": 8.71
+            },
+            {
+              "price": 23.0,
+              "size": 7.0
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 34.0,
+              "size": 2.0
+            },
+            {
+              "price": 40.0,
+              "size": 1.0
+            },
+            {
+              "price": 90.0,
+              "size": 2.79
+            },
+            {
+              "price": 170.0,
+              "size": 2.16
+            },
+            {
+              "price": 220.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 0.75,
+          "last_price_traded": 26.0,
+          "market_prob": 0.035856,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100486093,
+          "name": "8. Vantante",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 20.0,
+          "best_back_size": 2.97,
+          "best_lay": 28.0,
+          "best_lay_size": 2.71,
+          "spread": 8.0,
+          "back_ladder": [
+            {
+              "price": 20.0,
+              "size": 2.97
+            },
+            {
+              "price": 19.5,
+              "size": 2.03
+            },
+            {
+              "price": 18.5,
+              "size": 2.05
+            },
+            {
+              "price": 18.0,
+              "size": 14.74
+            },
+            {
+              "price": 17.5,
+              "size": 5.78
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 28.0,
+              "size": 2.71
+            },
+            {
+              "price": 29.0,
+              "size": 9.45
+            },
+            {
+              "price": 34.0,
+              "size": 1.93
+            },
+            {
+              "price": 55.0,
+              "size": 2.02
+            },
+            {
+              "price": 70.0,
+              "size": 21.52
+            }
+          ],
+          "runner_matched_volume": 267.91,
+          "last_price_traded": 21.0,
+          "market_prob": 0.048405,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 97693363,
+          "name": "9. Hayleys Rocket",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 14.5,
+          "best_back_size": 7.68,
+          "best_lay": 16.5,
+          "best_lay_size": 13.7,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 14.5,
+              "size": 7.68
+            },
+            {
+              "price": 14.0,
+              "size": 4.21
+            },
+            {
+              "price": 13.5,
+              "size": 11.02
+            },
+            {
+              "price": 13.0,
+              "size": 43.71
+            },
+            {
+              "price": 12.5,
+              "size": 16.57
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 16.5,
+              "size": 13.7
+            },
+            {
+              "price": 18.5,
+              "size": 5.55
+            },
+            {
+              "price": 20.0,
+              "size": 5.06
+            },
+            {
+              "price": 26.0,
+              "size": 1.93
+            },
+            {
+              "price": 44.0,
+              "size": 25.52
+            }
+          ],
+          "runner_matched_volume": 141.22,
+          "last_price_traded": 15.0,
+          "market_prob": 0.066766,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 89101007,
+          "name": "10. Midwest Princess",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 13.5,
+          "best_back_size": 2.08,
+          "best_lay": 16.5,
+          "best_lay_size": 1.93,
+          "spread": 3.0,
+          "back_ladder": [
+            {
+              "price": 13.5,
+              "size": 2.08
+            },
+            {
+              "price": 13.0,
+              "size": 17.76
+            },
+            {
+              "price": 12.5,
+              "size": 7.73
+            },
+            {
+              "price": 12.0,
+              "size": 37.39
+            },
+            {
+              "price": 11.5,
+              "size": 14.39
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 16.5,
+              "size": 1.93
+            },
+            {
+              "price": 17.0,
+              "size": 3.13
+            },
+            {
+              "price": 18.5,
+              "size": 1.6
+            },
+            {
+              "price": 20.0,
+              "size": 5.0
+            },
+            {
+              "price": 27.0,
+              "size": 1.04
+            }
+          ],
+          "runner_matched_volume": 403.82,
+          "last_price_traded": 13.5,
+          "market_prob": 0.071711,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 82376419,
+          "name": "11. On Her Word",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 65.0,
+          "best_back_size": 4.86,
+          "best_lay": 95.0,
+          "best_lay_size": 1.93,
+          "spread": 30.0,
+          "back_ladder": [
+            {
+              "price": 65.0,
+              "size": 4.86
+            },
+            {
+              "price": 50.0,
+              "size": 6.57
+            },
+            {
+              "price": 48.0,
+              "size": 2.05
+            },
+            {
+              "price": 46.0,
+              "size": 5.52
+            },
+            {
+              "price": 44.0,
+              "size": 1.98
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 95.0,
+              "size": 1.93
+            },
+            {
+              "price": 100.0,
+              "size": 4.65
+            },
+            {
+              "price": 110.0,
+              "size": 2.0
+            },
+            {
+              "price": 360.0,
+              "size": 1.02
+            },
+            {
+              "price": 600.0,
+              "size": 19.39
+            }
+          ],
+          "runner_matched_volume": 10.41,
+          "last_price_traded": 44.0,
+          "market_prob": 0.014894,
+          "market_rank": 10
+        },
+        {
+          "selection_id": 61592718,
+          "name": "12. Mum Knows",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 85.0,
+          "best_back_size": 4.71,
+          "best_lay": 130.0,
+          "best_lay_size": 1.93,
+          "spread": 45.0,
+          "back_ladder": [
+            {
+              "price": 85.0,
+              "size": 4.71
+            },
+            {
+              "price": 70.0,
+              "size": 2.37
+            },
+            {
+              "price": 65.0,
+              "size": 3.92
+            },
+            {
+              "price": 60.0,
+              "size": 2.62
+            },
+            {
+              "price": 50.0,
+              "size": 15.03
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 130.0,
+              "size": 1.93
+            },
+            {
+              "price": 140.0,
+              "size": 3.87
+            },
+            {
+              "price": 190.0,
+              "size": 3.54
+            },
+            {
+              "price": 390.0,
+              "size": 1.4
+            }
+          ],
+          "runner_matched_volume": 111.03,
+          "last_price_traded": 90.0,
+          "market_prob": 0.011389,
+          "market_rank": 11
+        },
+        {
+          "selection_id": 53751301,
+          "name": "13. Devious Mind",
+          "saddle_cloth": 9,
+          "status": "ACTIVE",
+          "best_back": 10.0,
+          "best_back_size": 17.52,
+          "best_lay": 11.0,
+          "best_lay_size": 5.8,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 10.0,
+              "size": 17.52
+            },
+            {
+              "price": 9.8,
+              "size": 28.74
+            },
+            {
+              "price": 9.4,
+              "size": 2.32
+            },
+            {
+              "price": 9.2,
+              "size": 25.21
+            },
+            {
+              "price": 9.0,
+              "size": 8.82
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 11.0,
+              "size": 5.8
+            },
+            {
+              "price": 12.0,
+              "size": 2.73
+            },
+            {
+              "price": 13.5,
+              "size": 4.29
+            },
+            {
+              "price": 14.5,
+              "size": 1.93
+            },
+            {
+              "price": 15.0,
+              "size": 9.67
+            }
+          ],
+          "runner_matched_volume": 72.38,
+          "last_price_traded": 10.5,
+          "market_prob": 0.09681,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 82857184,
+          "name": "14. Monaco Flyer",
+          "saddle_cloth": 10,
+          "status": "ACTIVE",
+          "best_back": 14.0,
+          "best_back_size": 2.69,
+          "best_lay": 22.0,
+          "best_lay_size": 1.93,
+          "spread": 8.0,
+          "back_ladder": [
+            {
+              "price": 14.0,
+              "size": 2.69
+            },
+            {
+              "price": 13.5,
+              "size": 4.78
+            },
+            {
+              "price": 13.0,
+              "size": 10.37
+            },
+            {
+              "price": 12.5,
+              "size": 37.52
+            },
+            {
+              "price": 12.0,
+              "size": 21.27
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 22.0,
+              "size": 1.93
+            },
+            {
+              "price": 23.0,
+              "size": 5.1
+            },
+            {
+              "price": 24.0,
+              "size": 3.42
+            },
+            {
+              "price": 25.0,
+              "size": 3.95
+            },
+            {
+              "price": 30.0,
+              "size": 1.0
+            }
+          ],
+          "runner_matched_volume": 105.41,
+          "last_price_traded": 15.0,
+          "market_prob": 0.06915,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 27423681,
+          "name": "15. Stratton",
+          "saddle_cloth": 11,
+          "status": "ACTIVE",
+          "best_back": 85.0,
+          "best_back_size": 7.02,
+          "best_lay": 180.0,
+          "best_lay_size": 3.43,
+          "spread": 95.0,
+          "back_ladder": [
+            {
+              "price": 85.0,
+              "size": 7.02
+            },
+            {
+              "price": 80.0,
+              "size": 4.67
+            },
+            {
+              "price": 70.0,
+              "size": 1.85
+            },
+            {
+              "price": 60.0,
+              "size": 2.17
+            },
+            {
+              "price": 55.0,
+              "size": 3.36
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 180.0,
+              "size": 3.43
+            },
+            {
+              "price": 190.0,
+              "size": 1.93
+            },
+            {
+              "price": 200.0,
+              "size": 3.87
+            },
+            {
+              "price": 390.0,
+              "size": 1.04
+            }
+          ],
+          "runner_matched_volume": 36.25,
+          "last_price_traded": 90.0,
+          "market_prob": 0.011389,
+          "market_rank": 12
+        },
+        {
+          "selection_id": 100486094,
+          "name": "16. Miss Indi",
+          "saddle_cloth": 12,
+          "status": "ACTIVE",
+          "best_back": 60.0,
+          "best_back_size": 3.65,
+          "best_lay": 80.0,
+          "best_lay_size": 2.2,
+          "spread": 20.0,
+          "back_ladder": [
+            {
+              "price": 60.0,
+              "size": 3.65
+            },
+            {
+              "price": 55.0,
+              "size": 2.11
+            },
+            {
+              "price": 50.0,
+              "size": 7.04
+            },
+            {
+              "price": 48.0,
+              "size": 7.74
+            },
+            {
+              "price": 42.0,
+              "size": 1.7
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 80.0,
+              "size": 2.2
+            },
+            {
+              "price": 85.0,
+              "size": 3.87
+            },
+            {
+              "price": 110.0,
+              "size": 1.74
+            },
+            {
+              "price": 350.0,
+              "size": 1.54
+            },
+            {
+              "price": 580.0,
+              "size": 1.99
+            }
+          ],
+          "runner_matched_volume": 0.37,
+          "last_price_traded": 50.0,
+          "market_prob": 0.016135,
+          "market_rank": 9
+        },
+        {
+          "selection_id": 100486091,
+          "name": "1. Zouking",
+          "saddle_cloth": 13,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 93466726,
+          "name": "6. Autumngirl",
+          "saddle_cloth": 14,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 98995136,
+          "name": "3. Land Speed",
+          "saddle_cloth": 15,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 96771736,
+          "name": "17. Clan Doro",
+          "saddle_cloth": 16,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T03:36:23.847113Z",
+      "seconds_to_off": 217,
+      "market_matched_volume": 3123.95,
+      "overround_pct": 102.4,
+      "runners": [
+        {
+          "selection_id": 30110611,
+          "name": "2. Constellation",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 9.0,
+          "best_back_size": 2.11,
+          "best_lay": 10.5,
+          "best_lay_size": 7.9,
+          "spread": 1.5,
+          "back_ladder": [
+            {
+              "price": 9.0,
+              "size": 2.11
+            },
+            {
+              "price": 8.8,
+              "size": 2.94
+            },
+            {
+              "price": 8.6,
+              "size": 11.27
+            },
+            {
+              "price": 8.4,
+              "size": 13.5
+            },
+            {
+              "price": 8.2,
+              "size": 46.61
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 10.5,
+              "size": 7.9
+            },
+            {
+              "price": 12.0,
+              "size": 10.67
+            },
+            {
+              "price": 13.0,
+              "size": 19.89
+            },
+            {
+              "price": 16.5,
+              "size": 1.39
+            },
+            {
+              "price": 17.5,
+              "size": 1.41
+            }
+          ],
+          "runner_matched_volume": 73.69,
+          "last_price_traded": 9.4,
+          "market_prob": 0.108485,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 100486092,
+          "name": "4. Steffi Electrica",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 2.18,
+          "best_back_size": 9.82,
+          "best_lay": 2.26,
+          "best_lay_size": 20.56,
+          "spread": 0.08,
+          "back_ladder": [
+            {
+              "price": 2.18,
+              "size": 9.82
+            },
+            {
+              "price": 2.16,
+              "size": 16.55
+            },
+            {
+              "price": 2.14,
+              "size": 14.93
+            },
+            {
+              "price": 2.12,
+              "size": 60.34
+            },
+            {
+              "price": 2.1,
+              "size": 13.51
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.26,
+              "size": 20.56
+            },
+            {
+              "price": 2.32,
+              "size": 47.1
+            },
+            {
+              "price": 2.46,
+              "size": 4.0
+            },
+            {
+              "price": 2.58,
+              "size": 1.28
+            },
+            {
+              "price": 2.6,
+              "size": 2.31
+            }
+          ],
+          "runner_matched_volume": 1073.29,
+          "last_price_traded": 2.22,
+          "market_prob": 0.447875,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 85744444,
+          "name": "7. Kemal",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 26.0,
+          "best_back_size": 8.23,
+          "best_lay": 34.0,
+          "best_lay_size": 3.0,
+          "spread": 8.0,
+          "back_ladder": [
+            {
+              "price": 26.0,
+              "size": 8.23
+            },
+            {
+              "price": 25.0,
+              "size": 3.29
+            },
+            {
+              "price": 24.0,
+              "size": 15.3
+            },
+            {
+              "price": 23.0,
+              "size": 7.08
+            },
+            {
+              "price": 22.0,
+              "size": 21.19
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 34.0,
+              "size": 3.0
+            },
+            {
+              "price": 36.0,
+              "size": 1.0
+            },
+            {
+              "price": 60.0,
+              "size": 1.58
+            },
+            {
+              "price": 70.0,
+              "size": 1.62
+            },
+            {
+              "price": 80.0,
+              "size": 1.62
+            }
+          ],
+          "runner_matched_volume": 14.58,
+          "last_price_traded": 26.0,
+          "market_prob": 0.037553,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100486093,
+          "name": "8. Vantante",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 21.0,
+          "best_back_size": 6.95,
+          "best_lay": 25.0,
+          "best_lay_size": 7.73,
+          "spread": 4.0,
+          "back_ladder": [
+            {
+              "price": 21.0,
+              "size": 6.95
+            },
+            {
+              "price": 20.0,
+              "size": 5.16
+            },
+            {
+              "price": 19.5,
+              "size": 3.23
+            },
+            {
+              "price": 19.0,
+              "size": 3.23
+            },
+            {
+              "price": 18.0,
+              "size": 4.96
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 25.0,
+              "size": 7.73
+            },
+            {
+              "price": 29.0,
+              "size": 1.72
+            },
+            {
+              "price": 32.0,
+              "size": 21.27
+            },
+            {
+              "price": 34.0,
+              "size": 1.93
+            },
+            {
+              "price": 48.0,
+              "size": 1.64
+            }
+          ],
+          "runner_matched_volume": 272.9,
+          "last_price_traded": 20.0,
+          "market_prob": 0.046494,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 97693363,
+          "name": "9. Hayleys Rocket",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 13.5,
+          "best_back_size": 6.26,
+          "best_lay": 15.0,
+          "best_lay_size": 96.28,
+          "spread": 1.5,
+          "back_ladder": [
+            {
+              "price": 13.5,
+              "size": 6.26
+            },
+            {
+              "price": 13.0,
+              "size": 10.59
+            },
+            {
+              "price": 12.5,
+              "size": 41.47
+            },
+            {
+              "price": 12.0,
+              "size": 30.09
+            },
+            {
+              "price": 11.5,
+              "size": 2.09
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 15.0,
+              "size": 96.28
+            },
+            {
+              "price": 17.5,
+              "size": 22.81
+            },
+            {
+              "price": 20.0,
+              "size": 5.12
+            },
+            {
+              "price": 24.0,
+              "size": 1.51
+            },
+            {
+              "price": 26.0,
+              "size": 3.48
+            }
+          ],
+          "runner_matched_volume": 404.66,
+          "last_price_traded": 13.5,
+          "market_prob": 0.072324,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 89101007,
+          "name": "10. Midwest Princess",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 14.0,
+          "best_back_size": 3.05,
+          "best_lay": 16.0,
+          "best_lay_size": 7.29,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 14.0,
+              "size": 3.05
+            },
+            {
+              "price": 13.5,
+              "size": 19.33
+            },
+            {
+              "price": 13.0,
+              "size": 15.07
+            },
+            {
+              "price": 12.5,
+              "size": 7.73
+            },
+            {
+              "price": 12.0,
+              "size": 37.39
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 16.0,
+              "size": 7.29
+            },
+            {
+              "price": 20.0,
+              "size": 5.77
+            },
+            {
+              "price": 24.0,
+              "size": 1.51
+            },
+            {
+              "price": 26.0,
+              "size": 1.55
+            },
+            {
+              "price": 27.0,
+              "size": 1.82
+            }
+          ],
+          "runner_matched_volume": 403.82,
+          "last_price_traded": 13.5,
+          "market_prob": 0.069741,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 82376419,
+          "name": "11. On Her Word",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 70.0,
+          "best_back_size": 1.9,
+          "best_lay": 90.0,
+          "best_lay_size": 4.31,
+          "spread": 20.0,
+          "back_ladder": [
+            {
+              "price": 70.0,
+              "size": 1.9
+            },
+            {
+              "price": 65.0,
+              "size": 5.87
+            },
+            {
+              "price": 60.0,
+              "size": 1.82
+            },
+            {
+              "price": 50.0,
+              "size": 6.28
+            },
+            {
+              "price": 48.0,
+              "size": 2.05
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 90.0,
+              "size": 4.31
+            },
+            {
+              "price": 100.0,
+              "size": 3.87
+            },
+            {
+              "price": 360.0,
+              "size": 1.02
+            },
+            {
+              "price": 600.0,
+              "size": 19.62
+            }
+          ],
+          "runner_matched_volume": 10.41,
+          "last_price_traded": 44.0,
+          "market_prob": 0.013948,
+          "market_rank": 10
+        },
+        {
+          "selection_id": 61592718,
+          "name": "12. Mum Knows",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 90.0,
+          "best_back_size": 5.36,
+          "best_lay": 140.0,
+          "best_lay_size": 3.87,
+          "spread": 50.0,
+          "back_ladder": [
+            {
+              "price": 90.0,
+              "size": 5.36
+            },
+            {
+              "price": 85.0,
+              "size": 3.87
+            },
+            {
+              "price": 80.0,
+              "size": 10.03
+            },
+            {
+              "price": 70.0,
+              "size": 17.47
+            },
+            {
+              "price": 65.0,
+              "size": 5.36
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 140.0,
+              "size": 3.87
+            },
+            {
+              "price": 380.0,
+              "size": 1.38
+            },
+            {
+              "price": 690.0,
+              "size": 1.99
+            }
+          ],
+          "runner_matched_volume": 126.5,
+          "last_price_traded": 90.0,
+          "market_prob": 0.010849,
+          "market_rank": 12
+        },
+        {
+          "selection_id": 53751301,
+          "name": "13. Devious Mind",
+          "saddle_cloth": 9,
+          "status": "ACTIVE",
+          "best_back": 10.0,
+          "best_back_size": 10.76,
+          "best_lay": 11.0,
+          "best_lay_size": 10.88,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 10.0,
+              "size": 10.76
+            },
+            {
+              "price": 9.8,
+              "size": 31.18
+            },
+            {
+              "price": 9.6,
+              "size": 25.13
+            },
+            {
+              "price": 9.4,
+              "size": 24.76
+            },
+            {
+              "price": 9.2,
+              "size": 48.43
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 11.0,
+              "size": 10.88
+            },
+            {
+              "price": 12.0,
+              "size": 19.43
+            },
+            {
+              "price": 13.5,
+              "size": 2.63
+            },
+            {
+              "price": 14.0,
+              "size": 29.0
+            },
+            {
+              "price": 14.5,
+              "size": 5.7
+            }
+          ],
+          "runner_matched_volume": 542.12,
+          "last_price_traded": 10.0,
+          "market_prob": 0.097637,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 82857184,
+          "name": "14. Monaco Flyer",
+          "saddle_cloth": 10,
+          "status": "ACTIVE",
+          "best_back": 14.5,
+          "best_back_size": 8.27,
+          "best_lay": 17.5,
+          "best_lay_size": 2.48,
+          "spread": 3.0,
+          "back_ladder": [
+            {
+              "price": 14.5,
+              "size": 8.27
+            },
+            {
+              "price": 13.5,
+              "size": 4.51
+            },
+            {
+              "price": 13.0,
+              "size": 10.11
+            },
+            {
+              "price": 12.5,
+              "size": 7.73
+            },
+            {
+              "price": 12.0,
+              "size": 65.64
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 17.5,
+              "size": 2.48
+            },
+            {
+              "price": 20.0,
+              "size": 2.22
+            },
+            {
+              "price": 24.0,
+              "size": 1.51
+            },
+            {
+              "price": 25.0,
+              "size": 2.79
+            },
+            {
+              "price": 27.0,
+              "size": 1.56
+            }
+          ],
+          "runner_matched_volume": 125.4,
+          "last_price_traded": 13.5,
+          "market_prob": 0.067336,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 27423681,
+          "name": "15. Stratton",
+          "saddle_cloth": 11,
+          "status": "ACTIVE",
+          "best_back": 85.0,
+          "best_back_size": 3.38,
+          "best_lay": 110.0,
+          "best_lay_size": 3.87,
+          "spread": 25.0,
+          "back_ladder": [
+            {
+              "price": 85.0,
+              "size": 3.38
+            },
+            {
+              "price": 80.0,
+              "size": 13.53
+            },
+            {
+              "price": 70.0,
+              "size": 20.94
+            },
+            {
+              "price": 65.0,
+              "size": 1.93
+            },
+            {
+              "price": 60.0,
+              "size": 2.17
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 110.0,
+              "size": 3.87
+            },
+            {
+              "price": 170.0,
+              "size": 3.43
+            },
+            {
+              "price": 200.0,
+              "size": 3.87
+            },
+            {
+              "price": 720.0,
+              "size": 1.07
+            }
+          ],
+          "runner_matched_volume": 66.25,
+          "last_price_traded": 85.0,
+          "market_prob": 0.011487,
+          "market_rank": 11
+        },
+        {
+          "selection_id": 100486094,
+          "name": "16. Miss Indi",
+          "saddle_cloth": 12,
+          "status": "ACTIVE",
+          "best_back": 60.0,
+          "best_back_size": 2.85,
+          "best_lay": 75.0,
+          "best_lay_size": 3.87,
+          "spread": 15.0,
+          "back_ladder": [
+            {
+              "price": 60.0,
+              "size": 2.85
+            },
+            {
+              "price": 55.0,
+              "size": 2.11
+            },
+            {
+              "price": 50.0,
+              "size": 3.23
+            },
+            {
+              "price": 48.0,
+              "size": 7.74
+            },
+            {
+              "price": 42.0,
+              "size": 1.7
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 75.0,
+              "size": 3.87
+            },
+            {
+              "price": 95.0,
+              "size": 1.25
+            },
+            {
+              "price": 120.0,
+              "size": 1.27
+            },
+            {
+              "price": 350.0,
+              "size": 1.22
+            },
+            {
+              "price": 600.0,
+              "size": 19.55
+            }
+          ],
+          "runner_matched_volume": 10.27,
+          "last_price_traded": 75.0,
+          "market_prob": 0.016273,
+          "market_rank": 9
+        },
+        {
+          "selection_id": 100486091,
+          "name": "1. Zouking",
+          "saddle_cloth": 13,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 93466726,
+          "name": "6. Autumngirl",
+          "saddle_cloth": 14,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 98995136,
+          "name": "3. Land Speed",
+          "saddle_cloth": 15,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 96771736,
+          "name": "17. Clan Doro",
+          "saddle_cloth": 16,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T03:38:06.944974Z",
+      "seconds_to_off": 114,
+      "market_matched_volume": 7791.66,
+      "overround_pct": 101.1,
+      "runners": [
+        {
+          "selection_id": 30110611,
+          "name": "2. Constellation",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 9.0,
+          "best_back_size": 44.16,
+          "best_lay": 9.8,
+          "best_lay_size": 4.94,
+          "spread": 0.8,
+          "back_ladder": [
+            {
+              "price": 9.0,
+              "size": 44.16
+            },
+            {
+              "price": 8.8,
+              "size": 24.69
+            },
+            {
+              "price": 8.6,
+              "size": 5.78
+            },
+            {
+              "price": 8.4,
+              "size": 36.85
+            },
+            {
+              "price": 8.2,
+              "size": 70.94
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 9.8,
+              "size": 4.94
+            },
+            {
+              "price": 10.0,
+              "size": 2.0
+            },
+            {
+              "price": 10.5,
+              "size": 17.02
+            },
+            {
+              "price": 11.0,
+              "size": 11.64
+            },
+            {
+              "price": 11.5,
+              "size": 16.07
+            }
+          ],
+          "runner_matched_volume": 185.03,
+          "last_price_traded": 9.2,
+          "market_prob": 0.109913,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 100486092,
+          "name": "4. Steffi Electrica",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 2.32,
+          "best_back_size": 36.37,
+          "best_lay": 2.4,
+          "best_lay_size": 19.47,
+          "spread": 0.08,
+          "back_ladder": [
+            {
+              "price": 2.32,
+              "size": 36.37
+            },
+            {
+              "price": 2.3,
+              "size": 1496.07
+            },
+            {
+              "price": 2.28,
+              "size": 71.47
+            },
+            {
+              "price": 2.26,
+              "size": 187.21
+            },
+            {
+              "price": 2.24,
+              "size": 567.76
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.4,
+              "size": 19.47
+            },
+            {
+              "price": 2.46,
+              "size": 4.0
+            },
+            {
+              "price": 2.48,
+              "size": 6.36
+            },
+            {
+              "price": 2.58,
+              "size": 1.28
+            },
+            {
+              "price": 2.6,
+              "size": 2.31
+            }
+          ],
+          "runner_matched_volume": 3737.05,
+          "last_price_traded": 2.34,
+          "market_prob": 0.426388,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 85744444,
+          "name": "7. Kemal",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 29.0,
+          "best_back_size": 7.23,
+          "best_lay": 30.0,
+          "best_lay_size": 12.51,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 29.0,
+              "size": 7.23
+            },
+            {
+              "price": 28.0,
+              "size": 2.03
+            },
+            {
+              "price": 27.0,
+              "size": 6.01
+            },
+            {
+              "price": 26.0,
+              "size": 8.98
+            },
+            {
+              "price": 25.0,
+              "size": 21.62
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 30.0,
+              "size": 12.51
+            },
+            {
+              "price": 36.0,
+              "size": 1.46
+            },
+            {
+              "price": 38.0,
+              "size": 22.03
+            },
+            {
+              "price": 65.0,
+              "size": 1.62
+            },
+            {
+              "price": 75.0,
+              "size": 1.62
+            }
+          ],
+          "runner_matched_volume": 56.3,
+          "last_price_traded": 27.0,
+          "market_prob": 0.034111,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100486093,
+          "name": "8. Vantante",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 21.0,
+          "best_back_size": 4.94,
+          "best_lay": 27.0,
+          "best_lay_size": 5.14,
+          "spread": 6.0,
+          "back_ladder": [
+            {
+              "price": 21.0,
+              "size": 4.94
+            },
+            {
+              "price": 20.0,
+              "size": 21.06
+            },
+            {
+              "price": 19.5,
+              "size": 22.29
+            },
+            {
+              "price": 19.0,
+              "size": 18.41
+            },
+            {
+              "price": 18.5,
+              "size": 11.68
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 27.0,
+              "size": 5.14
+            },
+            {
+              "price": 29.0,
+              "size": 5.78
+            },
+            {
+              "price": 32.0,
+              "size": 9.78
+            },
+            {
+              "price": 36.0,
+              "size": 21.29
+            },
+            {
+              "price": 46.0,
+              "size": 1.01
+            }
+          ],
+          "runner_matched_volume": 440.18,
+          "last_price_traded": 23.0,
+          "market_prob": 0.047106,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 97693363,
+          "name": "9. Hayleys Rocket",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 13.5,
+          "best_back_size": 46.61,
+          "best_lay": 14.5,
+          "best_lay_size": 1.29,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 13.5,
+              "size": 46.61
+            },
+            {
+              "price": 13.0,
+              "size": 18.85
+            },
+            {
+              "price": 12.5,
+              "size": 71.86
+            },
+            {
+              "price": 12.0,
+              "size": 78.24
+            },
+            {
+              "price": 11.5,
+              "size": 45.48
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 14.5,
+              "size": 1.29
+            },
+            {
+              "price": 15.0,
+              "size": 15.38
+            },
+            {
+              "price": 15.5,
+              "size": 19.66
+            },
+            {
+              "price": 16.0,
+              "size": 5.35
+            },
+            {
+              "price": 16.5,
+              "size": 22.93
+            }
+          ],
+          "runner_matched_volume": 1203.27,
+          "last_price_traded": 13.5,
+          "market_prob": 0.073276,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 89101007,
+          "name": "10. Midwest Princess",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 13.0,
+          "best_back_size": 57.87,
+          "best_lay": 14.5,
+          "best_lay_size": 8.28,
+          "spread": 1.5,
+          "back_ladder": [
+            {
+              "price": 13.0,
+              "size": 57.87
+            },
+            {
+              "price": 12.5,
+              "size": 28.58
+            },
+            {
+              "price": 12.0,
+              "size": 18.75
+            },
+            {
+              "price": 11.5,
+              "size": 62.32
+            },
+            {
+              "price": 11.0,
+              "size": 90.79
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 14.5,
+              "size": 8.28
+            },
+            {
+              "price": 15.0,
+              "size": 55.0
+            },
+            {
+              "price": 20.0,
+              "size": 5.0
+            },
+            {
+              "price": 22.0,
+              "size": 22.49
+            },
+            {
+              "price": 24.0,
+              "size": 1.51
+            }
+          ],
+          "runner_matched_volume": 488.75,
+          "last_price_traded": 13.0,
+          "market_prob": 0.076094,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 82376419,
+          "name": "11. On Her Word",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 70.0,
+          "best_back_size": 3.16,
+          "best_lay": 80.0,
+          "best_lay_size": 9.68,
+          "spread": 10.0,
+          "back_ladder": [
+            {
+              "price": 70.0,
+              "size": 3.16
+            },
+            {
+              "price": 65.0,
+              "size": 3.44
+            },
+            {
+              "price": 60.0,
+              "size": 12.37
+            },
+            {
+              "price": 55.0,
+              "size": 8.99
+            },
+            {
+              "price": 50.0,
+              "size": 8.17
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 80.0,
+              "size": 9.68
+            },
+            {
+              "price": 90.0,
+              "size": 5.84
+            },
+            {
+              "price": 95.0,
+              "size": 1.56
+            },
+            {
+              "price": 380.0,
+              "size": 1.01
+            },
+            {
+              "price": 600.0,
+              "size": 19.6
+            }
+          ],
+          "runner_matched_volume": 114.0,
+          "last_price_traded": 70.0,
+          "market_prob": 0.014132,
+          "market_rank": 9
+        },
+        {
+          "selection_id": 61592718,
+          "name": "12. Mum Knows",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 100.0,
+          "best_back_size": 6.76,
+          "best_lay": 130.0,
+          "best_lay_size": 3.87,
+          "spread": 30.0,
+          "back_ladder": [
+            {
+              "price": 100.0,
+              "size": 6.76
+            },
+            {
+              "price": 90.0,
+              "size": 6.6
+            },
+            {
+              "price": 85.0,
+              "size": 7.21
+            },
+            {
+              "price": 80.0,
+              "size": 12.06
+            },
+            {
+              "price": 70.0,
+              "size": 17.63
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 130.0,
+              "size": 3.87
+            },
+            {
+              "price": 150.0,
+              "size": 5.05
+            },
+            {
+              "price": 690.0,
+              "size": 1.02
+            }
+          ],
+          "runner_matched_volume": 136.99,
+          "last_price_traded": 100.0,
+          "market_prob": 0.009892,
+          "market_rank": 11
+        },
+        {
+          "selection_id": 53751301,
+          "name": "13. Devious Mind",
+          "saddle_cloth": 9,
+          "status": "ACTIVE",
+          "best_back": 9.0,
+          "best_back_size": 18.19,
+          "best_lay": 9.8,
+          "best_lay_size": 21.64,
+          "spread": 0.8,
+          "back_ladder": [
+            {
+              "price": 9.0,
+              "size": 18.19
+            },
+            {
+              "price": 8.8,
+              "size": 50.36
+            },
+            {
+              "price": 8.6,
+              "size": 38.65
+            },
+            {
+              "price": 8.4,
+              "size": 26.99
+            },
+            {
+              "price": 8.2,
+              "size": 48.46
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 9.8,
+              "size": 21.64
+            },
+            {
+              "price": 10.0,
+              "size": 17.62
+            },
+            {
+              "price": 10.5,
+              "size": 13.92
+            },
+            {
+              "price": 11.0,
+              "size": 28.42
+            },
+            {
+              "price": 11.5,
+              "size": 16.41
+            }
+          ],
+          "runner_matched_volume": 870.75,
+          "last_price_traded": 9.2,
+          "market_prob": 0.109913,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 82857184,
+          "name": "14. Monaco Flyer",
+          "saddle_cloth": 10,
+          "status": "ACTIVE",
+          "best_back": 13.0,
+          "best_back_size": 43.52,
+          "best_lay": 14.0,
+          "best_lay_size": 11.1,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 13.0,
+              "size": 43.52
+            },
+            {
+              "price": 12.5,
+              "size": 39.71
+            },
+            {
+              "price": 12.0,
+              "size": 48.18
+            },
+            {
+              "price": 11.5,
+              "size": 40.01
+            },
+            {
+              "price": 11.0,
+              "size": 116.83
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 14.0,
+              "size": 11.1
+            },
+            {
+              "price": 15.5,
+              "size": 18.71
+            },
+            {
+              "price": 19.0,
+              "size": 4.45
+            },
+            {
+              "price": 19.5,
+              "size": 1.49
+            },
+            {
+              "price": 22.0,
+              "size": 6.1
+            }
+          ],
+          "runner_matched_volume": 367.39,
+          "last_price_traded": 13.0,
+          "market_prob": 0.076094,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 27423681,
+          "name": "15. Stratton",
+          "saddle_cloth": 11,
+          "status": "ACTIVE",
+          "best_back": 100.0,
+          "best_back_size": 1.26,
+          "best_lay": 120.0,
+          "best_lay_size": 7.91,
+          "spread": 20.0,
+          "back_ladder": [
+            {
+              "price": 100.0,
+              "size": 1.26
+            },
+            {
+              "price": 90.0,
+              "size": 5.99
+            },
+            {
+              "price": 85.0,
+              "size": 7.87
+            },
+            {
+              "price": 80.0,
+              "size": 4.36
+            },
+            {
+              "price": 75.0,
+              "size": 9.89
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 120.0,
+              "size": 7.91
+            },
+            {
+              "price": 130.0,
+              "size": 8.81
+            },
+            {
+              "price": 170.0,
+              "size": 1.43
+            },
+            {
+              "price": 390.0,
+              "size": 1.43
+            }
+          ],
+          "runner_matched_volume": 171.72,
+          "last_price_traded": 100.0,
+          "market_prob": 0.009892,
+          "market_rank": 12
+        },
+        {
+          "selection_id": 100486094,
+          "name": "16. Miss Indi",
+          "saddle_cloth": 12,
+          "status": "ACTIVE",
+          "best_back": 75.0,
+          "best_back_size": 6.28,
+          "best_lay": 95.0,
+          "best_lay_size": 3.2,
+          "spread": 20.0,
+          "back_ladder": [
+            {
+              "price": 75.0,
+              "size": 6.28
+            },
+            {
+              "price": 70.0,
+              "size": 4.14
+            },
+            {
+              "price": 65.0,
+              "size": 4.29
+            },
+            {
+              "price": 60.0,
+              "size": 11.17
+            },
+            {
+              "price": 55.0,
+              "size": 10.45
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 95.0,
+              "size": 3.2
+            },
+            {
+              "price": 110.0,
+              "size": 5.24
+            },
+            {
+              "price": 350.0,
+              "size": 1.67
+            },
+            {
+              "price": 600.0,
+              "size": 19.98
+            }
+          ],
+          "runner_matched_volume": 20.19,
+          "last_price_traded": 75.0,
+          "market_prob": 0.01319,
+          "market_rank": 10
+        },
+        {
+          "selection_id": 100486091,
+          "name": "1. Zouking",
+          "saddle_cloth": 13,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 93466726,
+          "name": "6. Autumngirl",
+          "saddle_cloth": 14,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 98995136,
+          "name": "3. Land Speed",
+          "saddle_cloth": 15,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 96771736,
+          "name": "17. Clan Doro",
+          "saddle_cloth": 16,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T03:39:32.612714Z",
+      "seconds_to_off": 28,
+      "market_matched_volume": 15770.93,
+      "overround_pct": 101.6,
+      "runners": [
+        {
+          "selection_id": 30110611,
+          "name": "2. Constellation",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 9.0,
+          "best_back_size": 22.06,
+          "best_lay": 9.2,
+          "best_lay_size": 12.29,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 9.0,
+              "size": 22.06
+            },
+            {
+              "price": 8.8,
+              "size": 13.13
+            },
+            {
+              "price": 8.6,
+              "size": 32.65
+            },
+            {
+              "price": 8.4,
+              "size": 25.18
+            },
+            {
+              "price": 8.2,
+              "size": 104.18
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 9.2,
+              "size": 12.29
+            },
+            {
+              "price": 9.6,
+              "size": 12.19
+            },
+            {
+              "price": 9.8,
+              "size": 52.46
+            },
+            {
+              "price": 10.0,
+              "size": 9.06
+            },
+            {
+              "price": 10.5,
+              "size": 20.73
+            }
+          ],
+          "runner_matched_volume": 543.71,
+          "last_price_traded": 9.0,
+          "market_prob": 0.109394,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100486092,
+          "name": "4. Steffi Electrica",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 2.44,
+          "best_back_size": 4.0,
+          "best_lay": 2.46,
+          "best_lay_size": 312.76,
+          "spread": 0.02,
+          "back_ladder": [
+            {
+              "price": 2.44,
+              "size": 4.0
+            },
+            {
+              "price": 2.42,
+              "size": 37.72
+            },
+            {
+              "price": 2.4,
+              "size": 61.54
+            },
+            {
+              "price": 2.38,
+              "size": 228.53
+            },
+            {
+              "price": 2.36,
+              "size": 185.42
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.46,
+              "size": 312.76
+            },
+            {
+              "price": 2.48,
+              "size": 3.07
+            },
+            {
+              "price": 2.5,
+              "size": 129.72
+            },
+            {
+              "price": 2.52,
+              "size": 43.91
+            },
+            {
+              "price": 2.56,
+              "size": 12.43
+            }
+          ],
+          "runner_matched_volume": 8481.68,
+          "last_price_traded": 2.46,
+          "market_prob": 0.403501,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 85744444,
+          "name": "7. Kemal",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 29.0,
+          "best_back_size": 12.24,
+          "best_lay": 32.0,
+          "best_lay_size": 26.11,
+          "spread": 3.0,
+          "back_ladder": [
+            {
+              "price": 29.0,
+              "size": 12.24
+            },
+            {
+              "price": 28.0,
+              "size": 3.89
+            },
+            {
+              "price": 27.0,
+              "size": 8.06
+            },
+            {
+              "price": 26.0,
+              "size": 16.79
+            },
+            {
+              "price": 25.0,
+              "size": 23.31
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 32.0,
+              "size": 26.11
+            },
+            {
+              "price": 34.0,
+              "size": 23.19
+            },
+            {
+              "price": 36.0,
+              "size": 9.29
+            },
+            {
+              "price": 38.0,
+              "size": 22.03
+            },
+            {
+              "price": 40.0,
+              "size": 25.35
+            }
+          ],
+          "runner_matched_volume": 243.66,
+          "last_price_traded": 30.0,
+          "market_prob": 0.03395,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100486093,
+          "name": "8. Vantante",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 19.5,
+          "best_back_size": 11.21,
+          "best_lay": 21.0,
+          "best_lay_size": 14.21,
+          "spread": 1.5,
+          "back_ladder": [
+            {
+              "price": 19.5,
+              "size": 11.21
+            },
+            {
+              "price": 19.0,
+              "size": 3.69
+            },
+            {
+              "price": 18.5,
+              "size": 11.12
+            },
+            {
+              "price": 18.0,
+              "size": 1.93
+            },
+            {
+              "price": 17.5,
+              "size": 5.58
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 21.0,
+              "size": 14.21
+            },
+            {
+              "price": 22.0,
+              "size": 9.58
+            },
+            {
+              "price": 23.0,
+              "size": 4.19
+            },
+            {
+              "price": 24.0,
+              "size": 2.04
+            },
+            {
+              "price": 25.0,
+              "size": 2.0
+            }
+          ],
+          "runner_matched_volume": 655.35,
+          "last_price_traded": 21.0,
+          "market_prob": 0.050489,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 97693363,
+          "name": "9. Hayleys Rocket",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 13.5,
+          "best_back_size": 45.98,
+          "best_lay": 14.5,
+          "best_lay_size": 1.97,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 13.5,
+              "size": 45.98
+            },
+            {
+              "price": 13.0,
+              "size": 14.97
+            },
+            {
+              "price": 12.5,
+              "size": 97.68
+            },
+            {
+              "price": 12.0,
+              "size": 66.16
+            },
+            {
+              "price": 11.5,
+              "size": 108.27
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 14.5,
+              "size": 1.97
+            },
+            {
+              "price": 15.0,
+              "size": 27.55
+            },
+            {
+              "price": 15.5,
+              "size": 25.36
+            },
+            {
+              "price": 16.0,
+              "size": 11.19
+            },
+            {
+              "price": 16.5,
+              "size": 34.61
+            }
+          ],
+          "runner_matched_volume": 1680.57,
+          "last_price_traded": 13.5,
+          "market_prob": 0.072929,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 89101007,
+          "name": "10. Midwest Princess",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 12.5,
+          "best_back_size": 22.17,
+          "best_lay": 14.0,
+          "best_lay_size": 5.39,
+          "spread": 1.5,
+          "back_ladder": [
+            {
+              "price": 12.5,
+              "size": 22.17
+            },
+            {
+              "price": 12.0,
+              "size": 60.2
+            },
+            {
+              "price": 11.5,
+              "size": 32.3
+            },
+            {
+              "price": 11.0,
+              "size": 127.87
+            },
+            {
+              "price": 10.5,
+              "size": 94.77
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 14.0,
+              "size": 5.39
+            },
+            {
+              "price": 14.5,
+              "size": 1.39
+            },
+            {
+              "price": 15.5,
+              "size": 13.26
+            },
+            {
+              "price": 16.0,
+              "size": 37.28
+            },
+            {
+              "price": 16.5,
+              "size": 21.26
+            }
+          ],
+          "runner_matched_volume": 1090.57,
+          "last_price_traded": 13.0,
+          "market_prob": 0.078763,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 82376419,
+          "name": "11. On Her Word",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 70.0,
+          "best_back_size": 22.42,
+          "best_lay": 80.0,
+          "best_lay_size": 59.0,
+          "spread": 10.0,
+          "back_ladder": [
+            {
+              "price": 70.0,
+              "size": 22.42
+            },
+            {
+              "price": 65.0,
+              "size": 4.6
+            },
+            {
+              "price": 60.0,
+              "size": 12.37
+            },
+            {
+              "price": 55.0,
+              "size": 1.07
+            },
+            {
+              "price": 50.0,
+              "size": 16.39
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 80.0,
+              "size": 59.0
+            },
+            {
+              "price": 85.0,
+              "size": 3.85
+            },
+            {
+              "price": 90.0,
+              "size": 14.07
+            },
+            {
+              "price": 95.0,
+              "size": 11.22
+            },
+            {
+              "price": 100.0,
+              "size": 3.85
+            }
+          ],
+          "runner_matched_volume": 147.59,
+          "last_price_traded": 70.0,
+          "market_prob": 0.014065,
+          "market_rank": 9
+        },
+        {
+          "selection_id": 61592718,
+          "name": "12. Mum Knows",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 110.0,
+          "best_back_size": 15.0,
+          "best_lay": 150.0,
+          "best_lay_size": 5.05,
+          "spread": 40.0,
+          "back_ladder": [
+            {
+              "price": 110.0,
+              "size": 15.0
+            },
+            {
+              "price": 100.0,
+              "size": 3.62
+            },
+            {
+              "price": 95.0,
+              "size": 34.55
+            },
+            {
+              "price": 90.0,
+              "size": 7.23
+            },
+            {
+              "price": 85.0,
+              "size": 1.32
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 150.0,
+              "size": 5.05
+            },
+            {
+              "price": 160.0,
+              "size": 6.94
+            },
+            {
+              "price": 170.0,
+              "size": 14.19
+            },
+            {
+              "price": 180.0,
+              "size": 1.98
+            },
+            {
+              "price": 320.0,
+              "size": 1.74
+            }
+          ],
+          "runner_matched_volume": 179.76,
+          "last_price_traded": 110.0,
+          "market_prob": 0.00895,
+          "market_rank": 12
+        },
+        {
+          "selection_id": 53751301,
+          "name": "13. Devious Mind",
+          "saddle_cloth": 9,
+          "status": "ACTIVE",
+          "best_back": 7.8,
+          "best_back_size": 25.57,
+          "best_lay": 8.4,
+          "best_lay_size": 23.64,
+          "spread": 0.6,
+          "back_ladder": [
+            {
+              "price": 7.8,
+              "size": 25.57
+            },
+            {
+              "price": 7.6,
+              "size": 82.88
+            },
+            {
+              "price": 7.4,
+              "size": 22.84
+            },
+            {
+              "price": 7.2,
+              "size": 56.06
+            },
+            {
+              "price": 7.0,
+              "size": 98.29
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.4,
+              "size": 23.64
+            },
+            {
+              "price": 8.6,
+              "size": 7.56
+            },
+            {
+              "price": 9.0,
+              "size": 47.24
+            },
+            {
+              "price": 9.2,
+              "size": 7.99
+            },
+            {
+              "price": 9.4,
+              "size": 29.37
+            }
+          ],
+          "runner_matched_volume": 1697.82,
+          "last_price_traded": 8.0,
+          "market_prob": 0.126223,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 82857184,
+          "name": "14. Monaco Flyer",
+          "saddle_cloth": 10,
+          "status": "ACTIVE",
+          "best_back": 12.5,
+          "best_back_size": 13.27,
+          "best_lay": 14.0,
+          "best_lay_size": 9.58,
+          "spread": 1.5,
+          "back_ladder": [
+            {
+              "price": 12.5,
+              "size": 13.27
+            },
+            {
+              "price": 12.0,
+              "size": 9.86
+            },
+            {
+              "price": 11.5,
+              "size": 94.06
+            },
+            {
+              "price": 11.0,
+              "size": 138.8
+            },
+            {
+              "price": 10.5,
+              "size": 126.83
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 14.0,
+              "size": 9.58
+            },
+            {
+              "price": 15.0,
+              "size": 6.73
+            },
+            {
+              "price": 15.5,
+              "size": 11.56
+            },
+            {
+              "price": 16.0,
+              "size": 67.74
+            },
+            {
+              "price": 16.5,
+              "size": 29.77
+            }
+          ],
+          "runner_matched_volume": 703.09,
+          "last_price_traded": 13.5,
+          "market_prob": 0.078763,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 27423681,
+          "name": "15. Stratton",
+          "saddle_cloth": 11,
+          "status": "ACTIVE",
+          "best_back": 100.0,
+          "best_back_size": 4.54,
+          "best_lay": 130.0,
+          "best_lay_size": 11.74,
+          "spread": 30.0,
+          "back_ladder": [
+            {
+              "price": 100.0,
+              "size": 4.54
+            },
+            {
+              "price": 95.0,
+              "size": 7.57
+            },
+            {
+              "price": 90.0,
+              "size": 1.97
+            },
+            {
+              "price": 85.0,
+              "size": 31.64
+            },
+            {
+              "price": 80.0,
+              "size": 4.2
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 130.0,
+              "size": 11.74
+            },
+            {
+              "price": 140.0,
+              "size": 5.6
+            },
+            {
+              "price": 150.0,
+              "size": 6.92
+            },
+            {
+              "price": 170.0,
+              "size": 2.05
+            },
+            {
+              "price": 360.0,
+              "size": 1.9
+            }
+          ],
+          "runner_matched_volume": 260.17,
+          "last_price_traded": 100.0,
+          "market_prob": 0.009845,
+          "market_rank": 11
+        },
+        {
+          "selection_id": 100486094,
+          "name": "16. Miss Indi",
+          "saddle_cloth": 12,
+          "status": "ACTIVE",
+          "best_back": 75.0,
+          "best_back_size": 9.65,
+          "best_lay": 90.0,
+          "best_lay_size": 14.99,
+          "spread": 15.0,
+          "back_ladder": [
+            {
+              "price": 75.0,
+              "size": 9.65
+            },
+            {
+              "price": 70.0,
+              "size": 5.71
+            },
+            {
+              "price": 65.0,
+              "size": 9.09
+            },
+            {
+              "price": 60.0,
+              "size": 8.79
+            },
+            {
+              "price": 55.0,
+              "size": 12.36
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 90.0,
+              "size": 14.99
+            },
+            {
+              "price": 100.0,
+              "size": 9.69
+            },
+            {
+              "price": 120.0,
+              "size": 4.56
+            },
+            {
+              "price": 130.0,
+              "size": 3.63
+            },
+            {
+              "price": 340.0,
+              "size": 3.68
+            }
+          ],
+          "runner_matched_volume": 86.89,
+          "last_price_traded": 80.0,
+          "market_prob": 0.013127,
+          "market_rank": 10
+        },
+        {
+          "selection_id": 100486091,
+          "name": "1. Zouking",
+          "saddle_cloth": 13,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 93466726,
+          "name": "6. Autumngirl",
+          "saddle_cloth": 14,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 98995136,
+          "name": "3. Land Speed",
+          "saddle_cloth": 15,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 96771736,
+          "name": "17. Clan Doro",
+          "saddle_cloth": 16,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    }
+  ],
+  "finalized_at": "2026-07-12T03:43:08.387903Z"
+}
