@@ -1,0 +1,1768 @@
+{
+  "event_id": "hamilton-2026-07-12-r2",
+  "market_id": "1.259893875",
+  "venue": "Hamilton",
+  "race_name": "R2 3400m Hcap",
+  "start_time_utc": "2026-07-12T03:45:00.000Z",
+  "captured_by": "micro-series v1",
+  "field_size": 4,
+  "model_overlay": {
+    "98996160": {
+      "model_prob": 0.372943,
+      "model_rank": 1,
+      "model_version": "2026-07-08"
+    },
+    "84431626": {
+      "model_prob": 0.28261,
+      "model_rank": 2,
+      "model_version": "2026-07-08"
+    },
+    "43154256": {
+      "model_prob": 0.263034,
+      "model_rank": 3,
+      "model_version": "2026-07-08"
+    },
+    "68712841": {
+      "model_prob": 0.081412,
+      "model_rank": 4,
+      "model_version": "2026-07-08"
+    }
+  },
+  "bsp": {
+    "43154256": {
+      "bsp": 2.75,
+      "status": "WINNER"
+    },
+    "98996160": {
+      "bsp": 2.59,
+      "status": "LOSER"
+    },
+    "84431626": {
+      "bsp": 4.6,
+      "status": "LOSER"
+    },
+    "68712841": {
+      "bsp": 34.1,
+      "status": "LOSER"
+    }
+  },
+  "result": {
+    "winner": "1. The Cunning Fox",
+    "winner_bsp": 2.75,
+    "placings": [
+      "1. The Cunning Fox"
+    ],
+    "settled_at": "2026-07-12T03:50:14.985526Z"
+  },
+  "frames": [
+    {
+      "at": "2026-07-12T03:35:21.170220Z",
+      "seconds_to_off": 579,
+      "market_matched_volume": 2506.93,
+      "overround_pct": 104.3,
+      "runners": [
+        {
+          "selection_id": 43154256,
+          "name": "1. The Cunning Fox",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 3.6,
+          "best_back_size": 20.59,
+          "best_lay": 3.85,
+          "best_lay_size": 15.0,
+          "spread": 0.25,
+          "back_ladder": [
+            {
+              "price": 3.6,
+              "size": 20.59
+            },
+            {
+              "price": 3.55,
+              "size": 1.93
+            },
+            {
+              "price": 3.45,
+              "size": 47.35
+            },
+            {
+              "price": 3.4,
+              "size": 48.33
+            },
+            {
+              "price": 3.35,
+              "size": 91.59
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.85,
+              "size": 15.0
+            },
+            {
+              "price": 3.95,
+              "size": 13.85
+            },
+            {
+              "price": 4.0,
+              "size": 35.0
+            },
+            {
+              "price": 4.1,
+              "size": 42.54
+            },
+            {
+              "price": 4.2,
+              "size": 20.58
+            }
+          ],
+          "runner_matched_volume": 827.62,
+          "last_price_traded": 3.65,
+          "market_prob": 0.266236,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 98996160,
+          "name": "2. Andy Win",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 2.58,
+          "best_back_size": 16.6,
+          "best_lay": 2.7,
+          "best_lay_size": 17.6,
+          "spread": 0.12,
+          "back_ladder": [
+            {
+              "price": 2.58,
+              "size": 16.6
+            },
+            {
+              "price": 2.52,
+              "size": 5.35
+            },
+            {
+              "price": 2.5,
+              "size": 10.04
+            },
+            {
+              "price": 2.48,
+              "size": 78.38
+            },
+            {
+              "price": 2.46,
+              "size": 103.12
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.7,
+              "size": 17.6
+            },
+            {
+              "price": 2.72,
+              "size": 25.73
+            },
+            {
+              "price": 2.74,
+              "size": 66.66
+            },
+            {
+              "price": 2.76,
+              "size": 65.91
+            },
+            {
+              "price": 2.78,
+              "size": 65.17
+            }
+          ],
+          "runner_matched_volume": 760.68,
+          "last_price_traded": 2.62,
+          "market_prob": 0.371492,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 84431626,
+          "name": "3. Ardakan",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 2.8,
+          "best_back_size": 18.98,
+          "best_lay": 2.94,
+          "best_lay_size": 37.47,
+          "spread": 0.14,
+          "back_ladder": [
+            {
+              "price": 2.8,
+              "size": 18.98
+            },
+            {
+              "price": 2.78,
+              "size": 24.93
+            },
+            {
+              "price": 2.7,
+              "size": 20.47
+            },
+            {
+              "price": 2.68,
+              "size": 182.2
+            },
+            {
+              "price": 2.66,
+              "size": 81.47
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.94,
+              "size": 37.47
+            },
+            {
+              "price": 3.0,
+              "size": 1.93
+            },
+            {
+              "price": 3.05,
+              "size": 69.88
+            },
+            {
+              "price": 3.1,
+              "size": 73.38
+            },
+            {
+              "price": 3.15,
+              "size": 82.9
+            }
+          ],
+          "runner_matched_volume": 917.12,
+          "last_price_traded": 2.8,
+          "market_prob": 0.342304,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 68712841,
+          "name": "4. Gambu",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 48.0,
+          "best_back_size": 1.15,
+          "best_lay": 120.0,
+          "best_lay_size": 5.01,
+          "spread": 72.0,
+          "back_ladder": [
+            {
+              "price": 48.0,
+              "size": 1.15
+            },
+            {
+              "price": 46.0,
+              "size": 1.24
+            },
+            {
+              "price": 44.0,
+              "size": 2.0
+            },
+            {
+              "price": 42.0,
+              "size": 1.24
+            },
+            {
+              "price": 38.0,
+              "size": 1.67
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 120.0,
+              "size": 5.01
+            },
+            {
+              "price": 130.0,
+              "size": 11.48
+            },
+            {
+              "price": 140.0,
+              "size": 3.57
+            },
+            {
+              "price": 150.0,
+              "size": 1.93
+            },
+            {
+              "price": 180.0,
+              "size": 1.54
+            }
+          ],
+          "runner_matched_volume": 1.5,
+          "last_price_traded": 60.0,
+          "market_prob": 0.019968,
+          "market_rank": 4
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T03:37:03.470141Z",
+      "seconds_to_off": 477,
+      "market_matched_volume": 2840.57,
+      "overround_pct": 103.5,
+      "runners": [
+        {
+          "selection_id": 43154256,
+          "name": "1. The Cunning Fox",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 3.65,
+          "best_back_size": 12.52,
+          "best_lay": 3.8,
+          "best_lay_size": 15.57,
+          "spread": 0.15,
+          "back_ladder": [
+            {
+              "price": 3.65,
+              "size": 12.52
+            },
+            {
+              "price": 3.55,
+              "size": 1.93
+            },
+            {
+              "price": 3.5,
+              "size": 46.4
+            },
+            {
+              "price": 3.45,
+              "size": 47.35
+            },
+            {
+              "price": 3.4,
+              "size": 48.33
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.8,
+              "size": 15.57
+            },
+            {
+              "price": 3.85,
+              "size": 7.34
+            },
+            {
+              "price": 3.95,
+              "size": 52.75
+            },
+            {
+              "price": 4.0,
+              "size": 35.0
+            },
+            {
+              "price": 4.1,
+              "size": 42.54
+            }
+          ],
+          "runner_matched_volume": 897.75,
+          "last_price_traded": 3.7,
+          "market_prob": 0.264826,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 98996160,
+          "name": "2. Andy Win",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 2.5,
+          "best_back_size": 28.84,
+          "best_lay": 2.62,
+          "best_lay_size": 62.16,
+          "spread": 0.12,
+          "back_ladder": [
+            {
+              "price": 2.5,
+              "size": 28.84
+            },
+            {
+              "price": 2.42,
+              "size": 302.8
+            },
+            {
+              "price": 2.4,
+              "size": 82.86
+            },
+            {
+              "price": 2.38,
+              "size": 84.06
+            },
+            {
+              "price": 2.36,
+              "size": 87.3
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.62,
+              "size": 62.16
+            },
+            {
+              "price": 2.7,
+              "size": 74.23
+            },
+            {
+              "price": 2.72,
+              "size": 67.43
+            },
+            {
+              "price": 2.74,
+              "size": 66.66
+            },
+            {
+              "price": 2.76,
+              "size": 65.91
+            }
+          ],
+          "runner_matched_volume": 918.42,
+          "last_price_traded": 2.54,
+          "market_prob": 0.386646,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 84431626,
+          "name": "3. Ardakan",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 2.96,
+          "best_back_size": 204.93,
+          "best_lay": 3.2,
+          "best_lay_size": 11.77,
+          "spread": 0.24,
+          "back_ladder": [
+            {
+              "price": 2.96,
+              "size": 204.93
+            },
+            {
+              "price": 2.9,
+              "size": 11.33
+            },
+            {
+              "price": 2.82,
+              "size": 63.74
+            },
+            {
+              "price": 2.8,
+              "size": 76.04
+            },
+            {
+              "price": 2.78,
+              "size": 90.1
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.2,
+              "size": 11.77
+            },
+            {
+              "price": 3.25,
+              "size": 11.56
+            },
+            {
+              "price": 3.3,
+              "size": 58.88
+            },
+            {
+              "price": 3.35,
+              "size": 77.9
+            },
+            {
+              "price": 3.4,
+              "size": 79.47
+            }
+          ],
+          "runner_matched_volume": 1008.99,
+          "last_price_traded": 3.1,
+          "market_prob": 0.326559,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 68712841,
+          "name": "4. Gambu",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 44.0,
+          "best_back_size": 9.47,
+          "best_lay": 55.0,
+          "best_lay_size": 2.22,
+          "spread": 11.0,
+          "back_ladder": [
+            {
+              "price": 44.0,
+              "size": 9.47
+            },
+            {
+              "price": 42.0,
+              "size": 1.24
+            },
+            {
+              "price": 40.0,
+              "size": 3.23
+            },
+            {
+              "price": 38.0,
+              "size": 1.67
+            },
+            {
+              "price": 36.0,
+              "size": 1.67
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 55.0,
+              "size": 2.22
+            },
+            {
+              "price": 90.0,
+              "size": 1.49
+            },
+            {
+              "price": 100.0,
+              "size": 1.21
+            },
+            {
+              "price": 120.0,
+              "size": 1.0
+            },
+            {
+              "price": 160.0,
+              "size": 1.61
+            }
+          ],
+          "runner_matched_volume": 15.39,
+          "last_price_traded": 48.0,
+          "market_prob": 0.021969,
+          "market_rank": 4
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T03:38:50.127303Z",
+      "seconds_to_off": 370,
+      "market_matched_volume": 3516.32,
+      "overround_pct": 102.9,
+      "runners": [
+        {
+          "selection_id": 43154256,
+          "name": "1. The Cunning Fox",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 3.75,
+          "best_back_size": 24.78,
+          "best_lay": 3.95,
+          "best_lay_size": 23.53,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 3.75,
+              "size": 24.78
+            },
+            {
+              "price": 3.7,
+              "size": 13.61
+            },
+            {
+              "price": 3.6,
+              "size": 45.16
+            },
+            {
+              "price": 3.55,
+              "size": 56.53
+            },
+            {
+              "price": 3.5,
+              "size": 46.4
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.95,
+              "size": 23.53
+            },
+            {
+              "price": 4.0,
+              "size": 269.04
+            },
+            {
+              "price": 4.1,
+              "size": 67.41
+            },
+            {
+              "price": 4.2,
+              "size": 59.64
+            },
+            {
+              "price": 4.3,
+              "size": 69.29
+            }
+          ],
+          "runner_matched_volume": 1071.95,
+          "last_price_traded": 3.7,
+          "market_prob": 0.259048,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 98996160,
+          "name": "2. Andy Win",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 2.5,
+          "best_back_size": 7.26,
+          "best_lay": 2.56,
+          "best_lay_size": 8.92,
+          "spread": 0.06,
+          "back_ladder": [
+            {
+              "price": 2.5,
+              "size": 7.26
+            },
+            {
+              "price": 2.48,
+              "size": 2.6
+            },
+            {
+              "price": 2.46,
+              "size": 14.8
+            },
+            {
+              "price": 2.44,
+              "size": 5.78
+            },
+            {
+              "price": 2.42,
+              "size": 82.44
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.56,
+              "size": 8.92
+            },
+            {
+              "price": 2.58,
+              "size": 32.4
+            },
+            {
+              "price": 2.6,
+              "size": 23.85
+            },
+            {
+              "price": 2.62,
+              "size": 5.78
+            },
+            {
+              "price": 2.64,
+              "size": 2.13
+            }
+          ],
+          "runner_matched_volume": 1287.05,
+          "last_price_traded": 2.56,
+          "market_prob": 0.388571,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 84431626,
+          "name": "3. Ardakan",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 3.0,
+          "best_back_size": 4.41,
+          "best_lay": 3.15,
+          "best_lay_size": 4.2,
+          "spread": 0.15,
+          "back_ladder": [
+            {
+              "price": 3.0,
+              "size": 4.41
+            },
+            {
+              "price": 2.98,
+              "size": 15.56
+            },
+            {
+              "price": 2.96,
+              "size": 31.7
+            },
+            {
+              "price": 2.94,
+              "size": 16.44
+            },
+            {
+              "price": 2.92,
+              "size": 15.88
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.15,
+              "size": 4.2
+            },
+            {
+              "price": 3.2,
+              "size": 19.92
+            },
+            {
+              "price": 3.25,
+              "size": 3.81
+            },
+            {
+              "price": 3.3,
+              "size": 68.52
+            },
+            {
+              "price": 3.35,
+              "size": 77.9
+            }
+          ],
+          "runner_matched_volume": 1082.75,
+          "last_price_traded": 3.05,
+          "market_prob": 0.32381,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 68712841,
+          "name": "4. Gambu",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 34.0,
+          "best_back_size": 1.09,
+          "best_lay": 60.0,
+          "best_lay_size": 3.07,
+          "spread": 26.0,
+          "back_ladder": [
+            {
+              "price": 34.0,
+              "size": 1.09
+            },
+            {
+              "price": 32.0,
+              "size": 12.58
+            },
+            {
+              "price": 30.0,
+              "size": 12.49
+            },
+            {
+              "price": 29.0,
+              "size": 12.62
+            },
+            {
+              "price": 28.0,
+              "size": 13.64
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 60.0,
+              "size": 3.07
+            },
+            {
+              "price": 65.0,
+              "size": 1.26
+            },
+            {
+              "price": 90.0,
+              "size": 1.49
+            },
+            {
+              "price": 120.0,
+              "size": 21.96
+            },
+            {
+              "price": 250.0,
+              "size": 19.33
+            }
+          ],
+          "runner_matched_volume": 74.55,
+          "last_price_traded": 34.0,
+          "market_prob": 0.028571,
+          "market_rank": 4
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T03:40:09.069373Z",
+      "seconds_to_off": 291,
+      "market_matched_volume": 4979.02,
+      "overround_pct": 101.4,
+      "runners": [
+        {
+          "selection_id": 43154256,
+          "name": "1. The Cunning Fox",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 3.8,
+          "best_back_size": 35.99,
+          "best_lay": 3.9,
+          "best_lay_size": 38.72,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 3.8,
+              "size": 35.99
+            },
+            {
+              "price": 3.75,
+              "size": 14.65
+            },
+            {
+              "price": 3.7,
+              "size": 18.7
+            },
+            {
+              "price": 3.65,
+              "size": 10.69
+            },
+            {
+              "price": 3.6,
+              "size": 75.34
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.9,
+              "size": 38.72
+            },
+            {
+              "price": 3.95,
+              "size": 23.53
+            },
+            {
+              "price": 4.0,
+              "size": 264.56
+            },
+            {
+              "price": 4.1,
+              "size": 67.41
+            },
+            {
+              "price": 4.2,
+              "size": 59.64
+            }
+          ],
+          "runner_matched_volume": 1511.18,
+          "last_price_traded": 3.85,
+          "market_prob": 0.259534,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 98996160,
+          "name": "2. Andy Win",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 2.48,
+          "best_back_size": 40.54,
+          "best_lay": 2.52,
+          "best_lay_size": 26.96,
+          "spread": 0.04,
+          "back_ladder": [
+            {
+              "price": 2.48,
+              "size": 40.54
+            },
+            {
+              "price": 2.46,
+              "size": 5.03
+            },
+            {
+              "price": 2.42,
+              "size": 7.23
+            },
+            {
+              "price": 2.4,
+              "size": 19.38
+            },
+            {
+              "price": 2.38,
+              "size": 97.62
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.52,
+              "size": 26.96
+            },
+            {
+              "price": 2.54,
+              "size": 14.21
+            },
+            {
+              "price": 2.56,
+              "size": 7.8
+            },
+            {
+              "price": 2.58,
+              "size": 119.31
+            },
+            {
+              "price": 2.6,
+              "size": 25.78
+            }
+          ],
+          "runner_matched_volume": 1631.47,
+          "last_price_traded": 2.48,
+          "market_prob": 0.397673,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 84431626,
+          "name": "3. Ardakan",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 3.1,
+          "best_back_size": 3.36,
+          "best_lay": 3.2,
+          "best_lay_size": 5.1,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 3.1,
+              "size": 3.36
+            },
+            {
+              "price": 3.05,
+              "size": 10.0
+            },
+            {
+              "price": 3.0,
+              "size": 21.93
+            },
+            {
+              "price": 2.96,
+              "size": 91.76
+            },
+            {
+              "price": 2.94,
+              "size": 75.68
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.2,
+              "size": 5.1
+            },
+            {
+              "price": 3.25,
+              "size": 15.16
+            },
+            {
+              "price": 3.3,
+              "size": 7.74
+            },
+            {
+              "price": 3.35,
+              "size": 57.84
+            },
+            {
+              "price": 3.4,
+              "size": 63.53
+            }
+          ],
+          "runner_matched_volume": 1756.39,
+          "last_price_traded": 3.15,
+          "market_prob": 0.318138,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 68712841,
+          "name": "4. Gambu",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 40.0,
+          "best_back_size": 2.14,
+          "best_lay": 65.0,
+          "best_lay_size": 1.02,
+          "spread": 25.0,
+          "back_ladder": [
+            {
+              "price": 40.0,
+              "size": 2.14
+            },
+            {
+              "price": 34.0,
+              "size": 2.59
+            },
+            {
+              "price": 32.0,
+              "size": 8.64
+            },
+            {
+              "price": 30.0,
+              "size": 12.49
+            },
+            {
+              "price": 29.0,
+              "size": 16.98
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 65.0,
+              "size": 1.02
+            },
+            {
+              "price": 90.0,
+              "size": 1.49
+            },
+            {
+              "price": 120.0,
+              "size": 1.74
+            },
+            {
+              "price": 130.0,
+              "size": 3.85
+            },
+            {
+              "price": 140.0,
+              "size": 3.85
+            }
+          ],
+          "runner_matched_volume": 79.96,
+          "last_price_traded": 60.0,
+          "market_prob": 0.024656,
+          "market_rank": 4
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T03:41:24.842050Z",
+      "seconds_to_off": 216,
+      "market_matched_volume": 6377.26,
+      "overround_pct": 101.6,
+      "runners": [
+        {
+          "selection_id": 43154256,
+          "name": "1. The Cunning Fox",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 4.0,
+          "best_back_size": 12.17,
+          "best_lay": 4.1,
+          "best_lay_size": 66.32,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 4.0,
+              "size": 12.17
+            },
+            {
+              "price": 3.95,
+              "size": 34.49
+            },
+            {
+              "price": 3.9,
+              "size": 35.47
+            },
+            {
+              "price": 3.85,
+              "size": 37.53
+            },
+            {
+              "price": 3.8,
+              "size": 48.4
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.1,
+              "size": 66.32
+            },
+            {
+              "price": 4.2,
+              "size": 57.79
+            },
+            {
+              "price": 4.3,
+              "size": 82.49
+            },
+            {
+              "price": 4.4,
+              "size": 67.41
+            },
+            {
+              "price": 4.5,
+              "size": 82.91
+            }
+          ],
+          "runner_matched_volume": 2229.01,
+          "last_price_traded": 4.0,
+          "market_prob": 0.24607,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 98996160,
+          "name": "2. Andy Win",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 2.48,
+          "best_back_size": 45.2,
+          "best_lay": 2.52,
+          "best_lay_size": 14.83,
+          "spread": 0.04,
+          "back_ladder": [
+            {
+              "price": 2.48,
+              "size": 45.2
+            },
+            {
+              "price": 2.46,
+              "size": 11.9
+            },
+            {
+              "price": 2.44,
+              "size": 13.54
+            },
+            {
+              "price": 2.42,
+              "size": 20.77
+            },
+            {
+              "price": 2.4,
+              "size": 24.69
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.52,
+              "size": 14.83
+            },
+            {
+              "price": 2.54,
+              "size": 44.18
+            },
+            {
+              "price": 2.56,
+              "size": 18.13
+            },
+            {
+              "price": 2.58,
+              "size": 129.79
+            },
+            {
+              "price": 2.6,
+              "size": 36.3
+            }
+          ],
+          "runner_matched_volume": 1926.49,
+          "last_price_traded": 2.48,
+          "market_prob": 0.396887,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 84431626,
+          "name": "3. Ardakan",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 3.0,
+          "best_back_size": 18.8,
+          "best_lay": 3.1,
+          "best_lay_size": 17.28,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 3.0,
+              "size": 18.8
+            },
+            {
+              "price": 2.98,
+              "size": 22.85
+            },
+            {
+              "price": 2.96,
+              "size": 34.64
+            },
+            {
+              "price": 2.94,
+              "size": 54.44
+            },
+            {
+              "price": 2.92,
+              "size": 54.38
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.1,
+              "size": 17.28
+            },
+            {
+              "price": 3.15,
+              "size": 47.43
+            },
+            {
+              "price": 3.2,
+              "size": 22.08
+            },
+            {
+              "price": 3.25,
+              "size": 29.52
+            },
+            {
+              "price": 3.3,
+              "size": 106.34
+            }
+          ],
+          "runner_matched_volume": 2122.03,
+          "last_price_traded": 3.1,
+          "market_prob": 0.328093,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 68712841,
+          "name": "4. Gambu",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 34.0,
+          "best_back_size": 15.38,
+          "best_lay": 40.0,
+          "best_lay_size": 1.54,
+          "spread": 6.0,
+          "back_ladder": [
+            {
+              "price": 34.0,
+              "size": 15.38
+            },
+            {
+              "price": 32.0,
+              "size": 10.43
+            },
+            {
+              "price": 30.0,
+              "size": 15.65
+            },
+            {
+              "price": 29.0,
+              "size": 17.18
+            },
+            {
+              "price": 28.0,
+              "size": 21.48
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 40.0,
+              "size": 1.54
+            },
+            {
+              "price": 42.0,
+              "size": 9.49
+            },
+            {
+              "price": 46.0,
+              "size": 1.93
+            },
+            {
+              "price": 48.0,
+              "size": 3.93
+            },
+            {
+              "price": 55.0,
+              "size": 7.92
+            }
+          ],
+          "runner_matched_volume": 99.71,
+          "last_price_traded": 36.0,
+          "market_prob": 0.028949,
+          "market_rank": 4
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T03:42:39.956241Z",
+      "seconds_to_off": 141,
+      "market_matched_volume": 10403.04,
+      "overround_pct": 100.9,
+      "runners": [
+        {
+          "selection_id": 43154256,
+          "name": "1. The Cunning Fox",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 3.4,
+          "best_back_size": 18.08,
+          "best_lay": 3.45,
+          "best_lay_size": 15.06,
+          "spread": 0.05,
+          "back_ladder": [
+            {
+              "price": 3.4,
+              "size": 18.08
+            },
+            {
+              "price": 3.35,
+              "size": 64.98
+            },
+            {
+              "price": 3.3,
+              "size": 92.08
+            },
+            {
+              "price": 3.25,
+              "size": 114.47
+            },
+            {
+              "price": 3.2,
+              "size": 272.56
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.45,
+              "size": 15.06
+            },
+            {
+              "price": 3.5,
+              "size": 34.89
+            },
+            {
+              "price": 3.55,
+              "size": 11.17
+            },
+            {
+              "price": 3.6,
+              "size": 31.04
+            },
+            {
+              "price": 3.65,
+              "size": 79.39
+            }
+          ],
+          "runner_matched_volume": 3554.52,
+          "last_price_traded": 3.4,
+          "market_prob": 0.291494,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 98996160,
+          "name": "2. Andy Win",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 2.66,
+          "best_back_size": 17.88,
+          "best_lay": 2.68,
+          "best_lay_size": 3.85,
+          "spread": 0.02,
+          "back_ladder": [
+            {
+              "price": 2.66,
+              "size": 17.88
+            },
+            {
+              "price": 2.64,
+              "size": 28.02
+            },
+            {
+              "price": 2.62,
+              "size": 33.56
+            },
+            {
+              "price": 2.6,
+              "size": 33.12
+            },
+            {
+              "price": 2.58,
+              "size": 109.6
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.68,
+              "size": 3.85
+            },
+            {
+              "price": 2.7,
+              "size": 24.91
+            },
+            {
+              "price": 2.72,
+              "size": 24.91
+            },
+            {
+              "price": 2.74,
+              "size": 33.04
+            },
+            {
+              "price": 2.76,
+              "size": 25.0
+            }
+          ],
+          "runner_matched_volume": 3178.68,
+          "last_price_traded": 2.64,
+          "market_prob": 0.372587,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 84431626,
+          "name": "3. Ardakan",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 3.25,
+          "best_back_size": 73.74,
+          "best_lay": 3.3,
+          "best_lay_size": 29.78,
+          "spread": 0.05,
+          "back_ladder": [
+            {
+              "price": 3.25,
+              "size": 73.74
+            },
+            {
+              "price": 3.2,
+              "size": 91.02
+            },
+            {
+              "price": 3.15,
+              "size": 134.18
+            },
+            {
+              "price": 3.1,
+              "size": 125.89
+            },
+            {
+              "price": 3.05,
+              "size": 86.88
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.3,
+              "size": 29.78
+            },
+            {
+              "price": 3.35,
+              "size": 273.35
+            },
+            {
+              "price": 3.4,
+              "size": 125.02
+            },
+            {
+              "price": 3.45,
+              "size": 19.12
+            },
+            {
+              "price": 3.5,
+              "size": 15.2
+            }
+          ],
+          "runner_matched_volume": 3503.93,
+          "last_price_traded": 3.3,
+          "market_prob": 0.304948,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 68712841,
+          "name": "4. Gambu",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 32.0,
+          "best_back_size": 9.06,
+          "best_lay": 34.0,
+          "best_lay_size": 3.03,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 32.0,
+              "size": 9.06
+            },
+            {
+              "price": 30.0,
+              "size": 28.45
+            },
+            {
+              "price": 29.0,
+              "size": 25.32
+            },
+            {
+              "price": 28.0,
+              "size": 23.04
+            },
+            {
+              "price": 27.0,
+              "size": 17.25
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 34.0,
+              "size": 3.03
+            },
+            {
+              "price": 36.0,
+              "size": 2.17
+            },
+            {
+              "price": 38.0,
+              "size": 6.9
+            },
+            {
+              "price": 40.0,
+              "size": 3.5
+            },
+            {
+              "price": 42.0,
+              "size": 10.94
+            }
+          ],
+          "runner_matched_volume": 165.89,
+          "last_price_traded": 34.0,
+          "market_prob": 0.030971,
+          "market_rank": 4
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T03:43:54.509360Z",
+      "seconds_to_off": 66,
+      "market_matched_volume": 16382.84,
+      "overround_pct": 101.0,
+      "runners": [
+        {
+          "selection_id": 43154256,
+          "name": "1. The Cunning Fox",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 3.4,
+          "best_back_size": 30.97,
+          "best_lay": 3.45,
+          "best_lay_size": 13.9,
+          "spread": 0.05,
+          "back_ladder": [
+            {
+              "price": 3.4,
+              "size": 30.97
+            },
+            {
+              "price": 3.35,
+              "size": 62.08
+            },
+            {
+              "price": 3.3,
+              "size": 113.33
+            },
+            {
+              "price": 3.25,
+              "size": 123.42
+            },
+            {
+              "price": 3.2,
+              "size": 217.14
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.45,
+              "size": 13.9
+            },
+            {
+              "price": 3.5,
+              "size": 58.7
+            },
+            {
+              "price": 3.55,
+              "size": 25.33
+            },
+            {
+              "price": 3.6,
+              "size": 55.84
+            },
+            {
+              "price": 3.65,
+              "size": 115.16
+            }
+          ],
+          "runner_matched_volume": 5377.48,
+          "last_price_traded": 3.45,
+          "market_prob": 0.291301,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 98996160,
+          "name": "2. Andy Win",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 2.52,
+          "best_back_size": 51.44,
+          "best_lay": 2.56,
+          "best_lay_size": 21.01,
+          "spread": 0.04,
+          "back_ladder": [
+            {
+              "price": 2.52,
+              "size": 51.44
+            },
+            {
+              "price": 2.5,
+              "size": 27.82
+            },
+            {
+              "price": 2.48,
+              "size": 59.83
+            },
+            {
+              "price": 2.46,
+              "size": 83.31
+            },
+            {
+              "price": 2.44,
+              "size": 127.84
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.56,
+              "size": 21.01
+            },
+            {
+              "price": 2.58,
+              "size": 24.97
+            },
+            {
+              "price": 2.6,
+              "size": 38.47
+            },
+            {
+              "price": 2.62,
+              "size": 17.86
+            },
+            {
+              "price": 2.64,
+              "size": 18.17
+            }
+          ],
+          "runner_matched_volume": 5095.81,
+          "last_price_traded": 2.52,
+          "market_prob": 0.393025,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 84431626,
+          "name": "3. Ardakan",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 3.55,
+          "best_back_size": 29.7,
+          "best_lay": 3.65,
+          "best_lay_size": 20.38,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 3.55,
+              "size": 29.7
+            },
+            {
+              "price": 3.5,
+              "size": 41.55
+            },
+            {
+              "price": 3.45,
+              "size": 56.15
+            },
+            {
+              "price": 3.4,
+              "size": 60.45
+            },
+            {
+              "price": 3.35,
+              "size": 155.88
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.65,
+              "size": 20.38
+            },
+            {
+              "price": 3.7,
+              "size": 24.98
+            },
+            {
+              "price": 3.75,
+              "size": 33.68
+            },
+            {
+              "price": 3.8,
+              "size": 34.15
+            },
+            {
+              "price": 3.85,
+              "size": 29.14
+            }
+          ],
+          "runner_matched_volume": 5502.17,
+          "last_price_traded": 3.6,
+          "market_prob": 0.278992,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 68712841,
+          "name": "4. Gambu",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 27.0,
+          "best_back_size": 5.34,
+          "best_lay": 28.0,
+          "best_lay_size": 2.32,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 27.0,
+              "size": 5.34
+            },
+            {
+              "price": 26.0,
+              "size": 22.95
+            },
+            {
+              "price": 25.0,
+              "size": 18.84
+            },
+            {
+              "price": 24.0,
+              "size": 28.53
+            },
+            {
+              "price": 23.0,
+              "size": 31.0
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 28.0,
+              "size": 2.32
+            },
+            {
+              "price": 29.0,
+              "size": 4.72
+            },
+            {
+              "price": 30.0,
+              "size": 20.16
+            },
+            {
+              "price": 32.0,
+              "size": 17.28
+            },
+            {
+              "price": 34.0,
+              "size": 10.83
+            }
+          ],
+          "runner_matched_volume": 407.37,
+          "last_price_traded": 28.0,
+          "market_prob": 0.036682,
+          "market_rank": 4
+        }
+      ]
+    }
+  ],
+  "finalized_at": "2026-07-12T03:50:21.675269Z"
+}
