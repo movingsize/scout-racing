@@ -1,0 +1,2944 @@
+{
+  "event_id": "alice-springs-2026-07-12-r4",
+  "market_id": "1.259900440",
+  "venue": "Alice Springs",
+  "race_name": "R4 1100m Hcap",
+  "start_time_utc": "2026-07-12T03:58:00.000Z",
+  "captured_by": "micro-series v1",
+  "field_size": 6,
+  "model_overlay": null,
+  "bsp": {
+    "82154753": {
+      "bsp": NaN,
+      "status": "REMOVED"
+    },
+    "81222735": {
+      "bsp": 4.11,
+      "status": "WINNER"
+    },
+    "78688831": {
+      "bsp": 4.56,
+      "status": "LOSER"
+    },
+    "50739965": {
+      "bsp": 4.05,
+      "status": "LOSER"
+    },
+    "38338361": {
+      "bsp": 6.69,
+      "status": "LOSER"
+    },
+    "62432665": {
+      "bsp": 17.0,
+      "status": "LOSER"
+    }
+  },
+  "result": {
+    "winner": "1. Chief White Sock",
+    "winner_bsp": 4.11,
+    "placings": [
+      "1. Chief White Sock",
+      "3. Bonny Impact"
+    ],
+    "settled_at": "2026-07-12T04:07:21.572270Z"
+  },
+  "frames": [
+    {
+      "at": "2026-07-12T03:48:08.950102Z",
+      "seconds_to_off": 592,
+      "market_matched_volume": 1449.06,
+      "overround_pct": 105.1,
+      "runners": [
+        {
+          "selection_id": 81222735,
+          "name": "1. Chief White Sock",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 4.3,
+          "best_back_size": 11.21,
+          "best_lay": 5.0,
+          "best_lay_size": 3.52,
+          "spread": 0.7,
+          "back_ladder": [
+            {
+              "price": 4.3,
+              "size": 11.21
+            },
+            {
+              "price": 4.1,
+              "size": 50.67
+            },
+            {
+              "price": 4.0,
+              "size": 49.92
+            },
+            {
+              "price": 3.95,
+              "size": 81.03
+            },
+            {
+              "price": 3.9,
+              "size": 118.19
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.0,
+              "size": 3.52
+            },
+            {
+              "price": 5.2,
+              "size": 40.74
+            },
+            {
+              "price": 5.3,
+              "size": 30.3
+            },
+            {
+              "price": 5.4,
+              "size": 28.3
+            },
+            {
+              "price": 5.5,
+              "size": 36.43
+            }
+          ],
+          "runner_matched_volume": 498.65,
+          "last_price_traded": 4.4,
+          "market_prob": 0.221343,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 82154753,
+          "name": "2. Zuetoro",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 3.3,
+          "best_back_size": 5.88,
+          "best_lay": 3.7,
+          "best_lay_size": 5.26,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 3.3,
+              "size": 5.88
+            },
+            {
+              "price": 3.25,
+              "size": 10.3
+            },
+            {
+              "price": 3.15,
+              "size": 83.88
+            },
+            {
+              "price": 3.1,
+              "size": 55.23
+            },
+            {
+              "price": 3.05,
+              "size": 67.9
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.7,
+              "size": 5.26
+            },
+            {
+              "price": 3.75,
+              "size": 10.36
+            },
+            {
+              "price": 3.8,
+              "size": 3.87
+            },
+            {
+              "price": 3.85,
+              "size": 56.03
+            },
+            {
+              "price": 3.9,
+              "size": 48.2
+            }
+          ],
+          "runner_matched_volume": 22.05,
+          "last_price_traded": 3.45,
+          "market_prob": 0.288416,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 78688831,
+          "name": "3. Bonny Impact",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 5.8,
+          "best_back_size": 6.46,
+          "best_lay": 6.0,
+          "best_lay_size": 2.92,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 5.8,
+              "size": 6.46
+            },
+            {
+              "price": 5.4,
+              "size": 26.37
+            },
+            {
+              "price": 5.3,
+              "size": 86.88
+            },
+            {
+              "price": 5.2,
+              "size": 37.02
+            },
+            {
+              "price": 5.1,
+              "size": 38.25
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.0,
+              "size": 2.92
+            },
+            {
+              "price": 6.2,
+              "size": 18.51
+            },
+            {
+              "price": 6.4,
+              "size": 28.86
+            },
+            {
+              "price": 6.6,
+              "size": 25.0
+            },
+            {
+              "price": 6.8,
+              "size": 27.3
+            }
+          ],
+          "runner_matched_volume": 566.09,
+          "last_price_traded": 5.9,
+          "market_prob": 0.164099,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 50739965,
+          "name": "4. Boss Shelby",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 7.4,
+          "best_back_size": 4.54,
+          "best_lay": 8.2,
+          "best_lay_size": 12.9,
+          "spread": 0.8,
+          "back_ladder": [
+            {
+              "price": 7.4,
+              "size": 4.54
+            },
+            {
+              "price": 7.0,
+              "size": 39.9
+            },
+            {
+              "price": 6.8,
+              "size": 25.07
+            },
+            {
+              "price": 6.6,
+              "size": 26.77
+            },
+            {
+              "price": 6.4,
+              "size": 60.37
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.2,
+              "size": 12.9
+            },
+            {
+              "price": 8.4,
+              "size": 12.41
+            },
+            {
+              "price": 8.6,
+              "size": 5.82
+            },
+            {
+              "price": 8.8,
+              "size": 16.8
+            },
+            {
+              "price": 9.0,
+              "size": 24.52
+            }
+          ],
+          "runner_matched_volume": 338.07,
+          "last_price_traded": 7.6,
+          "market_prob": 0.128618,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 38338361,
+          "name": "5. Arrogant Miss",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 6.4,
+          "best_back_size": 25.72,
+          "best_lay": 8.2,
+          "best_lay_size": 4.39,
+          "spread": 1.8,
+          "back_ladder": [
+            {
+              "price": 6.4,
+              "size": 25.72
+            },
+            {
+              "price": 6.2,
+              "size": 45.75
+            },
+            {
+              "price": 6.0,
+              "size": 31.87
+            },
+            {
+              "price": 5.9,
+              "size": 25.31
+            },
+            {
+              "price": 5.8,
+              "size": 68.36
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.2,
+              "size": 4.39
+            },
+            {
+              "price": 8.4,
+              "size": 10.7
+            },
+            {
+              "price": 8.6,
+              "size": 15.25
+            },
+            {
+              "price": 8.8,
+              "size": 12.64
+            },
+            {
+              "price": 9.0,
+              "size": 16.72
+            }
+          ],
+          "runner_matched_volume": 23.81,
+          "last_price_traded": 6.8,
+          "market_prob": 0.148715,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 62432665,
+          "name": "6. Taormina Duchess",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 19.5,
+          "best_back_size": 1.55,
+          "best_lay": 29.0,
+          "best_lay_size": 2.0,
+          "spread": 9.5,
+          "back_ladder": [
+            {
+              "price": 19.5,
+              "size": 1.55
+            },
+            {
+              "price": 19.0,
+              "size": 9.13
+            },
+            {
+              "price": 18.5,
+              "size": 16.47
+            },
+            {
+              "price": 18.0,
+              "size": 12.3
+            },
+            {
+              "price": 17.5,
+              "size": 14.75
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 29.0,
+              "size": 2.0
+            },
+            {
+              "price": 30.0,
+              "size": 5.53
+            },
+            {
+              "price": 32.0,
+              "size": 2.52
+            },
+            {
+              "price": 34.0,
+              "size": 7.2
+            },
+            {
+              "price": 36.0,
+              "size": 6.38
+            }
+          ],
+          "runner_matched_volume": 0.36,
+          "last_price_traded": 19.5,
+          "market_prob": 0.048809,
+          "market_rank": 6
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T03:49:41.944306Z",
+      "seconds_to_off": 499,
+      "market_matched_volume": 1733.51,
+      "overround_pct": 107.0,
+      "runners": [
+        {
+          "selection_id": 81222735,
+          "name": "1. Chief White Sock",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 4.1,
+          "best_back_size": 13.26,
+          "best_lay": 4.7,
+          "best_lay_size": 4.72,
+          "spread": 0.6,
+          "back_ladder": [
+            {
+              "price": 4.1,
+              "size": 13.26
+            },
+            {
+              "price": 4.0,
+              "size": 6.07
+            },
+            {
+              "price": 3.95,
+              "size": 41.71
+            },
+            {
+              "price": 3.9,
+              "size": 45.78
+            },
+            {
+              "price": 3.85,
+              "size": 122.67
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.7,
+              "size": 4.72
+            },
+            {
+              "price": 4.8,
+              "size": 6.11
+            },
+            {
+              "price": 4.9,
+              "size": 57.65
+            },
+            {
+              "price": 5.0,
+              "size": 30.93
+            },
+            {
+              "price": 5.1,
+              "size": 30.22
+            }
+          ],
+          "runner_matched_volume": 524.48,
+          "last_price_traded": 4.4,
+          "market_prob": 0.227902,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 82154753,
+          "name": "2. Zuetoro",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 3.35,
+          "best_back_size": 23.41,
+          "best_lay": 3.7,
+          "best_lay_size": 1.93,
+          "spread": 0.35,
+          "back_ladder": [
+            {
+              "price": 3.35,
+              "size": 23.41
+            },
+            {
+              "price": 3.3,
+              "size": 18.4
+            },
+            {
+              "price": 3.25,
+              "size": 10.3
+            },
+            {
+              "price": 3.15,
+              "size": 64.75
+            },
+            {
+              "price": 3.1,
+              "size": 76.93
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.7,
+              "size": 1.93
+            },
+            {
+              "price": 3.75,
+              "size": 10.36
+            },
+            {
+              "price": 3.8,
+              "size": 3.87
+            },
+            {
+              "price": 3.85,
+              "size": 56.03
+            },
+            {
+              "price": 3.9,
+              "size": 48.2
+            }
+          ],
+          "runner_matched_volume": 22.05,
+          "last_price_traded": 3.45,
+          "market_prob": 0.278925,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 78688831,
+          "name": "3. Bonny Impact",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 5.8,
+          "best_back_size": 4.41,
+          "best_lay": 6.0,
+          "best_lay_size": 13.18,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 5.8,
+              "size": 4.41
+            },
+            {
+              "price": 5.4,
+              "size": 31.75
+            },
+            {
+              "price": 5.3,
+              "size": 38.04
+            },
+            {
+              "price": 5.2,
+              "size": 37.02
+            },
+            {
+              "price": 5.1,
+              "size": 38.25
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.0,
+              "size": 13.18
+            },
+            {
+              "price": 6.2,
+              "size": 27.99
+            },
+            {
+              "price": 6.4,
+              "size": 28.86
+            },
+            {
+              "price": 6.6,
+              "size": 25.0
+            },
+            {
+              "price": 6.8,
+              "size": 35.81
+            }
+          ],
+          "runner_matched_volume": 664.93,
+          "last_price_traded": 5.9,
+          "market_prob": 0.161103,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 50739965,
+          "name": "4. Boss Shelby",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 6.6,
+          "best_back_size": 4.06,
+          "best_lay": 7.4,
+          "best_lay_size": 12.53,
+          "spread": 0.8,
+          "back_ladder": [
+            {
+              "price": 6.6,
+              "size": 4.06
+            },
+            {
+              "price": 6.4,
+              "size": 25.35
+            },
+            {
+              "price": 6.2,
+              "size": 80.18
+            },
+            {
+              "price": 6.0,
+              "size": 27.07
+            },
+            {
+              "price": 5.9,
+              "size": 23.66
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.4,
+              "size": 12.53
+            },
+            {
+              "price": 7.6,
+              "size": 9.67
+            },
+            {
+              "price": 7.8,
+              "size": 20.45
+            },
+            {
+              "price": 8.0,
+              "size": 16.57
+            },
+            {
+              "price": 8.2,
+              "size": 19.33
+            }
+          ],
+          "runner_matched_volume": 497.84,
+          "last_price_traded": 6.6,
+          "market_prob": 0.141575,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 38338361,
+          "name": "5. Arrogant Miss",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 6.4,
+          "best_back_size": 49.16,
+          "best_lay": 8.2,
+          "best_lay_size": 4.39,
+          "spread": 1.8,
+          "back_ladder": [
+            {
+              "price": 6.4,
+              "size": 49.16
+            },
+            {
+              "price": 6.2,
+              "size": 22.31
+            },
+            {
+              "price": 6.0,
+              "size": 31.87
+            },
+            {
+              "price": 5.9,
+              "size": 25.31
+            },
+            {
+              "price": 5.8,
+              "size": 68.36
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.2,
+              "size": 4.39
+            },
+            {
+              "price": 8.4,
+              "size": 10.7
+            },
+            {
+              "price": 8.6,
+              "size": 15.25
+            },
+            {
+              "price": 8.8,
+              "size": 31.98
+            },
+            {
+              "price": 9.0,
+              "size": 16.72
+            }
+          ],
+          "runner_matched_volume": 23.81,
+          "last_price_traded": 6.8,
+          "market_prob": 0.146,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 62432665,
+          "name": "6. Taormina Duchess",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 21.0,
+          "best_back_size": 6.0,
+          "best_lay": 29.0,
+          "best_lay_size": 2.0,
+          "spread": 8.0,
+          "back_ladder": [
+            {
+              "price": 21.0,
+              "size": 6.0
+            },
+            {
+              "price": 20.0,
+              "size": 5.39
+            },
+            {
+              "price": 19.5,
+              "size": 5.73
+            },
+            {
+              "price": 19.0,
+              "size": 8.37
+            },
+            {
+              "price": 18.5,
+              "size": 18.41
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 29.0,
+              "size": 2.0
+            },
+            {
+              "price": 30.0,
+              "size": 25.87
+            },
+            {
+              "price": 32.0,
+              "size": 4.45
+            },
+            {
+              "price": 34.0,
+              "size": 9.13
+            },
+            {
+              "price": 36.0,
+              "size": 8.89
+            }
+          ],
+          "runner_matched_volume": 0.36,
+          "last_price_traded": 19.5,
+          "market_prob": 0.044495,
+          "market_rank": 6
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T03:51:06.125143Z",
+      "seconds_to_off": 414,
+      "market_matched_volume": 1852.67,
+      "overround_pct": 106.3,
+      "runners": [
+        {
+          "selection_id": 81222735,
+          "name": "1. Chief White Sock",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 4.1,
+          "best_back_size": 11.33,
+          "best_lay": 4.6,
+          "best_lay_size": 1.48,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 4.1,
+              "size": 11.33
+            },
+            {
+              "price": 4.0,
+              "size": 31.78
+            },
+            {
+              "price": 3.95,
+              "size": 5.78
+            },
+            {
+              "price": 3.9,
+              "size": 45.78
+            },
+            {
+              "price": 3.85,
+              "size": 140.61
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.6,
+              "size": 1.48
+            },
+            {
+              "price": 4.7,
+              "size": 1.39
+            },
+            {
+              "price": 4.8,
+              "size": 6.11
+            },
+            {
+              "price": 4.9,
+              "size": 57.65
+            },
+            {
+              "price": 5.0,
+              "size": 30.93
+            }
+          ],
+          "runner_matched_volume": 555.02,
+          "last_price_traded": 4.3,
+          "market_prob": 0.22947,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 82154753,
+          "name": "2. Zuetoro",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 3.4,
+          "best_back_size": 6.59,
+          "best_lay": 3.8,
+          "best_lay_size": 8.0,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 3.4,
+              "size": 6.59
+            },
+            {
+              "price": 3.35,
+              "size": 23.41
+            },
+            {
+              "price": 3.25,
+              "size": 61.87
+            },
+            {
+              "price": 3.2,
+              "size": 55.74
+            },
+            {
+              "price": 3.15,
+              "size": 64.75
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.8,
+              "size": 8.0
+            },
+            {
+              "price": 3.85,
+              "size": 12.01
+            },
+            {
+              "price": 3.9,
+              "size": 4.87
+            },
+            {
+              "price": 3.95,
+              "size": 43.19
+            },
+            {
+              "price": 4.0,
+              "size": 40.6
+            }
+          ],
+          "runner_matched_volume": 38.91,
+          "last_price_traded": 3.75,
+          "market_prob": 0.276714,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 78688831,
+          "name": "3. Bonny Impact",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 5.9,
+          "best_back_size": 4.75,
+          "best_lay": 6.2,
+          "best_lay_size": 1.93,
+          "spread": 0.3,
+          "back_ladder": [
+            {
+              "price": 5.9,
+              "size": 4.75
+            },
+            {
+              "price": 5.6,
+              "size": 5.05
+            },
+            {
+              "price": 5.5,
+              "size": 25.77
+            },
+            {
+              "price": 5.4,
+              "size": 31.65
+            },
+            {
+              "price": 5.3,
+              "size": 26.97
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.2,
+              "size": 1.93
+            },
+            {
+              "price": 6.4,
+              "size": 28.86
+            },
+            {
+              "price": 6.6,
+              "size": 26.93
+            },
+            {
+              "price": 6.8,
+              "size": 29.23
+            },
+            {
+              "price": 7.0,
+              "size": 21.27
+            }
+          ],
+          "runner_matched_volume": 696.04,
+          "last_price_traded": 6.0,
+          "market_prob": 0.159462,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 50739965,
+          "name": "4. Boss Shelby",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 6.4,
+          "best_back_size": 3.87,
+          "best_lay": 7.2,
+          "best_lay_size": 4.0,
+          "spread": 0.8,
+          "back_ladder": [
+            {
+              "price": 6.4,
+              "size": 3.87
+            },
+            {
+              "price": 6.2,
+              "size": 30.49
+            },
+            {
+              "price": 6.0,
+              "size": 27.21
+            },
+            {
+              "price": 5.9,
+              "size": 66.52
+            },
+            {
+              "price": 5.8,
+              "size": 24.17
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.2,
+              "size": 4.0
+            },
+            {
+              "price": 7.4,
+              "size": 13.3
+            },
+            {
+              "price": 7.6,
+              "size": 19.51
+            },
+            {
+              "price": 7.8,
+              "size": 20.45
+            },
+            {
+              "price": 8.0,
+              "size": 16.57
+            }
+          ],
+          "runner_matched_volume": 526.01,
+          "last_price_traded": 6.6,
+          "market_prob": 0.147004,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 38338361,
+          "name": "5. Arrogant Miss",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 6.6,
+          "best_back_size": 18.39,
+          "best_lay": 7.6,
+          "best_lay_size": 2.0,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 6.6,
+              "size": 18.39
+            },
+            {
+              "price": 6.4,
+              "size": 4.29
+            },
+            {
+              "price": 6.2,
+              "size": 63.57
+            },
+            {
+              "price": 6.0,
+              "size": 24.8
+            },
+            {
+              "price": 5.9,
+              "size": 23.66
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.6,
+              "size": 2.0
+            },
+            {
+              "price": 7.8,
+              "size": 3.71
+            },
+            {
+              "price": 8.0,
+              "size": 13.38
+            },
+            {
+              "price": 8.2,
+              "size": 16.1
+            },
+            {
+              "price": 8.4,
+              "size": 18.81
+            }
+          ],
+          "runner_matched_volume": 36.31,
+          "last_price_traded": 8.0,
+          "market_prob": 0.142549,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 62432665,
+          "name": "6. Taormina Duchess",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 21.0,
+          "best_back_size": 6.02,
+          "best_lay": 28.0,
+          "best_lay_size": 2.0,
+          "spread": 7.0,
+          "back_ladder": [
+            {
+              "price": 21.0,
+              "size": 6.02
+            },
+            {
+              "price": 19.0,
+              "size": 8.37
+            },
+            {
+              "price": 18.5,
+              "size": 11.99
+            },
+            {
+              "price": 18.0,
+              "size": 20.67
+            },
+            {
+              "price": 17.5,
+              "size": 14.75
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 28.0,
+              "size": 2.0
+            },
+            {
+              "price": 29.0,
+              "size": 2.0
+            },
+            {
+              "price": 30.0,
+              "size": 25.87
+            },
+            {
+              "price": 32.0,
+              "size": 2.84
+            },
+            {
+              "price": 34.0,
+              "size": 7.73
+            }
+          ],
+          "runner_matched_volume": 0.36,
+          "last_price_traded": 19.5,
+          "market_prob": 0.044801,
+          "market_rank": 6
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T03:52:21.130018Z",
+      "seconds_to_off": 339,
+      "market_matched_volume": 1939.4,
+      "overround_pct": 105.6,
+      "runners": [
+        {
+          "selection_id": 81222735,
+          "name": "1. Chief White Sock",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 4.1,
+          "best_back_size": 11.33,
+          "best_lay": 4.6,
+          "best_lay_size": 1.9,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 4.1,
+              "size": 11.33
+            },
+            {
+              "price": 4.0,
+              "size": 6.07
+            },
+            {
+              "price": 3.95,
+              "size": 5.78
+            },
+            {
+              "price": 3.9,
+              "size": 45.78
+            },
+            {
+              "price": 3.85,
+              "size": 46.48
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.6,
+              "size": 1.9
+            },
+            {
+              "price": 4.7,
+              "size": 1.39
+            },
+            {
+              "price": 4.8,
+              "size": 6.11
+            },
+            {
+              "price": 4.9,
+              "size": 57.65
+            },
+            {
+              "price": 5.0,
+              "size": 41.36
+            }
+          ],
+          "runner_matched_volume": 555.02,
+          "last_price_traded": 4.3,
+          "market_prob": 0.230972,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 82154753,
+          "name": "2. Zuetoro",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 3.5,
+          "best_back_size": 5.55,
+          "best_lay": 3.85,
+          "best_lay_size": 1.28,
+          "spread": 0.35,
+          "back_ladder": [
+            {
+              "price": 3.5,
+              "size": 5.55
+            },
+            {
+              "price": 3.45,
+              "size": 9.47
+            },
+            {
+              "price": 3.35,
+              "size": 24.3
+            },
+            {
+              "price": 3.3,
+              "size": 50.44
+            },
+            {
+              "price": 3.25,
+              "size": 64.84
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.85,
+              "size": 1.28
+            },
+            {
+              "price": 3.9,
+              "size": 1.0
+            },
+            {
+              "price": 3.95,
+              "size": 3.87
+            },
+            {
+              "price": 4.0,
+              "size": 50.17
+            },
+            {
+              "price": 4.1,
+              "size": 50.45
+            }
+          ],
+          "runner_matched_volume": 80.95,
+          "last_price_traded": 3.85,
+          "market_prob": 0.270567,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 78688831,
+          "name": "3. Bonny Impact",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 5.7,
+          "best_back_size": 5.82,
+          "best_lay": 5.9,
+          "best_lay_size": 1.99,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 5.7,
+              "size": 5.82
+            },
+            {
+              "price": 5.4,
+              "size": 33.58
+            },
+            {
+              "price": 5.3,
+              "size": 77.74
+            },
+            {
+              "price": 5.2,
+              "size": 63.08
+            },
+            {
+              "price": 5.1,
+              "size": 44.13
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.9,
+              "size": 1.99
+            },
+            {
+              "price": 6.0,
+              "size": 4.64
+            },
+            {
+              "price": 6.2,
+              "size": 26.39
+            },
+            {
+              "price": 6.4,
+              "size": 30.8
+            },
+            {
+              "price": 6.6,
+              "size": 36.53
+            }
+          ],
+          "runner_matched_volume": 726.22,
+          "last_price_traded": 5.8,
+          "market_prob": 0.166138,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 50739965,
+          "name": "4. Boss Shelby",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 6.4,
+          "best_back_size": 3.83,
+          "best_lay": 7.4,
+          "best_lay_size": 13.3,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 6.4,
+              "size": 3.83
+            },
+            {
+              "price": 6.2,
+              "size": 28.11
+            },
+            {
+              "price": 6.0,
+              "size": 37.21
+            },
+            {
+              "price": 5.9,
+              "size": 33.66
+            },
+            {
+              "price": 5.8,
+              "size": 67.92
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.4,
+              "size": 13.3
+            },
+            {
+              "price": 7.6,
+              "size": 1.93
+            },
+            {
+              "price": 7.8,
+              "size": 20.45
+            },
+            {
+              "price": 8.0,
+              "size": 16.57
+            },
+            {
+              "price": 8.2,
+              "size": 19.33
+            }
+          ],
+          "runner_matched_volume": 536.5,
+          "last_price_traded": 6.4,
+          "market_prob": 0.147966,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 38338361,
+          "name": "5. Arrogant Miss",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 6.8,
+          "best_back_size": 12.49,
+          "best_lay": 7.6,
+          "best_lay_size": 2.0,
+          "spread": 0.8,
+          "back_ladder": [
+            {
+              "price": 6.8,
+              "size": 12.49
+            },
+            {
+              "price": 6.6,
+              "size": 9.46
+            },
+            {
+              "price": 6.4,
+              "size": 29.21
+            },
+            {
+              "price": 6.2,
+              "size": 76.83
+            },
+            {
+              "price": 6.0,
+              "size": 78.46
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.6,
+              "size": 2.0
+            },
+            {
+              "price": 7.8,
+              "size": 3.71
+            },
+            {
+              "price": 8.0,
+              "size": 28.84
+            },
+            {
+              "price": 8.2,
+              "size": 16.1
+            },
+            {
+              "price": 8.4,
+              "size": 26.33
+            }
+          ],
+          "runner_matched_volume": 40.31,
+          "last_price_traded": 7.6,
+          "market_prob": 0.139262,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 62432665,
+          "name": "6. Taormina Duchess",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 21.0,
+          "best_back_size": 6.02,
+          "best_lay": 28.0,
+          "best_lay_size": 2.0,
+          "spread": 7.0,
+          "back_ladder": [
+            {
+              "price": 21.0,
+              "size": 6.02
+            },
+            {
+              "price": 20.0,
+              "size": 5.83
+            },
+            {
+              "price": 19.5,
+              "size": 5.83
+            },
+            {
+              "price": 19.0,
+              "size": 8.37
+            },
+            {
+              "price": 18.5,
+              "size": 11.99
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 28.0,
+              "size": 2.0
+            },
+            {
+              "price": 29.0,
+              "size": 2.0
+            },
+            {
+              "price": 30.0,
+              "size": 3.87
+            },
+            {
+              "price": 32.0,
+              "size": 2.84
+            },
+            {
+              "price": 34.0,
+              "size": 29.73
+            }
+          ],
+          "runner_matched_volume": 0.36,
+          "last_price_traded": 19.5,
+          "market_prob": 0.045095,
+          "market_rank": 6
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T03:53:36.173719Z",
+      "seconds_to_off": 264,
+      "market_matched_volume": 6533.23,
+      "overround_pct": 102.8,
+      "runners": [
+        {
+          "selection_id": 81222735,
+          "name": "1. Chief White Sock",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 4.7,
+          "best_back_size": 3.15,
+          "best_lay": 5.0,
+          "best_lay_size": 2.75,
+          "spread": 0.3,
+          "back_ladder": [
+            {
+              "price": 4.7,
+              "size": 3.15
+            },
+            {
+              "price": 4.6,
+              "size": 9.53
+            },
+            {
+              "price": 4.5,
+              "size": 42.9
+            },
+            {
+              "price": 4.4,
+              "size": 43.92
+            },
+            {
+              "price": 4.3,
+              "size": 63.26
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.0,
+              "size": 2.75
+            },
+            {
+              "price": 5.1,
+              "size": 7.17
+            },
+            {
+              "price": 5.2,
+              "size": 71.33
+            },
+            {
+              "price": 5.3,
+              "size": 42.09
+            },
+            {
+              "price": 5.4,
+              "size": 68.51
+            }
+          ],
+          "runner_matched_volume": 958.72,
+          "last_price_traded": 4.9,
+          "market_prob": 0.207071,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 82154753,
+          "name": "2. Zuetoro",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 4.2,
+          "best_back_size": 42.8,
+          "best_lay": 4.3,
+          "best_lay_size": 10.36,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 4.2,
+              "size": 42.8
+            },
+            {
+              "price": 4.1,
+              "size": 34.79
+            },
+            {
+              "price": 4.0,
+              "size": 67.23
+            },
+            {
+              "price": 3.95,
+              "size": 61.3
+            },
+            {
+              "price": 3.9,
+              "size": 41.93
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.3,
+              "size": 10.36
+            },
+            {
+              "price": 4.4,
+              "size": 14.36
+            },
+            {
+              "price": 4.5,
+              "size": 9.47
+            },
+            {
+              "price": 4.6,
+              "size": 54.31
+            },
+            {
+              "price": 4.7,
+              "size": 52.09
+            }
+          ],
+          "runner_matched_volume": 1491.98,
+          "last_price_traded": 4.3,
+          "market_prob": 0.231722,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 78688831,
+          "name": "3. Bonny Impact",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 4.9,
+          "best_back_size": 15.62,
+          "best_lay": 5.0,
+          "best_lay_size": 19.51,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 4.9,
+              "size": 15.62
+            },
+            {
+              "price": 4.8,
+              "size": 22.82
+            },
+            {
+              "price": 4.7,
+              "size": 51.95
+            },
+            {
+              "price": 4.6,
+              "size": 39.05
+            },
+            {
+              "price": 4.5,
+              "size": 90.57
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.0,
+              "size": 19.51
+            },
+            {
+              "price": 5.1,
+              "size": 11.5
+            },
+            {
+              "price": 5.2,
+              "size": 19.02
+            },
+            {
+              "price": 5.3,
+              "size": 43.6
+            },
+            {
+              "price": 5.4,
+              "size": 45.03
+            }
+          ],
+          "runner_matched_volume": 2257.44,
+          "last_price_traded": 4.9,
+          "market_prob": 0.198619,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 50739965,
+          "name": "4. Boss Shelby",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 4.9,
+          "best_back_size": 27.36,
+          "best_lay": 5.1,
+          "best_lay_size": 3.92,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 4.9,
+              "size": 27.36
+            },
+            {
+              "price": 4.8,
+              "size": 25.43
+            },
+            {
+              "price": 4.7,
+              "size": 80.1
+            },
+            {
+              "price": 4.6,
+              "size": 60.93
+            },
+            {
+              "price": 4.5,
+              "size": 53.0
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.1,
+              "size": 3.92
+            },
+            {
+              "price": 5.2,
+              "size": 12.22
+            },
+            {
+              "price": 5.3,
+              "size": 3.67
+            },
+            {
+              "price": 5.4,
+              "size": 35.16
+            },
+            {
+              "price": 5.5,
+              "size": 35.52
+            }
+          ],
+          "runner_matched_volume": 1609.29,
+          "last_price_traded": 5.1,
+          "market_prob": 0.198619,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 38338361,
+          "name": "5. Arrogant Miss",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 8.0,
+          "best_back_size": 6.98,
+          "best_lay": 8.4,
+          "best_lay_size": 3.04,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 8.0,
+              "size": 6.98
+            },
+            {
+              "price": 7.8,
+              "size": 46.76
+            },
+            {
+              "price": 7.6,
+              "size": 6.15
+            },
+            {
+              "price": 7.4,
+              "size": 24.48
+            },
+            {
+              "price": 7.2,
+              "size": 43.85
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.4,
+              "size": 3.04
+            },
+            {
+              "price": 8.6,
+              "size": 8.67
+            },
+            {
+              "price": 8.8,
+              "size": 31.98
+            },
+            {
+              "price": 9.0,
+              "size": 14.5
+            },
+            {
+              "price": 9.2,
+              "size": 14.15
+            }
+          ],
+          "runner_matched_volume": 211.28,
+          "last_price_traded": 8.4,
+          "market_prob": 0.121654,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 62432665,
+          "name": "6. Taormina Duchess",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 23.0,
+          "best_back_size": 7.39,
+          "best_lay": 30.0,
+          "best_lay_size": 4.06,
+          "spread": 7.0,
+          "back_ladder": [
+            {
+              "price": 23.0,
+              "size": 7.39
+            },
+            {
+              "price": 21.0,
+              "size": 6.09
+            },
+            {
+              "price": 20.0,
+              "size": 18.88
+            },
+            {
+              "price": 19.5,
+              "size": 5.83
+            },
+            {
+              "price": 19.0,
+              "size": 18.87
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 30.0,
+              "size": 4.06
+            },
+            {
+              "price": 32.0,
+              "size": 4.78
+            },
+            {
+              "price": 34.0,
+              "size": 58.31
+            },
+            {
+              "price": 36.0,
+              "size": 15.77
+            },
+            {
+              "price": 38.0,
+              "size": 19.13
+            }
+          ],
+          "runner_matched_volume": 4.48,
+          "last_price_traded": 28.0,
+          "market_prob": 0.042314,
+          "market_rank": 6
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T03:55:06.028318Z",
+      "seconds_to_off": 174,
+      "market_matched_volume": 14965.02,
+      "overround_pct": 101.4,
+      "runners": [
+        {
+          "selection_id": 81222735,
+          "name": "1. Chief White Sock",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 5.1,
+          "best_back_size": 4.52,
+          "best_lay": 5.2,
+          "best_lay_size": 17.45,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.1,
+              "size": 4.52
+            },
+            {
+              "price": 5.0,
+              "size": 15.76
+            },
+            {
+              "price": 4.9,
+              "size": 50.44
+            },
+            {
+              "price": 4.8,
+              "size": 18.39
+            },
+            {
+              "price": 4.7,
+              "size": 60.2
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.2,
+              "size": 17.45
+            },
+            {
+              "price": 5.3,
+              "size": 27.55
+            },
+            {
+              "price": 5.4,
+              "size": 52.4
+            },
+            {
+              "price": 5.5,
+              "size": 95.49
+            },
+            {
+              "price": 5.6,
+              "size": 69.31
+            }
+          ],
+          "runner_matched_volume": 2249.0,
+          "last_price_traded": 5.1,
+          "market_prob": 0.193423,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 82154753,
+          "name": "2. Zuetoro",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 3.75,
+          "best_back_size": 84.33,
+          "best_lay": 3.8,
+          "best_lay_size": 111.77,
+          "spread": 0.05,
+          "back_ladder": [
+            {
+              "price": 3.75,
+              "size": 84.33
+            },
+            {
+              "price": 3.7,
+              "size": 43.08
+            },
+            {
+              "price": 3.65,
+              "size": 65.81
+            },
+            {
+              "price": 3.6,
+              "size": 108.72
+            },
+            {
+              "price": 3.55,
+              "size": 140.66
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.8,
+              "size": 111.77
+            },
+            {
+              "price": 3.85,
+              "size": 238.44
+            },
+            {
+              "price": 3.9,
+              "size": 23.91
+            },
+            {
+              "price": 3.95,
+              "size": 79.66
+            },
+            {
+              "price": 4.0,
+              "size": 42.02
+            }
+          ],
+          "runner_matched_volume": 5875.13,
+          "last_price_traded": 3.8,
+          "market_prob": 0.263055,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 78688831,
+          "name": "3. Bonny Impact",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 5.0,
+          "best_back_size": 47.82,
+          "best_lay": 5.1,
+          "best_lay_size": 8.84,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.0,
+              "size": 47.82
+            },
+            {
+              "price": 4.9,
+              "size": 39.93
+            },
+            {
+              "price": 4.8,
+              "size": 42.13
+            },
+            {
+              "price": 4.7,
+              "size": 90.25
+            },
+            {
+              "price": 4.6,
+              "size": 123.5
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.1,
+              "size": 8.84
+            },
+            {
+              "price": 5.2,
+              "size": 23.87
+            },
+            {
+              "price": 5.3,
+              "size": 75.66
+            },
+            {
+              "price": 5.4,
+              "size": 50.83
+            },
+            {
+              "price": 5.5,
+              "size": 66.0
+            }
+          ],
+          "runner_matched_volume": 2865.9,
+          "last_price_traded": 5.1,
+          "market_prob": 0.197291,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 50739965,
+          "name": "4. Boss Shelby",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 5.8,
+          "best_back_size": 26.35,
+          "best_lay": 5.9,
+          "best_lay_size": 4.83,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.8,
+              "size": 26.35
+            },
+            {
+              "price": 5.7,
+              "size": 12.97
+            },
+            {
+              "price": 5.6,
+              "size": 44.65
+            },
+            {
+              "price": 5.5,
+              "size": 61.93
+            },
+            {
+              "price": 5.4,
+              "size": 105.18
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.9,
+              "size": 4.83
+            },
+            {
+              "price": 6.0,
+              "size": 52.05
+            },
+            {
+              "price": 6.2,
+              "size": 23.72
+            },
+            {
+              "price": 6.4,
+              "size": 22.79
+            },
+            {
+              "price": 6.6,
+              "size": 92.36
+            }
+          ],
+          "runner_matched_volume": 2799.13,
+          "last_price_traded": 5.9,
+          "market_prob": 0.170079,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 38338361,
+          "name": "5. Arrogant Miss",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 7.0,
+          "best_back_size": 51.99,
+          "best_lay": 7.4,
+          "best_lay_size": 114.55,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 7.0,
+              "size": 51.99
+            },
+            {
+              "price": 6.8,
+              "size": 33.97
+            },
+            {
+              "price": 6.6,
+              "size": 54.51
+            },
+            {
+              "price": 6.4,
+              "size": 78.84
+            },
+            {
+              "price": 6.2,
+              "size": 124.76
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.4,
+              "size": 114.55
+            },
+            {
+              "price": 7.6,
+              "size": 8.57
+            },
+            {
+              "price": 7.8,
+              "size": 8.73
+            },
+            {
+              "price": 8.0,
+              "size": 30.63
+            },
+            {
+              "price": 8.2,
+              "size": 67.88
+            }
+          ],
+          "runner_matched_volume": 1089.96,
+          "last_price_traded": 7.2,
+          "market_prob": 0.140922,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 62432665,
+          "name": "6. Taormina Duchess",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 28.0,
+          "best_back_size": 7.09,
+          "best_lay": 29.0,
+          "best_lay_size": 2.67,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 28.0,
+              "size": 7.09
+            },
+            {
+              "price": 27.0,
+              "size": 2.32
+            },
+            {
+              "price": 26.0,
+              "size": 12.61
+            },
+            {
+              "price": 25.0,
+              "size": 14.8
+            },
+            {
+              "price": 24.0,
+              "size": 10.16
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 29.0,
+              "size": 2.67
+            },
+            {
+              "price": 30.0,
+              "size": 2.75
+            },
+            {
+              "price": 32.0,
+              "size": 11.4
+            },
+            {
+              "price": 34.0,
+              "size": 35.58
+            },
+            {
+              "price": 36.0,
+              "size": 32.4
+            }
+          ],
+          "runner_matched_volume": 85.87,
+          "last_price_traded": 29.0,
+          "market_prob": 0.035231,
+          "market_rank": 6
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T03:56:21.045237Z",
+      "seconds_to_off": 99,
+      "market_matched_volume": 24625.93,
+      "overround_pct": 101.3,
+      "runners": [
+        {
+          "selection_id": 81222735,
+          "name": "1. Chief White Sock",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 4.5,
+          "best_back_size": 99.89,
+          "best_lay": 4.7,
+          "best_lay_size": 73.66,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 4.5,
+              "size": 99.89
+            },
+            {
+              "price": 4.4,
+              "size": 168.08
+            },
+            {
+              "price": 4.3,
+              "size": 154.6
+            },
+            {
+              "price": 4.2,
+              "size": 137.55
+            },
+            {
+              "price": 4.1,
+              "size": 269.75
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.7,
+              "size": 73.66
+            },
+            {
+              "price": 4.8,
+              "size": 17.89
+            },
+            {
+              "price": 4.9,
+              "size": 28.88
+            },
+            {
+              "price": 5.0,
+              "size": 78.24
+            },
+            {
+              "price": 5.1,
+              "size": 46.69
+            }
+          ],
+          "runner_matched_volume": 2649.14,
+          "last_price_traded": 4.6,
+          "market_prob": 0.2193,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 82154753,
+          "name": "2. Zuetoro",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 4.4,
+          "best_back_size": 63.55,
+          "best_lay": 4.5,
+          "best_lay_size": 186.97,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 4.4,
+              "size": 63.55
+            },
+            {
+              "price": 4.3,
+              "size": 108.97
+            },
+            {
+              "price": 4.2,
+              "size": 134.55
+            },
+            {
+              "price": 4.1,
+              "size": 191.1
+            },
+            {
+              "price": 4.0,
+              "size": 233.49
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.5,
+              "size": 186.97
+            },
+            {
+              "price": 4.6,
+              "size": 150.71
+            },
+            {
+              "price": 4.7,
+              "size": 257.52
+            },
+            {
+              "price": 4.8,
+              "size": 171.35
+            },
+            {
+              "price": 4.9,
+              "size": 168.84
+            }
+          ],
+          "runner_matched_volume": 11200.54,
+          "last_price_traded": 4.4,
+          "market_prob": 0.224285,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 78688831,
+          "name": "3. Bonny Impact",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 5.2,
+          "best_back_size": 157.12,
+          "best_lay": 5.4,
+          "best_lay_size": 43.84,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 5.2,
+              "size": 157.12
+            },
+            {
+              "price": 5.1,
+              "size": 42.69
+            },
+            {
+              "price": 5.0,
+              "size": 94.3
+            },
+            {
+              "price": 4.9,
+              "size": 94.65
+            },
+            {
+              "price": 4.8,
+              "size": 123.58
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.4,
+              "size": 43.84
+            },
+            {
+              "price": 5.5,
+              "size": 25.23
+            },
+            {
+              "price": 5.6,
+              "size": 81.69
+            },
+            {
+              "price": 5.7,
+              "size": 97.45
+            },
+            {
+              "price": 5.8,
+              "size": 111.39
+            }
+          ],
+          "runner_matched_volume": 3069.34,
+          "last_price_traded": 5.3,
+          "market_prob": 0.189779,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 50739965,
+          "name": "4. Boss Shelby",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 5.4,
+          "best_back_size": 13.44,
+          "best_lay": 5.5,
+          "best_lay_size": 60.08,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.4,
+              "size": 13.44
+            },
+            {
+              "price": 5.3,
+              "size": 185.37
+            },
+            {
+              "price": 5.2,
+              "size": 151.31
+            },
+            {
+              "price": 5.1,
+              "size": 56.08
+            },
+            {
+              "price": 5.0,
+              "size": 119.99
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.5,
+              "size": 60.08
+            },
+            {
+              "price": 5.6,
+              "size": 24.63
+            },
+            {
+              "price": 5.7,
+              "size": 50.35
+            },
+            {
+              "price": 5.8,
+              "size": 34.21
+            },
+            {
+              "price": 5.9,
+              "size": 21.35
+            }
+          ],
+          "runner_matched_volume": 4097.46,
+          "last_price_traded": 5.4,
+          "market_prob": 0.18275,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 38338361,
+          "name": "5. Arrogant Miss",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 7.0,
+          "best_back_size": 103.39,
+          "best_lay": 7.2,
+          "best_lay_size": 16.65,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 7.0,
+              "size": 103.39
+            },
+            {
+              "price": 6.8,
+              "size": 107.21
+            },
+            {
+              "price": 6.6,
+              "size": 59.48
+            },
+            {
+              "price": 6.4,
+              "size": 197.82
+            },
+            {
+              "price": 6.2,
+              "size": 136.02
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.2,
+              "size": 16.65
+            },
+            {
+              "price": 7.4,
+              "size": 46.97
+            },
+            {
+              "price": 7.6,
+              "size": 59.95
+            },
+            {
+              "price": 7.8,
+              "size": 25.82
+            },
+            {
+              "price": 8.0,
+              "size": 31.42
+            }
+          ],
+          "runner_matched_volume": 3048.43,
+          "last_price_traded": 7.2,
+          "market_prob": 0.140979,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 62432665,
+          "name": "6. Taormina Duchess",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 23.0,
+          "best_back_size": 7.75,
+          "best_lay": 25.0,
+          "best_lay_size": 12.31,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 23.0,
+              "size": 7.75
+            },
+            {
+              "price": 22.0,
+              "size": 29.39
+            },
+            {
+              "price": 21.0,
+              "size": 36.53
+            },
+            {
+              "price": 20.0,
+              "size": 31.41
+            },
+            {
+              "price": 19.5,
+              "size": 34.51
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 25.0,
+              "size": 12.31
+            },
+            {
+              "price": 26.0,
+              "size": 36.06
+            },
+            {
+              "price": 27.0,
+              "size": 13.21
+            },
+            {
+              "price": 28.0,
+              "size": 11.46
+            },
+            {
+              "price": 29.0,
+              "size": 39.96
+            }
+          ],
+          "runner_matched_volume": 561.0,
+          "last_price_traded": 23.0,
+          "market_prob": 0.042907,
+          "market_rank": 6
+        }
+      ]
+    },
+    {
+      "at": "2026-07-12T03:57:36.048169Z",
+      "seconds_to_off": 24,
+      "market_matched_volume": 33794.04,
+      "overround_pct": 101.3,
+      "runners": [
+        {
+          "selection_id": 81222735,
+          "name": "1. Chief White Sock",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 4.7,
+          "best_back_size": 49.82,
+          "best_lay": 4.8,
+          "best_lay_size": 108.86,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 4.7,
+              "size": 49.82
+            },
+            {
+              "price": 4.6,
+              "size": 73.54
+            },
+            {
+              "price": 4.5,
+              "size": 120.35
+            },
+            {
+              "price": 4.4,
+              "size": 105.03
+            },
+            {
+              "price": 4.3,
+              "size": 155.07
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.8,
+              "size": 108.86
+            },
+            {
+              "price": 4.9,
+              "size": 80.82
+            },
+            {
+              "price": 5.0,
+              "size": 39.79
+            },
+            {
+              "price": 5.1,
+              "size": 67.07
+            },
+            {
+              "price": 5.2,
+              "size": 128.55
+            }
+          ],
+          "runner_matched_volume": 4465.52,
+          "last_price_traded": 4.7,
+          "market_prob": 0.209952,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 82154753,
+          "name": "2. Zuetoro",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 3.7,
+          "best_back_size": 28.18,
+          "best_lay": 3.85,
+          "best_lay_size": 37.42,
+          "spread": 0.15,
+          "back_ladder": [
+            {
+              "price": 3.7,
+              "size": 28.18
+            },
+            {
+              "price": 3.65,
+              "size": 36.54
+            },
+            {
+              "price": 3.6,
+              "size": 52.42
+            },
+            {
+              "price": 3.55,
+              "size": 79.15
+            },
+            {
+              "price": 3.5,
+              "size": 51.49
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.85,
+              "size": 37.42
+            },
+            {
+              "price": 3.9,
+              "size": 65.66
+            },
+            {
+              "price": 3.95,
+              "size": 57.3
+            },
+            {
+              "price": 4.0,
+              "size": 54.73
+            },
+            {
+              "price": 4.1,
+              "size": 140.0
+            }
+          ],
+          "runner_matched_volume": 15029.48,
+          "last_price_traded": 3.85,
+          "market_prob": 0.266696,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 78688831,
+          "name": "3. Bonny Impact",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 5.7,
+          "best_back_size": 19.47,
+          "best_lay": 5.8,
+          "best_lay_size": 5.67,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.7,
+              "size": 19.47
+            },
+            {
+              "price": 5.6,
+              "size": 90.8
+            },
+            {
+              "price": 5.5,
+              "size": 57.75
+            },
+            {
+              "price": 5.4,
+              "size": 63.28
+            },
+            {
+              "price": 5.3,
+              "size": 152.68
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.8,
+              "size": 5.67
+            },
+            {
+              "price": 5.9,
+              "size": 30.16
+            },
+            {
+              "price": 6.0,
+              "size": 26.59
+            },
+            {
+              "price": 6.2,
+              "size": 35.54
+            },
+            {
+              "price": 6.4,
+              "size": 161.41
+            }
+          ],
+          "runner_matched_volume": 3649.77,
+          "last_price_traded": 5.7,
+          "market_prob": 0.173119,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 50739965,
+          "name": "4. Boss Shelby",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 5.7,
+          "best_back_size": 18.71,
+          "best_lay": 5.8,
+          "best_lay_size": 5.8,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.7,
+              "size": 18.71
+            },
+            {
+              "price": 5.6,
+              "size": 140.45
+            },
+            {
+              "price": 5.5,
+              "size": 142.35
+            },
+            {
+              "price": 5.4,
+              "size": 60.32
+            },
+            {
+              "price": 5.3,
+              "size": 167.42
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.8,
+              "size": 5.8
+            },
+            {
+              "price": 5.9,
+              "size": 85.06
+            },
+            {
+              "price": 6.0,
+              "size": 78.6
+            },
+            {
+              "price": 6.2,
+              "size": 82.7
+            },
+            {
+              "price": 6.4,
+              "size": 97.72
+            }
+          ],
+          "runner_matched_volume": 6081.69,
+          "last_price_traded": 5.7,
+          "market_prob": 0.173119,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 38338361,
+          "name": "5. Arrogant Miss",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 7.8,
+          "best_back_size": 29.32,
+          "best_lay": 8.0,
+          "best_lay_size": 13.55,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 7.8,
+              "size": 29.32
+            },
+            {
+              "price": 7.6,
+              "size": 52.77
+            },
+            {
+              "price": 7.4,
+              "size": 36.93
+            },
+            {
+              "price": 7.2,
+              "size": 99.87
+            },
+            {
+              "price": 7.0,
+              "size": 120.78
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.0,
+              "size": 13.55
+            },
+            {
+              "price": 8.2,
+              "size": 49.44
+            },
+            {
+              "price": 8.4,
+              "size": 36.9
+            },
+            {
+              "price": 8.6,
+              "size": 27.1
+            },
+            {
+              "price": 8.8,
+              "size": 113.13
+            }
+          ],
+          "runner_matched_volume": 3472.75,
+          "last_price_traded": 7.8,
+          "market_prob": 0.12651,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 62432665,
+          "name": "6. Taormina Duchess",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 19.5,
+          "best_back_size": 28.18,
+          "best_lay": 21.0,
+          "best_lay_size": 61.87,
+          "spread": 1.5,
+          "back_ladder": [
+            {
+              "price": 19.5,
+              "size": 28.18
+            },
+            {
+              "price": 19.0,
+              "size": 24.8
+            },
+            {
+              "price": 18.5,
+              "size": 40.91
+            },
+            {
+              "price": 18.0,
+              "size": 40.55
+            },
+            {
+              "price": 17.5,
+              "size": 71.68
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 21.0,
+              "size": 61.87
+            },
+            {
+              "price": 22.0,
+              "size": 22.21
+            },
+            {
+              "price": 23.0,
+              "size": 50.24
+            },
+            {
+              "price": 24.0,
+              "size": 7.89
+            },
+            {
+              "price": 25.0,
+              "size": 26.22
+            }
+          ],
+          "runner_matched_volume": 1094.8,
+          "last_price_traded": 20.0,
+          "market_prob": 0.050604,
+          "market_rank": 6
+        }
+      ]
+    }
+  ],
+  "finalized_at": "2026-07-12T04:07:28.225618Z"
+}
