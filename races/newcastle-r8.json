@@ -1030,40 +1030,6 @@
           "in_run": null
         },
         {
-          "pos": 5,
-          "date": "2026-06-27",
-          "class": "MIDWAY BM72",
-          "trial": false,
-          "distance_m": 1300,
-          "going": "Soft6",
-          "winner_time": 78.78,
-          "beaten_margin": 2.34,
-          "runner_time": 79.12,
-          "runner_time_reduced": true,
-          "sectional_600": 35.83,
-          "in_run": {
-            "@800": 1,
-            "@400": 2
-          }
-        },
-        {
-          "pos": 2,
-          "date": "2026-06-22",
-          "class": "CTRY BM66",
-          "trial": false,
-          "distance_m": 1300,
-          "going": "Heavy10",
-          "winner_time": 82.59,
-          "beaten_margin": 2.89,
-          "runner_time": 83.03,
-          "runner_time_reduced": true,
-          "sectional_600": 38.45,
-          "in_run": {
-            "@800": 7,
-            "@400": 7
-          }
-        },
-        {
           "pos": 6,
           "date": "2026-06-17",
           "class": "OPEN-BT",
@@ -1078,32 +1044,66 @@
           "in_run": null
         },
         {
-          "pos": 3,
-          "date": "2026-06-13",
-          "class": "CL1",
+          "pos": 4,
+          "date": "2026-06-06",
+          "class": "CG&E BM64",
           "trial": false,
           "distance_m": 1400,
-          "going": "Soft6",
-          "winner_time": 85.16,
-          "beaten_margin": 0.97,
-          "runner_time": 85.3,
+          "going": "Soft5",
+          "winner_time": 86.28,
+          "beaten_margin": 2.01,
+          "runner_time": 86.58,
           "runner_time_reduced": true,
-          "sectional_600": 35.11,
+          "sectional_600": 34.71,
           "in_run": {
-            "@800": 1,
-            "@400": 1
+            "@800": 5,
+            "@400": 5
+          }
+        },
+        {
+          "pos": 7,
+          "date": "2026-05-05",
+          "class": "COND BM68",
+          "trial": false,
+          "distance_m": 1450,
+          "going": "Good4",
+          "winner_time": null,
+          "beaten_margin": 10.5,
+          "runner_time": null,
+          "runner_time_reduced": null,
+          "sectional_600": 35.03,
+          "in_run": {
+            "@800": 6,
+            "@400": 6
+          }
+        },
+        {
+          "pos": 1,
+          "date": "2026-04-17",
+          "class": "CL2",
+          "trial": false,
+          "distance_m": 1300,
+          "going": "Soft5",
+          "winner_time": 77.08,
+          "beaten_margin": 0.0,
+          "runner_time": 77.08,
+          "runner_time_reduced": false,
+          "sectional_600": 33.9,
+          "in_run": {
+            "@800": 3,
+            "@400": 3
           }
         }
       ],
       "recent_class": [
         "OPEN-BT",
-        "MIDWAY BM72",
-        "CTRY BM66",
         "OPEN-BT",
-        "CL1"
+        "CG&E BM64",
+        "COND BM68",
+        "CL2"
       ],
       "days_since_run": 13,
-      "runs_this_prep": 20,
+      "runs_this_prep": 10,
       "form_status": "confirmed",
       "warnings": [],
       "last5_parsed": [
@@ -1219,30 +1219,199 @@
       "back_depth_aud": 43.0,
       "bsp_near": 65.5,
       "market_signal": "\u2744\ufe0f DRIFT",
-      "trainer": null,
-      "jockey": null,
-      "last5": null,
-      "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
+      "trainer": "Mack Griffith",
+      "jockey": "Reece Jones (late alt)",
+      "last5": "20x51607x2",
+      "career": "23:4-3-2",
+      "weight_kg": 56.0,
+      "barrier": 6,
+      "official_rating": 54,
+      "prizemoney": 94375,
+      "first_up_record": "6:0-1-1",
+      "second_up_record": "4:1-1-1",
+      "track_record": "1:0-0-0",
+      "dist_record": "2:0-1-0",
+      "track_dist_record": "0:0-0-0",
+      "distances_won": "1600 (2), 2100 (2)",
+      "going_record": {
+        "Firm": "0:0-0-0",
+        "Good": "13:2-1-2",
+        "Soft": "5:2-0-0",
+        "Heavy": "4:0-2-0",
+        "Synthetic": "1:0-0-0"
+      },
+      "recent_runs": [
+        {
+          "pos": 5,
+          "date": "2026-06-27",
+          "class": "MIDWAY BM72",
+          "trial": false,
+          "distance_m": 1300,
+          "going": "Soft6",
+          "winner_time": 78.78,
+          "beaten_margin": 2.34,
+          "runner_time": 79.12,
+          "runner_time_reduced": true,
+          "sectional_600": 35.83,
+          "in_run": {
+            "@800": 1,
+            "@400": 2
+          }
+        },
+        {
+          "pos": 2,
+          "date": "2026-06-22",
+          "class": "CTRY BM66",
+          "trial": false,
+          "distance_m": 1300,
+          "going": "Heavy10",
+          "winner_time": 82.59,
+          "beaten_margin": 2.89,
+          "runner_time": 83.03,
+          "runner_time_reduced": true,
+          "sectional_600": 38.45,
+          "in_run": {
+            "@800": 7,
+            "@400": 7
+          }
+        },
+        {
+          "pos": 3,
+          "date": "2026-06-13",
+          "class": "CL1",
+          "trial": false,
+          "distance_m": 1400,
+          "going": "Soft6",
+          "winner_time": 85.16,
+          "beaten_margin": 0.97,
+          "runner_time": 85.3,
+          "runner_time_reduced": true,
+          "sectional_600": 35.11,
+          "in_run": {
+            "@800": 1,
+            "@400": 1
+          }
+        },
+        {
+          "pos": 3,
+          "date": "2026-06-10",
+          "class": "OPEN-BT",
+          "trial": false,
+          "distance_m": 1000,
+          "going": "Soft6",
+          "winner_time": 60.83,
+          "beaten_margin": 3.42,
+          "runner_time": 61.33,
+          "runner_time_reduced": true,
+          "sectional_600": 35.09,
+          "in_run": null
+        },
+        {
+          "pos": 2,
+          "date": "2026-05-07",
+          "class": "CL2 BM62",
+          "trial": false,
+          "distance_m": 1300,
+          "going": "Good4",
+          "winner_time": 78.03,
+          "beaten_margin": 0.1,
+          "runner_time": 78.04,
+          "runner_time_reduced": true,
+          "sectional_600": 36.34,
+          "in_run": {
+            "@800": 6,
+            "@400": 5
+          }
+        }
+      ],
+      "recent_class": [
+        "MIDWAY BM72",
+        "CTRY BM66",
+        "CL1",
+        "OPEN-BT",
+        "CL2 BM62"
+      ],
+      "days_since_run": 17,
+      "runs_this_prep": 10,
+      "form_status": "confirmed",
       "warnings": [],
-      "last5_parsed": [],
-      "data_status": "not_found",
+      "last5_parsed": [
+        {
+          "raw": "2",
+          "pos": 2,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "0",
+          "pos": 0,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "x",
+          "pos": null,
+          "nonFinish": false,
+          "spell": true
+        },
+        {
+          "raw": "5",
+          "pos": 5,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "1",
+          "pos": 1,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "6",
+          "pos": 6,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "0",
+          "pos": 0,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "7",
+          "pos": 7,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "x",
+          "pos": null,
+          "nonFinish": false,
+          "spell": true
+        },
+        {
+          "raw": "2",
+          "pos": 2,
+          "nonFinish": false,
+          "spell": false
+        }
+      ],
+      "data_status": "confirmed",
       "open_price": 36.0,
       "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
+        "call": "OK",
+        "label": "OK",
+        "confidence": "ok",
+        "reason": "confirmed form, 23 career starts",
         "guard": "data_adequacy v1.0"
       }
     }
   ],
-  "last_polled_at": "2026-07-13T07:01:32.398350Z",
+  "last_polled_at": "2026-07-13T07:16:30.806116Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
-    "ok": 6,
-    "no_call": 6
+    "ok": 7,
+    "no_call": 5
   }
 }
