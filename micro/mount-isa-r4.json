@@ -1,0 +1,3616 @@
+{
+  "event_id": "mount-isa-2026-07-13-r4",
+  "market_id": "1.259933601",
+  "venue": "Mount Isa",
+  "race_name": "R4 1450m Hcap",
+  "start_time_utc": "2026-07-13T04:27:00.000Z",
+  "captured_by": "micro-series v1",
+  "field_size": 7,
+  "model_overlay": {
+    "74853283": {
+      "model_prob": 0.257692,
+      "model_rank": 1,
+      "model_version": "2026-07-08"
+    },
+    "53946572": {
+      "model_prob": 0.211489,
+      "model_rank": 2,
+      "model_version": "2026-07-08"
+    },
+    "80603399": {
+      "model_prob": 0.153594,
+      "model_rank": 3,
+      "model_version": "2026-07-08"
+    },
+    "86554839": {
+      "model_prob": 0.12752,
+      "model_rank": 5,
+      "model_version": "2026-07-08"
+    },
+    "42860614": {
+      "model_prob": 0.152636,
+      "model_rank": 4,
+      "model_version": "2026-07-08"
+    },
+    "55533618": {
+      "model_prob": 0.09707,
+      "model_rank": 6,
+      "model_version": "2026-07-08"
+    }
+  },
+  "bsp": {
+    "97983982": {
+      "bsp": NaN,
+      "status": "REMOVED"
+    },
+    "53946572": {
+      "bsp": 6.13,
+      "status": "LOSER"
+    },
+    "58099844": {
+      "bsp": 5.98,
+      "status": "LOSER"
+    },
+    "86554839": {
+      "bsp": 10.0,
+      "status": "LOSER"
+    },
+    "55533618": {
+      "bsp": 12.99,
+      "status": "LOSER"
+    },
+    "74853283": {
+      "bsp": 3.7,
+      "status": "LOSER"
+    },
+    "42860614": {
+      "bsp": 13.87,
+      "status": "LOSER"
+    },
+    "80603399": {
+      "bsp": 7.96,
+      "status": "WINNER"
+    }
+  },
+  "result": {
+    "winner": "8. Zephirine",
+    "winner_bsp": 7.96,
+    "placings": [
+      "8. Zephirine"
+    ],
+    "settled_at": "2026-07-13T04:30:02.553191Z"
+  },
+  "frames": [
+    {
+      "at": "2026-07-13T04:17:01.030090Z",
+      "seconds_to_off": 599,
+      "market_matched_volume": 2702.02,
+      "overround_pct": 101.6,
+      "runners": [
+        {
+          "selection_id": 53946572,
+          "name": "2. Zouhope",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 4.9,
+          "best_back_size": 12.82,
+          "best_lay": 5.1,
+          "best_lay_size": 14.09,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 4.9,
+              "size": 12.82
+            },
+            {
+              "price": 4.8,
+              "size": 5.37
+            },
+            {
+              "price": 4.7,
+              "size": 25.58
+            },
+            {
+              "price": 4.6,
+              "size": 37.33
+            },
+            {
+              "price": 4.5,
+              "size": 61.28
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.1,
+              "size": 14.09
+            },
+            {
+              "price": 5.2,
+              "size": 22.53
+            },
+            {
+              "price": 5.3,
+              "size": 40.47
+            },
+            {
+              "price": 5.4,
+              "size": 19.75
+            },
+            {
+              "price": 5.5,
+              "size": 24.46
+            }
+          ],
+          "runner_matched_volume": 516.51,
+          "last_price_traded": 4.7,
+          "market_prob": 0.200938,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 58099844,
+          "name": "3. Yalla",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 6.6,
+          "best_back_size": 8.93,
+          "best_lay": 6.8,
+          "best_lay_size": 2.84,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 6.6,
+              "size": 8.93
+            },
+            {
+              "price": 6.4,
+              "size": 8.82
+            },
+            {
+              "price": 6.2,
+              "size": 35.7
+            },
+            {
+              "price": 6.0,
+              "size": 40.32
+            },
+            {
+              "price": 5.9,
+              "size": 60.17
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.8,
+              "size": 2.84
+            },
+            {
+              "price": 7.0,
+              "size": 19.63
+            },
+            {
+              "price": 7.2,
+              "size": 10.87
+            },
+            {
+              "price": 7.4,
+              "size": 13.76
+            },
+            {
+              "price": 7.6,
+              "size": 23.27
+            }
+          ],
+          "runner_matched_volume": 77.0,
+          "last_price_traded": 6.4,
+          "market_prob": 0.149181,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 86554839,
+          "name": "4. Melaten",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 8.4,
+          "best_back_size": 16.3,
+          "best_lay": 8.8,
+          "best_lay_size": 14.76,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 8.4,
+              "size": 16.3
+            },
+            {
+              "price": 8.2,
+              "size": 12.58
+            },
+            {
+              "price": 8.0,
+              "size": 16.06
+            },
+            {
+              "price": 7.8,
+              "size": 38.02
+            },
+            {
+              "price": 7.6,
+              "size": 41.78
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.8,
+              "size": 14.76
+            },
+            {
+              "price": 9.0,
+              "size": 9.9
+            },
+            {
+              "price": 9.2,
+              "size": 13.8
+            },
+            {
+              "price": 9.4,
+              "size": 10.35
+            },
+            {
+              "price": 9.6,
+              "size": 25.1
+            }
+          ],
+          "runner_matched_volume": 725.12,
+          "last_price_traded": 8.8,
+          "market_prob": 0.117214,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 55533618,
+          "name": "5. Summer Sizzling",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 16.0,
+          "best_back_size": 3.33,
+          "best_lay": 17.0,
+          "best_lay_size": 17.99,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 16.0,
+              "size": 3.33
+            },
+            {
+              "price": 15.5,
+              "size": 4.61
+            },
+            {
+              "price": 15.0,
+              "size": 4.71
+            },
+            {
+              "price": 14.5,
+              "size": 29.54
+            },
+            {
+              "price": 14.0,
+              "size": 6.68
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 17.0,
+              "size": 17.99
+            },
+            {
+              "price": 17.5,
+              "size": 11.29
+            },
+            {
+              "price": 18.0,
+              "size": 9.65
+            },
+            {
+              "price": 18.5,
+              "size": 4.96
+            },
+            {
+              "price": 19.0,
+              "size": 4.83
+            }
+          ],
+          "runner_matched_volume": 33.88,
+          "last_price_traded": 17.0,
+          "market_prob": 0.061537,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 74853283,
+          "name": "6. Infinite Prince",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 3.9,
+          "best_back_size": 25.03,
+          "best_lay": 4.1,
+          "best_lay_size": 19.13,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 3.9,
+              "size": 25.03
+            },
+            {
+              "price": 3.85,
+              "size": 7.26
+            },
+            {
+              "price": 3.8,
+              "size": 123.04
+            },
+            {
+              "price": 3.75,
+              "size": 52.38
+            },
+            {
+              "price": 3.7,
+              "size": 58.93
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.1,
+              "size": 19.13
+            },
+            {
+              "price": 4.2,
+              "size": 9.77
+            },
+            {
+              "price": 4.3,
+              "size": 28.86
+            },
+            {
+              "price": 4.4,
+              "size": 35.68
+            },
+            {
+              "price": 4.5,
+              "size": 42.57
+            }
+          ],
+          "runner_matched_volume": 871.89,
+          "last_price_traded": 3.9,
+          "market_prob": 0.25246,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 42860614,
+          "name": "7. Meghan",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 11.5,
+          "best_back_size": 7.66,
+          "best_lay": 12.5,
+          "best_lay_size": 2.32,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 11.5,
+              "size": 7.66
+            },
+            {
+              "price": 11.0,
+              "size": 4.15
+            },
+            {
+              "price": 10.5,
+              "size": 10.08
+            },
+            {
+              "price": 10.0,
+              "size": 21.83
+            },
+            {
+              "price": 9.8,
+              "size": 19.2
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 12.5,
+              "size": 2.32
+            },
+            {
+              "price": 13.0,
+              "size": 18.51
+            },
+            {
+              "price": 13.5,
+              "size": 13.6
+            },
+            {
+              "price": 14.0,
+              "size": 15.16
+            },
+            {
+              "price": 14.5,
+              "size": 10.29
+            }
+          ],
+          "runner_matched_volume": 468.8,
+          "last_price_traded": 12.0,
+          "market_prob": 0.085617,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 80603399,
+          "name": "8. Zephirine",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 7.4,
+          "best_back_size": 14.61,
+          "best_lay": 8.0,
+          "best_lay_size": 6.2,
+          "spread": 0.6,
+          "back_ladder": [
+            {
+              "price": 7.4,
+              "size": 14.61
+            },
+            {
+              "price": 7.2,
+              "size": 6.81
+            },
+            {
+              "price": 7.0,
+              "size": 46.31
+            },
+            {
+              "price": 6.8,
+              "size": 21.81
+            },
+            {
+              "price": 6.6,
+              "size": 50.31
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.0,
+              "size": 6.2
+            },
+            {
+              "price": 8.2,
+              "size": 9.63
+            },
+            {
+              "price": 8.4,
+              "size": 5.82
+            },
+            {
+              "price": 8.6,
+              "size": 14.44
+            },
+            {
+              "price": 8.8,
+              "size": 19.31
+            }
+          ],
+          "runner_matched_volume": 8.79,
+          "last_price_traded": 7.6,
+          "market_prob": 0.133053,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 97983982,
+          "name": "1. Lone Artist",
+          "saddle_cloth": 8,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-13T04:18:15.337812Z",
+      "seconds_to_off": 525,
+      "market_matched_volume": 3807.65,
+      "overround_pct": 102.0,
+      "runners": [
+        {
+          "selection_id": 53946572,
+          "name": "2. Zouhope",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 4.8,
+          "best_back_size": 13.85,
+          "best_lay": 5.0,
+          "best_lay_size": 8.84,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 4.8,
+              "size": 13.85
+            },
+            {
+              "price": 4.7,
+              "size": 25.3
+            },
+            {
+              "price": 4.6,
+              "size": 49.04
+            },
+            {
+              "price": 4.5,
+              "size": 41.37
+            },
+            {
+              "price": 4.4,
+              "size": 62.55
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.0,
+              "size": 8.84
+            },
+            {
+              "price": 5.1,
+              "size": 9.07
+            },
+            {
+              "price": 5.2,
+              "size": 33.86
+            },
+            {
+              "price": 5.3,
+              "size": 41.85
+            },
+            {
+              "price": 5.4,
+              "size": 40.18
+            }
+          ],
+          "runner_matched_volume": 690.06,
+          "last_price_traded": 5.0,
+          "market_prob": 0.204206,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 58099844,
+          "name": "3. Yalla",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 6.4,
+          "best_back_size": 1.64,
+          "best_lay": 6.6,
+          "best_lay_size": 5.66,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 6.4,
+              "size": 1.64
+            },
+            {
+              "price": 6.2,
+              "size": 23.48
+            },
+            {
+              "price": 6.0,
+              "size": 40.32
+            },
+            {
+              "price": 5.9,
+              "size": 39.08
+            },
+            {
+              "price": 5.8,
+              "size": 58.77
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.6,
+              "size": 5.66
+            },
+            {
+              "price": 6.8,
+              "size": 7.54
+            },
+            {
+              "price": 7.0,
+              "size": 31.11
+            },
+            {
+              "price": 7.2,
+              "size": 10.87
+            },
+            {
+              "price": 7.4,
+              "size": 14.16
+            }
+          ],
+          "runner_matched_volume": 155.08,
+          "last_price_traded": 6.4,
+          "market_prob": 0.153154,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 86554839,
+          "name": "4. Melaten",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 9.0,
+          "best_back_size": 1.6,
+          "best_lay": 9.2,
+          "best_lay_size": 5.87,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 9.0,
+              "size": 1.6
+            },
+            {
+              "price": 8.8,
+              "size": 3.2
+            },
+            {
+              "price": 8.6,
+              "size": 16.11
+            },
+            {
+              "price": 8.4,
+              "size": 18.01
+            },
+            {
+              "price": 8.2,
+              "size": 15.29
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 9.2,
+              "size": 5.87
+            },
+            {
+              "price": 9.4,
+              "size": 4.54
+            },
+            {
+              "price": 9.6,
+              "size": 23.32
+            },
+            {
+              "price": 9.8,
+              "size": 15.4
+            },
+            {
+              "price": 10.0,
+              "size": 11.58
+            }
+          ],
+          "runner_matched_volume": 787.38,
+          "last_price_traded": 9.0,
+          "market_prob": 0.10891,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 55533618,
+          "name": "5. Summer Sizzling",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 12.5,
+          "best_back_size": 6.82,
+          "best_lay": 14.0,
+          "best_lay_size": 8.69,
+          "spread": 1.5,
+          "back_ladder": [
+            {
+              "price": 12.5,
+              "size": 6.82
+            },
+            {
+              "price": 12.0,
+              "size": 19.03
+            },
+            {
+              "price": 11.5,
+              "size": 31.43
+            },
+            {
+              "price": 11.0,
+              "size": 27.32
+            },
+            {
+              "price": 10.5,
+              "size": 28.3
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 14.0,
+              "size": 8.69
+            },
+            {
+              "price": 14.5,
+              "size": 7.2
+            },
+            {
+              "price": 15.0,
+              "size": 7.81
+            },
+            {
+              "price": 15.5,
+              "size": 8.88
+            },
+            {
+              "price": 16.0,
+              "size": 5.79
+            }
+          ],
+          "runner_matched_volume": 310.37,
+          "last_price_traded": 13.5,
+          "market_prob": 0.078415,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 74853283,
+          "name": "6. Infinite Prince",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 4.5,
+          "best_back_size": 3.94,
+          "best_lay": 4.7,
+          "best_lay_size": 34.35,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 4.5,
+              "size": 3.94
+            },
+            {
+              "price": 4.4,
+              "size": 15.62
+            },
+            {
+              "price": 4.3,
+              "size": 17.27
+            },
+            {
+              "price": 4.2,
+              "size": 51.67
+            },
+            {
+              "price": 4.1,
+              "size": 65.09
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.7,
+              "size": 34.35
+            },
+            {
+              "price": 4.8,
+              "size": 30.89
+            },
+            {
+              "price": 4.9,
+              "size": 22.62
+            },
+            {
+              "price": 5.0,
+              "size": 25.58
+            },
+            {
+              "price": 5.1,
+              "size": 40.6
+            }
+          ],
+          "runner_matched_volume": 1091.16,
+          "last_price_traded": 4.6,
+          "market_prob": 0.217819,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 42860614,
+          "name": "7. Meghan",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 10.5,
+          "best_back_size": 2.59,
+          "best_lay": 11.5,
+          "best_lay_size": 4.45,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 10.5,
+              "size": 2.59
+            },
+            {
+              "price": 10.0,
+              "size": 19.89
+            },
+            {
+              "price": 9.8,
+              "size": 1.93
+            },
+            {
+              "price": 9.6,
+              "size": 39.9
+            },
+            {
+              "price": 9.4,
+              "size": 51.11
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 11.5,
+              "size": 4.45
+            },
+            {
+              "price": 12.0,
+              "size": 12.74
+            },
+            {
+              "price": 12.5,
+              "size": 13.44
+            },
+            {
+              "price": 13.0,
+              "size": 13.98
+            },
+            {
+              "price": 13.5,
+              "size": 12.72
+            }
+          ],
+          "runner_matched_volume": 666.25,
+          "last_price_traded": 11.0,
+          "market_prob": 0.093351,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 80603399,
+          "name": "8. Zephirine",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 6.8,
+          "best_back_size": 24.39,
+          "best_lay": 7.0,
+          "best_lay_size": 3.34,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 6.8,
+              "size": 24.39
+            },
+            {
+              "price": 6.6,
+              "size": 37.57
+            },
+            {
+              "price": 6.4,
+              "size": 53.73
+            },
+            {
+              "price": 6.2,
+              "size": 22.12
+            },
+            {
+              "price": 6.0,
+              "size": 33.9
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.0,
+              "size": 3.34
+            },
+            {
+              "price": 7.2,
+              "size": 6.78
+            },
+            {
+              "price": 7.4,
+              "size": 10.63
+            },
+            {
+              "price": 7.6,
+              "size": 27.82
+            },
+            {
+              "price": 7.8,
+              "size": 18.78
+            }
+          ],
+          "runner_matched_volume": 107.32,
+          "last_price_traded": 7.0,
+          "market_prob": 0.144145,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 97983982,
+          "name": "1. Lone Artist",
+          "saddle_cloth": 8,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-13T04:19:30.387530Z",
+      "seconds_to_off": 450,
+      "market_matched_volume": 4792.22,
+      "overround_pct": 101.0,
+      "runners": [
+        {
+          "selection_id": 53946572,
+          "name": "2. Zouhope",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 5.0,
+          "best_back_size": 16.48,
+          "best_lay": 5.1,
+          "best_lay_size": 5.66,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.0,
+              "size": 16.48
+            },
+            {
+              "price": 4.9,
+              "size": 10.46
+            },
+            {
+              "price": 4.8,
+              "size": 22.86
+            },
+            {
+              "price": 4.7,
+              "size": 49.45
+            },
+            {
+              "price": 4.6,
+              "size": 52.84
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.1,
+              "size": 5.66
+            },
+            {
+              "price": 5.2,
+              "size": 26.29
+            },
+            {
+              "price": 5.3,
+              "size": 9.23
+            },
+            {
+              "price": 5.4,
+              "size": 23.59
+            },
+            {
+              "price": 5.5,
+              "size": 38.8
+            }
+          ],
+          "runner_matched_volume": 831.83,
+          "last_price_traded": 5.1,
+          "market_prob": 0.198045,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 58099844,
+          "name": "3. Yalla",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 6.0,
+          "best_back_size": 7.12,
+          "best_lay": 6.4,
+          "best_lay_size": 11.83,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 6.0,
+              "size": 7.12
+            },
+            {
+              "price": 5.9,
+              "size": 15.85
+            },
+            {
+              "price": 5.8,
+              "size": 26.29
+            },
+            {
+              "price": 5.7,
+              "size": 83.42
+            },
+            {
+              "price": 5.6,
+              "size": 62.08
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.4,
+              "size": 11.83
+            },
+            {
+              "price": 6.6,
+              "size": 5.35
+            },
+            {
+              "price": 6.8,
+              "size": 18.98
+            },
+            {
+              "price": 7.0,
+              "size": 28.49
+            },
+            {
+              "price": 7.2,
+              "size": 12.1
+            }
+          ],
+          "runner_matched_volume": 280.4,
+          "last_price_traded": 6.2,
+          "market_prob": 0.165038,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 86554839,
+          "name": "4. Melaten",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 8.8,
+          "best_back_size": 11.1,
+          "best_lay": 9.0,
+          "best_lay_size": 1.99,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 8.8,
+              "size": 11.1
+            },
+            {
+              "price": 8.6,
+              "size": 6.1
+            },
+            {
+              "price": 8.4,
+              "size": 21.16
+            },
+            {
+              "price": 8.2,
+              "size": 15.29
+            },
+            {
+              "price": 8.0,
+              "size": 23.87
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 9.0,
+              "size": 1.99
+            },
+            {
+              "price": 9.2,
+              "size": 5.73
+            },
+            {
+              "price": 9.4,
+              "size": 30.83
+            },
+            {
+              "price": 9.6,
+              "size": 28.98
+            },
+            {
+              "price": 9.8,
+              "size": 9.87
+            }
+          ],
+          "runner_matched_volume": 842.74,
+          "last_price_traded": 8.8,
+          "market_prob": 0.112526,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 55533618,
+          "name": "5. Summer Sizzling",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 13.5,
+          "best_back_size": 4.0,
+          "best_lay": 14.0,
+          "best_lay_size": 3.02,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 13.5,
+              "size": 4.0
+            },
+            {
+              "price": 13.0,
+              "size": 2.09
+            },
+            {
+              "price": 12.5,
+              "size": 10.44
+            },
+            {
+              "price": 12.0,
+              "size": 24.4
+            },
+            {
+              "price": 11.5,
+              "size": 27.6
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 14.0,
+              "size": 3.02
+            },
+            {
+              "price": 14.5,
+              "size": 4.88
+            },
+            {
+              "price": 15.0,
+              "size": 5.44
+            },
+            {
+              "price": 15.5,
+              "size": 12.72
+            },
+            {
+              "price": 16.0,
+              "size": 9.63
+            }
+          ],
+          "runner_matched_volume": 330.55,
+          "last_price_traded": 14.0,
+          "market_prob": 0.07335,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 74853283,
+          "name": "6. Infinite Prince",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 4.8,
+          "best_back_size": 15.57,
+          "best_lay": 4.9,
+          "best_lay_size": 6.76,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 4.8,
+              "size": 15.57
+            },
+            {
+              "price": 4.7,
+              "size": 4.88
+            },
+            {
+              "price": 4.6,
+              "size": 30.56
+            },
+            {
+              "price": 4.5,
+              "size": 42.76
+            },
+            {
+              "price": 4.4,
+              "size": 32.38
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.9,
+              "size": 6.76
+            },
+            {
+              "price": 5.0,
+              "size": 7.45
+            },
+            {
+              "price": 5.1,
+              "size": 37.92
+            },
+            {
+              "price": 5.2,
+              "size": 24.54
+            },
+            {
+              "price": 5.3,
+              "size": 39.91
+            }
+          ],
+          "runner_matched_volume": 1221.33,
+          "last_price_traded": 4.9,
+          "market_prob": 0.206297,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 42860614,
+          "name": "7. Meghan",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 11.0,
+          "best_back_size": 17.41,
+          "best_lay": 11.5,
+          "best_lay_size": 13.16,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 11.0,
+              "size": 17.41
+            },
+            {
+              "price": 10.5,
+              "size": 3.22
+            },
+            {
+              "price": 10.0,
+              "size": 20.39
+            },
+            {
+              "price": 9.8,
+              "size": 9.87
+            },
+            {
+              "price": 9.6,
+              "size": 20.72
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 11.5,
+              "size": 13.16
+            },
+            {
+              "price": 12.0,
+              "size": 17.3
+            },
+            {
+              "price": 12.5,
+              "size": 13.44
+            },
+            {
+              "price": 13.0,
+              "size": 13.98
+            },
+            {
+              "price": 13.5,
+              "size": 12.72
+            }
+          ],
+          "runner_matched_volume": 764.4,
+          "last_price_traded": 11.5,
+          "market_prob": 0.090021,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 80603399,
+          "name": "8. Zephirine",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 6.4,
+          "best_back_size": 13.39,
+          "best_lay": 6.6,
+          "best_lay_size": 2.88,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 6.4,
+              "size": 13.39
+            },
+            {
+              "price": 6.2,
+              "size": 29.51
+            },
+            {
+              "price": 6.0,
+              "size": 21.24
+            },
+            {
+              "price": 5.9,
+              "size": 60.96
+            },
+            {
+              "price": 5.8,
+              "size": 33.6
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.6,
+              "size": 2.88
+            },
+            {
+              "price": 6.8,
+              "size": 11.62
+            },
+            {
+              "price": 7.0,
+              "size": 50.33
+            },
+            {
+              "price": 7.2,
+              "size": 17.76
+            },
+            {
+              "price": 7.4,
+              "size": 9.24
+            }
+          ],
+          "runner_matched_volume": 520.93,
+          "last_price_traded": 6.6,
+          "market_prob": 0.154723,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 97983982,
+          "name": "1. Lone Artist",
+          "saddle_cloth": 8,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-13T04:20:45.384543Z",
+      "seconds_to_off": 375,
+      "market_matched_volume": 5594.72,
+      "overround_pct": 102.3,
+      "runners": [
+        {
+          "selection_id": 53946572,
+          "name": "2. Zouhope",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 5.0,
+          "best_back_size": 12.0,
+          "best_lay": 5.1,
+          "best_lay_size": 3.67,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.0,
+              "size": 12.0
+            },
+            {
+              "price": 4.9,
+              "size": 12.24
+            },
+            {
+              "price": 4.8,
+              "size": 28.63
+            },
+            {
+              "price": 4.7,
+              "size": 45.54
+            },
+            {
+              "price": 4.6,
+              "size": 53.68
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.1,
+              "size": 3.67
+            },
+            {
+              "price": 5.2,
+              "size": 21.5
+            },
+            {
+              "price": 5.3,
+              "size": 23.95
+            },
+            {
+              "price": 5.4,
+              "size": 25.52
+            },
+            {
+              "price": 5.5,
+              "size": 40.73
+            }
+          ],
+          "runner_matched_volume": 916.93,
+          "last_price_traded": 5.0,
+          "market_prob": 0.195522,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 58099844,
+          "name": "3. Yalla",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 6.0,
+          "best_back_size": 3.96,
+          "best_lay": 6.2,
+          "best_lay_size": 3.53,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 6.0,
+              "size": 3.96
+            },
+            {
+              "price": 5.9,
+              "size": 9.93
+            },
+            {
+              "price": 5.8,
+              "size": 4.25
+            },
+            {
+              "price": 5.7,
+              "size": 64.94
+            },
+            {
+              "price": 5.6,
+              "size": 41.48
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.2,
+              "size": 3.53
+            },
+            {
+              "price": 6.4,
+              "size": 25.39
+            },
+            {
+              "price": 6.6,
+              "size": 33.17
+            },
+            {
+              "price": 6.8,
+              "size": 18.98
+            },
+            {
+              "price": 7.0,
+              "size": 17.01
+            }
+          ],
+          "runner_matched_volume": 424.67,
+          "last_price_traded": 6.0,
+          "market_prob": 0.162935,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 86554839,
+          "name": "4. Melaten",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 10.0,
+          "best_back_size": 3.13,
+          "best_lay": 10.5,
+          "best_lay_size": 16.3,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 10.0,
+              "size": 3.13
+            },
+            {
+              "price": 9.8,
+              "size": 2.26
+            },
+            {
+              "price": 9.6,
+              "size": 12.34
+            },
+            {
+              "price": 9.4,
+              "size": 2.53
+            },
+            {
+              "price": 9.2,
+              "size": 19.92
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 10.5,
+              "size": 16.3
+            },
+            {
+              "price": 11.0,
+              "size": 5.77
+            },
+            {
+              "price": 11.5,
+              "size": 15.99
+            },
+            {
+              "price": 12.0,
+              "size": 65.57
+            },
+            {
+              "price": 12.5,
+              "size": 15.37
+            }
+          ],
+          "runner_matched_volume": 924.35,
+          "last_price_traded": 10.0,
+          "market_prob": 0.097761,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 55533618,
+          "name": "5. Summer Sizzling",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 13.0,
+          "best_back_size": 3.8,
+          "best_lay": 14.0,
+          "best_lay_size": 3.14,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 13.0,
+              "size": 3.8
+            },
+            {
+              "price": 12.5,
+              "size": 11.18
+            },
+            {
+              "price": 12.0,
+              "size": 23.63
+            },
+            {
+              "price": 11.5,
+              "size": 48.1
+            },
+            {
+              "price": 11.0,
+              "size": 50.12
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 14.0,
+              "size": 3.14
+            },
+            {
+              "price": 14.5,
+              "size": 4.88
+            },
+            {
+              "price": 15.0,
+              "size": 5.44
+            },
+            {
+              "price": 15.5,
+              "size": 12.72
+            },
+            {
+              "price": 16.0,
+              "size": 9.63
+            }
+          ],
+          "runner_matched_volume": 342.0,
+          "last_price_traded": 14.0,
+          "market_prob": 0.075201,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 74853283,
+          "name": "6. Infinite Prince",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 4.3,
+          "best_back_size": 24.39,
+          "best_lay": 4.5,
+          "best_lay_size": 17.48,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 4.3,
+              "size": 24.39
+            },
+            {
+              "price": 4.2,
+              "size": 20.38
+            },
+            {
+              "price": 4.1,
+              "size": 61.67
+            },
+            {
+              "price": 4.0,
+              "size": 40.99
+            },
+            {
+              "price": 3.95,
+              "size": 88.73
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.5,
+              "size": 17.48
+            },
+            {
+              "price": 4.6,
+              "size": 20.16
+            },
+            {
+              "price": 4.7,
+              "size": 10.31
+            },
+            {
+              "price": 4.8,
+              "size": 35.65
+            },
+            {
+              "price": 4.9,
+              "size": 32.09
+            }
+          ],
+          "runner_matched_volume": 1445.43,
+          "last_price_traded": 4.5,
+          "market_prob": 0.227352,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 42860614,
+          "name": "7. Meghan",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 10.5,
+          "best_back_size": 26.66,
+          "best_lay": 11.5,
+          "best_lay_size": 12.38,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 10.5,
+              "size": 26.66
+            },
+            {
+              "price": 10.0,
+              "size": 18.77
+            },
+            {
+              "price": 9.8,
+              "size": 32.35
+            },
+            {
+              "price": 9.6,
+              "size": 33.22
+            },
+            {
+              "price": 9.4,
+              "size": 63.88
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 11.5,
+              "size": 12.38
+            },
+            {
+              "price": 12.0,
+              "size": 35.47
+            },
+            {
+              "price": 12.5,
+              "size": 13.44
+            },
+            {
+              "price": 13.0,
+              "size": 13.98
+            },
+            {
+              "price": 13.5,
+              "size": 12.72
+            }
+          ],
+          "runner_matched_volume": 898.37,
+          "last_price_traded": 11.0,
+          "market_prob": 0.093106,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 80603399,
+          "name": "8. Zephirine",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 6.6,
+          "best_back_size": 36.31,
+          "best_lay": 6.8,
+          "best_lay_size": 8.62,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 6.6,
+              "size": 36.31
+            },
+            {
+              "price": 6.4,
+              "size": 20.21
+            },
+            {
+              "price": 6.2,
+              "size": 70.51
+            },
+            {
+              "price": 6.0,
+              "size": 60.54
+            },
+            {
+              "price": 5.9,
+              "size": 63.31
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.8,
+              "size": 8.62
+            },
+            {
+              "price": 7.0,
+              "size": 13.71
+            },
+            {
+              "price": 7.2,
+              "size": 29.84
+            },
+            {
+              "price": 7.4,
+              "size": 13.57
+            },
+            {
+              "price": 7.6,
+              "size": 20.05
+            }
+          ],
+          "runner_matched_volume": 642.94,
+          "last_price_traded": 6.8,
+          "market_prob": 0.148123,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 97983982,
+          "name": "1. Lone Artist",
+          "saddle_cloth": 8,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-13T04:22:00.399963Z",
+      "seconds_to_off": 300,
+      "market_matched_volume": 6143.53,
+      "overround_pct": 101.8,
+      "runners": [
+        {
+          "selection_id": 53946572,
+          "name": "2. Zouhope",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 5.0,
+          "best_back_size": 2.95,
+          "best_lay": 5.1,
+          "best_lay_size": 4.29,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.0,
+              "size": 2.95
+            },
+            {
+              "price": 4.9,
+              "size": 13.38
+            },
+            {
+              "price": 4.8,
+              "size": 30.56
+            },
+            {
+              "price": 4.7,
+              "size": 67.07
+            },
+            {
+              "price": 4.6,
+              "size": 73.79
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.1,
+              "size": 4.29
+            },
+            {
+              "price": 5.2,
+              "size": 8.08
+            },
+            {
+              "price": 5.3,
+              "size": 18.18
+            },
+            {
+              "price": 5.4,
+              "size": 22.19
+            },
+            {
+              "price": 5.5,
+              "size": 40.73
+            }
+          ],
+          "runner_matched_volume": 993.23,
+          "last_price_traded": 5.0,
+          "market_prob": 0.196538,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 58099844,
+          "name": "3. Yalla",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 6.0,
+          "best_back_size": 5.64,
+          "best_lay": 6.4,
+          "best_lay_size": 7.05,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 6.0,
+              "size": 5.64
+            },
+            {
+              "price": 5.9,
+              "size": 33.03
+            },
+            {
+              "price": 5.8,
+              "size": 18.81
+            },
+            {
+              "price": 5.7,
+              "size": 31.9
+            },
+            {
+              "price": 5.6,
+              "size": 86.84
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.4,
+              "size": 7.05
+            },
+            {
+              "price": 6.6,
+              "size": 20.87
+            },
+            {
+              "price": 6.8,
+              "size": 30.86
+            },
+            {
+              "price": 7.0,
+              "size": 30.2
+            },
+            {
+              "price": 7.2,
+              "size": 12.1
+            }
+          ],
+          "runner_matched_volume": 464.69,
+          "last_price_traded": 6.2,
+          "market_prob": 0.163782,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 86554839,
+          "name": "4. Melaten",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 10.0,
+          "best_back_size": 2.9,
+          "best_lay": 10.5,
+          "best_lay_size": 17.33,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 10.0,
+              "size": 2.9
+            },
+            {
+              "price": 9.8,
+              "size": 5.86
+            },
+            {
+              "price": 9.6,
+              "size": 12.34
+            },
+            {
+              "price": 9.4,
+              "size": 14.59
+            },
+            {
+              "price": 9.2,
+              "size": 21.85
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 10.5,
+              "size": 17.33
+            },
+            {
+              "price": 11.0,
+              "size": 8.3
+            },
+            {
+              "price": 11.5,
+              "size": 15.99
+            },
+            {
+              "price": 12.0,
+              "size": 33.28
+            },
+            {
+              "price": 12.5,
+              "size": 38.82
+            }
+          ],
+          "runner_matched_volume": 990.81,
+          "last_price_traded": 10.0,
+          "market_prob": 0.098269,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 55533618,
+          "name": "5. Summer Sizzling",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 13.0,
+          "best_back_size": 5.4,
+          "best_lay": 14.0,
+          "best_lay_size": 5.0,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 13.0,
+              "size": 5.4
+            },
+            {
+              "price": 12.5,
+              "size": 16.66
+            },
+            {
+              "price": 12.0,
+              "size": 30.5
+            },
+            {
+              "price": 11.5,
+              "size": 69.63
+            },
+            {
+              "price": 11.0,
+              "size": 53.66
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 14.0,
+              "size": 5.0
+            },
+            {
+              "price": 14.5,
+              "size": 10.52
+            },
+            {
+              "price": 15.0,
+              "size": 10.04
+            },
+            {
+              "price": 15.5,
+              "size": 12.72
+            },
+            {
+              "price": 16.0,
+              "size": 9.63
+            }
+          ],
+          "runner_matched_volume": 377.99,
+          "last_price_traded": 13.5,
+          "market_prob": 0.075591,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 74853283,
+          "name": "6. Infinite Prince",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 4.4,
+          "best_back_size": 1.62,
+          "best_lay": 4.5,
+          "best_lay_size": 30.05,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 4.4,
+              "size": 1.62
+            },
+            {
+              "price": 4.3,
+              "size": 25.13
+            },
+            {
+              "price": 4.2,
+              "size": 30.7
+            },
+            {
+              "price": 4.1,
+              "size": 61.67
+            },
+            {
+              "price": 4.0,
+              "size": 42.59
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.5,
+              "size": 30.05
+            },
+            {
+              "price": 4.6,
+              "size": 4.25
+            },
+            {
+              "price": 4.7,
+              "size": 26.65
+            },
+            {
+              "price": 4.8,
+              "size": 48.83
+            },
+            {
+              "price": 4.9,
+              "size": 49.54
+            }
+          ],
+          "runner_matched_volume": 1491.37,
+          "last_price_traded": 4.4,
+          "market_prob": 0.223338,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 42860614,
+          "name": "7. Meghan",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 10.5,
+          "best_back_size": 43.77,
+          "best_lay": 11.5,
+          "best_lay_size": 12.6,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 10.5,
+              "size": 43.77
+            },
+            {
+              "price": 10.0,
+              "size": 19.58
+            },
+            {
+              "price": 9.8,
+              "size": 25.95
+            },
+            {
+              "price": 9.6,
+              "size": 37.56
+            },
+            {
+              "price": 9.4,
+              "size": 63.88
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 11.5,
+              "size": 12.6
+            },
+            {
+              "price": 12.0,
+              "size": 11.66
+            },
+            {
+              "price": 12.5,
+              "size": 36.62
+            },
+            {
+              "price": 13.0,
+              "size": 16.44
+            },
+            {
+              "price": 13.5,
+              "size": 21.35
+            }
+          ],
+          "runner_matched_volume": 1057.5,
+          "last_price_traded": 10.5,
+          "market_prob": 0.093589,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 80603399,
+          "name": "8. Zephirine",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 6.6,
+          "best_back_size": 16.89,
+          "best_lay": 7.2,
+          "best_lay_size": 15.83,
+          "spread": 0.6,
+          "back_ladder": [
+            {
+              "price": 6.6,
+              "size": 16.89
+            },
+            {
+              "price": 6.4,
+              "size": 127.51
+            },
+            {
+              "price": 6.2,
+              "size": 67.07
+            },
+            {
+              "price": 6.0,
+              "size": 83.47
+            },
+            {
+              "price": 5.9,
+              "size": 51.7
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.2,
+              "size": 15.83
+            },
+            {
+              "price": 7.4,
+              "size": 1.93
+            },
+            {
+              "price": 7.6,
+              "size": 13.17
+            },
+            {
+              "price": 7.8,
+              "size": 30.04
+            },
+            {
+              "price": 8.0,
+              "size": 56.77
+            }
+          ],
+          "runner_matched_volume": 767.92,
+          "last_price_traded": 7.0,
+          "market_prob": 0.148892,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 97983982,
+          "name": "1. Lone Artist",
+          "saddle_cloth": 8,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-13T04:23:40.895968Z",
+      "seconds_to_off": 200,
+      "market_matched_volume": 8587.03,
+      "overround_pct": 101.4,
+      "runners": [
+        {
+          "selection_id": 53946572,
+          "name": "2. Zouhope",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 5.3,
+          "best_back_size": 75.86,
+          "best_lay": 5.5,
+          "best_lay_size": 21.79,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 5.3,
+              "size": 75.86
+            },
+            {
+              "price": 5.2,
+              "size": 50.45
+            },
+            {
+              "price": 5.1,
+              "size": 37.66
+            },
+            {
+              "price": 5.0,
+              "size": 83.6
+            },
+            {
+              "price": 4.9,
+              "size": 72.29
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.5,
+              "size": 21.79
+            },
+            {
+              "price": 5.6,
+              "size": 53.69
+            },
+            {
+              "price": 5.7,
+              "size": 37.35
+            },
+            {
+              "price": 5.8,
+              "size": 55.48
+            },
+            {
+              "price": 5.9,
+              "size": 160.03
+            }
+          ],
+          "runner_matched_volume": 1577.09,
+          "last_price_traded": 5.4,
+          "market_prob": 0.186059,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 58099844,
+          "name": "3. Yalla",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 6.6,
+          "best_back_size": 50.6,
+          "best_lay": 6.8,
+          "best_lay_size": 26.91,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 6.6,
+              "size": 50.6
+            },
+            {
+              "price": 6.4,
+              "size": 61.06
+            },
+            {
+              "price": 6.2,
+              "size": 69.17
+            },
+            {
+              "price": 6.0,
+              "size": 103.37
+            },
+            {
+              "price": 5.9,
+              "size": 115.86
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.8,
+              "size": 26.91
+            },
+            {
+              "price": 7.0,
+              "size": 40.46
+            },
+            {
+              "price": 7.2,
+              "size": 51.65
+            },
+            {
+              "price": 7.4,
+              "size": 97.98
+            },
+            {
+              "price": 7.6,
+              "size": 72.56
+            }
+          ],
+          "runner_matched_volume": 635.1,
+          "last_price_traded": 6.6,
+          "market_prob": 0.149411,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 86554839,
+          "name": "4. Melaten",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 8.4,
+          "best_back_size": 16.89,
+          "best_lay": 8.8,
+          "best_lay_size": 78.18,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 8.4,
+              "size": 16.89
+            },
+            {
+              "price": 8.2,
+              "size": 17.69
+            },
+            {
+              "price": 8.0,
+              "size": 44.05
+            },
+            {
+              "price": 7.8,
+              "size": 67.62
+            },
+            {
+              "price": 7.6,
+              "size": 85.11
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.8,
+              "size": 78.18
+            },
+            {
+              "price": 9.0,
+              "size": 25.05
+            },
+            {
+              "price": 9.2,
+              "size": 24.09
+            },
+            {
+              "price": 9.4,
+              "size": 21.39
+            },
+            {
+              "price": 9.6,
+              "size": 19.89
+            }
+          ],
+          "runner_matched_volume": 1483.57,
+          "last_price_traded": 8.6,
+          "market_prob": 0.117394,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 55533618,
+          "name": "5. Summer Sizzling",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 13.0,
+          "best_back_size": 13.32,
+          "best_lay": 13.5,
+          "best_lay_size": 13.25,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 13.0,
+              "size": 13.32
+            },
+            {
+              "price": 12.5,
+              "size": 25.48
+            },
+            {
+              "price": 12.0,
+              "size": 43.95
+            },
+            {
+              "price": 11.5,
+              "size": 49.72
+            },
+            {
+              "price": 11.0,
+              "size": 93.8
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 13.5,
+              "size": 13.25
+            },
+            {
+              "price": 14.0,
+              "size": 16.86
+            },
+            {
+              "price": 14.5,
+              "size": 30.81
+            },
+            {
+              "price": 15.0,
+              "size": 25.45
+            },
+            {
+              "price": 15.5,
+              "size": 27.55
+            }
+          ],
+          "runner_matched_volume": 534.97,
+          "last_price_traded": 13.0,
+          "market_prob": 0.075855,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 74853283,
+          "name": "6. Infinite Prince",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 4.1,
+          "best_back_size": 32.36,
+          "best_lay": 4.2,
+          "best_lay_size": 47.84,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 4.1,
+              "size": 32.36
+            },
+            {
+              "price": 4.0,
+              "size": 33.28
+            },
+            {
+              "price": 3.95,
+              "size": 83.62
+            },
+            {
+              "price": 3.9,
+              "size": 101.97
+            },
+            {
+              "price": 3.85,
+              "size": 144.58
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.2,
+              "size": 47.84
+            },
+            {
+              "price": 4.3,
+              "size": 55.5
+            },
+            {
+              "price": 4.4,
+              "size": 43.43
+            },
+            {
+              "price": 4.5,
+              "size": 59.97
+            },
+            {
+              "price": 4.6,
+              "size": 91.54
+            }
+          ],
+          "runner_matched_volume": 1732.08,
+          "last_price_traded": 4.2,
+          "market_prob": 0.240515,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 42860614,
+          "name": "7. Meghan",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 11.5,
+          "best_back_size": 1.83,
+          "best_lay": 12.0,
+          "best_lay_size": 37.02,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 11.5,
+              "size": 1.83
+            },
+            {
+              "price": 11.0,
+              "size": 43.62
+            },
+            {
+              "price": 10.5,
+              "size": 47.24
+            },
+            {
+              "price": 10.0,
+              "size": 56.16
+            },
+            {
+              "price": 9.8,
+              "size": 49.43
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 12.0,
+              "size": 37.02
+            },
+            {
+              "price": 12.5,
+              "size": 49.87
+            },
+            {
+              "price": 13.0,
+              "size": 46.62
+            },
+            {
+              "price": 13.5,
+              "size": 39.95
+            },
+            {
+              "price": 14.0,
+              "size": 29.18
+            }
+          ],
+          "runner_matched_volume": 1669.64,
+          "last_price_traded": 11.5,
+          "market_prob": 0.085749,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 80603399,
+          "name": "8. Zephirine",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 6.8,
+          "best_back_size": 15.91,
+          "best_lay": 7.0,
+          "best_lay_size": 8.57,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 6.8,
+              "size": 15.91
+            },
+            {
+              "price": 6.6,
+              "size": 31.12
+            },
+            {
+              "price": 6.4,
+              "size": 168.97
+            },
+            {
+              "price": 6.2,
+              "size": 79.65
+            },
+            {
+              "price": 6.0,
+              "size": 122.69
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.0,
+              "size": 8.57
+            },
+            {
+              "price": 7.2,
+              "size": 31.54
+            },
+            {
+              "price": 7.4,
+              "size": 47.28
+            },
+            {
+              "price": 7.6,
+              "size": 29.55
+            },
+            {
+              "price": 7.8,
+              "size": 61.83
+            }
+          ],
+          "runner_matched_volume": 954.55,
+          "last_price_traded": 7.0,
+          "market_prob": 0.145017,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 97983982,
+          "name": "1. Lone Artist",
+          "saddle_cloth": 8,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-13T04:24:55.913303Z",
+      "seconds_to_off": 125,
+      "market_matched_volume": 12031.87,
+      "overround_pct": 101.9,
+      "runners": [
+        {
+          "selection_id": 53946572,
+          "name": "2. Zouhope",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 5.6,
+          "best_back_size": 28.93,
+          "best_lay": 5.7,
+          "best_lay_size": 17.27,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.6,
+              "size": 28.93
+            },
+            {
+              "price": 5.5,
+              "size": 63.53
+            },
+            {
+              "price": 5.4,
+              "size": 100.96
+            },
+            {
+              "price": 5.3,
+              "size": 45.5
+            },
+            {
+              "price": 5.2,
+              "size": 39.57
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.7,
+              "size": 17.27
+            },
+            {
+              "price": 5.8,
+              "size": 45.28
+            },
+            {
+              "price": 5.9,
+              "size": 133.39
+            },
+            {
+              "price": 6.0,
+              "size": 48.99
+            },
+            {
+              "price": 6.2,
+              "size": 23.94
+            }
+          ],
+          "runner_matched_volume": 2149.42,
+          "last_price_traded": 5.7,
+          "market_prob": 0.17521,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 58099844,
+          "name": "3. Yalla",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 6.0,
+          "best_back_size": 99.14,
+          "best_lay": 6.4,
+          "best_lay_size": 31.69,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 6.0,
+              "size": 99.14
+            },
+            {
+              "price": 5.9,
+              "size": 123.71
+            },
+            {
+              "price": 5.8,
+              "size": 40.01
+            },
+            {
+              "price": 5.7,
+              "size": 133.71
+            },
+            {
+              "price": 5.6,
+              "size": 84.08
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.4,
+              "size": 31.69
+            },
+            {
+              "price": 6.6,
+              "size": 53.85
+            },
+            {
+              "price": 6.8,
+              "size": 36.22
+            },
+            {
+              "price": 7.0,
+              "size": 42.97
+            },
+            {
+              "price": 7.2,
+              "size": 56.58
+            }
+          ],
+          "runner_matched_volume": 1601.27,
+          "last_price_traded": 6.2,
+          "market_prob": 0.163529,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 86554839,
+          "name": "4. Melaten",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 8.6,
+          "best_back_size": 49.31,
+          "best_lay": 8.8,
+          "best_lay_size": 9.56,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 8.6,
+              "size": 49.31
+            },
+            {
+              "price": 8.4,
+              "size": 54.25
+            },
+            {
+              "price": 8.2,
+              "size": 36.33
+            },
+            {
+              "price": 8.0,
+              "size": 57.75
+            },
+            {
+              "price": 7.8,
+              "size": 113.15
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.8,
+              "size": 9.56
+            },
+            {
+              "price": 9.0,
+              "size": 29.32
+            },
+            {
+              "price": 9.2,
+              "size": 96.49
+            },
+            {
+              "price": 9.4,
+              "size": 25.53
+            },
+            {
+              "price": 9.6,
+              "size": 23.29
+            }
+          ],
+          "runner_matched_volume": 1873.26,
+          "last_price_traded": 8.8,
+          "market_prob": 0.11409,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 55533618,
+          "name": "5. Summer Sizzling",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 12.5,
+          "best_back_size": 7.52,
+          "best_lay": 13.0,
+          "best_lay_size": 11.66,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 12.5,
+              "size": 7.52
+            },
+            {
+              "price": 12.0,
+              "size": 71.44
+            },
+            {
+              "price": 11.5,
+              "size": 74.82
+            },
+            {
+              "price": 11.0,
+              "size": 74.78
+            },
+            {
+              "price": 10.5,
+              "size": 112.73
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 13.0,
+              "size": 11.66
+            },
+            {
+              "price": 13.5,
+              "size": 22.57
+            },
+            {
+              "price": 14.0,
+              "size": 16.55
+            },
+            {
+              "price": 14.5,
+              "size": 24.51
+            },
+            {
+              "price": 15.0,
+              "size": 27.38
+            }
+          ],
+          "runner_matched_volume": 692.98,
+          "last_price_traded": 12.5,
+          "market_prob": 0.078494,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 74853283,
+          "name": "6. Infinite Prince",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 4.1,
+          "best_back_size": 109.75,
+          "best_lay": 4.2,
+          "best_lay_size": 218.18,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 4.1,
+              "size": 109.75
+            },
+            {
+              "price": 4.0,
+              "size": 59.83
+            },
+            {
+              "price": 3.95,
+              "size": 71.18
+            },
+            {
+              "price": 3.9,
+              "size": 104.98
+            },
+            {
+              "price": 3.85,
+              "size": 174.77
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.2,
+              "size": 218.18
+            },
+            {
+              "price": 4.3,
+              "size": 19.15
+            },
+            {
+              "price": 4.4,
+              "size": 72.63
+            },
+            {
+              "price": 4.5,
+              "size": 116.51
+            },
+            {
+              "price": 4.6,
+              "size": 141.19
+            }
+          ],
+          "runner_matched_volume": 2119.64,
+          "last_price_traded": 4.2,
+          "market_prob": 0.239311,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 42860614,
+          "name": "7. Meghan",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 11.0,
+          "best_back_size": 71.84,
+          "best_lay": 11.5,
+          "best_lay_size": 9.27,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 11.0,
+              "size": 71.84
+            },
+            {
+              "price": 10.5,
+              "size": 57.67
+            },
+            {
+              "price": 10.0,
+              "size": 68.49
+            },
+            {
+              "price": 9.8,
+              "size": 91.08
+            },
+            {
+              "price": 9.6,
+              "size": 71.78
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 11.5,
+              "size": 9.27
+            },
+            {
+              "price": 12.0,
+              "size": 32.11
+            },
+            {
+              "price": 12.5,
+              "size": 76.84
+            },
+            {
+              "price": 13.0,
+              "size": 58.13
+            },
+            {
+              "price": 13.5,
+              "size": 79.55
+            }
+          ],
+          "runner_matched_volume": 2421.41,
+          "last_price_traded": 11.5,
+          "market_prob": 0.089198,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 80603399,
+          "name": "8. Zephirine",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 7.0,
+          "best_back_size": 19.81,
+          "best_lay": 7.2,
+          "best_lay_size": 9.6,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 7.0,
+              "size": 19.81
+            },
+            {
+              "price": 6.8,
+              "size": 82.83
+            },
+            {
+              "price": 6.6,
+              "size": 90.36
+            },
+            {
+              "price": 6.4,
+              "size": 188.98
+            },
+            {
+              "price": 6.2,
+              "size": 145.47
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.2,
+              "size": 9.6
+            },
+            {
+              "price": 7.4,
+              "size": 23.45
+            },
+            {
+              "price": 7.6,
+              "size": 20.3
+            },
+            {
+              "price": 7.8,
+              "size": 74.78
+            },
+            {
+              "price": 8.0,
+              "size": 79.3
+            }
+          ],
+          "runner_matched_volume": 1173.87,
+          "last_price_traded": 6.8,
+          "market_prob": 0.140168,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 97983982,
+          "name": "1. Lone Artist",
+          "saddle_cloth": 8,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-13T04:26:10.871027Z",
+      "seconds_to_off": 50,
+      "market_matched_volume": 16389.52,
+      "overround_pct": 101.1,
+      "runners": [
+        {
+          "selection_id": 53946572,
+          "name": "2. Zouhope",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 5.9,
+          "best_back_size": 47.54,
+          "best_lay": 6.0,
+          "best_lay_size": 13.72,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.9,
+              "size": 47.54
+            },
+            {
+              "price": 5.8,
+              "size": 59.66
+            },
+            {
+              "price": 5.7,
+              "size": 90.52
+            },
+            {
+              "price": 5.6,
+              "size": 68.84
+            },
+            {
+              "price": 5.5,
+              "size": 154.01
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.0,
+              "size": 13.72
+            },
+            {
+              "price": 6.2,
+              "size": 46.0
+            },
+            {
+              "price": 6.4,
+              "size": 36.56
+            },
+            {
+              "price": 6.6,
+              "size": 98.85
+            },
+            {
+              "price": 6.8,
+              "size": 90.73
+            }
+          ],
+          "runner_matched_volume": 2787.56,
+          "last_price_traded": 6.0,
+          "market_prob": 0.167655,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 58099844,
+          "name": "3. Yalla",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 5.8,
+          "best_back_size": 56.93,
+          "best_lay": 5.9,
+          "best_lay_size": 11.43,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.8,
+              "size": 56.93
+            },
+            {
+              "price": 5.7,
+              "size": 100.17
+            },
+            {
+              "price": 5.6,
+              "size": 49.96
+            },
+            {
+              "price": 5.5,
+              "size": 60.84
+            },
+            {
+              "price": 5.4,
+              "size": 104.37
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.9,
+              "size": 11.43
+            },
+            {
+              "price": 6.0,
+              "size": 39.21
+            },
+            {
+              "price": 6.2,
+              "size": 79.67
+            },
+            {
+              "price": 6.4,
+              "size": 42.48
+            },
+            {
+              "price": 6.6,
+              "size": 92.43
+            }
+          ],
+          "runner_matched_volume": 2343.56,
+          "last_price_traded": 5.8,
+          "market_prob": 0.170546,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 86554839,
+          "name": "4. Melaten",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 8.6,
+          "best_back_size": 27.34,
+          "best_lay": 8.8,
+          "best_lay_size": 76.44,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 8.6,
+              "size": 27.34
+            },
+            {
+              "price": 8.4,
+              "size": 83.64
+            },
+            {
+              "price": 8.2,
+              "size": 37.17
+            },
+            {
+              "price": 8.0,
+              "size": 82.06
+            },
+            {
+              "price": 7.8,
+              "size": 92.34
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.8,
+              "size": 76.44
+            },
+            {
+              "price": 9.0,
+              "size": 58.63
+            },
+            {
+              "price": 9.2,
+              "size": 25.95
+            },
+            {
+              "price": 9.4,
+              "size": 25.1
+            },
+            {
+              "price": 9.6,
+              "size": 23.29
+            }
+          ],
+          "runner_matched_volume": 2243.62,
+          "last_price_traded": 8.8,
+          "market_prob": 0.115019,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 55533618,
+          "name": "5. Summer Sizzling",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 13.0,
+          "best_back_size": 21.94,
+          "best_lay": 13.5,
+          "best_lay_size": 24.77,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 13.0,
+              "size": 21.94
+            },
+            {
+              "price": 12.5,
+              "size": 48.75
+            },
+            {
+              "price": 12.0,
+              "size": 101.66
+            },
+            {
+              "price": 11.5,
+              "size": 67.55
+            },
+            {
+              "price": 11.0,
+              "size": 149.01
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 13.5,
+              "size": 24.77
+            },
+            {
+              "price": 14.0,
+              "size": 20.41
+            },
+            {
+              "price": 14.5,
+              "size": 18.17
+            },
+            {
+              "price": 15.0,
+              "size": 23.54
+            },
+            {
+              "price": 15.5,
+              "size": 20.18
+            }
+          ],
+          "runner_matched_volume": 954.91,
+          "last_price_traded": 13.5,
+          "market_prob": 0.07609,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 74853283,
+          "name": "6. Infinite Prince",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 4.0,
+          "best_back_size": 43.33,
+          "best_lay": 4.1,
+          "best_lay_size": 103.43,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 4.0,
+              "size": 43.33
+            },
+            {
+              "price": 3.95,
+              "size": 86.24
+            },
+            {
+              "price": 3.9,
+              "size": 66.15
+            },
+            {
+              "price": 3.85,
+              "size": 113.2
+            },
+            {
+              "price": 3.8,
+              "size": 283.37
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.1,
+              "size": 103.43
+            },
+            {
+              "price": 4.2,
+              "size": 72.82
+            },
+            {
+              "price": 4.3,
+              "size": 28.81
+            },
+            {
+              "price": 4.4,
+              "size": 126.06
+            },
+            {
+              "price": 4.5,
+              "size": 101.46
+            }
+          ],
+          "runner_matched_volume": 2998.62,
+          "last_price_traded": 4.0,
+          "market_prob": 0.247291,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 42860614,
+          "name": "7. Meghan",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 11.5,
+          "best_back_size": 57.68,
+          "best_lay": 12.0,
+          "best_lay_size": 24.66,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 11.5,
+              "size": 57.68
+            },
+            {
+              "price": 11.0,
+              "size": 52.34
+            },
+            {
+              "price": 10.5,
+              "size": 113.04
+            },
+            {
+              "price": 10.0,
+              "size": 106.79
+            },
+            {
+              "price": 9.8,
+              "size": 91.57
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 12.0,
+              "size": 24.66
+            },
+            {
+              "price": 12.5,
+              "size": 72.72
+            },
+            {
+              "price": 13.0,
+              "size": 78.32
+            },
+            {
+              "price": 13.5,
+              "size": 104.06
+            },
+            {
+              "price": 14.0,
+              "size": 27.59
+            }
+          ],
+          "runner_matched_volume": 3619.57,
+          "last_price_traded": 12.0,
+          "market_prob": 0.086014,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 80603399,
+          "name": "8. Zephirine",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 7.2,
+          "best_back_size": 5.63,
+          "best_lay": 7.4,
+          "best_lay_size": 45.07,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 7.2,
+              "size": 5.63
+            },
+            {
+              "price": 7.0,
+              "size": 176.21
+            },
+            {
+              "price": 6.8,
+              "size": 59.23
+            },
+            {
+              "price": 6.6,
+              "size": 75.87
+            },
+            {
+              "price": 6.4,
+              "size": 43.37
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.4,
+              "size": 45.07
+            },
+            {
+              "price": 7.6,
+              "size": 28.7
+            },
+            {
+              "price": 7.8,
+              "size": 36.45
+            },
+            {
+              "price": 8.0,
+              "size": 60.62
+            },
+            {
+              "price": 8.2,
+              "size": 96.44
+            }
+          ],
+          "runner_matched_volume": 1441.64,
+          "last_price_traded": 7.2,
+          "market_prob": 0.137384,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 97983982,
+          "name": "1. Lone Artist",
+          "saddle_cloth": 8,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    }
+  ],
+  "place": {
+    "53946572": {
+      "place_entry": 1.85
+    },
+    "58099844": {
+      "place_entry": 2.08
+    },
+    "86554839": {
+      "place_entry": 2.5
+    },
+    "55533618": {
+      "place_entry": 3.15
+    },
+    "74853283": {
+      "place_entry": 1.7
+    },
+    "42860614": {
+      "place_entry": 3.1
+    },
+    "80603399": {
+      "place_entry": 2.1
+    },
+    "97983982": {}
+  },
+  "place_market_id": "1.259933602",
+  "place_terms": 3,
+  "finalized_at": "2026-07-13T04:30:10.031791Z"
+}
