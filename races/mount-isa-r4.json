@@ -6,19 +6,19 @@
   "race_type": "Flat",
   "start_time_utc": "2026-07-13T04:27:00.000Z",
   "market_id": "1.259933601",
-  "market_overround_pct": 103.5,
+  "market_overround_pct": 101.6,
   "track_condition": "Good",
   "weather": null,
   "form_analysis": null,
   "runners": [
     {
       "name": "6. Infinite Prince",
-      "saddle_cloth": 5,
+      "saddle_cloth": 6,
       "selection_id": 74853283,
       "status": "ACTIVE",
-      "best_back": 4.2,
-      "back_depth_aud": 51.0,
-      "bsp_near": 4.12,
+      "best_back": 4.1,
+      "back_depth_aud": 217.0,
+      "bsp_near": 4.41,
       "market_signal": "NEUTRAL",
       "trainer": "Emma Morton",
       "jockey": "Nor Yadi",
@@ -113,16 +113,18 @@
         "confidence": "ok",
         "reason": "confirmed form, 37 career starts",
         "guard": "data_adequacy v1.0"
-      }
+      },
+      "predProb": 0.257692,
+      "model_version": "2026-07-08"
     },
     {
       "name": "2. Zouhope",
-      "saddle_cloth": 1,
+      "saddle_cloth": 2,
       "selection_id": 53946572,
       "status": "ACTIVE",
-      "best_back": 4.6,
-      "back_depth_aud": 68.0,
-      "bsp_near": 4.6,
+      "best_back": 5.4,
+      "back_depth_aud": 134.0,
+      "bsp_near": 5.34,
       "market_signal": "NEUTRAL",
       "trainer": "Shryn Royes",
       "jockey": "David Sparks",
@@ -147,6 +149,34 @@
       },
       "recent_runs": [
         {
+          "pos": 4,
+          "date": "2026-07-04",
+          "class": "HCP",
+          "trial": false,
+          "distance_m": 1200,
+          "going": "Good",
+          "winner_time": 71.31,
+          "beaten_margin": 3.47,
+          "runner_time": 71.8,
+          "runner_time_reduced": true,
+          "sectional_600": null,
+          "in_run": null
+        },
+        {
+          "pos": 2,
+          "date": "2026-06-13",
+          "class": "CL5",
+          "trial": false,
+          "distance_m": 1400,
+          "going": "Good",
+          "winner_time": 80.68,
+          "beaten_margin": 1.46,
+          "runner_time": 80.88,
+          "runner_time_reduced": true,
+          "sectional_600": null,
+          "in_run": null
+        },
+        {
           "pos": 7,
           "date": "2026-05-16",
           "class": "BM65",
@@ -164,6 +194,20 @@
           }
         },
         {
+          "pos": 4,
+          "date": "2026-05-09",
+          "class": "BM60",
+          "trial": false,
+          "distance_m": 1200,
+          "going": "Good",
+          "winner_time": 67.15,
+          "beaten_margin": 5.48,
+          "runner_time": 67.89,
+          "runner_time_reduced": true,
+          "sectional_600": 34.05,
+          "in_run": null
+        },
+        {
           "pos": 1,
           "date": "2026-05-09",
           "class": "BM55",
@@ -179,11 +223,14 @@
         }
       ],
       "recent_class": [
+        "HCP",
+        "CL5",
         "BM65",
+        "BM60",
         "BM55"
       ],
-      "days_since_run": 58,
-      "runs_this_prep": 2,
+      "days_since_run": 9,
+      "runs_this_prep": 5,
       "form_status": "confirmed",
       "warnings": [],
       "last5_parsed": [
@@ -256,171 +303,46 @@
         "confidence": "ok",
         "reason": "confirmed form, 69 career starts",
         "guard": "data_adequacy v1.0"
-      }
+      },
+      "predProb": 0.211489,
+      "model_version": "2026-07-08"
     },
     {
       "name": "3. Yalla",
-      "saddle_cloth": 2,
+      "saddle_cloth": 3,
       "selection_id": 58099844,
       "status": "ACTIVE",
       "best_back": 6.6,
-      "back_depth_aud": 68.0,
-      "bsp_near": 6.6,
+      "back_depth_aud": 172.0,
+      "bsp_near": 7.05,
       "market_signal": "NEUTRAL",
-      "trainer": "Tanya Parry",
-      "jockey": "Mitch Goring (a2/57kg), (late alt)",
-      "last5": "3x43642264",
-      "career": "36:4-8-5",
-      "weight_kg": 62.0,
-      "barrier": 5,
-      "official_rating": 64,
-      "prizemoney": 132055,
-      "first_up_record": "5:1-2-0",
-      "second_up_record": "5:1-0-1",
-      "track_record": "3:1-0-2",
-      "dist_record": "5:2-1-1",
-      "track_dist_record": "1:0-0-1",
-      "distances_won": "1100 (1), 1200 (1), 1400 (1), 1450 (1)",
-      "going_record": {
-        "Firm": "0:0-0-0",
-        "Good": "26:3-7-3",
-        "Soft": "9:1-1-2",
-        "Heavy": "1:0-0-0",
-        "Synthetic": "0:0-0-0"
-      },
-      "recent_runs": [
-        {
-          "pos": 4,
-          "date": "2026-07-04",
-          "class": "HCP",
-          "trial": false,
-          "distance_m": 1200,
-          "going": "Good",
-          "winner_time": 71.31,
-          "beaten_margin": 3.47,
-          "runner_time": 71.8,
-          "runner_time_reduced": true,
-          "sectional_600": null,
-          "in_run": null
-        },
-        {
-          "pos": 2,
-          "date": "2026-06-13",
-          "class": "CL5",
-          "trial": false,
-          "distance_m": 1400,
-          "going": "Good",
-          "winner_time": 80.68,
-          "beaten_margin": 1.46,
-          "runner_time": 80.88,
-          "runner_time_reduced": true,
-          "sectional_600": null,
-          "in_run": null
-        },
-        {
-          "pos": 4,
-          "date": "2026-05-09",
-          "class": "BM60",
-          "trial": false,
-          "distance_m": 1200,
-          "going": "Good",
-          "winner_time": 67.15,
-          "beaten_margin": 5.48,
-          "runner_time": 67.89,
-          "runner_time_reduced": true,
-          "sectional_600": 34.05,
-          "in_run": null
-        }
-      ],
-      "recent_class": [
-        "HCP",
-        "CL5",
-        "BM60"
-      ],
-      "days_since_run": 9,
-      "runs_this_prep": 3,
-      "form_status": "confirmed",
+      "trainer": null,
+      "jockey": null,
+      "last5": null,
+      "career": null,
+      "weight_kg": null,
+      "barrier": null,
+      "form_status": "not_found",
       "warnings": [],
-      "last5_parsed": [
-        {
-          "raw": "3",
-          "pos": 3,
-          "nonFinish": false,
-          "spell": false
-        },
-        {
-          "raw": "x",
-          "pos": null,
-          "nonFinish": false,
-          "spell": true
-        },
-        {
-          "raw": "4",
-          "pos": 4,
-          "nonFinish": false,
-          "spell": false
-        },
-        {
-          "raw": "3",
-          "pos": 3,
-          "nonFinish": false,
-          "spell": false
-        },
-        {
-          "raw": "6",
-          "pos": 6,
-          "nonFinish": false,
-          "spell": false
-        },
-        {
-          "raw": "4",
-          "pos": 4,
-          "nonFinish": false,
-          "spell": false
-        },
-        {
-          "raw": "2",
-          "pos": 2,
-          "nonFinish": false,
-          "spell": false
-        },
-        {
-          "raw": "2",
-          "pos": 2,
-          "nonFinish": false,
-          "spell": false
-        },
-        {
-          "raw": "6",
-          "pos": 6,
-          "nonFinish": false,
-          "spell": false
-        },
-        {
-          "raw": "4",
-          "pos": 4,
-          "nonFinish": false,
-          "spell": false
-        }
-      ],
-      "data_status": "confirmed",
+      "last5_parsed": [],
+      "data_status": "not_found",
       "open_price": 1.01,
       "call": {
-        "call": "OK",
-        "label": "OK",
-        "confidence": "ok",
-        "reason": "confirmed form, 36 career starts",
+        "call": "NO_CALL",
+        "label": "DATA BAD",
+        "confidence": null,
+        "reason": "data bad: data_status=not_found and no race form on record",
         "guard": "data_adequacy v1.0"
       }
     },
     {
       "name": "8. Zephirine",
-      "saddle_cloth": 7,
+      "saddle_cloth": 8,
       "selection_id": 80603399,
       "status": "ACTIVE",
-      "best_back": 7.2,
-      "back_depth_aud": 75.0,
-      "bsp_near": 6.92,
+      "best_back": 6.6,
+      "back_depth_aud": 227.0,
+      "bsp_near": 6.6,
       "market_signal": "NEUTRAL",
       "trainer": "Tanya Parry",
       "jockey": "Ms Brooke Stower",
@@ -536,16 +458,18 @@
         "confidence": "ok",
         "reason": "confirmed form, 15 career starts",
         "guard": "data_adequacy v1.0"
-      }
+      },
+      "predProb": 0.153594,
+      "model_version": "2026-07-08"
     },
     {
       "name": "4. Melaten",
-      "saddle_cloth": 3,
+      "saddle_cloth": 4,
       "selection_id": 86554839,
       "status": "ACTIVE",
-      "best_back": 8.0,
-      "back_depth_aud": 95.0,
-      "bsp_near": 7.81,
+      "best_back": 8.6,
+      "back_depth_aud": 111.0,
+      "bsp_near": 9.22,
       "market_signal": "NEUTRAL",
       "trainer": "Tanya Parry",
       "jockey": "Chris Whiteley",
@@ -679,16 +603,18 @@
         "confidence": "ok",
         "reason": "confirmed form, 12 career starts",
         "guard": "data_adequacy v1.0"
-      }
+      },
+      "predProb": 0.12752,
+      "model_version": "2026-07-08"
     },
     {
       "name": "7. Meghan",
-      "saddle_cloth": 6,
+      "saddle_cloth": 7,
       "selection_id": 42860614,
       "status": "ACTIVE",
-      "best_back": 10.0,
-      "back_depth_aud": 17.0,
-      "bsp_near": 9.86,
+      "best_back": 11.0,
+      "back_depth_aud": 112.0,
+      "bsp_near": 11.7,
       "market_signal": "NEUTRAL",
       "trainer": "Tanya Parry",
       "jockey": "Jess Emmerson (a2/51kg)",
@@ -819,17 +745,19 @@
         "confidence": "ok",
         "reason": "confirmed form, 40 career starts",
         "guard": "data_adequacy v1.0"
-      }
+      },
+      "predProb": 0.152636,
+      "model_version": "2026-07-08"
     },
     {
       "name": "5. Summer Sizzling",
-      "saddle_cloth": 4,
+      "saddle_cloth": 5,
       "selection_id": 55533618,
       "status": "ACTIVE",
-      "best_back": 15.5,
-      "back_depth_aud": 36.0,
-      "bsp_near": 15.07,
-      "market_signal": "NEUTRAL",
+      "best_back": 13.0,
+      "back_depth_aud": 66.0,
+      "bsp_near": 14.63,
+      "market_signal": "\u2744\ufe0f DRIFT",
       "trainer": "Bevan Johnson",
       "jockey": "Jason Miller (a4/58kg)",
       "last5": "65312547x0",
@@ -1010,11 +938,13 @@
         "confidence": "ok",
         "reason": "confirmed form, 33 career starts",
         "guard": "data_adequacy v1.0"
-      }
+      },
+      "predProb": 0.09707,
+      "model_version": "2026-07-08"
     },
     {
       "name": "1. Lone Artist",
-      "saddle_cloth": 8,
+      "saddle_cloth": 1,
       "selection_id": 97983982,
       "status": "REMOVED",
       "best_back": null,
@@ -1024,15 +954,47 @@
       "trainer": "Tanya Parry",
       "jockey": "Mitch Goring (a2/57kg)",
       "last5": "1347842134",
-      "career": "10:2-1-2",
+      "career": "21:4-2-6",
       "weight_kg": 65.5,
       "barrier": 8,
       "official_rating": 67,
-      "scratched": true,
-      "form_status": "unraced",
-      "warnings": [
-        "runner scratched (per form source) \u2014 career reconstructed from last5 for reference only, not expected to start"
+      "prizemoney": 95620,
+      "first_up_record": "4:0-0-3",
+      "second_up_record": "3:0-1-0",
+      "track_record": "2:1-0-1",
+      "dist_record": "8:3-0-3",
+      "track_dist_record": "2:1-0-1",
+      "distances_won": "1300 (1), 1400 (2), 1450 (1)",
+      "going_record": {
+        "Firm": "0:0-0-0",
+        "Good": "15:3-2-4",
+        "Soft": "6:1-0-2",
+        "Heavy": "0:0-0-0",
+        "Synthetic": "0:0-0-0"
+      },
+      "recent_runs": [
+        {
+          "pos": 2,
+          "date": "2026-05-16",
+          "class": "BM60",
+          "trial": false,
+          "distance_m": 1200,
+          "going": "Good",
+          "winner_time": 70.36,
+          "beaten_margin": 0.5,
+          "runner_time": 70.43,
+          "runner_time_reduced": true,
+          "sectional_600": null,
+          "in_run": null
+        }
       ],
+      "recent_class": [
+        "BM60"
+      ],
+      "days_since_run": 58,
+      "runs_this_prep": 1,
+      "form_status": "confirmed",
+      "warnings": [],
       "last5_parsed": [
         {
           "raw": "1",
@@ -1095,21 +1057,23 @@
           "spell": false
         }
       ],
-      "data_status": "reconstructed",
+      "data_status": "confirmed",
       "open_price": 1.01,
       "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: runner not active (status=REMOVED)",
+        "call": "OK",
+        "label": "OK",
+        "confidence": "ok",
+        "reason": "confirmed form, 21 career starts",
         "guard": "data_adequacy v1.0"
       }
     }
   ],
-  "last_polled_at": "2026-07-13T04:17:12.655413Z",
+  "last_polled_at": "2026-07-13T04:23:00.776603Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
     "ok": 7,
     "no_call": 1
-  }
+  },
+  "final_snapshot": true,
+  "final_snapshot_at": "2026-07-13T04:23:00.776603Z"
 }
