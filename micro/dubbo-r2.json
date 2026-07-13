@@ -1,0 +1,4182 @@
+{
+  "event_id": "dubbo-2026-07-13-r2",
+  "market_id": "1.259927659",
+  "venue": "Dubbo",
+  "race_name": "R2 1600m Mdn",
+  "start_time_utc": "2026-07-13T02:25:00.000Z",
+  "captured_by": "micro-series v1",
+  "field_size": 8,
+  "model_overlay": {
+    "100487306": {
+      "model_prob": 0.39915,
+      "model_rank": 1,
+      "model_version": "2026-07-08"
+    },
+    "100487307": {
+      "model_prob": 0.189488,
+      "model_rank": 2,
+      "model_version": "2026-07-08"
+    },
+    "51526598": {
+      "model_prob": 0.147943,
+      "model_rank": 3,
+      "model_version": "2026-07-08"
+    },
+    "526197": {
+      "model_prob": 0.060941,
+      "model_rank": 5,
+      "model_version": "2026-07-08"
+    },
+    "98996186": {
+      "model_prob": 0.056128,
+      "model_rank": 6,
+      "model_version": "2026-07-08"
+    },
+    "100487309": {
+      "model_prob": 0.061781,
+      "model_rank": 4,
+      "model_version": "2026-07-08"
+    },
+    "100487308": {
+      "model_prob": 0.053175,
+      "model_rank": 7,
+      "model_version": "2026-07-08"
+    },
+    "4476512": {
+      "model_prob": 0.031393,
+      "model_rank": 8,
+      "model_version": "2026-07-08"
+    }
+  },
+  "bsp": {
+    "99492491": {
+      "bsp": NaN,
+      "status": "REMOVED"
+    },
+    "100486065": {
+      "bsp": NaN,
+      "status": "REMOVED"
+    },
+    "100487306": {
+      "bsp": 2.02,
+      "status": "LOSER"
+    },
+    "526197": {
+      "bsp": 23.0,
+      "status": "LOSER"
+    },
+    "4476512": {
+      "bsp": 462.12,
+      "status": "LOSER"
+    },
+    "98996186": {
+      "bsp": 27.5,
+      "status": "LOSER"
+    },
+    "100487307": {
+      "bsp": 5.4,
+      "status": "WINNER"
+    },
+    "100487308": {
+      "bsp": 65.0,
+      "status": "LOSER"
+    },
+    "51526598": {
+      "bsp": 5.57,
+      "status": "LOSER"
+    },
+    "100487309": {
+      "bsp": 46.0,
+      "status": "LOSER"
+    }
+  },
+  "result": {
+    "winner": "6. Lady Lilibet",
+    "winner_bsp": 5.4,
+    "placings": [
+      "6. Lady Lilibet"
+    ],
+    "settled_at": "2026-07-13T02:32:15.131044Z"
+  },
+  "frames": [
+    {
+      "at": "2026-07-13T02:15:01.148535Z",
+      "seconds_to_off": 599,
+      "market_matched_volume": 2075.44,
+      "overround_pct": 102.7,
+      "runners": [
+        {
+          "selection_id": 100487306,
+          "name": "2. Adamana",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 2.04,
+          "best_back_size": 57.69,
+          "best_lay": 2.18,
+          "best_lay_size": 1.93,
+          "spread": 0.14,
+          "back_ladder": [
+            {
+              "price": 2.04,
+              "size": 57.69
+            },
+            {
+              "price": 2.02,
+              "size": 9.64
+            },
+            {
+              "price": 2.0,
+              "size": 34.62
+            },
+            {
+              "price": 1.99,
+              "size": 192.98
+            },
+            {
+              "price": 1.98,
+              "size": 14.92
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.18,
+              "size": 1.93
+            },
+            {
+              "price": 2.2,
+              "size": 32.57
+            },
+            {
+              "price": 2.22,
+              "size": 50.0
+            },
+            {
+              "price": 2.26,
+              "size": 50.0
+            },
+            {
+              "price": 2.28,
+              "size": 8.9
+            }
+          ],
+          "runner_matched_volume": 1258.83,
+          "last_price_traded": 2.18,
+          "market_prob": 0.477437,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 526197,
+          "name": "3. Avignon",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 20.0,
+          "best_back_size": 3.82,
+          "best_lay": 29.0,
+          "best_lay_size": 2.39,
+          "spread": 9.0,
+          "back_ladder": [
+            {
+              "price": 20.0,
+              "size": 3.82
+            },
+            {
+              "price": 19.5,
+              "size": 9.99
+            },
+            {
+              "price": 19.0,
+              "size": 3.44
+            },
+            {
+              "price": 17.0,
+              "size": 23.74
+            },
+            {
+              "price": 16.5,
+              "size": 12.0
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 29.0,
+              "size": 2.39
+            },
+            {
+              "price": 30.0,
+              "size": 2.02
+            },
+            {
+              "price": 34.0,
+              "size": 2.84
+            },
+            {
+              "price": 95.0,
+              "size": 1.93
+            },
+            {
+              "price": 100.0,
+              "size": 3.23
+            }
+          ],
+          "runner_matched_volume": 98.21,
+          "last_price_traded": 19.0,
+          "market_prob": 0.048699,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 4476512,
+          "name": "4. Daytimer",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 310.0,
+          "best_back_size": 2.35,
+          "best_lay": 850.0,
+          "best_lay_size": 1.91,
+          "spread": 540.0,
+          "back_ladder": [
+            {
+              "price": 310.0,
+              "size": 2.35
+            },
+            {
+              "price": 220.0,
+              "size": 1.2
+            },
+            {
+              "price": 180.0,
+              "size": 1.17
+            },
+            {
+              "price": 150.0,
+              "size": 7.56
+            },
+            {
+              "price": 90.0,
+              "size": 10.79
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 850.0,
+              "size": 1.91
+            },
+            {
+              "price": 980.0,
+              "size": 2.26
+            }
+          ],
+          "runner_matched_volume": 15.1,
+          "last_price_traded": 310.0,
+          "market_prob": 0.003142,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 98996186,
+          "name": "5. Good Time",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 21.0,
+          "best_back_size": 13.35,
+          "best_lay": 27.0,
+          "best_lay_size": 3.93,
+          "spread": 6.0,
+          "back_ladder": [
+            {
+              "price": 21.0,
+              "size": 13.35
+            },
+            {
+              "price": 20.0,
+              "size": 7.12
+            },
+            {
+              "price": 19.0,
+              "size": 5.0
+            },
+            {
+              "price": 18.5,
+              "size": 8.81
+            },
+            {
+              "price": 18.0,
+              "size": 7.7
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 27.0,
+              "size": 3.93
+            },
+            {
+              "price": 28.0,
+              "size": 8.78
+            },
+            {
+              "price": 29.0,
+              "size": 11.0
+            },
+            {
+              "price": 130.0,
+              "size": 2.58
+            },
+            {
+              "price": 200.0,
+              "size": 3.89
+            }
+          ],
+          "runner_matched_volume": 8.24,
+          "last_price_traded": 20.0,
+          "market_prob": 0.04638,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100487307,
+          "name": "6. Lady Lilibet",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 4.7,
+          "best_back_size": 32.48,
+          "best_lay": 5.0,
+          "best_lay_size": 4.46,
+          "spread": 0.3,
+          "back_ladder": [
+            {
+              "price": 4.7,
+              "size": 32.48
+            },
+            {
+              "price": 4.6,
+              "size": 20.59
+            },
+            {
+              "price": 4.5,
+              "size": 31.49
+            },
+            {
+              "price": 4.4,
+              "size": 12.24
+            },
+            {
+              "price": 4.3,
+              "size": 92.64
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.0,
+              "size": 4.46
+            },
+            {
+              "price": 5.3,
+              "size": 22.96
+            },
+            {
+              "price": 5.4,
+              "size": 50.79
+            },
+            {
+              "price": 5.6,
+              "size": 6.16
+            },
+            {
+              "price": 5.7,
+              "size": 41.0
+            }
+          ],
+          "runner_matched_volume": 454.63,
+          "last_price_traded": 4.7,
+          "market_prob": 0.207228,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 100487308,
+          "name": "7. Pallene",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 40.0,
+          "best_back_size": 1.28,
+          "best_lay": 50.0,
+          "best_lay_size": 7.91,
+          "spread": 10.0,
+          "back_ladder": [
+            {
+              "price": 40.0,
+              "size": 1.28
+            },
+            {
+              "price": 38.0,
+              "size": 5.44
+            },
+            {
+              "price": 34.0,
+              "size": 9.19
+            },
+            {
+              "price": 32.0,
+              "size": 16.51
+            },
+            {
+              "price": 30.0,
+              "size": 6.06
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 50.0,
+              "size": 7.91
+            },
+            {
+              "price": 55.0,
+              "size": 6.95
+            },
+            {
+              "price": 230.0,
+              "size": 1.39
+            },
+            {
+              "price": 590.0,
+              "size": 2.52
+            },
+            {
+              "price": 600.0,
+              "size": 19.3
+            }
+          ],
+          "runner_matched_volume": 32.29,
+          "last_price_traded": 38.0,
+          "market_prob": 0.024349,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 51526598,
+          "name": "10. Sonnig",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 6.4,
+          "best_back_size": 9.26,
+          "best_lay": 7.6,
+          "best_lay_size": 4.48,
+          "spread": 1.2,
+          "back_ladder": [
+            {
+              "price": 6.4,
+              "size": 9.26
+            },
+            {
+              "price": 6.2,
+              "size": 8.54
+            },
+            {
+              "price": 6.0,
+              "size": 11.58
+            },
+            {
+              "price": 5.9,
+              "size": 5.77
+            },
+            {
+              "price": 5.8,
+              "size": 9.1
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.6,
+              "size": 4.48
+            },
+            {
+              "price": 7.8,
+              "size": 7.01
+            },
+            {
+              "price": 8.8,
+              "size": 2.07
+            },
+            {
+              "price": 9.2,
+              "size": 2.35
+            },
+            {
+              "price": 11.5,
+              "size": 2.07
+            }
+          ],
+          "runner_matched_volume": 187.9,
+          "last_price_traded": 6.4,
+          "market_prob": 0.152183,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100487309,
+          "name": "11. Windsor Road",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 24.0,
+          "best_back_size": 5.99,
+          "best_lay": 30.0,
+          "best_lay_size": 3.75,
+          "spread": 6.0,
+          "back_ladder": [
+            {
+              "price": 24.0,
+              "size": 5.99
+            },
+            {
+              "price": 23.0,
+              "size": 3.09
+            },
+            {
+              "price": 22.0,
+              "size": 1.01
+            },
+            {
+              "price": 21.0,
+              "size": 4.87
+            },
+            {
+              "price": 20.0,
+              "size": 1.03
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 30.0,
+              "size": 3.75
+            },
+            {
+              "price": 32.0,
+              "size": 2.91
+            },
+            {
+              "price": 34.0,
+              "size": 5.79
+            },
+            {
+              "price": 120.0,
+              "size": 13.4
+            },
+            {
+              "price": 180.0,
+              "size": 3.89
+            }
+          ],
+          "runner_matched_volume": 20.2,
+          "last_price_traded": 23.0,
+          "market_prob": 0.040582,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 99492491,
+          "name": "8. Pinero",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100486065,
+          "name": "9. Rockn On Uptown",
+          "saddle_cloth": 10,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-13T02:16:15.375140Z",
+      "seconds_to_off": 525,
+      "market_matched_volume": 3339.4,
+      "overround_pct": 102.3,
+      "runners": [
+        {
+          "selection_id": 100487306,
+          "name": "2. Adamana",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 1.97,
+          "best_back_size": 55.52,
+          "best_lay": 2.18,
+          "best_lay_size": 1.93,
+          "spread": 0.21,
+          "back_ladder": [
+            {
+              "price": 1.97,
+              "size": 55.52
+            },
+            {
+              "price": 1.96,
+              "size": 3.97
+            },
+            {
+              "price": 1.95,
+              "size": 12.0
+            },
+            {
+              "price": 1.94,
+              "size": 7.7
+            },
+            {
+              "price": 1.93,
+              "size": 165.46
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.18,
+              "size": 1.93
+            },
+            {
+              "price": 2.2,
+              "size": 32.57
+            },
+            {
+              "price": 2.22,
+              "size": 50.0
+            },
+            {
+              "price": 2.26,
+              "size": 50.0
+            },
+            {
+              "price": 2.28,
+              "size": 8.9
+            }
+          ],
+          "runner_matched_volume": 2197.08,
+          "last_price_traded": 2.04,
+          "market_prob": 0.496351,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 526197,
+          "name": "3. Avignon",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 21.0,
+          "best_back_size": 3.02,
+          "best_lay": 30.0,
+          "best_lay_size": 1.66,
+          "spread": 9.0,
+          "back_ladder": [
+            {
+              "price": 21.0,
+              "size": 3.02
+            },
+            {
+              "price": 20.0,
+              "size": 1.79
+            },
+            {
+              "price": 18.0,
+              "size": 10.19
+            },
+            {
+              "price": 17.5,
+              "size": 9.69
+            },
+            {
+              "price": 17.0,
+              "size": 26.24
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 30.0,
+              "size": 1.66
+            },
+            {
+              "price": 65.0,
+              "size": 2.52
+            },
+            {
+              "price": 130.0,
+              "size": 3.42
+            },
+            {
+              "price": 150.0,
+              "size": 1.93
+            },
+            {
+              "price": 210.0,
+              "size": 1.96
+            }
+          ],
+          "runner_matched_volume": 157.16,
+          "last_price_traded": 20.0,
+          "market_prob": 0.046562,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 4476512,
+          "name": "4. Daytimer",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 310.0,
+          "best_back_size": 2.22,
+          "best_lay": 810.0,
+          "best_lay_size": 3.47,
+          "spread": 500.0,
+          "back_ladder": [
+            {
+              "price": 310.0,
+              "size": 2.22
+            },
+            {
+              "price": 170.0,
+              "size": 2.52
+            },
+            {
+              "price": 150.0,
+              "size": 5.91
+            },
+            {
+              "price": 100.0,
+              "size": 6.23
+            },
+            {
+              "price": 90.0,
+              "size": 3.86
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 810.0,
+              "size": 3.47
+            },
+            {
+              "price": 970.0,
+              "size": 1.6
+            }
+          ],
+          "runner_matched_volume": 15.56,
+          "last_price_traded": 310.0,
+          "market_prob": 0.003154,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 98996186,
+          "name": "5. Good Time",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 24.0,
+          "best_back_size": 2.17,
+          "best_lay": 29.0,
+          "best_lay_size": 15.94,
+          "spread": 5.0,
+          "back_ladder": [
+            {
+              "price": 24.0,
+              "size": 2.17
+            },
+            {
+              "price": 23.0,
+              "size": 3.15
+            },
+            {
+              "price": 22.0,
+              "size": 9.07
+            },
+            {
+              "price": 21.0,
+              "size": 6.24
+            },
+            {
+              "price": 20.0,
+              "size": 9.62
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 29.0,
+              "size": 15.94
+            },
+            {
+              "price": 150.0,
+              "size": 2.24
+            },
+            {
+              "price": 200.0,
+              "size": 3.89
+            },
+            {
+              "price": 250.0,
+              "size": 19.3
+            },
+            {
+              "price": 440.0,
+              "size": 4.13
+            }
+          ],
+          "runner_matched_volume": 54.7,
+          "last_price_traded": 23.0,
+          "market_prob": 0.040742,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100487307,
+          "name": "6. Lady Lilibet",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 5.0,
+          "best_back_size": 20.19,
+          "best_lay": 5.4,
+          "best_lay_size": 51.59,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 5.0,
+              "size": 20.19
+            },
+            {
+              "price": 4.9,
+              "size": 13.2
+            },
+            {
+              "price": 4.8,
+              "size": 16.35
+            },
+            {
+              "price": 4.7,
+              "size": 16.29
+            },
+            {
+              "price": 4.6,
+              "size": 5.77
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.4,
+              "size": 51.59
+            },
+            {
+              "price": 5.6,
+              "size": 6.16
+            },
+            {
+              "price": 5.7,
+              "size": 41.0
+            },
+            {
+              "price": 5.9,
+              "size": 27.98
+            },
+            {
+              "price": 6.2,
+              "size": 20.73
+            }
+          ],
+          "runner_matched_volume": 553.03,
+          "last_price_traded": 4.9,
+          "market_prob": 0.195562,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 100487308,
+          "name": "7. Pallene",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 38.0,
+          "best_back_size": 1.35,
+          "best_lay": 50.0,
+          "best_lay_size": 3.01,
+          "spread": 12.0,
+          "back_ladder": [
+            {
+              "price": 38.0,
+              "size": 1.35
+            },
+            {
+              "price": 36.0,
+              "size": 3.7
+            },
+            {
+              "price": 34.0,
+              "size": 9.19
+            },
+            {
+              "price": 32.0,
+              "size": 16.51
+            },
+            {
+              "price": 30.0,
+              "size": 11.89
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 50.0,
+              "size": 3.01
+            },
+            {
+              "price": 55.0,
+              "size": 6.95
+            },
+            {
+              "price": 240.0,
+              "size": 1.34
+            },
+            {
+              "price": 590.0,
+              "size": 2.52
+            },
+            {
+              "price": 600.0,
+              "size": 19.3
+            }
+          ],
+          "runner_matched_volume": 41.2,
+          "last_price_traded": 36.0,
+          "market_prob": 0.025732,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 51526598,
+          "name": "10. Sonnig",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 6.4,
+          "best_back_size": 4.48,
+          "best_lay": 7.6,
+          "best_lay_size": 3.58,
+          "spread": 1.2,
+          "back_ladder": [
+            {
+              "price": 6.4,
+              "size": 4.48
+            },
+            {
+              "price": 6.2,
+              "size": 2.51
+            },
+            {
+              "price": 6.0,
+              "size": 24.27
+            },
+            {
+              "price": 5.9,
+              "size": 9.49
+            },
+            {
+              "price": 5.8,
+              "size": 17.39
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.6,
+              "size": 3.58
+            },
+            {
+              "price": 11.5,
+              "size": 2.0
+            },
+            {
+              "price": 12.0,
+              "size": 2.41
+            },
+            {
+              "price": 12.5,
+              "size": 7.02
+            },
+            {
+              "price": 13.0,
+              "size": 21.52
+            }
+          ],
+          "runner_matched_volume": 280.92,
+          "last_price_traded": 7.0,
+          "market_prob": 0.152783,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100487309,
+          "name": "11. Windsor Road",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 25.0,
+          "best_back_size": 5.79,
+          "best_lay": 32.0,
+          "best_lay_size": 3.06,
+          "spread": 7.0,
+          "back_ladder": [
+            {
+              "price": 25.0,
+              "size": 5.79
+            },
+            {
+              "price": 24.0,
+              "size": 3.01
+            },
+            {
+              "price": 23.0,
+              "size": 1.29
+            },
+            {
+              "price": 22.0,
+              "size": 1.87
+            },
+            {
+              "price": 21.0,
+              "size": 1.82
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 32.0,
+              "size": 3.06
+            },
+            {
+              "price": 34.0,
+              "size": 3.86
+            },
+            {
+              "price": 100.0,
+              "size": 1.1
+            },
+            {
+              "price": 120.0,
+              "size": 9.53
+            },
+            {
+              "price": 130.0,
+              "size": 3.57
+            }
+          ],
+          "runner_matched_volume": 39.71,
+          "last_price_traded": 30.0,
+          "market_prob": 0.039112,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 99492491,
+          "name": "8. Pinero",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100486065,
+          "name": "9. Rockn On Uptown",
+          "saddle_cloth": 10,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-13T02:17:30.392063Z",
+      "seconds_to_off": 450,
+      "market_matched_volume": 3716.76,
+      "overround_pct": 103.2,
+      "runners": [
+        {
+          "selection_id": 100487306,
+          "name": "2. Adamana",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 1.98,
+          "best_back_size": 14.34,
+          "best_lay": 2.08,
+          "best_lay_size": 2.12,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 1.98,
+              "size": 14.34
+            },
+            {
+              "price": 1.96,
+              "size": 3.07
+            },
+            {
+              "price": 1.95,
+              "size": 1.93
+            },
+            {
+              "price": 1.94,
+              "size": 23.66
+            },
+            {
+              "price": 1.93,
+              "size": 21.73
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.08,
+              "size": 2.12
+            },
+            {
+              "price": 2.14,
+              "size": 1.18
+            },
+            {
+              "price": 2.18,
+              "size": 1.93
+            },
+            {
+              "price": 2.2,
+              "size": 32.57
+            },
+            {
+              "price": 2.22,
+              "size": 50.0
+            }
+          ],
+          "runner_matched_volume": 2417.22,
+          "last_price_traded": 1.99,
+          "market_prob": 0.489459,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 526197,
+          "name": "3. Avignon",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 19.0,
+          "best_back_size": 1.14,
+          "best_lay": 55.0,
+          "best_lay_size": 1.54,
+          "spread": 36.0,
+          "back_ladder": [
+            {
+              "price": 19.0,
+              "size": 1.14
+            },
+            {
+              "price": 18.0,
+              "size": 6.64
+            },
+            {
+              "price": 17.5,
+              "size": 9.69
+            },
+            {
+              "price": 17.0,
+              "size": 9.73
+            },
+            {
+              "price": 16.5,
+              "size": 29.05
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 55.0,
+              "size": 1.54
+            },
+            {
+              "price": 65.0,
+              "size": 2.58
+            },
+            {
+              "price": 120.0,
+              "size": 2.71
+            },
+            {
+              "price": 210.0,
+              "size": 1.96
+            },
+            {
+              "price": 220.0,
+              "size": 3.86
+            }
+          ],
+          "runner_matched_volume": 171.62,
+          "last_price_traded": 18.5,
+          "market_prob": 0.051007,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 4476512,
+          "name": "4. Daytimer",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 200.0,
+          "best_back_size": 2.2,
+          "best_lay": 260.0,
+          "best_lay_size": 1.91,
+          "spread": 60.0,
+          "back_ladder": [
+            {
+              "price": 200.0,
+              "size": 2.2
+            },
+            {
+              "price": 190.0,
+              "size": 5.79
+            },
+            {
+              "price": 180.0,
+              "size": 2.42
+            },
+            {
+              "price": 170.0,
+              "size": 1.56
+            },
+            {
+              "price": 150.0,
+              "size": 6.66
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 260.0,
+              "size": 1.91
+            },
+            {
+              "price": 270.0,
+              "size": 3.86
+            },
+            {
+              "price": 300.0,
+              "size": 5.96
+            },
+            {
+              "price": 970.0,
+              "size": 1.53
+            }
+          ],
+          "runner_matched_volume": 19.87,
+          "last_price_traded": 200.0,
+          "market_prob": 0.004846,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 98996186,
+          "name": "5. Good Time",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 22.0,
+          "best_back_size": 7.96,
+          "best_lay": 25.0,
+          "best_lay_size": 2.06,
+          "spread": 3.0,
+          "back_ladder": [
+            {
+              "price": 22.0,
+              "size": 7.96
+            },
+            {
+              "price": 21.0,
+              "size": 3.07
+            },
+            {
+              "price": 20.0,
+              "size": 9.62
+            },
+            {
+              "price": 19.5,
+              "size": 10.33
+            },
+            {
+              "price": 19.0,
+              "size": 29.84
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 25.0,
+              "size": 2.06
+            },
+            {
+              "price": 27.0,
+              "size": 2.02
+            },
+            {
+              "price": 28.0,
+              "size": 1.81
+            },
+            {
+              "price": 29.0,
+              "size": 15.92
+            },
+            {
+              "price": 150.0,
+              "size": 2.24
+            }
+          ],
+          "runner_matched_volume": 107.05,
+          "last_price_traded": 24.0,
+          "market_prob": 0.044051,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100487307,
+          "name": "6. Lady Lilibet",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 4.8,
+          "best_back_size": 10.77,
+          "best_lay": 5.3,
+          "best_lay_size": 6.83,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 4.8,
+              "size": 10.77
+            },
+            {
+              "price": 4.7,
+              "size": 22.48
+            },
+            {
+              "price": 4.6,
+              "size": 5.77
+            },
+            {
+              "price": 4.5,
+              "size": 45.93
+            },
+            {
+              "price": 4.4,
+              "size": 34.73
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.3,
+              "size": 6.83
+            },
+            {
+              "price": 5.4,
+              "size": 46.22
+            },
+            {
+              "price": 5.6,
+              "size": 6.16
+            },
+            {
+              "price": 5.7,
+              "size": 41.0
+            },
+            {
+              "price": 5.9,
+              "size": 27.98
+            }
+          ],
+          "runner_matched_volume": 577.25,
+          "last_price_traded": 4.9,
+          "market_prob": 0.201902,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 100487308,
+          "name": "7. Pallene",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 38.0,
+          "best_back_size": 2.2,
+          "best_lay": 48.0,
+          "best_lay_size": 4.3,
+          "spread": 10.0,
+          "back_ladder": [
+            {
+              "price": 38.0,
+              "size": 2.2
+            },
+            {
+              "price": 36.0,
+              "size": 4.75
+            },
+            {
+              "price": 34.0,
+              "size": 8.86
+            },
+            {
+              "price": 32.0,
+              "size": 16.51
+            },
+            {
+              "price": 30.0,
+              "size": 11.89
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 48.0,
+              "size": 4.3
+            },
+            {
+              "price": 50.0,
+              "size": 4.0
+            },
+            {
+              "price": 55.0,
+              "size": 3.86
+            },
+            {
+              "price": 240.0,
+              "size": 1.34
+            },
+            {
+              "price": 590.0,
+              "size": 2.52
+            }
+          ],
+          "runner_matched_volume": 44.87,
+          "last_price_traded": 46.0,
+          "market_prob": 0.025503,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 51526598,
+          "name": "10. Sonnig",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 6.2,
+          "best_back_size": 2.47,
+          "best_lay": 7.4,
+          "best_lay_size": 1.42,
+          "spread": 1.2,
+          "back_ladder": [
+            {
+              "price": 6.2,
+              "size": 2.47
+            },
+            {
+              "price": 6.0,
+              "size": 17.76
+            },
+            {
+              "price": 5.9,
+              "size": 9.49
+            },
+            {
+              "price": 5.8,
+              "size": 13.53
+            },
+            {
+              "price": 5.7,
+              "size": 5.77
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.4,
+              "size": 1.42
+            },
+            {
+              "price": 10.5,
+              "size": 2.76
+            },
+            {
+              "price": 11.0,
+              "size": 3.09
+            },
+            {
+              "price": 11.5,
+              "size": 2.0
+            },
+            {
+              "price": 12.5,
+              "size": 6.46
+            }
+          ],
+          "runner_matched_volume": 313.87,
+          "last_price_traded": 6.2,
+          "market_prob": 0.156311,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100487309,
+          "name": "11. Windsor Road",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 36.0,
+          "best_back_size": 1.95,
+          "best_lay": 48.0,
+          "best_lay_size": 1.06,
+          "spread": 12.0,
+          "back_ladder": [
+            {
+              "price": 36.0,
+              "size": 1.95
+            },
+            {
+              "price": 34.0,
+              "size": 2.8
+            },
+            {
+              "price": 32.0,
+              "size": 1.78
+            },
+            {
+              "price": 29.0,
+              "size": 3.29
+            },
+            {
+              "price": 28.0,
+              "size": 2.66
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 48.0,
+              "size": 1.06
+            },
+            {
+              "price": 55.0,
+              "size": 7.11
+            },
+            {
+              "price": 110.0,
+              "size": 22.17
+            },
+            {
+              "price": 120.0,
+              "size": 9.5
+            },
+            {
+              "price": 130.0,
+              "size": 3.57
+            }
+          ],
+          "runner_matched_volume": 64.97,
+          "last_price_traded": 36.0,
+          "market_prob": 0.02692,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 99492491,
+          "name": "8. Pinero",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100486065,
+          "name": "9. Rockn On Uptown",
+          "saddle_cloth": 10,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-13T02:18:45.350056Z",
+      "seconds_to_off": 375,
+      "market_matched_volume": 4176.6,
+      "overround_pct": 101.4,
+      "runners": [
+        {
+          "selection_id": 100487306,
+          "name": "2. Adamana",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 2.0,
+          "best_back_size": 18.03,
+          "best_lay": 2.04,
+          "best_lay_size": 27.02,
+          "spread": 0.04,
+          "back_ladder": [
+            {
+              "price": 2.0,
+              "size": 18.03
+            },
+            {
+              "price": 1.98,
+              "size": 9.09
+            },
+            {
+              "price": 1.97,
+              "size": 9.09
+            },
+            {
+              "price": 1.95,
+              "size": 8.46
+            },
+            {
+              "price": 1.94,
+              "size": 14.89
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.04,
+              "size": 27.02
+            },
+            {
+              "price": 2.06,
+              "size": 47.61
+            },
+            {
+              "price": 2.1,
+              "size": 1.27
+            },
+            {
+              "price": 2.2,
+              "size": 32.57
+            },
+            {
+              "price": 2.22,
+              "size": 50.0
+            }
+          ],
+          "runner_matched_volume": 2549.38,
+          "last_price_traded": 2.0,
+          "market_prob": 0.493234,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 526197,
+          "name": "3. Avignon",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 23.0,
+          "best_back_size": 3.3,
+          "best_lay": 30.0,
+          "best_lay_size": 1.25,
+          "spread": 7.0,
+          "back_ladder": [
+            {
+              "price": 23.0,
+              "size": 3.3
+            },
+            {
+              "price": 22.0,
+              "size": 3.3
+            },
+            {
+              "price": 21.0,
+              "size": 3.16
+            },
+            {
+              "price": 19.5,
+              "size": 1.03
+            },
+            {
+              "price": 19.0,
+              "size": 3.78
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 30.0,
+              "size": 1.25
+            },
+            {
+              "price": 60.0,
+              "size": 1.22
+            },
+            {
+              "price": 65.0,
+              "size": 2.0
+            },
+            {
+              "price": 210.0,
+              "size": 1.99
+            },
+            {
+              "price": 220.0,
+              "size": 3.86
+            }
+          ],
+          "runner_matched_volume": 179.69,
+          "last_price_traded": 23.0,
+          "market_prob": 0.04289,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 4476512,
+          "name": "4. Daytimer",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 260.0,
+          "best_back_size": 2.11,
+          "best_lay": 300.0,
+          "best_lay_size": 5.96,
+          "spread": 40.0,
+          "back_ladder": [
+            {
+              "price": 260.0,
+              "size": 2.11
+            },
+            {
+              "price": 250.0,
+              "size": 3.05
+            },
+            {
+              "price": 240.0,
+              "size": 1.26
+            },
+            {
+              "price": 230.0,
+              "size": 1.32
+            },
+            {
+              "price": 210.0,
+              "size": 2.82
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 300.0,
+              "size": 5.96
+            },
+            {
+              "price": 970.0,
+              "size": 1.19
+            }
+          ],
+          "runner_matched_volume": 23.26,
+          "last_price_traded": 260.0,
+          "market_prob": 0.003794,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 98996186,
+          "name": "5. Good Time",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 22.0,
+          "best_back_size": 3.3,
+          "best_lay": 24.0,
+          "best_lay_size": 2.13,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 22.0,
+              "size": 3.3
+            },
+            {
+              "price": 21.0,
+              "size": 3.07
+            },
+            {
+              "price": 20.0,
+              "size": 5.78
+            },
+            {
+              "price": 19.5,
+              "size": 10.33
+            },
+            {
+              "price": 19.0,
+              "size": 15.33
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 24.0,
+              "size": 2.13
+            },
+            {
+              "price": 28.0,
+              "size": 1.81
+            },
+            {
+              "price": 29.0,
+              "size": 15.92
+            },
+            {
+              "price": 200.0,
+              "size": 3.92
+            },
+            {
+              "price": 250.0,
+              "size": 19.3
+            }
+          ],
+          "runner_matched_volume": 138.28,
+          "last_price_traded": 22.0,
+          "market_prob": 0.044839,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 100487307,
+          "name": "6. Lady Lilibet",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 5.0,
+          "best_back_size": 16.04,
+          "best_lay": 5.4,
+          "best_lay_size": 36.07,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 5.0,
+              "size": 16.04
+            },
+            {
+              "price": 4.9,
+              "size": 11.97
+            },
+            {
+              "price": 4.8,
+              "size": 7.6
+            },
+            {
+              "price": 4.7,
+              "size": 17.33
+            },
+            {
+              "price": 4.6,
+              "size": 12.97
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.4,
+              "size": 36.07
+            },
+            {
+              "price": 5.6,
+              "size": 6.16
+            },
+            {
+              "price": 5.7,
+              "size": 41.0
+            },
+            {
+              "price": 5.9,
+              "size": 27.98
+            },
+            {
+              "price": 6.0,
+              "size": 28.04
+            }
+          ],
+          "runner_matched_volume": 622.2,
+          "last_price_traded": 5.1,
+          "market_prob": 0.197293,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 100487308,
+          "name": "7. Pallene",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 38.0,
+          "best_back_size": 5.35,
+          "best_lay": 48.0,
+          "best_lay_size": 4.4,
+          "spread": 10.0,
+          "back_ladder": [
+            {
+              "price": 38.0,
+              "size": 5.35
+            },
+            {
+              "price": 34.0,
+              "size": 13.61
+            },
+            {
+              "price": 32.0,
+              "size": 16.51
+            },
+            {
+              "price": 30.0,
+              "size": 11.89
+            },
+            {
+              "price": 29.0,
+              "size": 19.35
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 48.0,
+              "size": 4.4
+            },
+            {
+              "price": 50.0,
+              "size": 4.0
+            },
+            {
+              "price": 55.0,
+              "size": 3.86
+            },
+            {
+              "price": 240.0,
+              "size": 1.34
+            },
+            {
+              "price": 590.0,
+              "size": 2.52
+            }
+          ],
+          "runner_matched_volume": 49.5,
+          "last_price_traded": 42.0,
+          "market_prob": 0.02596,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 51526598,
+          "name": "10. Sonnig",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 6.2,
+          "best_back_size": 2.55,
+          "best_lay": 7.2,
+          "best_lay_size": 1.93,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 6.2,
+              "size": 2.55
+            },
+            {
+              "price": 6.0,
+              "size": 21.58
+            },
+            {
+              "price": 5.9,
+              "size": 5.77
+            },
+            {
+              "price": 5.8,
+              "size": 17.39
+            },
+            {
+              "price": 5.7,
+              "size": 5.77
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.2,
+              "size": 1.93
+            },
+            {
+              "price": 7.4,
+              "size": 11.42
+            },
+            {
+              "price": 8.6,
+              "size": 4.03
+            },
+            {
+              "price": 9.2,
+              "size": 1.93
+            },
+            {
+              "price": 10.0,
+              "size": 2.89
+            }
+          ],
+          "runner_matched_volume": 530.74,
+          "last_price_traded": 6.4,
+          "market_prob": 0.159108,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100487309,
+          "name": "11. Windsor Road",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 30.0,
+          "best_back_size": 4.23,
+          "best_lay": 36.0,
+          "best_lay_size": 2.78,
+          "spread": 6.0,
+          "back_ladder": [
+            {
+              "price": 30.0,
+              "size": 4.23
+            },
+            {
+              "price": 29.0,
+              "size": 1.93
+            },
+            {
+              "price": 28.0,
+              "size": 2.66
+            },
+            {
+              "price": 26.0,
+              "size": 7.3
+            },
+            {
+              "price": 25.0,
+              "size": 11.28
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 36.0,
+              "size": 2.78
+            },
+            {
+              "price": 70.0,
+              "size": 1.25
+            },
+            {
+              "price": 100.0,
+              "size": 1.93
+            },
+            {
+              "price": 110.0,
+              "size": 21.55
+            },
+            {
+              "price": 120.0,
+              "size": 9.5
+            }
+          ],
+          "runner_matched_volume": 83.53,
+          "last_price_traded": 32.0,
+          "market_prob": 0.032882,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 99492491,
+          "name": "8. Pinero",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100486065,
+          "name": "9. Rockn On Uptown",
+          "saddle_cloth": 10,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-13T02:20:00.361088Z",
+      "seconds_to_off": 300,
+      "market_matched_volume": 5227.32,
+      "overround_pct": 102.5,
+      "runners": [
+        {
+          "selection_id": 100487306,
+          "name": "2. Adamana",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 1.9,
+          "best_back_size": 26.09,
+          "best_lay": 1.94,
+          "best_lay_size": 10.51,
+          "spread": 0.04,
+          "back_ladder": [
+            {
+              "price": 1.9,
+              "size": 26.09
+            },
+            {
+              "price": 1.89,
+              "size": 11.13
+            },
+            {
+              "price": 1.88,
+              "size": 3.84
+            },
+            {
+              "price": 1.87,
+              "size": 59.11
+            },
+            {
+              "price": 1.86,
+              "size": 41.57
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 1.94,
+              "size": 10.51
+            },
+            {
+              "price": 1.95,
+              "size": 3.75
+            },
+            {
+              "price": 2.0,
+              "size": 5.2
+            },
+            {
+              "price": 2.18,
+              "size": 11.03
+            },
+            {
+              "price": 2.2,
+              "size": 32.92
+            }
+          ],
+          "runner_matched_volume": 3147.44,
+          "last_price_traded": 1.94,
+          "market_prob": 0.513617,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 526197,
+          "name": "3. Avignon",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 22.0,
+          "best_back_size": 2.72,
+          "best_lay": 27.0,
+          "best_lay_size": 2.99,
+          "spread": 5.0,
+          "back_ladder": [
+            {
+              "price": 22.0,
+              "size": 2.72
+            },
+            {
+              "price": 21.0,
+              "size": 1.99
+            },
+            {
+              "price": 20.0,
+              "size": 2.53
+            },
+            {
+              "price": 19.5,
+              "size": 5.77
+            },
+            {
+              "price": 19.0,
+              "size": 12.09
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 27.0,
+              "size": 2.99
+            },
+            {
+              "price": 28.0,
+              "size": 9.65
+            },
+            {
+              "price": 32.0,
+              "size": 1.54
+            },
+            {
+              "price": 34.0,
+              "size": 2.0
+            },
+            {
+              "price": 44.0,
+              "size": 1.58
+            }
+          ],
+          "runner_matched_volume": 209.0,
+          "last_price_traded": 25.0,
+          "market_prob": 0.044358,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 4476512,
+          "name": "4. Daytimer",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 310.0,
+          "best_back_size": 1.09,
+          "best_lay": 900.0,
+          "best_lay_size": 1.06,
+          "spread": 590.0,
+          "back_ladder": [
+            {
+              "price": 310.0,
+              "size": 1.09
+            },
+            {
+              "price": 300.0,
+              "size": 3.37
+            },
+            {
+              "price": 280.0,
+              "size": 2.05
+            },
+            {
+              "price": 270.0,
+              "size": 23.85
+            },
+            {
+              "price": 220.0,
+              "size": 1.51
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 900.0,
+              "size": 1.06
+            },
+            {
+              "price": 960.0,
+              "size": 2.05
+            },
+            {
+              "price": 990.0,
+              "size": 2.0
+            }
+          ],
+          "runner_matched_volume": 39.96,
+          "last_price_traded": 320.0,
+          "market_prob": 0.003148,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 98996186,
+          "name": "5. Good Time",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 22.0,
+          "best_back_size": 4.13,
+          "best_lay": 27.0,
+          "best_lay_size": 3.82,
+          "spread": 5.0,
+          "back_ladder": [
+            {
+              "price": 22.0,
+              "size": 4.13
+            },
+            {
+              "price": 21.0,
+              "size": 7.07
+            },
+            {
+              "price": 20.0,
+              "size": 27.71
+            },
+            {
+              "price": 19.5,
+              "size": 10.52
+            },
+            {
+              "price": 19.0,
+              "size": 15.33
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 27.0,
+              "size": 3.82
+            },
+            {
+              "price": 28.0,
+              "size": 1.18
+            },
+            {
+              "price": 29.0,
+              "size": 11.0
+            },
+            {
+              "price": 46.0,
+              "size": 1.62
+            },
+            {
+              "price": 50.0,
+              "size": 1.62
+            }
+          ],
+          "runner_matched_volume": 230.98,
+          "last_price_traded": 27.0,
+          "market_prob": 0.044358,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100487307,
+          "name": "6. Lady Lilibet",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 5.0,
+          "best_back_size": 7.16,
+          "best_lay": 5.3,
+          "best_lay_size": 18.44,
+          "spread": 0.3,
+          "back_ladder": [
+            {
+              "price": 5.0,
+              "size": 7.16
+            },
+            {
+              "price": 4.9,
+              "size": 48.14
+            },
+            {
+              "price": 4.8,
+              "size": 108.28
+            },
+            {
+              "price": 4.7,
+              "size": 16.29
+            },
+            {
+              "price": 4.6,
+              "size": 9.63
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.3,
+              "size": 18.44
+            },
+            {
+              "price": 5.4,
+              "size": 32.53
+            },
+            {
+              "price": 5.6,
+              "size": 6.16
+            },
+            {
+              "price": 5.7,
+              "size": 41.0
+            },
+            {
+              "price": 5.9,
+              "size": 27.98
+            }
+          ],
+          "runner_matched_volume": 700.75,
+          "last_price_traded": 5.3,
+          "market_prob": 0.195175,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 100487308,
+          "name": "7. Pallene",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 60.0,
+          "best_back_size": 1.83,
+          "best_lay": 90.0,
+          "best_lay_size": 5.77,
+          "spread": 30.0,
+          "back_ladder": [
+            {
+              "price": 60.0,
+              "size": 1.83
+            },
+            {
+              "price": 55.0,
+              "size": 2.24
+            },
+            {
+              "price": 50.0,
+              "size": 3.43
+            },
+            {
+              "price": 48.0,
+              "size": 11.43
+            },
+            {
+              "price": 44.0,
+              "size": 4.36
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 90.0,
+              "size": 5.77
+            },
+            {
+              "price": 300.0,
+              "size": 1.07
+            },
+            {
+              "price": 590.0,
+              "size": 2.52
+            },
+            {
+              "price": 600.0,
+              "size": 19.3
+            },
+            {
+              "price": 920.0,
+              "size": 4.26
+            }
+          ],
+          "runner_matched_volume": 75.91,
+          "last_price_traded": 90.0,
+          "market_prob": 0.016265,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 51526598,
+          "name": "10. Sonnig",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 6.2,
+          "best_back_size": 9.12,
+          "best_lay": 7.2,
+          "best_lay_size": 1.99,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 6.2,
+              "size": 9.12
+            },
+            {
+              "price": 6.0,
+              "size": 76.78
+            },
+            {
+              "price": 5.9,
+              "size": 24.6
+            },
+            {
+              "price": 5.8,
+              "size": 13.53
+            },
+            {
+              "price": 5.7,
+              "size": 5.77
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.2,
+              "size": 1.99
+            },
+            {
+              "price": 7.4,
+              "size": 10.13
+            },
+            {
+              "price": 7.6,
+              "size": 15.58
+            },
+            {
+              "price": 9.4,
+              "size": 22.97
+            },
+            {
+              "price": 9.8,
+              "size": 17.03
+            }
+          ],
+          "runner_matched_volume": 683.26,
+          "last_price_traded": 7.2,
+          "market_prob": 0.157399,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100487309,
+          "name": "11. Windsor Road",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 38.0,
+          "best_back_size": 7.31,
+          "best_lay": 48.0,
+          "best_lay_size": 2.74,
+          "spread": 10.0,
+          "back_ladder": [
+            {
+              "price": 38.0,
+              "size": 7.31
+            },
+            {
+              "price": 36.0,
+              "size": 8.6
+            },
+            {
+              "price": 34.0,
+              "size": 5.35
+            },
+            {
+              "price": 32.0,
+              "size": 4.07
+            },
+            {
+              "price": 30.0,
+              "size": 4.37
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 48.0,
+              "size": 2.74
+            },
+            {
+              "price": 80.0,
+              "size": 1.58
+            },
+            {
+              "price": 90.0,
+              "size": 1.62
+            },
+            {
+              "price": 100.0,
+              "size": 2.2
+            },
+            {
+              "price": 110.0,
+              "size": 1.96
+            }
+          ],
+          "runner_matched_volume": 139.98,
+          "last_price_traded": 38.0,
+          "market_prob": 0.025681,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 99492491,
+          "name": "8. Pinero",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100486065,
+          "name": "9. Rockn On Uptown",
+          "saddle_cloth": 10,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-13T02:21:15.351815Z",
+      "seconds_to_off": 225,
+      "market_matched_volume": 6155.24,
+      "overround_pct": 101.0,
+      "runners": [
+        {
+          "selection_id": 100487306,
+          "name": "2. Adamana",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 1.88,
+          "best_back_size": 85.28,
+          "best_lay": 1.94,
+          "best_lay_size": 76.93,
+          "spread": 0.06,
+          "back_ladder": [
+            {
+              "price": 1.88,
+              "size": 85.28
+            },
+            {
+              "price": 1.87,
+              "size": 17.08
+            },
+            {
+              "price": 1.86,
+              "size": 16.54
+            },
+            {
+              "price": 1.85,
+              "size": 3.62
+            },
+            {
+              "price": 1.84,
+              "size": 45.01
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 1.94,
+              "size": 76.93
+            },
+            {
+              "price": 1.95,
+              "size": 96.8
+            },
+            {
+              "price": 1.96,
+              "size": 6.0
+            },
+            {
+              "price": 1.98,
+              "size": 24.81
+            },
+            {
+              "price": 2.0,
+              "size": 20.0
+            }
+          ],
+          "runner_matched_volume": 3560.85,
+          "last_price_traded": 1.94,
+          "market_prob": 0.526814,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 526197,
+          "name": "3. Avignon",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 22.0,
+          "best_back_size": 9.92,
+          "best_lay": 28.0,
+          "best_lay_size": 10.61,
+          "spread": 6.0,
+          "back_ladder": [
+            {
+              "price": 22.0,
+              "size": 9.92
+            },
+            {
+              "price": 21.0,
+              "size": 3.28
+            },
+            {
+              "price": 20.0,
+              "size": 4.08
+            },
+            {
+              "price": 19.5,
+              "size": 5.77
+            },
+            {
+              "price": 19.0,
+              "size": 12.39
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 28.0,
+              "size": 10.61
+            },
+            {
+              "price": 32.0,
+              "size": 1.54
+            },
+            {
+              "price": 46.0,
+              "size": 1.62
+            },
+            {
+              "price": 50.0,
+              "size": 2.62
+            },
+            {
+              "price": 60.0,
+              "size": 22.33
+            }
+          ],
+          "runner_matched_volume": 247.17,
+          "last_price_traded": 21.0,
+          "market_prob": 0.045019,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 4476512,
+          "name": "4. Daytimer",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 310.0,
+          "best_back_size": 1.02,
+          "best_lay": 950.0,
+          "best_lay_size": 4.35,
+          "spread": 640.0,
+          "back_ladder": [
+            {
+              "price": 310.0,
+              "size": 1.02
+            },
+            {
+              "price": 300.0,
+              "size": 2.97
+            },
+            {
+              "price": 280.0,
+              "size": 2.05
+            },
+            {
+              "price": 270.0,
+              "size": 22.0
+            },
+            {
+              "price": 220.0,
+              "size": 1.51
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 950.0,
+              "size": 4.35
+            },
+            {
+              "price": 960.0,
+              "size": 2.0
+            },
+            {
+              "price": 990.0,
+              "size": 2.0
+            }
+          ],
+          "runner_matched_volume": 40.6,
+          "last_price_traded": 310.0,
+          "market_prob": 0.003195,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 98996186,
+          "name": "5. Good Time",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 24.0,
+          "best_back_size": 7.07,
+          "best_lay": 26.0,
+          "best_lay_size": 15.5,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 24.0,
+              "size": 7.07
+            },
+            {
+              "price": 23.0,
+              "size": 5.67
+            },
+            {
+              "price": 22.0,
+              "size": 8.09
+            },
+            {
+              "price": 21.0,
+              "size": 7.64
+            },
+            {
+              "price": 20.0,
+              "size": 29.95
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 26.0,
+              "size": 15.5
+            },
+            {
+              "price": 28.0,
+              "size": 15.86
+            },
+            {
+              "price": 29.0,
+              "size": 11.0
+            },
+            {
+              "price": 44.0,
+              "size": 1.81
+            },
+            {
+              "price": 48.0,
+              "size": 1.62
+            }
+          ],
+          "runner_matched_volume": 259.29,
+          "last_price_traded": 24.0,
+          "market_prob": 0.041267,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100487307,
+          "name": "6. Lady Lilibet",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 5.2,
+          "best_back_size": 21.69,
+          "best_lay": 5.4,
+          "best_lay_size": 32.17,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 5.2,
+              "size": 21.69
+            },
+            {
+              "price": 5.1,
+              "size": 7.31
+            },
+            {
+              "price": 5.0,
+              "size": 9.63
+            },
+            {
+              "price": 4.9,
+              "size": 41.8
+            },
+            {
+              "price": 4.8,
+              "size": 122.27
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.4,
+              "size": 32.17
+            },
+            {
+              "price": 5.6,
+              "size": 6.16
+            },
+            {
+              "price": 5.7,
+              "size": 41.0
+            },
+            {
+              "price": 5.9,
+              "size": 27.98
+            },
+            {
+              "price": 6.0,
+              "size": 28.04
+            }
+          ],
+          "runner_matched_volume": 859.93,
+          "last_price_traded": 5.1,
+          "market_prob": 0.190463,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 100487308,
+          "name": "7. Pallene",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 46.0,
+          "best_back_size": 2.39,
+          "best_lay": 65.0,
+          "best_lay_size": 4.56,
+          "spread": 19.0,
+          "back_ladder": [
+            {
+              "price": 46.0,
+              "size": 2.39
+            },
+            {
+              "price": 44.0,
+              "size": 4.7
+            },
+            {
+              "price": 42.0,
+              "size": 2.86
+            },
+            {
+              "price": 40.0,
+              "size": 19.18
+            },
+            {
+              "price": 38.0,
+              "size": 19.45
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 65.0,
+              "size": 4.56
+            },
+            {
+              "price": 80.0,
+              "size": 3.86
+            },
+            {
+              "price": 120.0,
+              "size": 1.41
+            },
+            {
+              "price": 240.0,
+              "size": 1.43
+            },
+            {
+              "price": 310.0,
+              "size": 1.03
+            }
+          ],
+          "runner_matched_volume": 110.54,
+          "last_price_traded": 55.0,
+          "market_prob": 0.021531,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 51526598,
+          "name": "10. Sonnig",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 6.8,
+          "best_back_size": 10.34,
+          "best_lay": 7.4,
+          "best_lay_size": 7.32,
+          "spread": 0.6,
+          "back_ladder": [
+            {
+              "price": 6.8,
+              "size": 10.34
+            },
+            {
+              "price": 6.6,
+              "size": 12.62
+            },
+            {
+              "price": 6.4,
+              "size": 10.71
+            },
+            {
+              "price": 6.2,
+              "size": 5.5
+            },
+            {
+              "price": 6.0,
+              "size": 58.2
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.4,
+              "size": 7.32
+            },
+            {
+              "price": 7.6,
+              "size": 15.58
+            },
+            {
+              "price": 8.0,
+              "size": 3.35
+            },
+            {
+              "price": 8.4,
+              "size": 21.62
+            },
+            {
+              "price": 9.0,
+              "size": 20.0
+            }
+          ],
+          "runner_matched_volume": 904.83,
+          "last_price_traded": 7.4,
+          "market_prob": 0.145648,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100487309,
+          "name": "11. Windsor Road",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 38.0,
+          "best_back_size": 1.6,
+          "best_lay": 42.0,
+          "best_lay_size": 15.18,
+          "spread": 4.0,
+          "back_ladder": [
+            {
+              "price": 38.0,
+              "size": 1.6
+            },
+            {
+              "price": 36.0,
+              "size": 8.38
+            },
+            {
+              "price": 34.0,
+              "size": 7.74
+            },
+            {
+              "price": 32.0,
+              "size": 11.66
+            },
+            {
+              "price": 30.0,
+              "size": 23.28
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 42.0,
+              "size": 15.18
+            },
+            {
+              "price": 60.0,
+              "size": 2.98
+            },
+            {
+              "price": 65.0,
+              "size": 2.0
+            },
+            {
+              "price": 85.0,
+              "size": 1.62
+            },
+            {
+              "price": 90.0,
+              "size": 1.35
+            }
+          ],
+          "runner_matched_volume": 171.99,
+          "last_price_traded": 38.0,
+          "market_prob": 0.026063,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 99492491,
+          "name": "8. Pinero",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100486065,
+          "name": "9. Rockn On Uptown",
+          "saddle_cloth": 10,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-13T02:22:30.354954Z",
+      "seconds_to_off": 150,
+      "market_matched_volume": 8052.19,
+      "overround_pct": 101.0,
+      "runners": [
+        {
+          "selection_id": 100487306,
+          "name": "2. Adamana",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 1.9,
+          "best_back_size": 36.53,
+          "best_lay": 1.97,
+          "best_lay_size": 10.0,
+          "spread": 0.07,
+          "back_ladder": [
+            {
+              "price": 1.9,
+              "size": 36.53
+            },
+            {
+              "price": 1.87,
+              "size": 128.31
+            },
+            {
+              "price": 1.86,
+              "size": 89.42
+            },
+            {
+              "price": 1.85,
+              "size": 78.39
+            },
+            {
+              "price": 1.84,
+              "size": 18.59
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 1.97,
+              "size": 10.0
+            },
+            {
+              "price": 1.98,
+              "size": 24.81
+            },
+            {
+              "price": 2.0,
+              "size": 20.0
+            },
+            {
+              "price": 2.08,
+              "size": 1.93
+            },
+            {
+              "price": 2.18,
+              "size": 1.03
+            }
+          ],
+          "runner_matched_volume": 4806.91,
+          "last_price_traded": 1.91,
+          "market_prob": 0.521201,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 526197,
+          "name": "3. Avignon",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 21.0,
+          "best_back_size": 6.42,
+          "best_lay": 22.0,
+          "best_lay_size": 7.0,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 21.0,
+              "size": 6.42
+            },
+            {
+              "price": 20.0,
+              "size": 12.46
+            },
+            {
+              "price": 19.5,
+              "size": 14.89
+            },
+            {
+              "price": 19.0,
+              "size": 16.98
+            },
+            {
+              "price": 18.5,
+              "size": 27.56
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 22.0,
+              "size": 7.0
+            },
+            {
+              "price": 24.0,
+              "size": 1.93
+            },
+            {
+              "price": 26.0,
+              "size": 11.58
+            },
+            {
+              "price": 28.0,
+              "size": 2.26
+            },
+            {
+              "price": 32.0,
+              "size": 1.54
+            }
+          ],
+          "runner_matched_volume": 354.15,
+          "last_price_traded": 21.0,
+          "market_prob": 0.047156,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 4476512,
+          "name": "4. Daytimer",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 370.0,
+          "best_back_size": 4.74,
+          "best_lay": 680.0,
+          "best_lay_size": 1.12,
+          "spread": 310.0,
+          "back_ladder": [
+            {
+              "price": 370.0,
+              "size": 4.74
+            },
+            {
+              "price": 340.0,
+              "size": 2.75
+            },
+            {
+              "price": 320.0,
+              "size": 1.2
+            },
+            {
+              "price": 310.0,
+              "size": 2.59
+            },
+            {
+              "price": 270.0,
+              "size": 22.97
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 680.0,
+              "size": 1.12
+            },
+            {
+              "price": 910.0,
+              "size": 4.61
+            },
+            {
+              "price": 970.0,
+              "size": 1.05
+            },
+            {
+              "price": 1000.0,
+              "size": 1.29
+            }
+          ],
+          "runner_matched_volume": 44.77,
+          "last_price_traded": 390.0,
+          "market_prob": 0.002676,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 98996186,
+          "name": "5. Good Time",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 27.0,
+          "best_back_size": 1.54,
+          "best_lay": 28.0,
+          "best_lay_size": 9.68,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 27.0,
+              "size": 1.54
+            },
+            {
+              "price": 26.0,
+              "size": 11.09
+            },
+            {
+              "price": 25.0,
+              "size": 13.25
+            },
+            {
+              "price": 24.0,
+              "size": 14.26
+            },
+            {
+              "price": 23.0,
+              "size": 18.47
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 28.0,
+              "size": 9.68
+            },
+            {
+              "price": 29.0,
+              "size": 12.93
+            },
+            {
+              "price": 30.0,
+              "size": 8.82
+            },
+            {
+              "price": 34.0,
+              "size": 1.93
+            },
+            {
+              "price": 44.0,
+              "size": 1.81
+            }
+          ],
+          "runner_matched_volume": 280.3,
+          "last_price_traded": 27.0,
+          "market_prob": 0.036677,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100487307,
+          "name": "6. Lady Lilibet",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 5.1,
+          "best_back_size": 181.73,
+          "best_lay": 5.4,
+          "best_lay_size": 42.17,
+          "spread": 0.3,
+          "back_ladder": [
+            {
+              "price": 5.1,
+              "size": 181.73
+            },
+            {
+              "price": 5.0,
+              "size": 34.88
+            },
+            {
+              "price": 4.9,
+              "size": 43.44
+            },
+            {
+              "price": 4.8,
+              "size": 147.8
+            },
+            {
+              "price": 4.7,
+              "size": 36.9
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.4,
+              "size": 42.17
+            },
+            {
+              "price": 5.5,
+              "size": 10.15
+            },
+            {
+              "price": 5.6,
+              "size": 13.88
+            },
+            {
+              "price": 5.7,
+              "size": 41.0
+            },
+            {
+              "price": 5.8,
+              "size": 7.72
+            }
+          ],
+          "runner_matched_volume": 1058.74,
+          "last_price_traded": 5.2,
+          "market_prob": 0.194173,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 100487308,
+          "name": "7. Pallene",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 50.0,
+          "best_back_size": 1.77,
+          "best_lay": 75.0,
+          "best_lay_size": 10.19,
+          "spread": 25.0,
+          "back_ladder": [
+            {
+              "price": 50.0,
+              "size": 1.77
+            },
+            {
+              "price": 48.0,
+              "size": 11.21
+            },
+            {
+              "price": 46.0,
+              "size": 11.48
+            },
+            {
+              "price": 44.0,
+              "size": 22.96
+            },
+            {
+              "price": 42.0,
+              "size": 12.44
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 75.0,
+              "size": 10.19
+            },
+            {
+              "price": 80.0,
+              "size": 6.57
+            },
+            {
+              "price": 90.0,
+              "size": 6.98
+            },
+            {
+              "price": 95.0,
+              "size": 1.93
+            },
+            {
+              "price": 200.0,
+              "size": 3.14
+            }
+          ],
+          "runner_matched_volume": 131.05,
+          "last_price_traded": 55.0,
+          "market_prob": 0.019806,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 51526598,
+          "name": "10. Sonnig",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 6.4,
+          "best_back_size": 23.09,
+          "best_lay": 7.4,
+          "best_lay_size": 7.43,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 6.4,
+              "size": 23.09
+            },
+            {
+              "price": 6.2,
+              "size": 51.51
+            },
+            {
+              "price": 6.0,
+              "size": 86.54
+            },
+            {
+              "price": 5.9,
+              "size": 21.24
+            },
+            {
+              "price": 5.8,
+              "size": 43.91
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.4,
+              "size": 7.43
+            },
+            {
+              "price": 7.6,
+              "size": 17.51
+            },
+            {
+              "price": 7.8,
+              "size": 6.62
+            },
+            {
+              "price": 8.0,
+              "size": 8.29
+            },
+            {
+              "price": 8.2,
+              "size": 3.84
+            }
+          ],
+          "runner_matched_volume": 1126.54,
+          "last_price_traded": 6.6,
+          "market_prob": 0.154732,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100487309,
+          "name": "11. Windsor Road",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 42.0,
+          "best_back_size": 9.58,
+          "best_lay": 44.0,
+          "best_lay_size": 3.08,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 42.0,
+              "size": 9.58
+            },
+            {
+              "price": 38.0,
+              "size": 4.82
+            },
+            {
+              "price": 36.0,
+              "size": 18.7
+            },
+            {
+              "price": 34.0,
+              "size": 12.45
+            },
+            {
+              "price": 32.0,
+              "size": 16.07
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 44.0,
+              "size": 3.08
+            },
+            {
+              "price": 48.0,
+              "size": 9.5
+            },
+            {
+              "price": 50.0,
+              "size": 9.49
+            },
+            {
+              "price": 55.0,
+              "size": 8.5
+            },
+            {
+              "price": 60.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 249.69,
+          "last_price_traded": 42.0,
+          "market_prob": 0.023578,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 99492491,
+          "name": "8. Pinero",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100486065,
+          "name": "9. Rockn On Uptown",
+          "saddle_cloth": 10,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-13T02:23:45.385323Z",
+      "seconds_to_off": 75,
+      "market_matched_volume": 12360.98,
+      "overround_pct": 101.4,
+      "runners": [
+        {
+          "selection_id": 100487306,
+          "name": "2. Adamana",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 1.9,
+          "best_back_size": 32.95,
+          "best_lay": 1.93,
+          "best_lay_size": 108.12,
+          "spread": 0.03,
+          "back_ladder": [
+            {
+              "price": 1.9,
+              "size": 32.95
+            },
+            {
+              "price": 1.89,
+              "size": 30.8
+            },
+            {
+              "price": 1.88,
+              "size": 196.1
+            },
+            {
+              "price": 1.87,
+              "size": 94.29
+            },
+            {
+              "price": 1.86,
+              "size": 229.83
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 1.93,
+              "size": 108.12
+            },
+            {
+              "price": 1.94,
+              "size": 9.2
+            },
+            {
+              "price": 1.95,
+              "size": 24.67
+            },
+            {
+              "price": 1.96,
+              "size": 7.12
+            },
+            {
+              "price": 1.97,
+              "size": 11.0
+            }
+          ],
+          "runner_matched_volume": 5770.24,
+          "last_price_traded": 1.93,
+          "market_prob": 0.519025,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 526197,
+          "name": "3. Avignon",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 23.0,
+          "best_back_size": 2.26,
+          "best_lay": 24.0,
+          "best_lay_size": 1.86,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 23.0,
+              "size": 2.26
+            },
+            {
+              "price": 22.0,
+              "size": 3.87
+            },
+            {
+              "price": 20.0,
+              "size": 16.13
+            },
+            {
+              "price": 19.5,
+              "size": 21.26
+            },
+            {
+              "price": 19.0,
+              "size": 23.74
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 24.0,
+              "size": 1.86
+            },
+            {
+              "price": 25.0,
+              "size": 12.11
+            },
+            {
+              "price": 27.0,
+              "size": 8.68
+            },
+            {
+              "price": 28.0,
+              "size": 8.5
+            },
+            {
+              "price": 29.0,
+              "size": 8.5
+            }
+          ],
+          "runner_matched_volume": 559.82,
+          "last_price_traded": 24.0,
+          "market_prob": 0.042876,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 4476512,
+          "name": "4. Daytimer",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 310.0,
+          "best_back_size": 3.16,
+          "best_lay": 380.0,
+          "best_lay_size": 1.93,
+          "spread": 70.0,
+          "back_ladder": [
+            {
+              "price": 310.0,
+              "size": 3.16
+            },
+            {
+              "price": 280.0,
+              "size": 1.41
+            },
+            {
+              "price": 270.0,
+              "size": 22.28
+            },
+            {
+              "price": 260.0,
+              "size": 1.72
+            },
+            {
+              "price": 230.0,
+              "size": 1.96
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 380.0,
+              "size": 1.93
+            },
+            {
+              "price": 390.0,
+              "size": 3.86
+            },
+            {
+              "price": 780.0,
+              "size": 1.41
+            },
+            {
+              "price": 970.0,
+              "size": 1.63
+            }
+          ],
+          "runner_matched_volume": 55.8,
+          "last_price_traded": 330.0,
+          "market_prob": 0.003181,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 98996186,
+          "name": "5. Good Time",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 26.0,
+          "best_back_size": 5.78,
+          "best_lay": 28.0,
+          "best_lay_size": 30.68,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 26.0,
+              "size": 5.78
+            },
+            {
+              "price": 24.0,
+              "size": 2.02
+            },
+            {
+              "price": 23.0,
+              "size": 7.94
+            },
+            {
+              "price": 22.0,
+              "size": 7.49
+            },
+            {
+              "price": 21.0,
+              "size": 26.83
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 28.0,
+              "size": 30.68
+            },
+            {
+              "price": 29.0,
+              "size": 9.87
+            },
+            {
+              "price": 30.0,
+              "size": 9.65
+            },
+            {
+              "price": 32.0,
+              "size": 31.67
+            },
+            {
+              "price": 34.0,
+              "size": 10.84
+            }
+          ],
+          "runner_matched_volume": 738.84,
+          "last_price_traded": 26.0,
+          "market_prob": 0.037929,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100487307,
+          "name": "6. Lady Lilibet",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 5.0,
+          "best_back_size": 6.46,
+          "best_lay": 5.1,
+          "best_lay_size": 4.48,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.0,
+              "size": 6.46
+            },
+            {
+              "price": 4.9,
+              "size": 152.64
+            },
+            {
+              "price": 4.8,
+              "size": 182.74
+            },
+            {
+              "price": 4.7,
+              "size": 68.32
+            },
+            {
+              "price": 4.6,
+              "size": 45.71
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.1,
+              "size": 4.48
+            },
+            {
+              "price": 5.2,
+              "size": 41.18
+            },
+            {
+              "price": 5.3,
+              "size": 16.96
+            },
+            {
+              "price": 5.4,
+              "size": 110.66
+            },
+            {
+              "price": 5.5,
+              "size": 14.36
+            }
+          ],
+          "runner_matched_volume": 2494.34,
+          "last_price_traded": 5.0,
+          "market_prob": 0.197229,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 100487308,
+          "name": "7. Pallene",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 50.0,
+          "best_back_size": 10.32,
+          "best_lay": 60.0,
+          "best_lay_size": 1.64,
+          "spread": 10.0,
+          "back_ladder": [
+            {
+              "price": 50.0,
+              "size": 10.32
+            },
+            {
+              "price": 48.0,
+              "size": 7.98
+            },
+            {
+              "price": 46.0,
+              "size": 13.39
+            },
+            {
+              "price": 44.0,
+              "size": 24.29
+            },
+            {
+              "price": 42.0,
+              "size": 13.18
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 60.0,
+              "size": 1.64
+            },
+            {
+              "price": 70.0,
+              "size": 3.94
+            },
+            {
+              "price": 75.0,
+              "size": 6.57
+            },
+            {
+              "price": 80.0,
+              "size": 6.57
+            },
+            {
+              "price": 85.0,
+              "size": 6.98
+            }
+          ],
+          "runner_matched_volume": 141.18,
+          "last_price_traded": 55.0,
+          "market_prob": 0.019723,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 51526598,
+          "name": "10. Sonnig",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 6.4,
+          "best_back_size": 16.08,
+          "best_lay": 6.8,
+          "best_lay_size": 4.43,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 6.4,
+              "size": 16.08
+            },
+            {
+              "price": 6.2,
+              "size": 80.46
+            },
+            {
+              "price": 6.0,
+              "size": 59.06
+            },
+            {
+              "price": 5.9,
+              "size": 69.08
+            },
+            {
+              "price": 5.8,
+              "size": 12.52
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.8,
+              "size": 4.43
+            },
+            {
+              "price": 7.0,
+              "size": 31.34
+            },
+            {
+              "price": 7.2,
+              "size": 69.57
+            },
+            {
+              "price": 7.4,
+              "size": 59.62
+            },
+            {
+              "price": 7.6,
+              "size": 45.28
+            }
+          ],
+          "runner_matched_volume": 2311.09,
+          "last_price_traded": 6.6,
+          "market_prob": 0.154086,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100487309,
+          "name": "11. Windsor Road",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 38.0,
+          "best_back_size": 5.55,
+          "best_lay": 42.0,
+          "best_lay_size": 27.5,
+          "spread": 4.0,
+          "back_ladder": [
+            {
+              "price": 38.0,
+              "size": 5.55
+            },
+            {
+              "price": 36.0,
+              "size": 29.38
+            },
+            {
+              "price": 34.0,
+              "size": 36.55
+            },
+            {
+              "price": 32.0,
+              "size": 28.91
+            },
+            {
+              "price": 30.0,
+              "size": 18.45
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 42.0,
+              "size": 27.5
+            },
+            {
+              "price": 44.0,
+              "size": 9.69
+            },
+            {
+              "price": 46.0,
+              "size": 5.77
+            },
+            {
+              "price": 48.0,
+              "size": 10.5
+            },
+            {
+              "price": 50.0,
+              "size": 9.49
+            }
+          ],
+          "runner_matched_volume": 289.65,
+          "last_price_traded": 40.0,
+          "market_prob": 0.025951,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 99492491,
+          "name": "8. Pinero",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100486065,
+          "name": "9. Rockn On Uptown",
+          "saddle_cloth": 10,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    }
+  ],
+  "place": {
+    "100487306": {
+      "place_entry": 1.13
+    },
+    "526197": {
+      "place_entry": 3.1
+    },
+    "4476512": {
+      "place_entry": 19.0
+    },
+    "98996186": {
+      "place_entry": 3.4
+    },
+    "100487307": {
+      "place_entry": 1.52
+    },
+    "100487308": {
+      "place_entry": 5.2
+    },
+    "51526598": {
+      "place_entry": 1.67
+    },
+    "100487309": {
+      "place_entry": 4.4
+    },
+    "99492491": {},
+    "100486065": {}
+  },
+  "place_market_id": "1.259927660",
+  "place_terms": 3,
+  "finalized_at": "2026-07-13T02:32:22.549305Z"
+}
