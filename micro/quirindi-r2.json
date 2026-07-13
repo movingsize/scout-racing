@@ -1,0 +1,3534 @@
+{
+  "event_id": "quirindi-2026-07-13-r2",
+  "market_id": "1.259927686",
+  "venue": "Quirindi",
+  "race_name": "R2 2000m CL1",
+  "start_time_utc": "2026-07-13T03:25:00.000Z",
+  "captured_by": "micro-series v1",
+  "field_size": 8,
+  "model_overlay": {
+    "99172196": {
+      "model_prob": 0.347484,
+      "model_rank": 1,
+      "model_version": "2026-07-08"
+    },
+    "78781024": {
+      "model_prob": 0.272862,
+      "model_rank": 2,
+      "model_version": "2026-07-08"
+    },
+    "92537240": {
+      "model_prob": 0.195034,
+      "model_rank": 3,
+      "model_version": "2026-07-08"
+    },
+    "100486067": {
+      "model_prob": 0.041904,
+      "model_rank": 5,
+      "model_version": "2026-07-08"
+    },
+    "81562197": {
+      "model_prob": 0.069031,
+      "model_rank": 4,
+      "model_version": "2026-07-08"
+    },
+    "71436030": {
+      "model_prob": 0.033092,
+      "model_rank": 6,
+      "model_version": "2026-07-08"
+    },
+    "100486066": {
+      "model_prob": 0.021232,
+      "model_rank": 7,
+      "model_version": "2026-07-08"
+    },
+    "100232108": {
+      "model_prob": 0.01936,
+      "model_rank": 8,
+      "model_version": "2026-07-08"
+    }
+  },
+  "bsp": {
+    "99770208": {
+      "bsp": NaN,
+      "status": "REMOVED"
+    },
+    "100486067": {
+      "bsp": 57.37,
+      "status": "REMOVED"
+    },
+    "78781024": {
+      "bsp": 3.83,
+      "status": "LOSER"
+    },
+    "92537240": {
+      "bsp": 3.38,
+      "status": "WINNER"
+    },
+    "99172196": {
+      "bsp": 2.41,
+      "status": "LOSER"
+    },
+    "81562197": {
+      "bsp": 66.96,
+      "status": "LOSER"
+    },
+    "100486066": {
+      "bsp": 248.7,
+      "status": "LOSER"
+    },
+    "71436030": {
+      "bsp": 248.7,
+      "status": "LOSER"
+    },
+    "100232108": {
+      "bsp": 573.91,
+      "status": "LOSER"
+    }
+  },
+  "result": {
+    "winner": "3. Calzino",
+    "winner_bsp": 3.38,
+    "placings": [
+      "3. Calzino",
+      "2. Lots To Love",
+      "7. Minister Garrett"
+    ],
+    "settled_at": "2026-07-13T03:31:35.600145Z"
+  },
+  "frames": [
+    {
+      "at": "2026-07-13T03:15:16.972190Z",
+      "seconds_to_off": 584,
+      "market_matched_volume": 3826.61,
+      "overround_pct": 101.2,
+      "runners": [
+        {
+          "selection_id": 78781024,
+          "name": "2. Lots To Love",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 2.64,
+          "best_back_size": 30.05,
+          "best_lay": 2.78,
+          "best_lay_size": 3.86,
+          "spread": 0.14,
+          "back_ladder": [
+            {
+              "price": 2.64,
+              "size": 30.05
+            },
+            {
+              "price": 2.62,
+              "size": 32.07
+            },
+            {
+              "price": 2.6,
+              "size": 8.68
+            },
+            {
+              "price": 2.58,
+              "size": 17.23
+            },
+            {
+              "price": 2.56,
+              "size": 16.7
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.78,
+              "size": 3.86
+            },
+            {
+              "price": 2.8,
+              "size": 21.93
+            },
+            {
+              "price": 2.82,
+              "size": 5.79
+            },
+            {
+              "price": 2.84,
+              "size": 5.79
+            },
+            {
+              "price": 2.86,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 2218.86,
+          "last_price_traded": 2.68,
+          "market_prob": 0.374292,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 92537240,
+          "name": "3. Calzino",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 4.0,
+          "best_back_size": 8.86,
+          "best_lay": 4.6,
+          "best_lay_size": 17.53,
+          "spread": 0.6,
+          "back_ladder": [
+            {
+              "price": 4.0,
+              "size": 8.86
+            },
+            {
+              "price": 3.95,
+              "size": 22.57
+            },
+            {
+              "price": 3.9,
+              "size": 32.35
+            },
+            {
+              "price": 3.85,
+              "size": 7.6
+            },
+            {
+              "price": 3.8,
+              "size": 46.05
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.6,
+              "size": 17.53
+            },
+            {
+              "price": 4.7,
+              "size": 5.0
+            },
+            {
+              "price": 4.8,
+              "size": 1.93
+            },
+            {
+              "price": 4.9,
+              "size": 1.93
+            },
+            {
+              "price": 5.0,
+              "size": 23.16
+            }
+          ],
+          "runner_matched_volume": 343.35,
+          "last_price_traded": 4.2,
+          "market_prob": 0.247033,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 99172196,
+          "name": "4. Microgravity",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 3.4,
+          "best_back_size": 12.16,
+          "best_lay": 3.55,
+          "best_lay_size": 27.86,
+          "spread": 0.15,
+          "back_ladder": [
+            {
+              "price": 3.4,
+              "size": 12.16
+            },
+            {
+              "price": 3.35,
+              "size": 46.74
+            },
+            {
+              "price": 3.3,
+              "size": 145.24
+            },
+            {
+              "price": 3.25,
+              "size": 91.78
+            },
+            {
+              "price": 3.2,
+              "size": 34.21
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.55,
+              "size": 27.86
+            },
+            {
+              "price": 3.6,
+              "size": 16.0
+            },
+            {
+              "price": 3.65,
+              "size": 24.17
+            },
+            {
+              "price": 3.7,
+              "size": 10.0
+            },
+            {
+              "price": 3.75,
+              "size": 3.86
+            }
+          ],
+          "runner_matched_volume": 954.93,
+          "last_price_traded": 3.5,
+          "market_prob": 0.290627,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 81562197,
+          "name": "5. Flee With Me",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 46.0,
+          "best_back_size": 4.23,
+          "best_lay": 60.0,
+          "best_lay_size": 5.09,
+          "spread": 14.0,
+          "back_ladder": [
+            {
+              "price": 46.0,
+              "size": 4.23
+            },
+            {
+              "price": 44.0,
+              "size": 2.39
+            },
+            {
+              "price": 42.0,
+              "size": 4.81
+            },
+            {
+              "price": 40.0,
+              "size": 10.85
+            },
+            {
+              "price": 38.0,
+              "size": 37.22
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 60.0,
+              "size": 5.09
+            },
+            {
+              "price": 65.0,
+              "size": 7.0
+            },
+            {
+              "price": 70.0,
+              "size": 3.86
+            },
+            {
+              "price": 75.0,
+              "size": 5.77
+            },
+            {
+              "price": 80.0,
+              "size": 5.77
+            }
+          ],
+          "runner_matched_volume": 129.6,
+          "last_price_traded": 46.0,
+          "market_prob": 0.021481,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100486066,
+          "name": "6. Foxwedge Arrow",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 120.0,
+          "best_back_size": 2.38,
+          "best_lay": 190.0,
+          "best_lay_size": 1.93,
+          "spread": 70.0,
+          "back_ladder": [
+            {
+              "price": 120.0,
+              "size": 2.38
+            },
+            {
+              "price": 110.0,
+              "size": 2.37
+            },
+            {
+              "price": 100.0,
+              "size": 4.29
+            },
+            {
+              "price": 90.0,
+              "size": 1.25
+            },
+            {
+              "price": 80.0,
+              "size": 2.72
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 190.0,
+              "size": 1.93
+            },
+            {
+              "price": 200.0,
+              "size": 5.3
+            },
+            {
+              "price": 360.0,
+              "size": 5.0
+            },
+            {
+              "price": 810.0,
+              "size": 2.54
+            }
+          ],
+          "runner_matched_volume": 5.75,
+          "last_price_traded": 120.0,
+          "market_prob": 0.008234,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 71436030,
+          "name": "7. Minister Garrett",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 100.0,
+          "best_back_size": 3.86,
+          "best_lay": 170.0,
+          "best_lay_size": 1.93,
+          "spread": 70.0,
+          "back_ladder": [
+            {
+              "price": 100.0,
+              "size": 3.86
+            },
+            {
+              "price": 80.0,
+              "size": 2.03
+            },
+            {
+              "price": 70.0,
+              "size": 3.44
+            },
+            {
+              "price": 55.0,
+              "size": 5.88
+            },
+            {
+              "price": 44.0,
+              "size": 12.09
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 170.0,
+              "size": 1.93
+            },
+            {
+              "price": 180.0,
+              "size": 6.55
+            },
+            {
+              "price": 810.0,
+              "size": 2.54
+            },
+            {
+              "price": 920.0,
+              "size": 4.05
+            }
+          ],
+          "runner_matched_volume": 19.08,
+          "last_price_traded": 100.0,
+          "market_prob": 0.009881,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 100232108,
+          "name": "8. Bemboka Lass",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 180.0,
+          "best_back_size": 2.45,
+          "best_lay": 980.0,
+          "best_lay_size": 2.06,
+          "spread": 800.0,
+          "back_ladder": [
+            {
+              "price": 180.0,
+              "size": 2.45
+            },
+            {
+              "price": 170.0,
+              "size": 2.06
+            },
+            {
+              "price": 160.0,
+              "size": 2.42
+            },
+            {
+              "price": 130.0,
+              "size": 1.59
+            },
+            {
+              "price": 120.0,
+              "size": 4.03
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 980.0,
+              "size": 2.06
+            },
+            {
+              "price": 990.0,
+              "size": 3.0
+            }
+          ],
+          "runner_matched_volume": 5.69,
+          "last_price_traded": 190.0,
+          "market_prob": 0.00549,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100486067,
+          "name": "10. Think Im In",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 23.0,
+          "best_back_size": 2.62,
+          "best_lay": 29.0,
+          "best_lay_size": 1.22,
+          "spread": 6.0,
+          "back_ladder": [
+            {
+              "price": 23.0,
+              "size": 2.62
+            },
+            {
+              "price": 22.0,
+              "size": 24.18
+            },
+            {
+              "price": 21.0,
+              "size": 16.55
+            },
+            {
+              "price": 20.0,
+              "size": 45.61
+            },
+            {
+              "price": 19.5,
+              "size": 48.08
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 29.0,
+              "size": 1.22
+            },
+            {
+              "price": 32.0,
+              "size": 1.93
+            },
+            {
+              "price": 34.0,
+              "size": 5.77
+            },
+            {
+              "price": 36.0,
+              "size": 7.01
+            },
+            {
+              "price": 38.0,
+              "size": 5.77
+            }
+          ],
+          "runner_matched_volume": 149.31,
+          "last_price_traded": 24.0,
+          "market_prob": 0.042962,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 99770208,
+          "name": "1. Godwits",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-13T03:17:05.732890Z",
+      "seconds_to_off": 475,
+      "market_matched_volume": 5666.34,
+      "overround_pct": 102.6,
+      "runners": [
+        {
+          "selection_id": 78781024,
+          "name": "2. Lots To Love",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 2.66,
+          "best_back_size": 40.67,
+          "best_lay": 2.78,
+          "best_lay_size": 6.92,
+          "spread": 0.12,
+          "back_ladder": [
+            {
+              "price": 2.66,
+              "size": 40.67
+            },
+            {
+              "price": 2.64,
+              "size": 9.11
+            },
+            {
+              "price": 2.62,
+              "size": 94.6
+            },
+            {
+              "price": 2.58,
+              "size": 15.14
+            },
+            {
+              "price": 2.56,
+              "size": 19.56
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.78,
+              "size": 6.92
+            },
+            {
+              "price": 2.8,
+              "size": 60.53
+            },
+            {
+              "price": 2.82,
+              "size": 32.81
+            },
+            {
+              "price": 2.84,
+              "size": 34.74
+            },
+            {
+              "price": 2.86,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 3250.09,
+          "last_price_traded": 2.62,
+          "market_prob": 0.366459,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 92537240,
+          "name": "3. Calzino",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 3.7,
+          "best_back_size": 8.4,
+          "best_lay": 4.0,
+          "best_lay_size": 35.11,
+          "spread": 0.3,
+          "back_ladder": [
+            {
+              "price": 3.7,
+              "size": 8.4
+            },
+            {
+              "price": 3.65,
+              "size": 56.77
+            },
+            {
+              "price": 3.6,
+              "size": 23.16
+            },
+            {
+              "price": 3.5,
+              "size": 14.6
+            },
+            {
+              "price": 3.45,
+              "size": 32.15
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.0,
+              "size": 35.11
+            },
+            {
+              "price": 4.7,
+              "size": 5.0
+            },
+            {
+              "price": 4.8,
+              "size": 1.93
+            },
+            {
+              "price": 4.9,
+              "size": 1.93
+            },
+            {
+              "price": 5.0,
+              "size": 25.09
+            }
+          ],
+          "runner_matched_volume": 658.95,
+          "last_price_traded": 3.75,
+          "market_prob": 0.263454,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 99172196,
+          "name": "4. Microgravity",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 3.35,
+          "best_back_size": 27.58,
+          "best_lay": 3.5,
+          "best_lay_size": 15.64,
+          "spread": 0.15,
+          "back_ladder": [
+            {
+              "price": 3.35,
+              "size": 27.58
+            },
+            {
+              "price": 3.3,
+              "size": 161.47
+            },
+            {
+              "price": 3.25,
+              "size": 89.06
+            },
+            {
+              "price": 3.2,
+              "size": 34.41
+            },
+            {
+              "price": 3.15,
+              "size": 32.15
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.5,
+              "size": 15.64
+            },
+            {
+              "price": 3.55,
+              "size": 20.66
+            },
+            {
+              "price": 3.6,
+              "size": 16.0
+            },
+            {
+              "price": 3.65,
+              "size": 3.86
+            },
+            {
+              "price": 3.7,
+              "size": 10.0
+            }
+          ],
+          "runner_matched_volume": 1439.15,
+          "last_price_traded": 3.4,
+          "market_prob": 0.290979,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 81562197,
+          "name": "5. Flee With Me",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 48.0,
+          "best_back_size": 7.12,
+          "best_lay": 60.0,
+          "best_lay_size": 11.83,
+          "spread": 12.0,
+          "back_ladder": [
+            {
+              "price": 48.0,
+              "size": 7.12
+            },
+            {
+              "price": 46.0,
+              "size": 2.2
+            },
+            {
+              "price": 44.0,
+              "size": 2.39
+            },
+            {
+              "price": 42.0,
+              "size": 10.56
+            },
+            {
+              "price": 40.0,
+              "size": 10.85
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 60.0,
+              "size": 11.83
+            },
+            {
+              "price": 65.0,
+              "size": 1.93
+            },
+            {
+              "price": 70.0,
+              "size": 1.93
+            },
+            {
+              "price": 75.0,
+              "size": 7.7
+            },
+            {
+              "price": 80.0,
+              "size": 5.77
+            }
+          ],
+          "runner_matched_volume": 137.05,
+          "last_price_traded": 50.0,
+          "market_prob": 0.020308,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100486066,
+          "name": "6. Foxwedge Arrow",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 130.0,
+          "best_back_size": 1.06,
+          "best_lay": 160.0,
+          "best_lay_size": 1.53,
+          "spread": 30.0,
+          "back_ladder": [
+            {
+              "price": 130.0,
+              "size": 1.06
+            },
+            {
+              "price": 120.0,
+              "size": 3.22
+            },
+            {
+              "price": 110.0,
+              "size": 17.02
+            },
+            {
+              "price": 100.0,
+              "size": 4.19
+            },
+            {
+              "price": 95.0,
+              "size": 1.93
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 160.0,
+              "size": 1.53
+            },
+            {
+              "price": 210.0,
+              "size": 1.96
+            },
+            {
+              "price": 220.0,
+              "size": 3.86
+            },
+            {
+              "price": 360.0,
+              "size": 5.0
+            },
+            {
+              "price": 810.0,
+              "size": 2.54
+            }
+          ],
+          "runner_matched_volume": 5.91,
+          "last_price_traded": 120.0,
+          "market_prob": 0.007498,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 71436030,
+          "name": "7. Minister Garrett",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 100.0,
+          "best_back_size": 10.7,
+          "best_lay": 140.0,
+          "best_lay_size": 3.43,
+          "spread": 40.0,
+          "back_ladder": [
+            {
+              "price": 100.0,
+              "size": 10.7
+            },
+            {
+              "price": 80.0,
+              "size": 1.12
+            },
+            {
+              "price": 75.0,
+              "size": 6.0
+            },
+            {
+              "price": 70.0,
+              "size": 1.57
+            },
+            {
+              "price": 65.0,
+              "size": 2.32
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 140.0,
+              "size": 3.43
+            },
+            {
+              "price": 160.0,
+              "size": 3.86
+            },
+            {
+              "price": 810.0,
+              "size": 2.54
+            },
+            {
+              "price": 920.0,
+              "size": 4.05
+            }
+          ],
+          "runner_matched_volume": 19.27,
+          "last_price_traded": 100.0,
+          "market_prob": 0.009748,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 100232108,
+          "name": "8. Bemboka Lass",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 240.0,
+          "best_back_size": 2.04,
+          "best_lay": 980.0,
+          "best_lay_size": 2.06,
+          "spread": 740.0,
+          "back_ladder": [
+            {
+              "price": 240.0,
+              "size": 2.04
+            },
+            {
+              "price": 200.0,
+              "size": 1.15
+            },
+            {
+              "price": 180.0,
+              "size": 3.1
+            },
+            {
+              "price": 170.0,
+              "size": 2.06
+            },
+            {
+              "price": 160.0,
+              "size": 2.42
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 980.0,
+              "size": 2.06
+            },
+            {
+              "price": 990.0,
+              "size": 3.0
+            }
+          ],
+          "runner_matched_volume": 5.79,
+          "last_price_traded": 200.0,
+          "market_prob": 0.004062,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100486067,
+          "name": "10. Think Im In",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 26.0,
+          "best_back_size": 2.39,
+          "best_lay": 30.0,
+          "best_lay_size": 1.09,
+          "spread": 4.0,
+          "back_ladder": [
+            {
+              "price": 26.0,
+              "size": 2.39
+            },
+            {
+              "price": 25.0,
+              "size": 5.58
+            },
+            {
+              "price": 24.0,
+              "size": 12.27
+            },
+            {
+              "price": 23.0,
+              "size": 5.65
+            },
+            {
+              "price": 22.0,
+              "size": 22.23
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 30.0,
+              "size": 1.09
+            },
+            {
+              "price": 32.0,
+              "size": 1.93
+            },
+            {
+              "price": 34.0,
+              "size": 6.62
+            },
+            {
+              "price": 36.0,
+              "size": 7.7
+            },
+            {
+              "price": 38.0,
+              "size": 27.29
+            }
+          ],
+          "runner_matched_volume": 150.1,
+          "last_price_traded": 24.0,
+          "market_prob": 0.037492,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 99770208,
+          "name": "1. Godwits",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-13T03:18:37.193371Z",
+      "seconds_to_off": 383,
+      "market_matched_volume": 11626.62,
+      "overround_pct": 102.2,
+      "runners": [
+        {
+          "selection_id": 78781024,
+          "name": "2. Lots To Love",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 3.05,
+          "best_back_size": 11.56,
+          "best_lay": 3.1,
+          "best_lay_size": 9.65,
+          "spread": 0.05,
+          "back_ladder": [
+            {
+              "price": 3.05,
+              "size": 11.56
+            },
+            {
+              "price": 3.0,
+              "size": 35.33
+            },
+            {
+              "price": 2.98,
+              "size": 17.35
+            },
+            {
+              "price": 2.96,
+              "size": 42.28
+            },
+            {
+              "price": 2.94,
+              "size": 30.21
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.1,
+              "size": 9.65
+            },
+            {
+              "price": 3.15,
+              "size": 3.86
+            },
+            {
+              "price": 3.2,
+              "size": 1.93
+            },
+            {
+              "price": 3.25,
+              "size": 29.06
+            },
+            {
+              "price": 3.3,
+              "size": 12.76
+            }
+          ],
+          "runner_matched_volume": 3906.7,
+          "last_price_traded": 3.1,
+          "market_prob": 0.320724,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 92537240,
+          "name": "3. Calzino",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 4.5,
+          "best_back_size": 9.46,
+          "best_lay": 4.9,
+          "best_lay_size": 1.93,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 4.5,
+              "size": 9.46
+            },
+            {
+              "price": 4.4,
+              "size": 10.57
+            },
+            {
+              "price": 4.3,
+              "size": 17.55
+            },
+            {
+              "price": 4.2,
+              "size": 20.88
+            },
+            {
+              "price": 4.1,
+              "size": 16.22
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.9,
+              "size": 1.93
+            },
+            {
+              "price": 5.0,
+              "size": 27.02
+            },
+            {
+              "price": 5.1,
+              "size": 47.65
+            },
+            {
+              "price": 5.2,
+              "size": 47.36
+            },
+            {
+              "price": 5.3,
+              "size": 203.14
+            }
+          ],
+          "runner_matched_volume": 1026.61,
+          "last_price_traded": 4.8,
+          "market_prob": 0.21738,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 99172196,
+          "name": "4. Microgravity",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 2.46,
+          "best_back_size": 50.46,
+          "best_lay": 2.5,
+          "best_lay_size": 188.81,
+          "spread": 0.04,
+          "back_ladder": [
+            {
+              "price": 2.46,
+              "size": 50.46
+            },
+            {
+              "price": 2.44,
+              "size": 11.58
+            },
+            {
+              "price": 2.42,
+              "size": 7.72
+            },
+            {
+              "price": 2.4,
+              "size": 7.72
+            },
+            {
+              "price": 2.38,
+              "size": 13.51
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.5,
+              "size": 188.81
+            },
+            {
+              "price": 2.58,
+              "size": 62.53
+            },
+            {
+              "price": 2.6,
+              "size": 60.28
+            },
+            {
+              "price": 2.68,
+              "size": 7.04
+            },
+            {
+              "price": 2.9,
+              "size": 12.58
+            }
+          ],
+          "runner_matched_volume": 6319.5,
+          "last_price_traded": 2.46,
+          "market_prob": 0.397646,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 81562197,
+          "name": "5. Flee With Me",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 55.0,
+          "best_back_size": 7.78,
+          "best_lay": 60.0,
+          "best_lay_size": 1.36,
+          "spread": 5.0,
+          "back_ladder": [
+            {
+              "price": 55.0,
+              "size": 7.78
+            },
+            {
+              "price": 50.0,
+              "size": 9.18
+            },
+            {
+              "price": 48.0,
+              "size": 2.5
+            },
+            {
+              "price": 46.0,
+              "size": 2.2
+            },
+            {
+              "price": 44.0,
+              "size": 5.12
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 60.0,
+              "size": 1.36
+            },
+            {
+              "price": 70.0,
+              "size": 5.77
+            },
+            {
+              "price": 75.0,
+              "size": 5.77
+            },
+            {
+              "price": 80.0,
+              "size": 5.77
+            },
+            {
+              "price": 85.0,
+              "size": 5.77
+            }
+          ],
+          "runner_matched_volume": 157.5,
+          "last_price_traded": 60.0,
+          "market_prob": 0.017786,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100486066,
+          "name": "6. Foxwedge Arrow",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 160.0,
+          "best_back_size": 4.04,
+          "best_lay": 240.0,
+          "best_lay_size": 3.95,
+          "spread": 80.0,
+          "back_ladder": [
+            {
+              "price": 160.0,
+              "size": 4.04
+            },
+            {
+              "price": 150.0,
+              "size": 5.33
+            },
+            {
+              "price": 120.0,
+              "size": 10.68
+            },
+            {
+              "price": 110.0,
+              "size": 13.95
+            },
+            {
+              "price": 100.0,
+              "size": 4.09
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 240.0,
+              "size": 3.95
+            },
+            {
+              "price": 360.0,
+              "size": 5.0
+            },
+            {
+              "price": 810.0,
+              "size": 2.54
+            }
+          ],
+          "runner_matched_volume": 11.41,
+          "last_price_traded": 260.0,
+          "market_prob": 0.006114,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 71436030,
+          "name": "7. Minister Garrett",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 150.0,
+          "best_back_size": 8.15,
+          "best_lay": 210.0,
+          "best_lay_size": 1.93,
+          "spread": 60.0,
+          "back_ladder": [
+            {
+              "price": 150.0,
+              "size": 8.15
+            },
+            {
+              "price": 140.0,
+              "size": 2.83
+            },
+            {
+              "price": 130.0,
+              "size": 5.25
+            },
+            {
+              "price": 120.0,
+              "size": 6.0
+            },
+            {
+              "price": 100.0,
+              "size": 7.22
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 210.0,
+              "size": 1.93
+            },
+            {
+              "price": 220.0,
+              "size": 3.86
+            },
+            {
+              "price": 810.0,
+              "size": 2.5
+            },
+            {
+              "price": 920.0,
+              "size": 4.05
+            }
+          ],
+          "runner_matched_volume": 24.9,
+          "last_price_traded": 180.0,
+          "market_prob": 0.006521,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 100232108,
+          "name": "8. Bemboka Lass",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 300.0,
+          "best_back_size": 2.12,
+          "best_lay": 760.0,
+          "best_lay_size": 2.07,
+          "spread": 460.0,
+          "back_ladder": [
+            {
+              "price": 300.0,
+              "size": 2.12
+            },
+            {
+              "price": 270.0,
+              "size": 2.01
+            },
+            {
+              "price": 220.0,
+              "size": 1.42
+            },
+            {
+              "price": 190.0,
+              "size": 1.04
+            },
+            {
+              "price": 180.0,
+              "size": 2.66
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 760.0,
+              "size": 2.07
+            },
+            {
+              "price": 990.0,
+              "size": 3.0
+            }
+          ],
+          "runner_matched_volume": 6.97,
+          "last_price_traded": 770.0,
+          "market_prob": 0.003261,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100486067,
+          "name": "10. Think Im In",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 32.0,
+          "best_back_size": 4.28,
+          "best_lay": 36.0,
+          "best_lay_size": 5.01,
+          "spread": 4.0,
+          "back_ladder": [
+            {
+              "price": 32.0,
+              "size": 4.28
+            },
+            {
+              "price": 30.0,
+              "size": 4.07
+            },
+            {
+              "price": 29.0,
+              "size": 6.16
+            },
+            {
+              "price": 27.0,
+              "size": 11.11
+            },
+            {
+              "price": 26.0,
+              "size": 4.62
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 36.0,
+              "size": 5.01
+            },
+            {
+              "price": 38.0,
+              "size": 5.77
+            },
+            {
+              "price": 40.0,
+              "size": 5.77
+            },
+            {
+              "price": 42.0,
+              "size": 5.77
+            },
+            {
+              "price": 44.0,
+              "size": 5.77
+            }
+          ],
+          "runner_matched_volume": 172.99,
+          "last_price_traded": 36.0,
+          "market_prob": 0.030569,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 99770208,
+          "name": "1. Godwits",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-13T03:20:08.607360Z",
+      "seconds_to_off": 292,
+      "market_matched_volume": 14947.38,
+      "overround_pct": 102.1,
+      "runners": [
+        {
+          "selection_id": 78781024,
+          "name": "2. Lots To Love",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 3.35,
+          "best_back_size": 9.46,
+          "best_lay": 3.65,
+          "best_lay_size": 1.93,
+          "spread": 0.3,
+          "back_ladder": [
+            {
+              "price": 3.35,
+              "size": 9.46
+            },
+            {
+              "price": 3.3,
+              "size": 13.51
+            },
+            {
+              "price": 3.25,
+              "size": 70.42
+            },
+            {
+              "price": 3.2,
+              "size": 42.25
+            },
+            {
+              "price": 3.15,
+              "size": 25.61
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.65,
+              "size": 1.93
+            },
+            {
+              "price": 3.7,
+              "size": 18.24
+            },
+            {
+              "price": 3.85,
+              "size": 6.01
+            },
+            {
+              "price": 3.9,
+              "size": 17.63
+            },
+            {
+              "price": 3.95,
+              "size": 4.31
+            }
+          ],
+          "runner_matched_volume": 4500.01,
+          "last_price_traded": 3.4,
+          "market_prob": 0.292263,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 92537240,
+          "name": "3. Calzino",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 4.3,
+          "best_back_size": 4.15,
+          "best_lay": 4.6,
+          "best_lay_size": 10.81,
+          "spread": 0.3,
+          "back_ladder": [
+            {
+              "price": 4.3,
+              "size": 4.15
+            },
+            {
+              "price": 4.2,
+              "size": 87.32
+            },
+            {
+              "price": 4.1,
+              "size": 36.54
+            },
+            {
+              "price": 4.0,
+              "size": 126.18
+            },
+            {
+              "price": 3.95,
+              "size": 29.05
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.6,
+              "size": 10.81
+            },
+            {
+              "price": 4.7,
+              "size": 3.86
+            },
+            {
+              "price": 4.8,
+              "size": 7.77
+            },
+            {
+              "price": 4.9,
+              "size": 9.85
+            },
+            {
+              "price": 5.0,
+              "size": 5.09
+            }
+          ],
+          "runner_matched_volume": 1714.17,
+          "last_price_traded": 4.3,
+          "market_prob": 0.227693,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 99172196,
+          "name": "4. Microgravity",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 2.34,
+          "best_back_size": 55.12,
+          "best_lay": 2.38,
+          "best_lay_size": 524.06,
+          "spread": 0.04,
+          "back_ladder": [
+            {
+              "price": 2.34,
+              "size": 55.12
+            },
+            {
+              "price": 2.32,
+              "size": 21.21
+            },
+            {
+              "price": 2.3,
+              "size": 22.21
+            },
+            {
+              "price": 2.28,
+              "size": 25.06
+            },
+            {
+              "price": 2.26,
+              "size": 13.49
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.38,
+              "size": 524.06
+            },
+            {
+              "price": 2.44,
+              "size": 30.66
+            },
+            {
+              "price": 2.46,
+              "size": 63.2
+            },
+            {
+              "price": 2.48,
+              "size": 11.28
+            },
+            {
+              "price": 2.5,
+              "size": 73.0
+            }
+          ],
+          "runner_matched_volume": 8218.05,
+          "last_price_traded": 2.36,
+          "market_prob": 0.418411,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 81562197,
+          "name": "5. Flee With Me",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 55.0,
+          "best_back_size": 2.24,
+          "best_lay": 60.0,
+          "best_lay_size": 1.44,
+          "spread": 5.0,
+          "back_ladder": [
+            {
+              "price": 55.0,
+              "size": 2.24
+            },
+            {
+              "price": 50.0,
+              "size": 13.12
+            },
+            {
+              "price": 48.0,
+              "size": 17.92
+            },
+            {
+              "price": 46.0,
+              "size": 13.7
+            },
+            {
+              "price": 44.0,
+              "size": 10.89
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 60.0,
+              "size": 1.44
+            },
+            {
+              "price": 70.0,
+              "size": 12.04
+            },
+            {
+              "price": 75.0,
+              "size": 5.77
+            },
+            {
+              "price": 80.0,
+              "size": 5.77
+            },
+            {
+              "price": 85.0,
+              "size": 5.77
+            }
+          ],
+          "runner_matched_volume": 178.88,
+          "last_price_traded": 55.0,
+          "market_prob": 0.017801,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100486066,
+          "name": "6. Foxwedge Arrow",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 160.0,
+          "best_back_size": 6.91,
+          "best_lay": 230.0,
+          "best_lay_size": 3.95,
+          "spread": 70.0,
+          "back_ladder": [
+            {
+              "price": 160.0,
+              "size": 6.91
+            },
+            {
+              "price": 150.0,
+              "size": 5.33
+            },
+            {
+              "price": 140.0,
+              "size": 1.24
+            },
+            {
+              "price": 120.0,
+              "size": 4.22
+            },
+            {
+              "price": 110.0,
+              "size": 17.81
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 230.0,
+              "size": 3.95
+            },
+            {
+              "price": 320.0,
+              "size": 5.09
+            },
+            {
+              "price": 360.0,
+              "size": 5.0
+            },
+            {
+              "price": 810.0,
+              "size": 2.54
+            }
+          ],
+          "runner_matched_volume": 12.05,
+          "last_price_traded": 170.0,
+          "market_prob": 0.006119,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 71436030,
+          "name": "7. Minister Garrett",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 150.0,
+          "best_back_size": 8.84,
+          "best_lay": 220.0,
+          "best_lay_size": 2.05,
+          "spread": 70.0,
+          "back_ladder": [
+            {
+              "price": 150.0,
+              "size": 8.84
+            },
+            {
+              "price": 140.0,
+              "size": 2.83
+            },
+            {
+              "price": 130.0,
+              "size": 2.05
+            },
+            {
+              "price": 120.0,
+              "size": 6.0
+            },
+            {
+              "price": 110.0,
+              "size": 1.55
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 220.0,
+              "size": 2.05
+            },
+            {
+              "price": 230.0,
+              "size": 3.86
+            },
+            {
+              "price": 810.0,
+              "size": 3.14
+            },
+            {
+              "price": 920.0,
+              "size": 4.05
+            }
+          ],
+          "runner_matched_volume": 26.92,
+          "last_price_traded": 150.0,
+          "market_prob": 0.006527,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 100232108,
+          "name": "8. Bemboka Lass",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 410.0,
+          "best_back_size": 1.26,
+          "best_lay": 980.0,
+          "best_lay_size": 2.26,
+          "spread": 570.0,
+          "back_ladder": [
+            {
+              "price": 410.0,
+              "size": 1.26
+            },
+            {
+              "price": 300.0,
+              "size": 1.09
+            },
+            {
+              "price": 230.0,
+              "size": 1.23
+            },
+            {
+              "price": 210.0,
+              "size": 1.67
+            },
+            {
+              "price": 180.0,
+              "size": 2.43
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 980.0,
+              "size": 2.26
+            },
+            {
+              "price": 990.0,
+              "size": 3.0
+            }
+          ],
+          "runner_matched_volume": 7.25,
+          "last_price_traded": 420.0,
+          "market_prob": 0.002388,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100486067,
+          "name": "10. Think Im In",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 34.0,
+          "best_back_size": 3.47,
+          "best_lay": 46.0,
+          "best_lay_size": 3.41,
+          "spread": 12.0,
+          "back_ladder": [
+            {
+              "price": 34.0,
+              "size": 3.47
+            },
+            {
+              "price": 32.0,
+              "size": 17.49
+            },
+            {
+              "price": 30.0,
+              "size": 29.46
+            },
+            {
+              "price": 29.0,
+              "size": 14.85
+            },
+            {
+              "price": 28.0,
+              "size": 19.93
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 46.0,
+              "size": 3.41
+            },
+            {
+              "price": 48.0,
+              "size": 1.26
+            },
+            {
+              "price": 50.0,
+              "size": 9.63
+            },
+            {
+              "price": 55.0,
+              "size": 10.13
+            },
+            {
+              "price": 60.0,
+              "size": 7.7
+            }
+          ],
+          "runner_matched_volume": 290.01,
+          "last_price_traded": 34.0,
+          "market_prob": 0.028797,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 99770208,
+          "name": "1. Godwits",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-13T03:21:47.934450Z",
+      "seconds_to_off": 193,
+      "market_matched_volume": 20709.85,
+      "overround_pct": 100.2,
+      "runners": [
+        {
+          "selection_id": 78781024,
+          "name": "2. Lots To Love",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 3.7,
+          "best_back_size": 5.72,
+          "best_lay": 3.75,
+          "best_lay_size": 11.23,
+          "spread": 0.05,
+          "back_ladder": [
+            {
+              "price": 3.7,
+              "size": 5.72
+            },
+            {
+              "price": 3.65,
+              "size": 6.77
+            },
+            {
+              "price": 3.6,
+              "size": 12.33
+            },
+            {
+              "price": 3.55,
+              "size": 15.61
+            },
+            {
+              "price": 3.5,
+              "size": 32.82
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.75,
+              "size": 11.23
+            },
+            {
+              "price": 3.8,
+              "size": 6.24
+            },
+            {
+              "price": 3.85,
+              "size": 4.08
+            },
+            {
+              "price": 4.0,
+              "size": 6.35
+            },
+            {
+              "price": 4.3,
+              "size": 2.85
+            }
+          ],
+          "runner_matched_volume": 5862.01,
+          "last_price_traded": 3.75,
+          "market_prob": 0.269627,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 92537240,
+          "name": "3. Calzino",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 3.95,
+          "best_back_size": 5.41,
+          "best_lay": 4.0,
+          "best_lay_size": 43.73,
+          "spread": 0.05,
+          "back_ladder": [
+            {
+              "price": 3.95,
+              "size": 5.41
+            },
+            {
+              "price": 3.9,
+              "size": 3.92
+            },
+            {
+              "price": 3.85,
+              "size": 7.7
+            },
+            {
+              "price": 3.8,
+              "size": 24.5
+            },
+            {
+              "price": 3.75,
+              "size": 50.43
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.0,
+              "size": 43.73
+            },
+            {
+              "price": 4.1,
+              "size": 11.73
+            },
+            {
+              "price": 4.2,
+              "size": 8.01
+            },
+            {
+              "price": 4.3,
+              "size": 20.54
+            },
+            {
+              "price": 4.4,
+              "size": 41.57
+            }
+          ],
+          "runner_matched_volume": 2568.87,
+          "last_price_traded": 4.0,
+          "market_prob": 0.252562,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 99172196,
+          "name": "4. Microgravity",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 2.44,
+          "best_back_size": 15.67,
+          "best_lay": 2.5,
+          "best_lay_size": 50.0,
+          "spread": 0.06,
+          "back_ladder": [
+            {
+              "price": 2.44,
+              "size": 15.67
+            },
+            {
+              "price": 2.42,
+              "size": 26.3
+            },
+            {
+              "price": 2.4,
+              "size": 19.7
+            },
+            {
+              "price": 2.38,
+              "size": 295.25
+            },
+            {
+              "price": 2.36,
+              "size": 22.47
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.5,
+              "size": 50.0
+            },
+            {
+              "price": 2.52,
+              "size": 10.95
+            },
+            {
+              "price": 2.54,
+              "size": 21.81
+            },
+            {
+              "price": 2.56,
+              "size": 114.68
+            },
+            {
+              "price": 2.58,
+              "size": 31.47
+            }
+          ],
+          "runner_matched_volume": 11558.45,
+          "last_price_traded": 2.5,
+          "market_prob": 0.40886,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 81562197,
+          "name": "5. Flee With Me",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 50.0,
+          "best_back_size": 8.26,
+          "best_lay": 55.0,
+          "best_lay_size": 20.33,
+          "spread": 5.0,
+          "back_ladder": [
+            {
+              "price": 50.0,
+              "size": 8.26
+            },
+            {
+              "price": 46.0,
+              "size": 6.1
+            },
+            {
+              "price": 44.0,
+              "size": 8.16
+            },
+            {
+              "price": 42.0,
+              "size": 10.81
+            },
+            {
+              "price": 40.0,
+              "size": 8.77
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 55.0,
+              "size": 20.33
+            },
+            {
+              "price": 60.0,
+              "size": 8.54
+            },
+            {
+              "price": 65.0,
+              "size": 7.85
+            },
+            {
+              "price": 70.0,
+              "size": 3.86
+            },
+            {
+              "price": 75.0,
+              "size": 7.7
+            }
+          ],
+          "runner_matched_volume": 283.05,
+          "last_price_traded": 46.0,
+          "market_prob": 0.019952,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100486066,
+          "name": "6. Foxwedge Arrow",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 140.0,
+          "best_back_size": 2.13,
+          "best_lay": 190.0,
+          "best_lay_size": 5.27,
+          "spread": 50.0,
+          "back_ladder": [
+            {
+              "price": 140.0,
+              "size": 2.13
+            },
+            {
+              "price": 120.0,
+              "size": 3.14
+            },
+            {
+              "price": 110.0,
+              "size": 12.02
+            },
+            {
+              "price": 100.0,
+              "size": 15.77
+            },
+            {
+              "price": 95.0,
+              "size": 6.06
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 190.0,
+              "size": 5.27
+            },
+            {
+              "price": 200.0,
+              "size": 2.79
+            },
+            {
+              "price": 230.0,
+              "size": 3.86
+            },
+            {
+              "price": 320.0,
+              "size": 5.0
+            },
+            {
+              "price": 360.0,
+              "size": 5.0
+            }
+          ],
+          "runner_matched_volume": 45.49,
+          "last_price_traded": 140.0,
+          "market_prob": 0.007126,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 71436030,
+          "name": "7. Minister Garrett",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 130.0,
+          "best_back_size": 3.72,
+          "best_lay": 230.0,
+          "best_lay_size": 2.42,
+          "spread": 100.0,
+          "back_ladder": [
+            {
+              "price": 130.0,
+              "size": 3.72
+            },
+            {
+              "price": 120.0,
+              "size": 5.0
+            },
+            {
+              "price": 110.0,
+              "size": 1.95
+            },
+            {
+              "price": 100.0,
+              "size": 8.71
+            },
+            {
+              "price": 95.0,
+              "size": 4.13
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 230.0,
+              "size": 2.42
+            },
+            {
+              "price": 250.0,
+              "size": 3.86
+            },
+            {
+              "price": 810.0,
+              "size": 3.3
+            },
+            {
+              "price": 920.0,
+              "size": 4.05
+            }
+          ],
+          "runner_matched_volume": 54.95,
+          "last_price_traded": 140.0,
+          "market_prob": 0.007674,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 100232108,
+          "name": "8. Bemboka Lass",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 330.0,
+          "best_back_size": 1.17,
+          "best_lay": 980.0,
+          "best_lay_size": 4.19,
+          "spread": 650.0,
+          "back_ladder": [
+            {
+              "price": 330.0,
+              "size": 1.17
+            },
+            {
+              "price": 290.0,
+              "size": 2.91
+            },
+            {
+              "price": 280.0,
+              "size": 1.98
+            },
+            {
+              "price": 270.0,
+              "size": 2.17
+            },
+            {
+              "price": 260.0,
+              "size": 1.97
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 980.0,
+              "size": 4.19
+            },
+            {
+              "price": 990.0,
+              "size": 3.0
+            }
+          ],
+          "runner_matched_volume": 8.41,
+          "last_price_traded": 570.0,
+          "market_prob": 0.003023,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100486067,
+          "name": "10. Think Im In",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 32.0,
+          "best_back_size": 9.94,
+          "best_lay": 40.0,
+          "best_lay_size": 4.97,
+          "spread": 8.0,
+          "back_ladder": [
+            {
+              "price": 32.0,
+              "size": 9.94
+            },
+            {
+              "price": 30.0,
+              "size": 21.86
+            },
+            {
+              "price": 29.0,
+              "size": 24.06
+            },
+            {
+              "price": 28.0,
+              "size": 23.33
+            },
+            {
+              "price": 27.0,
+              "size": 34.36
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 40.0,
+              "size": 4.97
+            },
+            {
+              "price": 46.0,
+              "size": 8.59
+            },
+            {
+              "price": 48.0,
+              "size": 12.55
+            },
+            {
+              "price": 50.0,
+              "size": 9.63
+            },
+            {
+              "price": 55.0,
+              "size": 10.13
+            }
+          ],
+          "runner_matched_volume": 328.59,
+          "last_price_traded": 32.0,
+          "market_prob": 0.031176,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 99770208,
+          "name": "1. Godwits",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-13T03:23:19.743370Z",
+      "seconds_to_off": 101,
+      "market_matched_volume": 23632.26,
+      "overround_pct": 101.2,
+      "runners": [
+        {
+          "selection_id": 78781024,
+          "name": "2. Lots To Love",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 3.45,
+          "best_back_size": 61.42,
+          "best_lay": 3.5,
+          "best_lay_size": 1.37,
+          "spread": 0.05,
+          "back_ladder": [
+            {
+              "price": 3.45,
+              "size": 61.42
+            },
+            {
+              "price": 3.4,
+              "size": 63.17
+            },
+            {
+              "price": 3.35,
+              "size": 51.11
+            },
+            {
+              "price": 3.3,
+              "size": 37.86
+            },
+            {
+              "price": 3.25,
+              "size": 158.49
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.5,
+              "size": 1.37
+            },
+            {
+              "price": 3.55,
+              "size": 11.95
+            },
+            {
+              "price": 3.6,
+              "size": 50.0
+            },
+            {
+              "price": 3.65,
+              "size": 82.51
+            },
+            {
+              "price": 3.7,
+              "size": 9.65
+            }
+          ],
+          "runner_matched_volume": 6088.76,
+          "last_price_traded": 3.5,
+          "market_prob": 0.286285,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 92537240,
+          "name": "3. Calzino",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 3.8,
+          "best_back_size": 44.96,
+          "best_lay": 3.9,
+          "best_lay_size": 36.02,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 3.8,
+              "size": 44.96
+            },
+            {
+              "price": 3.75,
+              "size": 36.28
+            },
+            {
+              "price": 3.7,
+              "size": 121.96
+            },
+            {
+              "price": 3.65,
+              "size": 42.1
+            },
+            {
+              "price": 3.6,
+              "size": 90.65
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.9,
+              "size": 36.02
+            },
+            {
+              "price": 3.95,
+              "size": 58.8
+            },
+            {
+              "price": 4.0,
+              "size": 42.72
+            },
+            {
+              "price": 4.1,
+              "size": 22.72
+            },
+            {
+              "price": 4.2,
+              "size": 82.71
+            }
+          ],
+          "runner_matched_volume": 3643.39,
+          "last_price_traded": 3.9,
+          "market_prob": 0.259916,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 99172196,
+          "name": "4. Microgravity",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 2.56,
+          "best_back_size": 37.8,
+          "best_lay": 2.62,
+          "best_lay_size": 23.26,
+          "spread": 0.06,
+          "back_ladder": [
+            {
+              "price": 2.56,
+              "size": 37.8
+            },
+            {
+              "price": 2.54,
+              "size": 42.61
+            },
+            {
+              "price": 2.52,
+              "size": 25.07
+            },
+            {
+              "price": 2.5,
+              "size": 277.18
+            },
+            {
+              "price": 2.48,
+              "size": 44.65
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.62,
+              "size": 23.26
+            },
+            {
+              "price": 2.64,
+              "size": 1.93
+            },
+            {
+              "price": 2.66,
+              "size": 1.93
+            },
+            {
+              "price": 2.68,
+              "size": 1.93
+            },
+            {
+              "price": 2.7,
+              "size": 40.46
+            }
+          ],
+          "runner_matched_volume": 12956.44,
+          "last_price_traded": 2.58,
+          "market_prob": 0.385813,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 81562197,
+          "name": "5. Flee With Me",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 48.0,
+          "best_back_size": 2.22,
+          "best_lay": 50.0,
+          "best_lay_size": 1.1,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 48.0,
+              "size": 2.22
+            },
+            {
+              "price": 46.0,
+              "size": 15.74
+            },
+            {
+              "price": 44.0,
+              "size": 13.39
+            },
+            {
+              "price": 42.0,
+              "size": 26.18
+            },
+            {
+              "price": 40.0,
+              "size": 12.78
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 50.0,
+              "size": 1.1
+            },
+            {
+              "price": 55.0,
+              "size": 24.0
+            },
+            {
+              "price": 60.0,
+              "size": 23.52
+            },
+            {
+              "price": 65.0,
+              "size": 18.83
+            },
+            {
+              "price": 70.0,
+              "size": 11.81
+            }
+          ],
+          "runner_matched_volume": 462.58,
+          "last_price_traded": 48.0,
+          "market_prob": 0.020577,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100486066,
+          "name": "6. Foxwedge Arrow",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 140.0,
+          "best_back_size": 2.97,
+          "best_lay": 180.0,
+          "best_lay_size": 1.19,
+          "spread": 40.0,
+          "back_ladder": [
+            {
+              "price": 140.0,
+              "size": 2.97
+            },
+            {
+              "price": 130.0,
+              "size": 3.08
+            },
+            {
+              "price": 120.0,
+              "size": 8.39
+            },
+            {
+              "price": 110.0,
+              "size": 13.69
+            },
+            {
+              "price": 100.0,
+              "size": 14.78
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 180.0,
+              "size": 1.19
+            },
+            {
+              "price": 190.0,
+              "size": 3.88
+            },
+            {
+              "price": 200.0,
+              "size": 2.0
+            },
+            {
+              "price": 320.0,
+              "size": 5.04
+            },
+            {
+              "price": 360.0,
+              "size": 5.0
+            }
+          ],
+          "runner_matched_volume": 46.92,
+          "last_price_traded": 140.0,
+          "market_prob": 0.007055,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 71436030,
+          "name": "7. Minister Garrett",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 150.0,
+          "best_back_size": 1.41,
+          "best_lay": 210.0,
+          "best_lay_size": 6.96,
+          "spread": 60.0,
+          "back_ladder": [
+            {
+              "price": 150.0,
+              "size": 1.41
+            },
+            {
+              "price": 130.0,
+              "size": 4.11
+            },
+            {
+              "price": 120.0,
+              "size": 5.22
+            },
+            {
+              "price": 110.0,
+              "size": 2.5
+            },
+            {
+              "price": 100.0,
+              "size": 9.11
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 210.0,
+              "size": 6.96
+            },
+            {
+              "price": 220.0,
+              "size": 5.85
+            },
+            {
+              "price": 700.0,
+              "size": 1.35
+            },
+            {
+              "price": 810.0,
+              "size": 2.5
+            },
+            {
+              "price": 920.0,
+              "size": 4.05
+            }
+          ],
+          "runner_matched_volume": 79.76,
+          "last_price_traded": 150.0,
+          "market_prob": 0.006585,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 100232108,
+          "name": "8. Bemboka Lass",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 340.0,
+          "best_back_size": 1.74,
+          "best_lay": 640.0,
+          "best_lay_size": 4.69,
+          "spread": 300.0,
+          "back_ladder": [
+            {
+              "price": 340.0,
+              "size": 1.74
+            },
+            {
+              "price": 320.0,
+              "size": 2.55
+            },
+            {
+              "price": 290.0,
+              "size": 1.07
+            },
+            {
+              "price": 280.0,
+              "size": 3.02
+            },
+            {
+              "price": 270.0,
+              "size": 2.52
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 640.0,
+              "size": 4.69
+            },
+            {
+              "price": 660.0,
+              "size": 5.0
+            },
+            {
+              "price": 990.0,
+              "size": 3.14
+            }
+          ],
+          "runner_matched_volume": 12.74,
+          "last_price_traded": 340.0,
+          "market_prob": 0.002905,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100486067,
+          "name": "10. Think Im In",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 32.0,
+          "best_back_size": 3.32,
+          "best_lay": 36.0,
+          "best_lay_size": 7.78,
+          "spread": 4.0,
+          "back_ladder": [
+            {
+              "price": 32.0,
+              "size": 3.32
+            },
+            {
+              "price": 30.0,
+              "size": 14.42
+            },
+            {
+              "price": 29.0,
+              "size": 24.59
+            },
+            {
+              "price": 28.0,
+              "size": 19.05
+            },
+            {
+              "price": 27.0,
+              "size": 23.71
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 36.0,
+              "size": 7.78
+            },
+            {
+              "price": 38.0,
+              "size": 5.34
+            },
+            {
+              "price": 40.0,
+              "size": 1.93
+            },
+            {
+              "price": 42.0,
+              "size": 6.93
+            },
+            {
+              "price": 44.0,
+              "size": 6.43
+            }
+          ],
+          "runner_matched_volume": 341.64,
+          "last_price_traded": 32.0,
+          "market_prob": 0.030865,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 99770208,
+          "name": "1. Godwits",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-13T03:24:51.581755Z",
+      "seconds_to_off": 9,
+      "market_matched_volume": 43587.35,
+      "overround_pct": 101.9,
+      "runners": [
+        {
+          "selection_id": 78781024,
+          "name": "2. Lots To Love",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 3.75,
+          "best_back_size": 68.03,
+          "best_lay": 3.9,
+          "best_lay_size": 9.31,
+          "spread": 0.15,
+          "back_ladder": [
+            {
+              "price": 3.75,
+              "size": 68.03
+            },
+            {
+              "price": 3.7,
+              "size": 18.97
+            },
+            {
+              "price": 3.65,
+              "size": 126.62
+            },
+            {
+              "price": 3.6,
+              "size": 72.52
+            },
+            {
+              "price": 3.55,
+              "size": 130.49
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.9,
+              "size": 9.31
+            },
+            {
+              "price": 3.95,
+              "size": 15.19
+            },
+            {
+              "price": 4.0,
+              "size": 21.28
+            },
+            {
+              "price": 4.1,
+              "size": 73.23
+            },
+            {
+              "price": 4.2,
+              "size": 54.63
+            }
+          ],
+          "runner_matched_volume": 9246.03,
+          "last_price_traded": 3.8,
+          "market_prob": 0.261649,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 92537240,
+          "name": "3. Calzino",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 3.55,
+          "best_back_size": 45.62,
+          "best_lay": 3.9,
+          "best_lay_size": 18.8,
+          "spread": 0.35,
+          "back_ladder": [
+            {
+              "price": 3.55,
+              "size": 45.62
+            },
+            {
+              "price": 3.45,
+              "size": 27.96
+            },
+            {
+              "price": 3.4,
+              "size": 6.56
+            },
+            {
+              "price": 3.35,
+              "size": 112.3
+            },
+            {
+              "price": 3.3,
+              "size": 201.13
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.9,
+              "size": 18.8
+            },
+            {
+              "price": 3.95,
+              "size": 5.53
+            },
+            {
+              "price": 4.0,
+              "size": 8.71
+            },
+            {
+              "price": 4.1,
+              "size": 72.49
+            },
+            {
+              "price": 4.2,
+              "size": 61.38
+            }
+          ],
+          "runner_matched_volume": 9239.06,
+          "last_price_traded": 3.6,
+          "market_prob": 0.27639,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 99172196,
+          "name": "4. Microgravity",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 2.46,
+          "best_back_size": 1.99,
+          "best_lay": 2.56,
+          "best_lay_size": 7.36,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 2.46,
+              "size": 1.99
+            },
+            {
+              "price": 2.44,
+              "size": 183.41
+            },
+            {
+              "price": 2.36,
+              "size": 4.13
+            },
+            {
+              "price": 2.3,
+              "size": 80.7
+            },
+            {
+              "price": 2.28,
+              "size": 25.59
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.56,
+              "size": 7.36
+            },
+            {
+              "price": 2.66,
+              "size": 1.89
+            },
+            {
+              "price": 2.68,
+              "size": 5.32
+            },
+            {
+              "price": 2.7,
+              "size": 1.93
+            },
+            {
+              "price": 2.72,
+              "size": 71.15
+            }
+          ],
+          "runner_matched_volume": 23175.4,
+          "last_price_traded": 2.54,
+          "market_prob": 0.398856,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 81562197,
+          "name": "5. Flee With Me",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 48.0,
+          "best_back_size": 27.71,
+          "best_lay": 55.0,
+          "best_lay_size": 5.73,
+          "spread": 7.0,
+          "back_ladder": [
+            {
+              "price": 48.0,
+              "size": 27.71
+            },
+            {
+              "price": 46.0,
+              "size": 10.86
+            },
+            {
+              "price": 44.0,
+              "size": 12.24
+            },
+            {
+              "price": 42.0,
+              "size": 22.47
+            },
+            {
+              "price": 40.0,
+              "size": 32.18
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 55.0,
+              "size": 5.73
+            },
+            {
+              "price": 60.0,
+              "size": 54.44
+            },
+            {
+              "price": 65.0,
+              "size": 27.95
+            },
+            {
+              "price": 70.0,
+              "size": 34.89
+            },
+            {
+              "price": 75.0,
+              "size": 25.63
+            }
+          ],
+          "runner_matched_volume": 830.65,
+          "last_price_traded": 55.0,
+          "market_prob": 0.020441,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100486066,
+          "name": "6. Foxwedge Arrow",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 170.0,
+          "best_back_size": 3.96,
+          "best_lay": 200.0,
+          "best_lay_size": 7.47,
+          "spread": 30.0,
+          "back_ladder": [
+            {
+              "price": 170.0,
+              "size": 3.96
+            },
+            {
+              "price": 160.0,
+              "size": 25.12
+            },
+            {
+              "price": 150.0,
+              "size": 12.59
+            },
+            {
+              "price": 140.0,
+              "size": 18.26
+            },
+            {
+              "price": 130.0,
+              "size": 16.13
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 200.0,
+              "size": 7.47
+            },
+            {
+              "price": 220.0,
+              "size": 6.04
+            },
+            {
+              "price": 230.0,
+              "size": 12.44
+            },
+            {
+              "price": 240.0,
+              "size": 1.93
+            },
+            {
+              "price": 250.0,
+              "size": 1.98
+            }
+          ],
+          "runner_matched_volume": 75.92,
+          "last_price_traded": 170.0,
+          "market_prob": 0.005772,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 71436030,
+          "name": "7. Minister Garrett",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 180.0,
+          "best_back_size": 12.24,
+          "best_lay": 200.0,
+          "best_lay_size": 14.78,
+          "spread": 20.0,
+          "back_ladder": [
+            {
+              "price": 180.0,
+              "size": 12.24
+            },
+            {
+              "price": 170.0,
+              "size": 9.9
+            },
+            {
+              "price": 160.0,
+              "size": 5.01
+            },
+            {
+              "price": 140.0,
+              "size": 6.61
+            },
+            {
+              "price": 130.0,
+              "size": 2.43
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 200.0,
+              "size": 14.78
+            },
+            {
+              "price": 210.0,
+              "size": 7.82
+            },
+            {
+              "price": 220.0,
+              "size": 9.93
+            },
+            {
+              "price": 230.0,
+              "size": 4.49
+            },
+            {
+              "price": 240.0,
+              "size": 4.5
+            }
+          ],
+          "runner_matched_volume": 154.18,
+          "last_price_traded": 180.0,
+          "market_prob": 0.005451,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 100232108,
+          "name": "8. Bemboka Lass",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 380.0,
+          "best_back_size": 1.04,
+          "best_lay": 640.0,
+          "best_lay_size": 2.34,
+          "spread": 260.0,
+          "back_ladder": [
+            {
+              "price": 380.0,
+              "size": 1.04
+            },
+            {
+              "price": 370.0,
+              "size": 2.42
+            },
+            {
+              "price": 350.0,
+              "size": 1.47
+            },
+            {
+              "price": 330.0,
+              "size": 1.57
+            },
+            {
+              "price": 320.0,
+              "size": 11.76
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 640.0,
+              "size": 2.34
+            },
+            {
+              "price": 660.0,
+              "size": 5.04
+            },
+            {
+              "price": 680.0,
+              "size": 1.65
+            },
+            {
+              "price": 810.0,
+              "size": 3.39
+            },
+            {
+              "price": 990.0,
+              "size": 3.05
+            }
+          ],
+          "runner_matched_volume": 36.13,
+          "last_price_traded": 370.0,
+          "market_prob": 0.002582,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100486067,
+          "name": "10. Think Im In",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 34.0,
+          "best_back_size": 19.05,
+          "best_lay": 44.0,
+          "best_lay_size": 33.73,
+          "spread": 10.0,
+          "back_ladder": [
+            {
+              "price": 34.0,
+              "size": 19.05
+            },
+            {
+              "price": 32.0,
+              "size": 20.22
+            },
+            {
+              "price": 30.0,
+              "size": 44.93
+            },
+            {
+              "price": 29.0,
+              "size": 40.81
+            },
+            {
+              "price": 28.0,
+              "size": 20.01
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 44.0,
+              "size": 33.73
+            },
+            {
+              "price": 46.0,
+              "size": 14.7
+            },
+            {
+              "price": 48.0,
+              "size": 23.06
+            },
+            {
+              "price": 50.0,
+              "size": 22.99
+            },
+            {
+              "price": 55.0,
+              "size": 23.28
+            }
+          ],
+          "runner_matched_volume": 829.95,
+          "last_price_traded": 34.0,
+          "market_prob": 0.028858,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 99770208,
+          "name": "1. Godwits",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    }
+  ],
+  "place": {
+    "78781024": {
+      "place_entry": 1.16,
+      "place_bsp": 1.14,
+      "place_status": "WINNER",
+      "placed": true
+    },
+    "92537240": {
+      "place_entry": 1.31,
+      "place_bsp": 1.51,
+      "place_status": "WINNER",
+      "placed": true
+    },
+    "99172196": {
+      "place_entry": 1.23,
+      "place_bsp": 1.14,
+      "place_status": "LOSER",
+      "placed": false
+    },
+    "81562197": {
+      "place_entry": 4.7,
+      "place_bsp": 3.63,
+      "place_status": "LOSER",
+      "placed": false
+    },
+    "100486066": {
+      "place_entry": 12.0,
+      "place_bsp": 14.97,
+      "place_status": "LOSER",
+      "placed": false
+    },
+    "71436030": {
+      "place_entry": 11.5,
+      "place_bsp": 11.17,
+      "place_status": "WINNER",
+      "placed": true
+    },
+    "100232108": {
+      "place_entry": 18.5,
+      "place_bsp": 21.89,
+      "place_status": "LOSER",
+      "placed": false
+    },
+    "100486067": {
+      "place_entry": 4.0,
+      "place_bsp": 5.8,
+      "place_status": "REMOVED",
+      "placed": false
+    },
+    "99770208": {
+      "place_bsp": NaN,
+      "place_status": "REMOVED",
+      "placed": false
+    }
+  },
+  "place_market_id": "1.259927687",
+  "place_terms": 3,
+  "finalized_at": "2026-07-13T03:31:43.206402Z"
+}
