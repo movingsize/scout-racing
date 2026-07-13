@@ -9,9 +9,9 @@
   "market_overround_pct": null,
   "track_condition": "Synthetic",
   "weather": {
-    "temperature_c": 8.3,
+    "temperature_c": 8.6,
     "precipitation_mm": 0.0,
-    "wind_speed_kmh": 25.3,
+    "wind_speed_kmh": 25.0,
     "wind_direction": "NNW",
     "condition": "Overcast"
   },
@@ -667,114 +667,12 @@
       "career": "8:0-0-2",
       "weight_kg": 57.5,
       "barrier": 2,
-      "prizemoney": 16805,
-      "first_up_record": "2:0-0-0",
-      "second_up_record": "2:0-0-0",
-      "going_record": {
-        "Firm": "0:0-0-0",
-        "Good": "3:0-0-0",
-        "Soft": "1:0-0-0",
-        "Heavy": "1:0-0-0",
-        "Synthetic": "3:0-0-2"
-      },
-      "recent_runs": [
-        {
-          "pos": 3,
-          "date": "2026-07-12",
-          "class": "3YF MDN-SW",
-          "trial": false,
-          "distance_m": 1100,
-          "going": "Synthetic",
-          "winner_time": 67.22,
-          "beaten_margin": 4.2,
-          "runner_time": 67.84,
-          "runner_time_reduced": true,
-          "sectional_600": 34.88,
-          "in_run": {
-            "@800": 4,
-            "@400": 3
-          }
-        },
-        {
-          "pos": 8,
-          "date": "2026-06-30",
-          "class": "3Y MDN-SW",
-          "trial": false,
-          "distance_m": 1200,
-          "going": "Synthetic",
-          "winner_time": 73.39,
-          "beaten_margin": 4.16,
-          "runner_time": 74.0,
-          "runner_time_reduced": true,
-          "sectional_600": 35.61,
-          "in_run": {
-            "@800": 10,
-            "@400": 7
-          }
-        },
-        {
-          "pos": 3,
-          "date": "2026-06-21",
-          "class": "MDN-SW",
-          "trial": false,
-          "distance_m": 1100,
-          "going": "Synthetic",
-          "winner_time": 66.35,
-          "beaten_margin": 2.75,
-          "runner_time": 66.75,
-          "runner_time_reduced": true,
-          "sectional_600": 34.58,
-          "in_run": {
-            "@800": 9,
-            "@400": 5
-          }
-        },
-        {
-          "pos": 4,
-          "date": "2026-05-18",
-          "class": "MDN-SW",
-          "trial": false,
-          "distance_m": 1100,
-          "going": "Soft7",
-          "winner_time": 68.11,
-          "beaten_margin": 4.5,
-          "runner_time": 68.78,
-          "runner_time_reduced": true,
-          "sectional_600": 36.55,
-          "in_run": {
-            "@800": 7,
-            "@400": 7
-          }
-        },
-        {
-          "pos": 5,
-          "date": "2026-04-23",
-          "class": "3YF MDN-SW",
-          "trial": false,
-          "distance_m": 1225,
-          "going": "Good4",
-          "winner_time": 73.42,
-          "beaten_margin": 10.3,
-          "runner_time": 74.9,
-          "runner_time_reduced": true,
-          "sectional_600": 35.38,
-          "in_run": {
-            "@800": 6,
-            "@400": 6
-          }
-        }
+      "scratched": true,
+      "form_status": "unraced",
+      "warnings": [
+        "runner scratched (per form source) \u2014 career reconstructed from last5 for reference only, not expected to start",
+        "form source shows this runner SCRATCHED but Betfair still lists it ACTIVE \u2014 cross-source timing mismatch, treat the price as unreliable until one side updates"
       ],
-      "recent_class": [
-        "3YF MDN-SW",
-        "3Y MDN-SW",
-        "MDN-SW",
-        "MDN-SW",
-        "3YF MDN-SW"
-      ],
-      "days_since_run": 2,
-      "runs_this_prep": 5,
-      "form_status": "confirmed",
-      "warnings": [],
       "last5_parsed": [
         {
           "raw": "4",
@@ -831,13 +729,13 @@
           "spell": false
         }
       ],
-      "data_status": "confirmed",
+      "data_status": "reconstructed",
       "open_price": null,
       "call": {
         "call": "OK",
         "label": "OK",
-        "confidence": "ok",
-        "reason": "confirmed form, 8 career starts",
+        "confidence": "thin",
+        "reason": "career reconstructed from last5 (8:0-0-2)",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -1438,7 +1336,7 @@
       }
     }
   ],
-  "last_polled_at": "2026-07-13T02:02:53.331777Z",
+  "last_polled_at": "2026-07-13T02:17:53.498256Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
     "ok": 9,
