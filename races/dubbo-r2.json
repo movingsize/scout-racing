@@ -917,40 +917,6 @@
       },
       "recent_runs": [
         {
-          "pos": 7,
-          "date": "2026-07-07",
-          "class": "CL1-SW",
-          "trial": false,
-          "distance_m": 1750,
-          "going": "Soft7",
-          "winner_time": 110.51,
-          "beaten_margin": 7.01,
-          "runner_time": 111.57,
-          "runner_time_reduced": true,
-          "sectional_600": 36.15,
-          "in_run": {
-            "@800": 9,
-            "@400": 8
-          }
-        },
-        {
-          "pos": 7,
-          "date": "2026-06-30",
-          "class": "CL1-SW",
-          "trial": false,
-          "distance_m": 1600,
-          "going": "Heavy10",
-          "winner_time": 102.17,
-          "beaten_margin": 7.41,
-          "runner_time": 103.31,
-          "runner_time_reduced": true,
-          "sectional_600": 35.6,
-          "in_run": {
-            "@800": 2,
-            "@400": 3
-          }
-        },
-        {
           "pos": 8,
           "date": "2026-06-28",
           "class": "CTRY MDN",
@@ -986,31 +952,65 @@
         },
         {
           "pos": 8,
-          "date": "2026-06-12",
-          "class": "CTRY MDN",
+          "date": "2026-02-15",
+          "class": "MDN-SW",
           "trial": false,
-          "distance_m": 1450,
-          "going": "Soft7",
-          "winner_time": 92.37,
-          "beaten_margin": 8.63,
-          "runner_time": 93.69,
+          "distance_m": 1600,
+          "going": "Good4",
+          "winner_time": 95.64,
+          "beaten_margin": 13.38,
+          "runner_time": 97.56,
           "runner_time_reduced": true,
-          "sectional_600": 36.57,
+          "sectional_600": null,
           "in_run": {
-            "@800": 9,
+            "@800": 2,
+            "@400": 3
+          }
+        },
+        {
+          "pos": 10,
+          "date": "2026-02-02",
+          "class": "MDN-SW",
+          "trial": false,
+          "distance_m": 1400,
+          "going": "Good4",
+          "winner_time": 84.84,
+          "beaten_margin": 5.02,
+          "runner_time": 85.57,
+          "runner_time_reduced": true,
+          "sectional_600": null,
+          "in_run": {
+            "@800": 7,
+            "@400": 9
+          }
+        },
+        {
+          "pos": 8,
+          "date": "2026-01-18",
+          "class": "SUPER MDN-SW",
+          "trial": false,
+          "distance_m": 1375,
+          "going": "Good4",
+          "winner_time": 85.1,
+          "beaten_margin": 11.07,
+          "runner_time": 86.74,
+          "runner_time_reduced": true,
+          "sectional_600": null,
+          "in_run": {
+            "@800": 6,
             "@400": 7
           }
         }
       ],
       "recent_class": [
-        "CL1-SW",
-        "CL1-SW",
         "CTRY MDN",
         "CTRY MDN-SW",
-        "CTRY MDN"
+        "MDN-SW",
+        "MDN-SW",
+        "SUPER MDN-SW"
       ],
-      "days_since_run": 6,
-      "runs_this_prep": 10,
+      "days_since_run": 15,
+      "runs_this_prep": 2,
       "form_status": "confirmed",
       "warnings": [],
       "last5_parsed": [
@@ -1086,64 +1086,8 @@
       }
     },
     {
-      "name": "8. Pinero",
-      "saddle_cloth": 7,
-      "selection_id": 99492491,
-      "status": "ACTIVE",
-      "best_back": null,
-      "back_depth_aud": 0,
-      "bsp_near": null,
-      "market_signal": "NEUTRAL",
-      "trainer": null,
-      "jockey": null,
-      "last5": null,
-      "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
-      "warnings": [],
-      "last5_parsed": [],
-      "data_status": "not_found",
-      "open_price": 1.01,
-      "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
-        "guard": "data_adequacy v1.0"
-      }
-    },
-    {
-      "name": "9. Rockn On Uptown",
-      "saddle_cloth": 8,
-      "selection_id": 100486065,
-      "status": "ACTIVE",
-      "best_back": null,
-      "back_depth_aud": 0,
-      "bsp_near": null,
-      "market_signal": "NEUTRAL",
-      "trainer": null,
-      "jockey": null,
-      "last5": null,
-      "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
-      "warnings": [],
-      "last5_parsed": [],
-      "data_status": "not_found",
-      "open_price": 1.01,
-      "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
-        "guard": "data_adequacy v1.0"
-      }
-    },
-    {
       "name": "10. Sonnig",
-      "saddle_cloth": 9,
+      "saddle_cloth": 7,
       "selection_id": 51526598,
       "status": "ACTIVE",
       "best_back": null,
@@ -1290,7 +1234,7 @@
     },
     {
       "name": "11. Windsor Road",
-      "saddle_cloth": 10,
+      "saddle_cloth": 8,
       "selection_id": 100487309,
       "status": "ACTIVE",
       "best_back": null,
@@ -1479,9 +1423,65 @@
         "reason": "confirmed form, 9 career starts",
         "guard": "data_adequacy v1.0"
       }
+    },
+    {
+      "name": "8. Pinero",
+      "saddle_cloth": 9,
+      "selection_id": 99492491,
+      "status": "ACTIVE",
+      "best_back": null,
+      "back_depth_aud": 0,
+      "bsp_near": null,
+      "market_signal": "NEUTRAL",
+      "trainer": null,
+      "jockey": null,
+      "last5": null,
+      "career": null,
+      "weight_kg": null,
+      "barrier": null,
+      "form_status": "not_found",
+      "warnings": [],
+      "last5_parsed": [],
+      "data_status": "not_found",
+      "open_price": 1.01,
+      "call": {
+        "call": "NO_CALL",
+        "label": "DATA BAD",
+        "confidence": null,
+        "reason": "data bad: data_status=not_found and no race form on record",
+        "guard": "data_adequacy v1.0"
+      }
+    },
+    {
+      "name": "9. Rockn On Uptown",
+      "saddle_cloth": 10,
+      "selection_id": 100486065,
+      "status": "ACTIVE",
+      "best_back": null,
+      "back_depth_aud": 0,
+      "bsp_near": null,
+      "market_signal": "NEUTRAL",
+      "trainer": null,
+      "jockey": null,
+      "last5": null,
+      "career": null,
+      "weight_kg": null,
+      "barrier": null,
+      "form_status": "not_found",
+      "warnings": [],
+      "last5_parsed": [],
+      "data_status": "not_found",
+      "open_price": 1.01,
+      "call": {
+        "call": "NO_CALL",
+        "label": "DATA BAD",
+        "confidence": null,
+        "reason": "data bad: data_status=not_found and no race form on record",
+        "guard": "data_adequacy v1.0"
+      }
     }
   ],
-  "last_polled_at": "2026-07-12T08:02:23.105580Z",
+  "last_polled_at": "2026-07-13T01:02:59.016844Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
     "ok": 8,
