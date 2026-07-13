@@ -215,90 +215,12 @@
       "career": "4:0-2-0",
       "weight_kg": 59.0,
       "barrier": 6,
-      "prizemoney": 10425,
-      "first_up_record": "2:0-1-0",
-      "second_up_record": "2:0-1-0",
-      "going_record": {
-        "Firm": "0:0-0-0",
-        "Good": "1:0-0-0",
-        "Soft": "2:0-1-0",
-        "Heavy": "1:0-1-0",
-        "Synthetic": "0:0-0-0"
-      },
-      "recent_runs": [
-        {
-          "pos": 2,
-          "date": "2026-06-29",
-          "class": "MDN-SW",
-          "trial": false,
-          "distance_m": 1100,
-          "going": "Soft7",
-          "winner_time": 66.1,
-          "beaten_margin": 1.55,
-          "runner_time": 66.32,
-          "runner_time_reduced": true,
-          "sectional_600": 35.83,
-          "in_run": {
-            "@800": 7,
-            "@400": 8
-          }
-        },
-        {
-          "pos": 6,
-          "date": "2026-06-03",
-          "class": "OPEN-BT",
-          "trial": false,
-          "distance_m": 1000,
-          "going": "Soft7",
-          "winner_time": 61.2,
-          "beaten_margin": 6.4,
-          "runner_time": 62.14,
-          "runner_time_reduced": true,
-          "sectional_600": 35.58,
-          "in_run": null
-        },
-        {
-          "pos": 2,
-          "date": "2026-01-17",
-          "class": "MDN-SW",
-          "trial": false,
-          "distance_m": 1000,
-          "going": "Heavy8",
-          "winner_time": 59.37,
-          "beaten_margin": 1.83,
-          "runner_time": 59.63,
-          "runner_time_reduced": true,
-          "sectional_600": 34.72,
-          "in_run": {
-            "@800": 1,
-            "@400": 1
-          }
-        },
-        {
-          "pos": 6,
-          "date": "2026-01-08",
-          "class": "MDN-BT",
-          "trial": false,
-          "distance_m": 800,
-          "going": "Good4",
-          "winner_time": 45.64,
-          "beaten_margin": 6.41,
-          "runner_time": 46.52,
-          "runner_time_reduced": true,
-          "sectional_600": 33.64,
-          "in_run": null
-        }
+      "scratched": true,
+      "form_status": "unraced",
+      "warnings": [
+        "runner scratched (per form source) \u2014 career reconstructed from last5 for reference only, not expected to start",
+        "form source shows this runner SCRATCHED but Betfair still lists it ACTIVE \u2014 cross-source timing mismatch, treat the price as unreliable until one side updates"
       ],
-      "recent_class": [
-        "MDN-SW",
-        "OPEN-BT",
-        "MDN-SW",
-        "MDN-BT"
-      ],
-      "days_since_run": 15,
-      "runs_this_prep": 2,
-      "form_status": "confirmed",
-      "warnings": [],
       "last5_parsed": [
         {
           "raw": "2",
@@ -331,13 +253,13 @@
           "spell": false
         }
       ],
-      "data_status": "confirmed",
+      "data_status": "reconstructed",
       "open_price": null,
       "call": {
         "call": "OK",
         "label": "OK",
-        "confidence": "ok",
-        "reason": "confirmed form, 4 career starts",
+        "confidence": "thin",
+        "reason": "career reconstructed from last5 (4:0-2-0)",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -955,7 +877,7 @@
       }
     }
   ],
-  "last_polled_at": "2026-07-13T03:32:25.650304Z",
+  "last_polled_at": "2026-07-13T03:47:53.522452Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
     "ok": 8,
