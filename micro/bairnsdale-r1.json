@@ -1,0 +1,2673 @@
+{
+  "event_id": "bairnsdale-2026-07-13-r1",
+  "market_id": "1.259928926",
+  "venue": "Bairnsdale",
+  "race_name": "R1 2200m Mdn",
+  "start_time_utc": "2026-07-13T02:30:00.000Z",
+  "captured_by": "micro-series v1",
+  "field_size": 5,
+  "model_overlay": {
+    "100519743": {
+      "model_prob": 0.495402,
+      "model_rank": 1,
+      "model_version": "2026-07-08"
+    },
+    "43858363": {
+      "model_prob": 0.228454,
+      "model_rank": 2,
+      "model_version": "2026-07-08"
+    },
+    "100519744": {
+      "model_prob": 0.121143,
+      "model_rank": 3,
+      "model_version": "2026-07-08"
+    },
+    "95620898": {
+      "model_prob": 0.092084,
+      "model_rank": 4,
+      "model_version": "2026-07-08"
+    },
+    "87206443": {
+      "model_prob": 0.062917,
+      "model_rank": 5,
+      "model_version": "2026-07-08"
+    }
+  },
+  "bsp": {
+    "97764223": {
+      "bsp": NaN,
+      "status": "REMOVED"
+    },
+    "43858363": {
+      "bsp": 6.42,
+      "status": "LOSER"
+    },
+    "100519743": {
+      "bsp": 1.57,
+      "status": "WINNER"
+    },
+    "87206443": {
+      "bsp": 42.0,
+      "status": "LOSER"
+    },
+    "100519744": {
+      "bsp": 10.87,
+      "status": "LOSER"
+    },
+    "95620898": {
+      "bsp": 12.34,
+      "status": "LOSER"
+    }
+  },
+  "result": {
+    "winner": "2. Crystal Jade",
+    "winner_bsp": 1.57,
+    "placings": [
+      "2. Crystal Jade",
+      "1. Clydebank Robber"
+    ],
+    "settled_at": "2026-07-13T02:36:04.810426Z"
+  },
+  "frames": [
+    {
+      "at": "2026-07-13T02:20:01.398761Z",
+      "seconds_to_off": 599,
+      "market_matched_volume": 3214.36,
+      "overround_pct": 102.7,
+      "runners": [
+        {
+          "selection_id": 43858363,
+          "name": "1. Clydebank Robber",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 5.5,
+          "best_back_size": 3.3,
+          "best_lay": 5.7,
+          "best_lay_size": 2.61,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 5.5,
+              "size": 3.3
+            },
+            {
+              "price": 5.4,
+              "size": 15.88
+            },
+            {
+              "price": 5.3,
+              "size": 48.26
+            },
+            {
+              "price": 5.2,
+              "size": 47.76
+            },
+            {
+              "price": 5.1,
+              "size": 72.21
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.7,
+              "size": 2.61
+            },
+            {
+              "price": 5.8,
+              "size": 29.8
+            },
+            {
+              "price": 5.9,
+              "size": 22.29
+            },
+            {
+              "price": 6.0,
+              "size": 25.07
+            },
+            {
+              "price": 6.2,
+              "size": 15.39
+            }
+          ],
+          "runner_matched_volume": 944.58,
+          "last_price_traded": 5.5,
+          "market_prob": 0.177074,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 100519743,
+          "name": "2. Crystal Jade",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 1.61,
+          "best_back_size": 30.62,
+          "best_lay": 1.72,
+          "best_lay_size": 1.93,
+          "spread": 0.11,
+          "back_ladder": [
+            {
+              "price": 1.61,
+              "size": 30.62
+            },
+            {
+              "price": 1.59,
+              "size": 23.49
+            },
+            {
+              "price": 1.58,
+              "size": 5.77
+            },
+            {
+              "price": 1.57,
+              "size": 105.18
+            },
+            {
+              "price": 1.56,
+              "size": 23.89
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 1.72,
+              "size": 1.93
+            },
+            {
+              "price": 1.73,
+              "size": 7.16
+            },
+            {
+              "price": 1.74,
+              "size": 3.33
+            },
+            {
+              "price": 1.79,
+              "size": 3.53
+            },
+            {
+              "price": 1.86,
+              "size": 10.0
+            }
+          ],
+          "runner_matched_volume": 1257.63,
+          "last_price_traded": 1.63,
+          "market_prob": 0.604911,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 87206443,
+          "name": "4. Bon Aurelia",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 34.0,
+          "best_back_size": 8.06,
+          "best_lay": 38.0,
+          "best_lay_size": 4.1,
+          "spread": 4.0,
+          "back_ladder": [
+            {
+              "price": 34.0,
+              "size": 8.06
+            },
+            {
+              "price": 32.0,
+              "size": 3.99
+            },
+            {
+              "price": 30.0,
+              "size": 24.4
+            },
+            {
+              "price": 29.0,
+              "size": 16.61
+            },
+            {
+              "price": 28.0,
+              "size": 19.3
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 38.0,
+              "size": 4.1
+            },
+            {
+              "price": 40.0,
+              "size": 2.05
+            },
+            {
+              "price": 44.0,
+              "size": 8.68
+            },
+            {
+              "price": 46.0,
+              "size": 7.7
+            },
+            {
+              "price": 48.0,
+              "size": 7.74
+            }
+          ],
+          "runner_matched_volume": 197.75,
+          "last_price_traded": 34.0,
+          "market_prob": 0.028644,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100519744,
+          "name": "5. Highland Dash",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 7.2,
+          "best_back_size": 3.34,
+          "best_lay": 7.8,
+          "best_lay_size": 2.3,
+          "spread": 0.6,
+          "back_ladder": [
+            {
+              "price": 7.2,
+              "size": 3.34
+            },
+            {
+              "price": 7.0,
+              "size": 16.92
+            },
+            {
+              "price": 6.8,
+              "size": 59.69
+            },
+            {
+              "price": 6.6,
+              "size": 30.91
+            },
+            {
+              "price": 6.4,
+              "size": 68.57
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.8,
+              "size": 2.3
+            },
+            {
+              "price": 8.0,
+              "size": 10.94
+            },
+            {
+              "price": 8.2,
+              "size": 2.05
+            },
+            {
+              "price": 8.4,
+              "size": 14.86
+            },
+            {
+              "price": 8.6,
+              "size": 37.24
+            }
+          ],
+          "runner_matched_volume": 747.25,
+          "last_price_traded": 7.6,
+          "market_prob": 0.135265,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 95620898,
+          "name": "6. Now Perform",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 18.0,
+          "best_back_size": 6.23,
+          "best_lay": 21.0,
+          "best_lay_size": 12.4,
+          "spread": 3.0,
+          "back_ladder": [
+            {
+              "price": 18.0,
+              "size": 6.23
+            },
+            {
+              "price": 17.5,
+              "size": 34.6
+            },
+            {
+              "price": 17.0,
+              "size": 17.34
+            },
+            {
+              "price": 16.5,
+              "size": 17.23
+            },
+            {
+              "price": 16.0,
+              "size": 6.6
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 21.0,
+              "size": 12.4
+            },
+            {
+              "price": 22.0,
+              "size": 9.76
+            },
+            {
+              "price": 23.0,
+              "size": 32.85
+            },
+            {
+              "price": 24.0,
+              "size": 12.04
+            },
+            {
+              "price": 25.0,
+              "size": 7.1
+            }
+          ],
+          "runner_matched_volume": 67.13,
+          "last_price_traded": 18.5,
+          "market_prob": 0.054106,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 97764223,
+          "name": "3. Mr Vegas",
+          "saddle_cloth": 6,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-13T02:21:15.709294Z",
+      "seconds_to_off": 525,
+      "market_matched_volume": 3590.24,
+      "overround_pct": 102.9,
+      "runners": [
+        {
+          "selection_id": 43858363,
+          "name": "1. Clydebank Robber",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 5.5,
+          "best_back_size": 13.74,
+          "best_lay": 5.7,
+          "best_lay_size": 3.71,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 5.5,
+              "size": 13.74
+            },
+            {
+              "price": 5.4,
+              "size": 22.39
+            },
+            {
+              "price": 5.3,
+              "size": 43.2
+            },
+            {
+              "price": 5.2,
+              "size": 63.18
+            },
+            {
+              "price": 5.1,
+              "size": 51.89
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.7,
+              "size": 3.71
+            },
+            {
+              "price": 5.8,
+              "size": 45.53
+            },
+            {
+              "price": 5.9,
+              "size": 10.02
+            },
+            {
+              "price": 6.0,
+              "size": 25.07
+            },
+            {
+              "price": 6.2,
+              "size": 15.39
+            }
+          ],
+          "runner_matched_volume": 1103.17,
+          "last_price_traded": 5.6,
+          "market_prob": 0.176721,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 100519743,
+          "name": "2. Crystal Jade",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 1.64,
+          "best_back_size": 8.81,
+          "best_lay": 1.69,
+          "best_lay_size": 7.34,
+          "spread": 0.05,
+          "back_ladder": [
+            {
+              "price": 1.64,
+              "size": 8.81
+            },
+            {
+              "price": 1.63,
+              "size": 7.17
+            },
+            {
+              "price": 1.62,
+              "size": 3.84
+            },
+            {
+              "price": 1.61,
+              "size": 5.77
+            },
+            {
+              "price": 1.6,
+              "size": 5.77
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 1.69,
+              "size": 7.34
+            },
+            {
+              "price": 1.7,
+              "size": 3.28
+            },
+            {
+              "price": 1.71,
+              "size": 5.04
+            },
+            {
+              "price": 1.72,
+              "size": 1.93
+            },
+            {
+              "price": 1.73,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 1295.25,
+          "last_price_traded": 1.66,
+          "market_prob": 0.592663,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 87206443,
+          "name": "4. Bon Aurelia",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 34.0,
+          "best_back_size": 7.86,
+          "best_lay": 38.0,
+          "best_lay_size": 7.95,
+          "spread": 4.0,
+          "back_ladder": [
+            {
+              "price": 34.0,
+              "size": 7.86
+            },
+            {
+              "price": 32.0,
+              "size": 3.99
+            },
+            {
+              "price": 30.0,
+              "size": 24.4
+            },
+            {
+              "price": 29.0,
+              "size": 16.61
+            },
+            {
+              "price": 28.0,
+              "size": 19.3
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 38.0,
+              "size": 7.95
+            },
+            {
+              "price": 40.0,
+              "size": 2.05
+            },
+            {
+              "price": 44.0,
+              "size": 8.68
+            },
+            {
+              "price": 46.0,
+              "size": 5.77
+            },
+            {
+              "price": 48.0,
+              "size": 7.74
+            }
+          ],
+          "runner_matched_volume": 197.94,
+          "last_price_traded": 34.0,
+          "market_prob": 0.028587,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100519744,
+          "name": "5. Highland Dash",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 7.2,
+          "best_back_size": 6.56,
+          "best_lay": 7.6,
+          "best_lay_size": 5.18,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 7.2,
+              "size": 6.56
+            },
+            {
+              "price": 7.0,
+              "size": 26.53
+            },
+            {
+              "price": 6.8,
+              "size": 44.92
+            },
+            {
+              "price": 6.6,
+              "size": 29.45
+            },
+            {
+              "price": 6.4,
+              "size": 55.18
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.6,
+              "size": 5.18
+            },
+            {
+              "price": 7.8,
+              "size": 5.69
+            },
+            {
+              "price": 8.0,
+              "size": 10.94
+            },
+            {
+              "price": 8.2,
+              "size": 19.88
+            },
+            {
+              "price": 8.4,
+              "size": 21.63
+            }
+          ],
+          "runner_matched_volume": 827.88,
+          "last_price_traded": 7.2,
+          "market_prob": 0.134996,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 95620898,
+          "name": "6. Now Perform",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 14.5,
+          "best_back_size": 15.58,
+          "best_lay": 17.0,
+          "best_lay_size": 2.1,
+          "spread": 2.5,
+          "back_ladder": [
+            {
+              "price": 14.5,
+              "size": 15.58
+            },
+            {
+              "price": 14.0,
+              "size": 58.21
+            },
+            {
+              "price": 13.5,
+              "size": 21.15
+            },
+            {
+              "price": 13.0,
+              "size": 26.62
+            },
+            {
+              "price": 12.5,
+              "size": 47.03
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 17.0,
+              "size": 2.1
+            },
+            {
+              "price": 17.5,
+              "size": 7.08
+            },
+            {
+              "price": 18.0,
+              "size": 2.01
+            },
+            {
+              "price": 18.5,
+              "size": 7.39
+            },
+            {
+              "price": 19.0,
+              "size": 9.38
+            }
+          ],
+          "runner_matched_volume": 165.98,
+          "last_price_traded": 16.0,
+          "market_prob": 0.067032,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 97764223,
+          "name": "3. Mr Vegas",
+          "saddle_cloth": 6,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-13T02:22:30.735792Z",
+      "seconds_to_off": 450,
+      "market_matched_volume": 4180.79,
+      "overround_pct": 101.1,
+      "runners": [
+        {
+          "selection_id": 43858363,
+          "name": "1. Clydebank Robber",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 5.4,
+          "best_back_size": 9.55,
+          "best_lay": 5.6,
+          "best_lay_size": 3.82,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 5.4,
+              "size": 9.55
+            },
+            {
+              "price": 5.3,
+              "size": 84.49
+            },
+            {
+              "price": 5.2,
+              "size": 45.5
+            },
+            {
+              "price": 5.1,
+              "size": 51.89
+            },
+            {
+              "price": 5.0,
+              "size": 91.02
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.6,
+              "size": 3.82
+            },
+            {
+              "price": 5.7,
+              "size": 30.35
+            },
+            {
+              "price": 5.8,
+              "size": 34.14
+            },
+            {
+              "price": 5.9,
+              "size": 27.73
+            },
+            {
+              "price": 6.0,
+              "size": 25.07
+            }
+          ],
+          "runner_matched_volume": 1238.37,
+          "last_price_traded": 5.4,
+          "market_prob": 0.183248,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 100519743,
+          "name": "2. Crystal Jade",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 1.67,
+          "best_back_size": 7.2,
+          "best_lay": 1.69,
+          "best_lay_size": 8.65,
+          "spread": 0.02,
+          "back_ladder": [
+            {
+              "price": 1.67,
+              "size": 7.2
+            },
+            {
+              "price": 1.66,
+              "size": 42.53
+            },
+            {
+              "price": 1.65,
+              "size": 33.81
+            },
+            {
+              "price": 1.64,
+              "size": 10.97
+            },
+            {
+              "price": 1.63,
+              "size": 5.77
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 1.69,
+              "size": 8.65
+            },
+            {
+              "price": 1.7,
+              "size": 5.19
+            },
+            {
+              "price": 1.73,
+              "size": 7.64
+            },
+            {
+              "price": 1.74,
+              "size": 38.62
+            },
+            {
+              "price": 1.75,
+              "size": 7.7
+            }
+          ],
+          "runner_matched_volume": 1667.37,
+          "last_price_traded": 1.69,
+          "market_prob": 0.592539,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 87206443,
+          "name": "4. Bon Aurelia",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 34.0,
+          "best_back_size": 4.13,
+          "best_lay": 40.0,
+          "best_lay_size": 5.86,
+          "spread": 6.0,
+          "back_ladder": [
+            {
+              "price": 34.0,
+              "size": 4.13
+            },
+            {
+              "price": 32.0,
+              "size": 3.86
+            },
+            {
+              "price": 30.0,
+              "size": 24.4
+            },
+            {
+              "price": 29.0,
+              "size": 16.28
+            },
+            {
+              "price": 28.0,
+              "size": 19.3
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 40.0,
+              "size": 5.86
+            },
+            {
+              "price": 42.0,
+              "size": 3.01
+            },
+            {
+              "price": 44.0,
+              "size": 6.77
+            },
+            {
+              "price": 46.0,
+              "size": 11.56
+            },
+            {
+              "price": 48.0,
+              "size": 7.74
+            }
+          ],
+          "runner_matched_volume": 232.06,
+          "last_price_traded": 38.0,
+          "market_prob": 0.029104,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100519744,
+          "name": "5. Highland Dash",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 7.8,
+          "best_back_size": 2.59,
+          "best_lay": 8.2,
+          "best_lay_size": 2.05,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 7.8,
+              "size": 2.59
+            },
+            {
+              "price": 7.6,
+              "size": 6.19
+            },
+            {
+              "price": 7.4,
+              "size": 12.08
+            },
+            {
+              "price": 7.2,
+              "size": 26.46
+            },
+            {
+              "price": 7.0,
+              "size": 45.7
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.2,
+              "size": 2.05
+            },
+            {
+              "price": 8.4,
+              "size": 9.9
+            },
+            {
+              "price": 8.6,
+              "size": 5.77
+            },
+            {
+              "price": 8.8,
+              "size": 27.71
+            },
+            {
+              "price": 9.0,
+              "size": 24.45
+            }
+          ],
+          "runner_matched_volume": 867.4,
+          "last_price_traded": 7.8,
+          "market_prob": 0.126864,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 95620898,
+          "name": "6. Now Perform",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 14.5,
+          "best_back_size": 3.65,
+          "best_lay": 15.5,
+          "best_lay_size": 1.1,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 14.5,
+              "size": 3.65
+            },
+            {
+              "price": 14.0,
+              "size": 16.11
+            },
+            {
+              "price": 13.5,
+              "size": 26.05
+            },
+            {
+              "price": 13.0,
+              "size": 14.94
+            },
+            {
+              "price": 12.5,
+              "size": 72.53
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 15.5,
+              "size": 1.1
+            },
+            {
+              "price": 16.0,
+              "size": 5.83
+            },
+            {
+              "price": 16.5,
+              "size": 7.28
+            },
+            {
+              "price": 17.0,
+              "size": 17.18
+            },
+            {
+              "price": 17.5,
+              "size": 10.61
+            }
+          ],
+          "runner_matched_volume": 175.56,
+          "last_price_traded": 15.0,
+          "market_prob": 0.068244,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 97764223,
+          "name": "3. Mr Vegas",
+          "saddle_cloth": 6,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-13T02:23:45.763872Z",
+      "seconds_to_off": 375,
+      "market_matched_volume": 4356.64,
+      "overround_pct": 101.3,
+      "runners": [
+        {
+          "selection_id": 43858363,
+          "name": "1. Clydebank Robber",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 5.4,
+          "best_back_size": 10.26,
+          "best_lay": 5.6,
+          "best_lay_size": 19.57,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 5.4,
+              "size": 10.26
+            },
+            {
+              "price": 5.3,
+              "size": 24.49
+            },
+            {
+              "price": 5.2,
+              "size": 73.7
+            },
+            {
+              "price": 5.1,
+              "size": 52.54
+            },
+            {
+              "price": 5.0,
+              "size": 91.02
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.6,
+              "size": 19.57
+            },
+            {
+              "price": 5.7,
+              "size": 9.71
+            },
+            {
+              "price": 5.8,
+              "size": 34.14
+            },
+            {
+              "price": 5.9,
+              "size": 28.38
+            },
+            {
+              "price": 6.0,
+              "size": 25.07
+            }
+          ],
+          "runner_matched_volume": 1255.82,
+          "last_price_traded": 5.4,
+          "market_prob": 0.182803,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 100519743,
+          "name": "2. Crystal Jade",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 1.67,
+          "best_back_size": 50.81,
+          "best_lay": 1.69,
+          "best_lay_size": 3.69,
+          "spread": 0.02,
+          "back_ladder": [
+            {
+              "price": 1.67,
+              "size": 50.81
+            },
+            {
+              "price": 1.66,
+              "size": 15.67
+            },
+            {
+              "price": 1.65,
+              "size": 39.58
+            },
+            {
+              "price": 1.64,
+              "size": 10.97
+            },
+            {
+              "price": 1.63,
+              "size": 5.77
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 1.69,
+              "size": 3.69
+            },
+            {
+              "price": 1.7,
+              "size": 105.31
+            },
+            {
+              "price": 1.71,
+              "size": 3.86
+            },
+            {
+              "price": 1.72,
+              "size": 7.7
+            },
+            {
+              "price": 1.73,
+              "size": 11.48
+            }
+          ],
+          "runner_matched_volume": 1741.22,
+          "last_price_traded": 1.69,
+          "market_prob": 0.591099,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 87206443,
+          "name": "4. Bon Aurelia",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 34.0,
+          "best_back_size": 2.03,
+          "best_lay": 38.0,
+          "best_lay_size": 4.7,
+          "spread": 4.0,
+          "back_ladder": [
+            {
+              "price": 34.0,
+              "size": 2.03
+            },
+            {
+              "price": 32.0,
+              "size": 8.22
+            },
+            {
+              "price": 30.0,
+              "size": 24.4
+            },
+            {
+              "price": 29.0,
+              "size": 16.28
+            },
+            {
+              "price": 28.0,
+              "size": 19.3
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 38.0,
+              "size": 4.7
+            },
+            {
+              "price": 40.0,
+              "size": 8.3
+            },
+            {
+              "price": 42.0,
+              "size": 3.92
+            },
+            {
+              "price": 44.0,
+              "size": 5.77
+            },
+            {
+              "price": 46.0,
+              "size": 5.77
+            }
+          ],
+          "runner_matched_volume": 271.97,
+          "last_price_traded": 38.0,
+          "market_prob": 0.029033,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100519744,
+          "name": "5. Highland Dash",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 7.8,
+          "best_back_size": 3.4,
+          "best_lay": 8.2,
+          "best_lay_size": 6.53,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 7.8,
+              "size": 3.4
+            },
+            {
+              "price": 7.6,
+              "size": 19.74
+            },
+            {
+              "price": 7.4,
+              "size": 12.08
+            },
+            {
+              "price": 7.2,
+              "size": 28.57
+            },
+            {
+              "price": 7.0,
+              "size": 29.37
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.2,
+              "size": 6.53
+            },
+            {
+              "price": 8.4,
+              "size": 33.67
+            },
+            {
+              "price": 8.6,
+              "size": 5.77
+            },
+            {
+              "price": 8.8,
+              "size": 27.71
+            },
+            {
+              "price": 9.0,
+              "size": 52.0
+            }
+          ],
+          "runner_matched_volume": 912.05,
+          "last_price_traded": 7.8,
+          "market_prob": 0.126556,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 95620898,
+          "name": "6. Now Perform",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 14.0,
+          "best_back_size": 18.72,
+          "best_lay": 15.5,
+          "best_lay_size": 1.1,
+          "spread": 1.5,
+          "back_ladder": [
+            {
+              "price": 14.0,
+              "size": 18.72
+            },
+            {
+              "price": 13.5,
+              "size": 20.44
+            },
+            {
+              "price": 13.0,
+              "size": 14.94
+            },
+            {
+              "price": 12.5,
+              "size": 67.21
+            },
+            {
+              "price": 12.0,
+              "size": 39.14
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 15.5,
+              "size": 1.1
+            },
+            {
+              "price": 16.0,
+              "size": 5.83
+            },
+            {
+              "price": 16.5,
+              "size": 7.28
+            },
+            {
+              "price": 17.0,
+              "size": 17.18
+            },
+            {
+              "price": 17.5,
+              "size": 10.61
+            }
+          ],
+          "runner_matched_volume": 175.56,
+          "last_price_traded": 15.0,
+          "market_prob": 0.07051,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 97764223,
+          "name": "3. Mr Vegas",
+          "saddle_cloth": 6,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-13T02:25:00.369997Z",
+      "seconds_to_off": 300,
+      "market_matched_volume": 5147.33,
+      "overround_pct": 101.0,
+      "runners": [
+        {
+          "selection_id": 43858363,
+          "name": "1. Clydebank Robber",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 5.3,
+          "best_back_size": 11.83,
+          "best_lay": 5.4,
+          "best_lay_size": 5.88,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.3,
+              "size": 11.83
+            },
+            {
+              "price": 5.2,
+              "size": 45.03
+            },
+            {
+              "price": 5.1,
+              "size": 52.54
+            },
+            {
+              "price": 5.0,
+              "size": 91.02
+            },
+            {
+              "price": 4.9,
+              "size": 43.75
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.4,
+              "size": 5.88
+            },
+            {
+              "price": 5.5,
+              "size": 22.64
+            },
+            {
+              "price": 5.6,
+              "size": 5.13
+            },
+            {
+              "price": 5.7,
+              "size": 9.71
+            },
+            {
+              "price": 5.8,
+              "size": 34.14
+            }
+          ],
+          "runner_matched_volume": 1308.84,
+          "last_price_traded": 5.3,
+          "market_prob": 0.186769,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 100519743,
+          "name": "2. Crystal Jade",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 1.65,
+          "best_back_size": 7.53,
+          "best_lay": 1.67,
+          "best_lay_size": 6.79,
+          "spread": 0.02,
+          "back_ladder": [
+            {
+              "price": 1.65,
+              "size": 7.53
+            },
+            {
+              "price": 1.64,
+              "size": 43.56
+            },
+            {
+              "price": 1.63,
+              "size": 44.45
+            },
+            {
+              "price": 1.62,
+              "size": 29.33
+            },
+            {
+              "price": 1.61,
+              "size": 52.18
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 1.67,
+              "size": 6.79
+            },
+            {
+              "price": 1.68,
+              "size": 22.06
+            },
+            {
+              "price": 1.69,
+              "size": 5.62
+            },
+            {
+              "price": 1.7,
+              "size": 105.31
+            },
+            {
+              "price": 1.71,
+              "size": 3.86
+            }
+          ],
+          "runner_matched_volume": 2206.63,
+          "last_price_traded": 1.67,
+          "market_prob": 0.599926,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 87206443,
+          "name": "4. Bon Aurelia",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 36.0,
+          "best_back_size": 1.93,
+          "best_lay": 40.0,
+          "best_lay_size": 3.45,
+          "spread": 4.0,
+          "back_ladder": [
+            {
+              "price": 36.0,
+              "size": 1.93
+            },
+            {
+              "price": 34.0,
+              "size": 17.24
+            },
+            {
+              "price": 32.0,
+              "size": 9.69
+            },
+            {
+              "price": 30.0,
+              "size": 24.4
+            },
+            {
+              "price": 29.0,
+              "size": 16.28
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 40.0,
+              "size": 3.45
+            },
+            {
+              "price": 42.0,
+              "size": 3.92
+            },
+            {
+              "price": 44.0,
+              "size": 5.77
+            },
+            {
+              "price": 46.0,
+              "size": 12.02
+            },
+            {
+              "price": 48.0,
+              "size": 11.6
+            }
+          ],
+          "runner_matched_volume": 322.12,
+          "last_price_traded": 40.0,
+          "market_prob": 0.027497,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100519744,
+          "name": "5. Highland Dash",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 8.6,
+          "best_back_size": 10.81,
+          "best_lay": 9.0,
+          "best_lay_size": 7.82,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 8.6,
+              "size": 10.81
+            },
+            {
+              "price": 8.4,
+              "size": 7.8
+            },
+            {
+              "price": 8.2,
+              "size": 31.51
+            },
+            {
+              "price": 8.0,
+              "size": 16.25
+            },
+            {
+              "price": 7.8,
+              "size": 42.83
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 9.0,
+              "size": 7.82
+            },
+            {
+              "price": 9.2,
+              "size": 8.66
+            },
+            {
+              "price": 9.4,
+              "size": 17.35
+            },
+            {
+              "price": 9.6,
+              "size": 13.65
+            },
+            {
+              "price": 9.8,
+              "size": 9.63
+            }
+          ],
+          "runner_matched_volume": 1049.78,
+          "last_price_traded": 8.8,
+          "market_prob": 0.115102,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 95620898,
+          "name": "6. Now Perform",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 14.0,
+          "best_back_size": 21.42,
+          "best_lay": 15.0,
+          "best_lay_size": 4.19,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 14.0,
+              "size": 21.42
+            },
+            {
+              "price": 13.5,
+              "size": 27.68
+            },
+            {
+              "price": 13.0,
+              "size": 9.17
+            },
+            {
+              "price": 12.5,
+              "size": 55.34
+            },
+            {
+              "price": 12.0,
+              "size": 43.58
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 15.0,
+              "size": 4.19
+            },
+            {
+              "price": 15.5,
+              "size": 28.56
+            },
+            {
+              "price": 16.0,
+              "size": 3.4
+            },
+            {
+              "price": 16.5,
+              "size": 2.64
+            },
+            {
+              "price": 17.0,
+              "size": 11.75
+            }
+          ],
+          "runner_matched_volume": 259.93,
+          "last_price_traded": 14.5,
+          "market_prob": 0.070706,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 97764223,
+          "name": "3. Mr Vegas",
+          "saddle_cloth": 6,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-13T02:26:15.355603Z",
+      "seconds_to_off": 225,
+      "market_matched_volume": 5778.39,
+      "overround_pct": 101.2,
+      "runners": [
+        {
+          "selection_id": 43858363,
+          "name": "1. Clydebank Robber",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 5.2,
+          "best_back_size": 52.34,
+          "best_lay": 5.3,
+          "best_lay_size": 4.79,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.2,
+              "size": 52.34
+            },
+            {
+              "price": 5.1,
+              "size": 72.82
+            },
+            {
+              "price": 5.0,
+              "size": 87.03
+            },
+            {
+              "price": 4.9,
+              "size": 75.04
+            },
+            {
+              "price": 4.8,
+              "size": 47.72
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.3,
+              "size": 4.79
+            },
+            {
+              "price": 5.4,
+              "size": 45.19
+            },
+            {
+              "price": 5.5,
+              "size": 16.36
+            },
+            {
+              "price": 5.6,
+              "size": 23.82
+            },
+            {
+              "price": 5.7,
+              "size": 28.41
+            }
+          ],
+          "runner_matched_volume": 1388.87,
+          "last_price_traded": 5.3,
+          "market_prob": 0.18999,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 100519743,
+          "name": "2. Crystal Jade",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 1.63,
+          "best_back_size": 57.21,
+          "best_lay": 1.65,
+          "best_lay_size": 28.12,
+          "spread": 0.02,
+          "back_ladder": [
+            {
+              "price": 1.63,
+              "size": 57.21
+            },
+            {
+              "price": 1.62,
+              "size": 37.91
+            },
+            {
+              "price": 1.61,
+              "size": 65.97
+            },
+            {
+              "price": 1.6,
+              "size": 24.12
+            },
+            {
+              "price": 1.59,
+              "size": 60.13
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 1.65,
+              "size": 28.12
+            },
+            {
+              "price": 1.66,
+              "size": 17.46
+            },
+            {
+              "price": 1.67,
+              "size": 39.38
+            },
+            {
+              "price": 1.68,
+              "size": 58.07
+            },
+            {
+              "price": 1.69,
+              "size": 38.02
+            }
+          ],
+          "runner_matched_volume": 2555.45,
+          "last_price_traded": 1.66,
+          "market_prob": 0.606104,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 87206443,
+          "name": "4. Bon Aurelia",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 38.0,
+          "best_back_size": 2.2,
+          "best_lay": 40.0,
+          "best_lay_size": 3.45,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 38.0,
+              "size": 2.2
+            },
+            {
+              "price": 36.0,
+              "size": 16.17
+            },
+            {
+              "price": 34.0,
+              "size": 15.15
+            },
+            {
+              "price": 32.0,
+              "size": 17.7
+            },
+            {
+              "price": 30.0,
+              "size": 37.64
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 40.0,
+              "size": 3.45
+            },
+            {
+              "price": 42.0,
+              "size": 5.19
+            },
+            {
+              "price": 44.0,
+              "size": 10.73
+            },
+            {
+              "price": 46.0,
+              "size": 12.77
+            },
+            {
+              "price": 48.0,
+              "size": 9.67
+            }
+          ],
+          "runner_matched_volume": 322.32,
+          "last_price_traded": 36.0,
+          "market_prob": 0.025999,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100519744,
+          "name": "5. Highland Dash",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 9.0,
+          "best_back_size": 12.08,
+          "best_lay": 9.2,
+          "best_lay_size": 7.27,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 9.0,
+              "size": 12.08
+            },
+            {
+              "price": 8.8,
+              "size": 13.51
+            },
+            {
+              "price": 8.6,
+              "size": 18.41
+            },
+            {
+              "price": 8.4,
+              "size": 27.38
+            },
+            {
+              "price": 8.2,
+              "size": 39.02
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 9.2,
+              "size": 7.27
+            },
+            {
+              "price": 9.4,
+              "size": 22.76
+            },
+            {
+              "price": 9.6,
+              "size": 11.72
+            },
+            {
+              "price": 9.8,
+              "size": 19.96
+            },
+            {
+              "price": 10.0,
+              "size": 14.79
+            }
+          ],
+          "runner_matched_volume": 1072.99,
+          "last_price_traded": 9.2,
+          "market_prob": 0.109772,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 95620898,
+          "name": "6. Now Perform",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 14.5,
+          "best_back_size": 124.69,
+          "best_lay": 15.5,
+          "best_lay_size": 43.41,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 14.5,
+              "size": 124.69
+            },
+            {
+              "price": 14.0,
+              "size": 19.38
+            },
+            {
+              "price": 13.5,
+              "size": 42.8
+            },
+            {
+              "price": 13.0,
+              "size": 20.7
+            },
+            {
+              "price": 12.5,
+              "size": 44.19
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 15.5,
+              "size": 43.41
+            },
+            {
+              "price": 16.0,
+              "size": 34.93
+            },
+            {
+              "price": 16.5,
+              "size": 2.64
+            },
+            {
+              "price": 17.0,
+              "size": 16.09
+            },
+            {
+              "price": 17.5,
+              "size": 15.42
+            }
+          ],
+          "runner_matched_volume": 438.74,
+          "last_price_traded": 15.0,
+          "market_prob": 0.068134,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 97764223,
+          "name": "3. Mr Vegas",
+          "saddle_cloth": 6,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-13T02:27:30.355656Z",
+      "seconds_to_off": 150,
+      "market_matched_volume": 7864.37,
+      "overround_pct": 101.4,
+      "runners": [
+        {
+          "selection_id": 43858363,
+          "name": "1. Clydebank Robber",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 5.1,
+          "best_back_size": 74.24,
+          "best_lay": 5.2,
+          "best_lay_size": 32.21,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.1,
+              "size": 74.24
+            },
+            {
+              "price": 5.0,
+              "size": 90.5
+            },
+            {
+              "price": 4.9,
+              "size": 128.28
+            },
+            {
+              "price": 4.8,
+              "size": 112.45
+            },
+            {
+              "price": 4.7,
+              "size": 92.36
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.2,
+              "size": 32.21
+            },
+            {
+              "price": 5.3,
+              "size": 28.14
+            },
+            {
+              "price": 5.4,
+              "size": 25.63
+            },
+            {
+              "price": 5.5,
+              "size": 47.27
+            },
+            {
+              "price": 5.6,
+              "size": 24.25
+            }
+          ],
+          "runner_matched_volume": 1684.81,
+          "last_price_traded": 5.1,
+          "market_prob": 0.193428,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 100519743,
+          "name": "2. Crystal Jade",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 1.63,
+          "best_back_size": 44.29,
+          "best_lay": 1.66,
+          "best_lay_size": 27.69,
+          "spread": 0.03,
+          "back_ladder": [
+            {
+              "price": 1.63,
+              "size": 44.29
+            },
+            {
+              "price": 1.62,
+              "size": 129.45
+            },
+            {
+              "price": 1.61,
+              "size": 127.07
+            },
+            {
+              "price": 1.6,
+              "size": 611.15
+            },
+            {
+              "price": 1.59,
+              "size": 459.63
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 1.66,
+              "size": 27.69
+            },
+            {
+              "price": 1.67,
+              "size": 51.31
+            },
+            {
+              "price": 1.68,
+              "size": 41.78
+            },
+            {
+              "price": 1.69,
+              "size": 43.79
+            },
+            {
+              "price": 1.7,
+              "size": 141.87
+            }
+          ],
+          "runner_matched_volume": 3517.47,
+          "last_price_traded": 1.65,
+          "market_prob": 0.605204,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 87206443,
+          "name": "4. Bon Aurelia",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 38.0,
+          "best_back_size": 26.94,
+          "best_lay": 42.0,
+          "best_lay_size": 8.15,
+          "spread": 4.0,
+          "back_ladder": [
+            {
+              "price": 38.0,
+              "size": 26.94
+            },
+            {
+              "price": 36.0,
+              "size": 21.19
+            },
+            {
+              "price": 34.0,
+              "size": 24.51
+            },
+            {
+              "price": 32.0,
+              "size": 19.78
+            },
+            {
+              "price": 30.0,
+              "size": 34.6
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 42.0,
+              "size": 8.15
+            },
+            {
+              "price": 44.0,
+              "size": 13.7
+            },
+            {
+              "price": 46.0,
+              "size": 5.77
+            },
+            {
+              "price": 48.0,
+              "size": 7.7
+            },
+            {
+              "price": 50.0,
+              "size": 17.07
+            }
+          ],
+          "runner_matched_volume": 573.06,
+          "last_price_traded": 38.0,
+          "market_prob": 0.02596,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100519744,
+          "name": "5. Highland Dash",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 9.4,
+          "best_back_size": 23.71,
+          "best_lay": 9.8,
+          "best_lay_size": 9.75,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 9.4,
+              "size": 23.71
+            },
+            {
+              "price": 9.2,
+              "size": 29.43
+            },
+            {
+              "price": 9.0,
+              "size": 67.94
+            },
+            {
+              "price": 8.8,
+              "size": 34.39
+            },
+            {
+              "price": 8.6,
+              "size": 81.45
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 9.8,
+              "size": 9.75
+            },
+            {
+              "price": 10.0,
+              "size": 17.4
+            },
+            {
+              "price": 10.5,
+              "size": 23.95
+            },
+            {
+              "price": 11.0,
+              "size": 25.37
+            },
+            {
+              "price": 11.5,
+              "size": 26.51
+            }
+          ],
+          "runner_matched_volume": 1352.09,
+          "last_price_traded": 9.4,
+          "market_prob": 0.104945,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 95620898,
+          "name": "6. Now Perform",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 14.0,
+          "best_back_size": 28.83,
+          "best_lay": 15.0,
+          "best_lay_size": 36.69,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 14.0,
+              "size": 28.83
+            },
+            {
+              "price": 13.5,
+              "size": 55.73
+            },
+            {
+              "price": 13.0,
+              "size": 106.33
+            },
+            {
+              "price": 12.5,
+              "size": 79.25
+            },
+            {
+              "price": 12.0,
+              "size": 74.76
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 15.0,
+              "size": 36.69
+            },
+            {
+              "price": 15.5,
+              "size": 45.31
+            },
+            {
+              "price": 16.0,
+              "size": 40.7
+            },
+            {
+              "price": 16.5,
+              "size": 17.51
+            },
+            {
+              "price": 17.0,
+              "size": 19.76
+            }
+          ],
+          "runner_matched_volume": 736.92,
+          "last_price_traded": 14.5,
+          "market_prob": 0.070463,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 97764223,
+          "name": "3. Mr Vegas",
+          "saddle_cloth": 6,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-13T02:29:01.414633Z",
+      "seconds_to_off": 59,
+      "market_matched_volume": 21496.11,
+      "overround_pct": 100.6,
+      "runners": [
+        {
+          "selection_id": 43858363,
+          "name": "1. Clydebank Robber",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 6.2,
+          "best_back_size": 18.76,
+          "best_lay": 6.4,
+          "best_lay_size": 36.24,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 6.2,
+              "size": 18.76
+            },
+            {
+              "price": 6.0,
+              "size": 140.92
+            },
+            {
+              "price": 5.9,
+              "size": 449.78
+            },
+            {
+              "price": 5.8,
+              "size": 140.36
+            },
+            {
+              "price": 5.7,
+              "size": 109.54
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.4,
+              "size": 36.24
+            },
+            {
+              "price": 6.6,
+              "size": 24.22
+            },
+            {
+              "price": 6.8,
+              "size": 86.67
+            },
+            {
+              "price": 7.0,
+              "size": 41.19
+            },
+            {
+              "price": 7.2,
+              "size": 170.03
+            }
+          ],
+          "runner_matched_volume": 3985.45,
+          "last_price_traded": 6.2,
+          "market_prob": 0.160299,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 100519743,
+          "name": "2. Crystal Jade",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 1.53,
+          "best_back_size": 46.61,
+          "best_lay": 1.54,
+          "best_lay_size": 52.74,
+          "spread": 0.01,
+          "back_ladder": [
+            {
+              "price": 1.53,
+              "size": 46.61
+            },
+            {
+              "price": 1.52,
+              "size": 116.9
+            },
+            {
+              "price": 1.51,
+              "size": 289.72
+            },
+            {
+              "price": 1.5,
+              "size": 369.7
+            },
+            {
+              "price": 1.49,
+              "size": 398.12
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 1.54,
+              "size": 52.74
+            },
+            {
+              "price": 1.55,
+              "size": 86.45
+            },
+            {
+              "price": 1.56,
+              "size": 82.87
+            },
+            {
+              "price": 1.57,
+              "size": 49.54
+            },
+            {
+              "price": 1.58,
+              "size": 49.39
+            }
+          ],
+          "runner_matched_volume": 12947.52,
+          "last_price_traded": 1.53,
+          "market_prob": 0.649578,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 87206443,
+          "name": "4. Bon Aurelia",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 38.0,
+          "best_back_size": 12.83,
+          "best_lay": 40.0,
+          "best_lay_size": 20.07,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 38.0,
+              "size": 12.83
+            },
+            {
+              "price": 36.0,
+              "size": 33.41
+            },
+            {
+              "price": 34.0,
+              "size": 23.31
+            },
+            {
+              "price": 32.0,
+              "size": 32.74
+            },
+            {
+              "price": 30.0,
+              "size": 39.25
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 40.0,
+              "size": 20.07
+            },
+            {
+              "price": 42.0,
+              "size": 35.31
+            },
+            {
+              "price": 44.0,
+              "size": 23.95
+            },
+            {
+              "price": 46.0,
+              "size": 10.27
+            },
+            {
+              "price": 48.0,
+              "size": 19.17
+            }
+          ],
+          "runner_matched_volume": 778.44,
+          "last_price_traded": 38.0,
+          "market_prob": 0.026154,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100519744,
+          "name": "5. Highland Dash",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 11.0,
+          "best_back_size": 2.28,
+          "best_lay": 11.5,
+          "best_lay_size": 27.4,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 11.0,
+              "size": 2.28
+            },
+            {
+              "price": 10.5,
+              "size": 42.88
+            },
+            {
+              "price": 10.0,
+              "size": 75.59
+            },
+            {
+              "price": 9.8,
+              "size": 86.03
+            },
+            {
+              "price": 9.6,
+              "size": 35.47
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 11.5,
+              "size": 27.4
+            },
+            {
+              "price": 12.0,
+              "size": 19.43
+            },
+            {
+              "price": 12.5,
+              "size": 26.09
+            },
+            {
+              "price": 13.0,
+              "size": 52.35
+            },
+            {
+              "price": 13.5,
+              "size": 72.99
+            }
+          ],
+          "runner_matched_volume": 2384.56,
+          "last_price_traded": 11.0,
+          "market_prob": 0.09035,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 95620898,
+          "name": "6. Now Perform",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 13.5,
+          "best_back_size": 29.49,
+          "best_lay": 14.0,
+          "best_lay_size": 20.04,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 13.5,
+              "size": 29.49
+            },
+            {
+              "price": 13.0,
+              "size": 67.49
+            },
+            {
+              "price": 12.5,
+              "size": 49.82
+            },
+            {
+              "price": 12.0,
+              "size": 75.86
+            },
+            {
+              "price": 11.5,
+              "size": 76.1
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 14.0,
+              "size": 20.04
+            },
+            {
+              "price": 14.5,
+              "size": 56.74
+            },
+            {
+              "price": 15.0,
+              "size": 36.94
+            },
+            {
+              "price": 15.5,
+              "size": 11.09
+            },
+            {
+              "price": 16.0,
+              "size": 39.42
+            }
+          ],
+          "runner_matched_volume": 1400.11,
+          "last_price_traded": 13.5,
+          "market_prob": 0.073619,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 97764223,
+          "name": "3. Mr Vegas",
+          "saddle_cloth": 6,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    }
+  ],
+  "place": {
+    "43858363": {
+      "place_entry": 1.94,
+      "place_bsp": 1.97,
+      "place_status": "WINNER",
+      "placed": true
+    },
+    "100519743": {
+      "place_entry": 1.2,
+      "place_bsp": 1.18,
+      "place_status": "WINNER",
+      "placed": true
+    },
+    "87206443": {
+      "place_entry": 10.5,
+      "place_bsp": 11.0,
+      "place_status": "LOSER",
+      "placed": false
+    },
+    "100519744": {
+      "place_entry": 2.88,
+      "place_bsp": 3.55,
+      "place_status": "LOSER",
+      "placed": false
+    },
+    "95620898": {
+      "place_entry": 4.0,
+      "place_bsp": 3.55,
+      "place_status": "LOSER",
+      "placed": false
+    },
+    "97764223": {
+      "place_bsp": NaN,
+      "place_status": "REMOVED",
+      "placed": false
+    }
+  },
+  "place_market_id": "1.259928927",
+  "place_terms": 2,
+  "finalized_at": "2026-07-13T02:36:12.277081Z"
+}
