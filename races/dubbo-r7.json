@@ -6,7 +6,7 @@
   "race_type": "Flat",
   "start_time_utc": "2026-07-13T05:35:00.000Z",
   "market_id": "1.259927674",
-  "market_overround_pct": 106.8,
+  "market_overround_pct": 103.1,
   "track_condition": "Soft 5",
   "weather": null,
   "form_analysis": null,
@@ -16,9 +16,9 @@
       "saddle_cloth": 4,
       "selection_id": 100487335,
       "status": "ACTIVE",
-      "best_back": 3.45,
-      "back_depth_aud": 28.0,
-      "bsp_near": 3.17,
+      "best_back": 3.5,
+      "back_depth_aud": 53.0,
+      "bsp_near": 3.32,
       "market_signal": "NEUTRAL",
       "trainer": "Angus Stewart",
       "jockey": "Jacob Stiff (a1.5/52kg)",
@@ -206,7 +206,9 @@
         "confidence": "ok",
         "reason": "confirmed form, 11 career starts",
         "guard": "data_adequacy v1.0"
-      }
+      },
+      "predProb": 0.218383,
+      "model_version": "2026-07-08"
     },
     {
       "name": "10. Singing Star",
@@ -214,8 +216,8 @@
       "selection_id": 70138900,
       "status": "ACTIVE",
       "best_back": 5.0,
-      "back_depth_aud": 80.0,
-      "bsp_near": 4.94,
+      "back_depth_aud": 75.0,
+      "bsp_near": 4.79,
       "market_signal": "NEUTRAL",
       "trainer": "Damien Lane",
       "jockey": "Jake Pracey-Holmes",
@@ -406,16 +408,18 @@
         "confidence": "ok",
         "reason": "confirmed form, 26 career starts",
         "guard": "data_adequacy v1.0"
-      }
+      },
+      "predProb": 0.156058,
+      "model_version": "2026-07-08"
     },
     {
       "name": "11. Move She Can",
       "saddle_cloth": 8,
       "selection_id": 84222421,
       "status": "ACTIVE",
-      "best_back": 7.2,
-      "back_depth_aud": 33.0,
-      "bsp_near": 6.7,
+      "best_back": 8.0,
+      "back_depth_aud": 99.0,
+      "bsp_near": 7.41,
       "market_signal": "NEUTRAL",
       "trainer": "Rodney Northam",
       "jockey": "Ms Anna Weatherlake (a3/52kg)",
@@ -603,17 +607,203 @@
         "confidence": "ok",
         "reason": "confirmed form, 13 career starts",
         "guard": "data_adequacy v1.0"
-      }
+      },
+      "predProb": 0.105624,
+      "model_version": "2026-07-08"
+    },
+    {
+      "name": "3. Prince Of Sepang",
+      "saddle_cloth": 2,
+      "selection_id": 63640245,
+      "status": "ACTIVE",
+      "best_back": 10.0,
+      "back_depth_aud": 30.0,
+      "bsp_near": 9.93,
+      "market_signal": "NEUTRAL",
+      "trainer": "Jane Clement",
+      "jockey": "Ms Gabrielle Johnston (a2/55.5kg)",
+      "last5": "14730x4511",
+      "career": "28:5-3-3",
+      "weight_kg": 59.5,
+      "barrier": 5,
+      "official_rating": 71,
+      "prizemoney": 118275,
+      "first_up_record": "5:1-1-0",
+      "second_up_record": "4:0-0-0",
+      "track_record": "3:1-1-0",
+      "dist_record": "6:1-0-0",
+      "track_dist_record": "2:1-0-0",
+      "distances_won": "1000 (1), 1100 (2), 1200 (2)",
+      "going_record": {
+        "Firm": "1:0-0-0",
+        "Good": "14:2-2-2",
+        "Soft": "10:2-1-1",
+        "Heavy": "3:1-0-0",
+        "Synthetic": "0:0-0-0"
+      },
+      "recent_runs": [
+        {
+          "pos": 1,
+          "date": "2026-06-28",
+          "class": "CTRY BM66",
+          "trial": false,
+          "distance_m": 1000,
+          "going": "Heavy8",
+          "winner_time": 57.46,
+          "beaten_margin": 0.0,
+          "runner_time": 57.46,
+          "runner_time_reduced": false,
+          "sectional_600": 35.13,
+          "in_run": {
+            "@800": 4,
+            "@400": 3
+          }
+        },
+        {
+          "pos": 1,
+          "date": "2026-05-10",
+          "class": "CTRY CL3",
+          "trial": false,
+          "distance_m": 1100,
+          "going": "Good4",
+          "winner_time": 65.79,
+          "beaten_margin": 0.0,
+          "runner_time": 65.79,
+          "runner_time_reduced": false,
+          "sectional_600": 36.02,
+          "in_run": {
+            "@800": 5,
+            "@400": 3
+          }
+        },
+        {
+          "pos": 4,
+          "date": "2026-03-17",
+          "class": "BM58",
+          "trial": false,
+          "distance_m": 950,
+          "going": "Good4",
+          "winner_time": 54.93,
+          "beaten_margin": 1.27,
+          "runner_time": 55.11,
+          "runner_time_reduced": true,
+          "sectional_600": null,
+          "in_run": {
+            "@800": 4,
+            "@400": 5
+          }
+        },
+        {
+          "pos": 10,
+          "date": "2025-06-16",
+          "class": "CL3",
+          "trial": false,
+          "distance_m": 1200,
+          "going": "Soft5",
+          "winner_time": 70.54,
+          "beaten_margin": 7.44,
+          "runner_time": 71.59,
+          "runner_time_reduced": true,
+          "sectional_600": null,
+          "in_run": {
+            "@800": 9,
+            "@400": 8
+          }
+        }
+      ],
+      "recent_class": [
+        "CTRY BM66",
+        "CTRY CL3",
+        "BM58",
+        "CL3"
+      ],
+      "days_since_run": 15,
+      "runs_this_prep": 3,
+      "form_status": "confirmed",
+      "warnings": [],
+      "last5_parsed": [
+        {
+          "raw": "1",
+          "pos": 1,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "4",
+          "pos": 4,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "7",
+          "pos": 7,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "3",
+          "pos": 3,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "0",
+          "pos": 0,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "x",
+          "pos": null,
+          "nonFinish": false,
+          "spell": true
+        },
+        {
+          "raw": "4",
+          "pos": 4,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "5",
+          "pos": 5,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "1",
+          "pos": 1,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "1",
+          "pos": 1,
+          "nonFinish": false,
+          "spell": false
+        }
+      ],
+      "data_status": "confirmed",
+      "open_price": 1.01,
+      "call": {
+        "call": "OK",
+        "label": "OK",
+        "confidence": "ok",
+        "reason": "confirmed form, 28 career starts",
+        "guard": "data_adequacy v1.0"
+      },
+      "predProb": 0.101943,
+      "model_version": "2026-07-08"
     },
     {
       "name": "1. Deion",
       "saddle_cloth": 1,
       "selection_id": 55244054,
       "status": "ACTIVE",
-      "best_back": 10.5,
-      "back_depth_aud": 46.0,
-      "bsp_near": 10.01,
-      "market_signal": "NEUTRAL",
+      "best_back": 11.5,
+      "back_depth_aud": 18.0,
+      "bsp_near": 10.23,
+      "market_signal": "\ud83d\udd25 STEAM",
       "trainer": "Brett Robb",
       "jockey": "Ms Jasmine Urquhart-Warren (a4/55kg)",
       "last5": "13334167x2",
@@ -803,198 +993,18 @@
         "confidence": "ok",
         "reason": "confirmed form, 22 career starts",
         "guard": "data_adequacy v1.0"
-      }
-    },
-    {
-      "name": "3. Prince Of Sepang",
-      "saddle_cloth": 2,
-      "selection_id": 63640245,
-      "status": "ACTIVE",
-      "best_back": 12.0,
-      "back_depth_aud": 34.0,
-      "bsp_near": 10.57,
-      "market_signal": "\ud83d\udd25 STEAM",
-      "trainer": "Jane Clement",
-      "jockey": "Ms Gabrielle Johnston (a2/55.5kg)",
-      "last5": "14730x4511",
-      "career": "28:5-3-3",
-      "weight_kg": 59.5,
-      "barrier": 5,
-      "official_rating": 71,
-      "prizemoney": 118275,
-      "first_up_record": "5:1-1-0",
-      "second_up_record": "4:0-0-0",
-      "track_record": "3:1-1-0",
-      "dist_record": "6:1-0-0",
-      "track_dist_record": "2:1-0-0",
-      "distances_won": "1000 (1), 1100 (2), 1200 (2)",
-      "going_record": {
-        "Firm": "1:0-0-0",
-        "Good": "14:2-2-2",
-        "Soft": "10:2-1-1",
-        "Heavy": "3:1-0-0",
-        "Synthetic": "0:0-0-0"
       },
-      "recent_runs": [
-        {
-          "pos": 1,
-          "date": "2026-06-28",
-          "class": "CTRY BM66",
-          "trial": false,
-          "distance_m": 1000,
-          "going": "Heavy8",
-          "winner_time": 57.46,
-          "beaten_margin": 0.0,
-          "runner_time": 57.46,
-          "runner_time_reduced": false,
-          "sectional_600": 35.13,
-          "in_run": {
-            "@800": 4,
-            "@400": 3
-          }
-        },
-        {
-          "pos": 1,
-          "date": "2026-05-10",
-          "class": "CTRY CL3",
-          "trial": false,
-          "distance_m": 1100,
-          "going": "Good4",
-          "winner_time": 65.79,
-          "beaten_margin": 0.0,
-          "runner_time": 65.79,
-          "runner_time_reduced": false,
-          "sectional_600": 36.02,
-          "in_run": {
-            "@800": 5,
-            "@400": 3
-          }
-        },
-        {
-          "pos": 4,
-          "date": "2026-03-17",
-          "class": "BM58",
-          "trial": false,
-          "distance_m": 950,
-          "going": "Good4",
-          "winner_time": 54.93,
-          "beaten_margin": 1.27,
-          "runner_time": 55.11,
-          "runner_time_reduced": true,
-          "sectional_600": null,
-          "in_run": {
-            "@800": 4,
-            "@400": 5
-          }
-        },
-        {
-          "pos": 10,
-          "date": "2025-06-16",
-          "class": "CL3",
-          "trial": false,
-          "distance_m": 1200,
-          "going": "Soft5",
-          "winner_time": 70.54,
-          "beaten_margin": 7.44,
-          "runner_time": 71.59,
-          "runner_time_reduced": true,
-          "sectional_600": null,
-          "in_run": {
-            "@800": 9,
-            "@400": 8
-          }
-        }
-      ],
-      "recent_class": [
-        "CTRY BM66",
-        "CTRY CL3",
-        "BM58",
-        "CL3"
-      ],
-      "days_since_run": 15,
-      "runs_this_prep": 3,
-      "form_status": "confirmed",
-      "warnings": [],
-      "last5_parsed": [
-        {
-          "raw": "1",
-          "pos": 1,
-          "nonFinish": false,
-          "spell": false
-        },
-        {
-          "raw": "4",
-          "pos": 4,
-          "nonFinish": false,
-          "spell": false
-        },
-        {
-          "raw": "7",
-          "pos": 7,
-          "nonFinish": false,
-          "spell": false
-        },
-        {
-          "raw": "3",
-          "pos": 3,
-          "nonFinish": false,
-          "spell": false
-        },
-        {
-          "raw": "0",
-          "pos": 0,
-          "nonFinish": false,
-          "spell": false
-        },
-        {
-          "raw": "x",
-          "pos": null,
-          "nonFinish": false,
-          "spell": true
-        },
-        {
-          "raw": "4",
-          "pos": 4,
-          "nonFinish": false,
-          "spell": false
-        },
-        {
-          "raw": "5",
-          "pos": 5,
-          "nonFinish": false,
-          "spell": false
-        },
-        {
-          "raw": "1",
-          "pos": 1,
-          "nonFinish": false,
-          "spell": false
-        },
-        {
-          "raw": "1",
-          "pos": 1,
-          "nonFinish": false,
-          "spell": false
-        }
-      ],
-      "data_status": "confirmed",
-      "open_price": 1.01,
-      "call": {
-        "call": "OK",
-        "label": "OK",
-        "confidence": "ok",
-        "reason": "confirmed form, 28 career starts",
-        "guard": "data_adequacy v1.0"
-      }
+      "predProb": 0.11453,
+      "model_version": "2026-07-08"
     },
     {
       "name": "13. Capital Mac",
       "saddle_cloth": 10,
       "selection_id": 100487337,
       "status": "ACTIVE",
-      "best_back": 12.0,
-      "back_depth_aud": 22.0,
-      "bsp_near": 11.31,
+      "best_back": 13.5,
+      "back_depth_aud": 20.0,
+      "bsp_near": 12.91,
       "market_signal": "NEUTRAL",
       "trainer": "Brett Robb",
       "jockey": "Kody Nestor (late alt)",
@@ -1170,15 +1180,17 @@
         "confidence": "ok",
         "reason": "confirmed form, 6 career starts",
         "guard": "data_adequacy v1.0"
-      }
+      },
+      "predProb": 0.087774,
+      "model_version": "2026-07-08"
     },
     {
       "name": "5. Midnight Dream",
       "saddle_cloth": 3,
       "selection_id": 2171214,
       "status": "ACTIVE",
-      "best_back": 19.0,
-      "back_depth_aud": 27.0,
+      "best_back": 19.5,
+      "back_depth_aud": 12.0,
       "bsp_near": 17.66,
       "market_signal": "NEUTRAL",
       "trainer": "Paul Clisby",
@@ -1367,16 +1379,18 @@
         "confidence": "ok",
         "reason": "confirmed form, 45 career starts",
         "guard": "data_adequacy v1.0"
-      }
+      },
+      "predProb": 0.071888,
+      "model_version": "2026-07-08"
     },
     {
       "name": "12. Taormina Sailor",
       "saddle_cloth": 9,
       "selection_id": 100487336,
       "status": "ACTIVE",
-      "best_back": 21.0,
-      "back_depth_aud": 30.0,
-      "bsp_near": 20.0,
+      "best_back": 23.0,
+      "back_depth_aud": 31.0,
+      "bsp_near": 22.64,
       "market_signal": "NEUTRAL",
       "trainer": "Myron Cooper",
       "jockey": "Ms Angela Cooper",
@@ -1565,17 +1579,19 @@
         "confidence": "ok",
         "reason": "confirmed form, 15 career starts",
         "guard": "data_adequacy v1.0"
-      }
+      },
+      "predProb": 0.051051,
+      "model_version": "2026-07-08"
     },
     {
       "name": "7. Rothgate",
       "saddle_cloth": 5,
       "selection_id": 73138261,
       "status": "ACTIVE",
-      "best_back": 22.0,
-      "back_depth_aud": 24.0,
-      "bsp_near": 20.62,
-      "market_signal": "NEUTRAL",
+      "best_back": 26.0,
+      "back_depth_aud": 13.0,
+      "bsp_near": 37.54,
+      "market_signal": "\u2744\ufe0f DRIFT",
       "trainer": "Brett Robb",
       "jockey": "Mathew Cahill (late alt)",
       "last5": "81x6450433",
@@ -1759,17 +1775,19 @@
         "confidence": "ok",
         "reason": "confirmed form, 32 career starts",
         "guard": "data_adequacy v1.0"
-      }
+      },
+      "predProb": 0.053929,
+      "model_version": "2026-07-08"
     },
     {
       "name": "8. Cumnock",
       "saddle_cloth": 6,
       "selection_id": 70666508,
       "status": "ACTIVE",
-      "best_back": 32.0,
-      "back_depth_aud": 12.0,
-      "bsp_near": 32.67,
-      "market_signal": "NEUTRAL",
+      "best_back": 38.0,
+      "back_depth_aud": 17.0,
+      "bsp_near": 33.9,
+      "market_signal": "\ud83d\udd25 STEAM",
       "trainer": "Brett Thompson",
       "jockey": "Ms Leanne Boyd (a2/53.5kg), (late alt)",
       "last5": "x791908019",
@@ -1956,13 +1974,17 @@
         "confidence": "ok",
         "reason": "confirmed form, 34 career starts",
         "guard": "data_adequacy v1.0"
-      }
+      },
+      "predProb": 0.03882,
+      "model_version": "2026-07-08"
     }
   ],
-  "last_polled_at": "2026-07-13T05:17:16.892266Z",
+  "last_polled_at": "2026-07-13T05:31:00.780025Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
     "ok": 10,
     "no_call": 0
-  }
+  },
+  "final_snapshot": true,
+  "final_snapshot_at": "2026-07-13T05:31:00.780025Z"
 }
