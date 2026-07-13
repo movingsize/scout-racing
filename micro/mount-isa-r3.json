@@ -1,0 +1,2758 @@
+{
+  "event_id": "mount-isa-2026-07-13-r3",
+  "market_id": "1.259933597",
+  "venue": "Mount Isa",
+  "race_name": "R3 1450m Hcap",
+  "start_time_utc": "2026-07-13T03:48:00.000Z",
+  "captured_by": "micro-series v1",
+  "field_size": 6,
+  "model_overlay": {
+    "42413108": {
+      "model_prob": 0.228019,
+      "model_rank": 1,
+      "model_version": "2026-07-08"
+    },
+    "9487980": {
+      "model_prob": 0.192037,
+      "model_rank": 2,
+      "model_version": "2026-07-08"
+    },
+    "80130094": {
+      "model_prob": 0.16913,
+      "model_rank": 3,
+      "model_version": "2026-07-08"
+    },
+    "78534717": {
+      "model_prob": 0.132265,
+      "model_rank": 6,
+      "model_version": "2026-07-08"
+    },
+    "59186403": {
+      "model_prob": 0.145702,
+      "model_rank": 4,
+      "model_version": "2026-07-08"
+    },
+    "94181149": {
+      "model_prob": 0.132846,
+      "model_rank": 5,
+      "model_version": "2026-07-08"
+    }
+  },
+  "bsp": {
+    "99242363": {
+      "bsp": NaN,
+      "status": "REMOVED"
+    },
+    "94181149": {
+      "bsp": 24.37,
+      "status": "LOSER"
+    },
+    "80130094": {
+      "bsp": 6.32,
+      "status": "LOSER"
+    },
+    "9487980": {
+      "bsp": 5.6,
+      "status": "LOSER"
+    },
+    "42413108": {
+      "bsp": 3.87,
+      "status": "WINNER"
+    },
+    "78534717": {
+      "bsp": 6.02,
+      "status": "LOSER"
+    },
+    "59186403": {
+      "bsp": 5.95,
+      "status": "LOSER"
+    }
+  },
+  "result": {
+    "winner": "4. The Tyler",
+    "winner_bsp": 3.87,
+    "placings": [
+      "4. The Tyler"
+    ],
+    "settled_at": "2026-07-13T03:51:01.564825Z"
+  },
+  "frames": [
+    {
+      "at": "2026-07-13T03:38:01.053424Z",
+      "seconds_to_off": 599,
+      "market_matched_volume": 1887.52,
+      "overround_pct": 103.1,
+      "runners": [
+        {
+          "selection_id": 94181149,
+          "name": "1. Sweetpea Moochi",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 18.5,
+          "best_back_size": 2.86,
+          "best_lay": 21.0,
+          "best_lay_size": 1.34,
+          "spread": 2.5,
+          "back_ladder": [
+            {
+              "price": 18.5,
+              "size": 2.86
+            },
+            {
+              "price": 18.0,
+              "size": 4.16
+            },
+            {
+              "price": 17.0,
+              "size": 2.89
+            },
+            {
+              "price": 16.5,
+              "size": 8.54
+            },
+            {
+              "price": 16.0,
+              "size": 9.39
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 21.0,
+              "size": 1.34
+            },
+            {
+              "price": 24.0,
+              "size": 3.18
+            },
+            {
+              "price": 25.0,
+              "size": 8.28
+            },
+            {
+              "price": 26.0,
+              "size": 2.31
+            },
+            {
+              "price": 29.0,
+              "size": 1.38
+            }
+          ],
+          "runner_matched_volume": 19.95,
+          "last_price_traded": 18.5,
+          "market_prob": 0.052443,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 80130094,
+          "name": "2. Lucy Lulu",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 4.8,
+          "best_back_size": 13.16,
+          "best_lay": 5.0,
+          "best_lay_size": 10.0,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 4.8,
+              "size": 13.16
+            },
+            {
+              "price": 4.7,
+              "size": 18.09
+            },
+            {
+              "price": 4.6,
+              "size": 6.43
+            },
+            {
+              "price": 4.5,
+              "size": 46.58
+            },
+            {
+              "price": 4.4,
+              "size": 32.36
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.0,
+              "size": 10.0
+            },
+            {
+              "price": 5.1,
+              "size": 25.45
+            },
+            {
+              "price": 5.2,
+              "size": 21.69
+            },
+            {
+              "price": 5.3,
+              "size": 21.48
+            },
+            {
+              "price": 5.4,
+              "size": 28.34
+            }
+          ],
+          "runner_matched_volume": 766.97,
+          "last_price_traded": 4.6,
+          "market_prob": 0.202123,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 9487980,
+          "name": "3. Top Act",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 5.0,
+          "best_back_size": 12.5,
+          "best_lay": 5.5,
+          "best_lay_size": 11.96,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 5.0,
+              "size": 12.5
+            },
+            {
+              "price": 4.9,
+              "size": 3.94
+            },
+            {
+              "price": 4.8,
+              "size": 17.99
+            },
+            {
+              "price": 4.7,
+              "size": 23.47
+            },
+            {
+              "price": 4.6,
+              "size": 41.29
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.5,
+              "size": 11.96
+            },
+            {
+              "price": 5.6,
+              "size": 5.04
+            },
+            {
+              "price": 5.8,
+              "size": 4.82
+            },
+            {
+              "price": 5.9,
+              "size": 22.98
+            },
+            {
+              "price": 6.0,
+              "size": 17.92
+            }
+          ],
+          "runner_matched_volume": 147.61,
+          "last_price_traded": 4.9,
+          "market_prob": 0.194038,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 42413108,
+          "name": "4. The Tyler",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 3.55,
+          "best_back_size": 19.61,
+          "best_lay": 3.75,
+          "best_lay_size": 12.41,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 3.55,
+              "size": 19.61
+            },
+            {
+              "price": 3.5,
+              "size": 38.12
+            },
+            {
+              "price": 3.45,
+              "size": 10.68
+            },
+            {
+              "price": 3.35,
+              "size": 37.96
+            },
+            {
+              "price": 3.3,
+              "size": 148.57
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.75,
+              "size": 12.41
+            },
+            {
+              "price": 3.8,
+              "size": 17.54
+            },
+            {
+              "price": 3.95,
+              "size": 30.43
+            },
+            {
+              "price": 4.0,
+              "size": 28.95
+            },
+            {
+              "price": 4.1,
+              "size": 31.35
+            }
+          ],
+          "runner_matched_volume": 132.01,
+          "last_price_traded": 3.55,
+          "market_prob": 0.273292,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 78534717,
+          "name": "5. Sources Link",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 7.4,
+          "best_back_size": 17.27,
+          "best_lay": 8.4,
+          "best_lay_size": 10.0,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 7.4,
+              "size": 17.27
+            },
+            {
+              "price": 7.2,
+              "size": 23.31
+            },
+            {
+              "price": 7.0,
+              "size": 23.23
+            },
+            {
+              "price": 6.8,
+              "size": 61.76
+            },
+            {
+              "price": 6.6,
+              "size": 22.68
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.4,
+              "size": 10.0
+            },
+            {
+              "price": 8.6,
+              "size": 13.23
+            },
+            {
+              "price": 9.0,
+              "size": 13.74
+            },
+            {
+              "price": 9.2,
+              "size": 10.59
+            },
+            {
+              "price": 9.4,
+              "size": 10.34
+            }
+          ],
+          "runner_matched_volume": 643.39,
+          "last_price_traded": 7.6,
+          "market_prob": 0.131107,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 59186403,
+          "name": "7. Wolf Point",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 6.6,
+          "best_back_size": 8.93,
+          "best_lay": 7.4,
+          "best_lay_size": 3.63,
+          "spread": 0.8,
+          "back_ladder": [
+            {
+              "price": 6.6,
+              "size": 8.93
+            },
+            {
+              "price": 6.4,
+              "size": 1.93
+            },
+            {
+              "price": 6.2,
+              "size": 23.92
+            },
+            {
+              "price": 6.0,
+              "size": 25.9
+            },
+            {
+              "price": 5.9,
+              "size": 17.72
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.4,
+              "size": 3.63
+            },
+            {
+              "price": 7.6,
+              "size": 16.81
+            },
+            {
+              "price": 7.8,
+              "size": 8.52
+            },
+            {
+              "price": 8.0,
+              "size": 14.34
+            },
+            {
+              "price": 8.2,
+              "size": 13.99
+            }
+          ],
+          "runner_matched_volume": 177.56,
+          "last_price_traded": 6.6,
+          "market_prob": 0.146998,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 99242363,
+          "name": "8. Busterkick",
+          "saddle_cloth": 7,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-13T03:39:15.348571Z",
+      "seconds_to_off": 525,
+      "market_matched_volume": 3891.8,
+      "overround_pct": 101.8,
+      "runners": [
+        {
+          "selection_id": 94181149,
+          "name": "1. Sweetpea Moochi",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 23.0,
+          "best_back_size": 2.27,
+          "best_lay": 26.0,
+          "best_lay_size": 2.07,
+          "spread": 3.0,
+          "back_ladder": [
+            {
+              "price": 23.0,
+              "size": 2.27
+            },
+            {
+              "price": 22.0,
+              "size": 1.93
+            },
+            {
+              "price": 21.0,
+              "size": 6.23
+            },
+            {
+              "price": 20.0,
+              "size": 9.21
+            },
+            {
+              "price": 19.5,
+              "size": 4.2
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 26.0,
+              "size": 2.07
+            },
+            {
+              "price": 29.0,
+              "size": 1.25
+            },
+            {
+              "price": 30.0,
+              "size": 2.01
+            },
+            {
+              "price": 32.0,
+              "size": 4.1
+            },
+            {
+              "price": 34.0,
+              "size": 5.04
+            }
+          ],
+          "runner_matched_volume": 30.41,
+          "last_price_traded": 26.0,
+          "market_prob": 0.042709,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 80130094,
+          "name": "2. Lucy Lulu",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 5.4,
+          "best_back_size": 11.36,
+          "best_lay": 5.5,
+          "best_lay_size": 10.34,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.4,
+              "size": 11.36
+            },
+            {
+              "price": 5.3,
+              "size": 4.01
+            },
+            {
+              "price": 5.2,
+              "size": 9.19
+            },
+            {
+              "price": 5.1,
+              "size": 63.51
+            },
+            {
+              "price": 5.0,
+              "size": 44.02
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.5,
+              "size": 10.34
+            },
+            {
+              "price": 5.6,
+              "size": 7.41
+            },
+            {
+              "price": 5.7,
+              "size": 24.92
+            },
+            {
+              "price": 5.8,
+              "size": 3.86
+            },
+            {
+              "price": 5.9,
+              "size": 40.1
+            }
+          ],
+          "runner_matched_volume": 1087.7,
+          "last_price_traded": 5.5,
+          "market_prob": 0.181907,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 9487980,
+          "name": "3. Top Act",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 4.1,
+          "best_back_size": 21.61,
+          "best_lay": 4.3,
+          "best_lay_size": 7.29,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 4.1,
+              "size": 21.61
+            },
+            {
+              "price": 4.0,
+              "size": 6.17
+            },
+            {
+              "price": 3.95,
+              "size": 3.47
+            },
+            {
+              "price": 3.9,
+              "size": 26.36
+            },
+            {
+              "price": 3.85,
+              "size": 55.42
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.3,
+              "size": 7.29
+            },
+            {
+              "price": 4.4,
+              "size": 22.72
+            },
+            {
+              "price": 4.5,
+              "size": 36.15
+            },
+            {
+              "price": 4.6,
+              "size": 35.67
+            },
+            {
+              "price": 4.7,
+              "size": 35.02
+            }
+          ],
+          "runner_matched_volume": 679.61,
+          "last_price_traded": 4.2,
+          "market_prob": 0.239585,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 42413108,
+          "name": "4. The Tyler",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 4.4,
+          "best_back_size": 24.73,
+          "best_lay": 4.6,
+          "best_lay_size": 3.07,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 4.4,
+              "size": 24.73
+            },
+            {
+              "price": 4.3,
+              "size": 13.57
+            },
+            {
+              "price": 4.2,
+              "size": 29.44
+            },
+            {
+              "price": 4.1,
+              "size": 49.48
+            },
+            {
+              "price": 4.0,
+              "size": 37.15
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.6,
+              "size": 3.07
+            },
+            {
+              "price": 4.7,
+              "size": 9.26
+            },
+            {
+              "price": 4.8,
+              "size": 28.15
+            },
+            {
+              "price": 4.9,
+              "size": 24.2
+            },
+            {
+              "price": 5.0,
+              "size": 23.64
+            }
+          ],
+          "runner_matched_volume": 535.97,
+          "last_price_traded": 4.5,
+          "market_prob": 0.22325,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 78534717,
+          "name": "5. Sources Link",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 6.6,
+          "best_back_size": 22.5,
+          "best_lay": 7.0,
+          "best_lay_size": 7.76,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 6.6,
+              "size": 22.5
+            },
+            {
+              "price": 6.4,
+              "size": 57.52
+            },
+            {
+              "price": 6.2,
+              "size": 66.21
+            },
+            {
+              "price": 6.0,
+              "size": 39.48
+            },
+            {
+              "price": 5.9,
+              "size": 37.14
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.0,
+              "size": 7.76
+            },
+            {
+              "price": 7.2,
+              "size": 13.26
+            },
+            {
+              "price": 7.4,
+              "size": 34.01
+            },
+            {
+              "price": 7.6,
+              "size": 16.63
+            },
+            {
+              "price": 7.8,
+              "size": 13.22
+            }
+          ],
+          "runner_matched_volume": 1029.19,
+          "last_price_traded": 6.8,
+          "market_prob": 0.148833,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 59186403,
+          "name": "7. Wolf Point",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 6.0,
+          "best_back_size": 9.07,
+          "best_lay": 6.4,
+          "best_lay_size": 3.18,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 6.0,
+              "size": 9.07
+            },
+            {
+              "price": 5.9,
+              "size": 14.75
+            },
+            {
+              "price": 5.8,
+              "size": 31.25
+            },
+            {
+              "price": 5.7,
+              "size": 4.03
+            },
+            {
+              "price": 5.6,
+              "size": 29.84
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.4,
+              "size": 3.18
+            },
+            {
+              "price": 6.6,
+              "size": 33.94
+            },
+            {
+              "price": 6.8,
+              "size": 31.4
+            },
+            {
+              "price": 7.0,
+              "size": 35.2
+            },
+            {
+              "price": 7.2,
+              "size": 14.01
+            }
+          ],
+          "runner_matched_volume": 528.89,
+          "last_price_traded": 6.2,
+          "market_prob": 0.163716,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 99242363,
+          "name": "8. Busterkick",
+          "saddle_cloth": 7,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-13T03:40:30.381790Z",
+      "seconds_to_off": 450,
+      "market_matched_volume": 5144.38,
+      "overround_pct": 101.8,
+      "runners": [
+        {
+          "selection_id": 94181149,
+          "name": "1. Sweetpea Moochi",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 27.0,
+          "best_back_size": 1.92,
+          "best_lay": 29.0,
+          "best_lay_size": 2.73,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 27.0,
+              "size": 1.92
+            },
+            {
+              "price": 25.0,
+              "size": 1.7
+            },
+            {
+              "price": 24.0,
+              "size": 4.33
+            },
+            {
+              "price": 22.0,
+              "size": 2.87
+            },
+            {
+              "price": 21.0,
+              "size": 1.37
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 29.0,
+              "size": 2.73
+            },
+            {
+              "price": 32.0,
+              "size": 1.93
+            },
+            {
+              "price": 34.0,
+              "size": 4.41
+            },
+            {
+              "price": 36.0,
+              "size": 24.9
+            },
+            {
+              "price": 38.0,
+              "size": 6.7
+            }
+          ],
+          "runner_matched_volume": 36.17,
+          "last_price_traded": 29.0,
+          "market_prob": 0.036373,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 80130094,
+          "name": "2. Lucy Lulu",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 4.9,
+          "best_back_size": 5.54,
+          "best_lay": 5.1,
+          "best_lay_size": 2.64,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 4.9,
+              "size": 5.54
+            },
+            {
+              "price": 4.8,
+              "size": 32.9
+            },
+            {
+              "price": 4.7,
+              "size": 42.23
+            },
+            {
+              "price": 4.6,
+              "size": 48.9
+            },
+            {
+              "price": 4.5,
+              "size": 50.36
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.1,
+              "size": 2.64
+            },
+            {
+              "price": 5.2,
+              "size": 4.44
+            },
+            {
+              "price": 5.3,
+              "size": 23.98
+            },
+            {
+              "price": 5.4,
+              "size": 31.08
+            },
+            {
+              "price": 5.5,
+              "size": 29.32
+            }
+          ],
+          "runner_matched_volume": 1414.19,
+          "last_price_traded": 5.0,
+          "market_prob": 0.200425,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 9487980,
+          "name": "3. Top Act",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 4.4,
+          "best_back_size": 17.53,
+          "best_lay": 4.6,
+          "best_lay_size": 19.84,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 4.4,
+              "size": 17.53
+            },
+            {
+              "price": 4.3,
+              "size": 3.13
+            },
+            {
+              "price": 4.2,
+              "size": 10.52
+            },
+            {
+              "price": 4.1,
+              "size": 45.29
+            },
+            {
+              "price": 4.0,
+              "size": 45.01
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.6,
+              "size": 19.84
+            },
+            {
+              "price": 4.7,
+              "size": 2.7
+            },
+            {
+              "price": 4.8,
+              "size": 22.85
+            },
+            {
+              "price": 4.9,
+              "size": 15.59
+            },
+            {
+              "price": 5.0,
+              "size": 31.44
+            }
+          ],
+          "runner_matched_volume": 913.81,
+          "last_price_traded": 4.5,
+          "market_prob": 0.2232,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 42413108,
+          "name": "4. The Tyler",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 4.4,
+          "best_back_size": 19.09,
+          "best_lay": 4.6,
+          "best_lay_size": 4.17,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 4.4,
+              "size": 19.09
+            },
+            {
+              "price": 4.3,
+              "size": 26.92
+            },
+            {
+              "price": 4.2,
+              "size": 29.44
+            },
+            {
+              "price": 4.1,
+              "size": 49.48
+            },
+            {
+              "price": 4.0,
+              "size": 37.15
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.6,
+              "size": 4.17
+            },
+            {
+              "price": 4.7,
+              "size": 11.76
+            },
+            {
+              "price": 4.8,
+              "size": 2.88
+            },
+            {
+              "price": 4.9,
+              "size": 24.2
+            },
+            {
+              "price": 5.0,
+              "size": 23.64
+            }
+          ],
+          "runner_matched_volume": 827.91,
+          "last_price_traded": 4.6,
+          "market_prob": 0.2232,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 78534717,
+          "name": "5. Sources Link",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 6.2,
+          "best_back_size": 64.48,
+          "best_lay": 6.4,
+          "best_lay_size": 1.14,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 6.2,
+              "size": 64.48
+            },
+            {
+              "price": 6.0,
+              "size": 51.06
+            },
+            {
+              "price": 5.9,
+              "size": 66.08
+            },
+            {
+              "price": 5.8,
+              "size": 83.12
+            },
+            {
+              "price": 5.7,
+              "size": 66.69
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.4,
+              "size": 1.14
+            },
+            {
+              "price": 6.6,
+              "size": 12.08
+            },
+            {
+              "price": 6.8,
+              "size": 12.16
+            },
+            {
+              "price": 7.0,
+              "size": 18.87
+            },
+            {
+              "price": 7.2,
+              "size": 41.08
+            }
+          ],
+          "runner_matched_volume": 1223.51,
+          "last_price_traded": 6.4,
+          "market_prob": 0.1584,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 59186403,
+          "name": "7. Wolf Point",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 6.2,
+          "best_back_size": 13.71,
+          "best_lay": 6.6,
+          "best_lay_size": 8.86,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 6.2,
+              "size": 13.71
+            },
+            {
+              "price": 6.0,
+              "size": 30.46
+            },
+            {
+              "price": 5.9,
+              "size": 3.76
+            },
+            {
+              "price": 5.8,
+              "size": 18.1
+            },
+            {
+              "price": 5.7,
+              "size": 22.5
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.6,
+              "size": 8.86
+            },
+            {
+              "price": 6.8,
+              "size": 29.26
+            },
+            {
+              "price": 7.0,
+              "size": 35.2
+            },
+            {
+              "price": 7.2,
+              "size": 14.01
+            },
+            {
+              "price": 7.4,
+              "size": 22.47
+            }
+          ],
+          "runner_matched_volume": 728.78,
+          "last_price_traded": 6.4,
+          "market_prob": 0.1584,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 99242363,
+          "name": "8. Busterkick",
+          "saddle_cloth": 7,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-13T03:41:45.358356Z",
+      "seconds_to_off": 375,
+      "market_matched_volume": 7479.26,
+      "overround_pct": 101.6,
+      "runners": [
+        {
+          "selection_id": 94181149,
+          "name": "1. Sweetpea Moochi",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 27.0,
+          "best_back_size": 5.95,
+          "best_lay": 30.0,
+          "best_lay_size": 2.78,
+          "spread": 3.0,
+          "back_ladder": [
+            {
+              "price": 27.0,
+              "size": 5.95
+            },
+            {
+              "price": 26.0,
+              "size": 11.64
+            },
+            {
+              "price": 25.0,
+              "size": 13.24
+            },
+            {
+              "price": 24.0,
+              "size": 9.49
+            },
+            {
+              "price": 23.0,
+              "size": 11.02
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 30.0,
+              "size": 2.78
+            },
+            {
+              "price": 32.0,
+              "size": 1.79
+            },
+            {
+              "price": 36.0,
+              "size": 3.38
+            },
+            {
+              "price": 38.0,
+              "size": 9.6
+            },
+            {
+              "price": 40.0,
+              "size": 32.94
+            }
+          ],
+          "runner_matched_volume": 61.25,
+          "last_price_traded": 29.0,
+          "market_prob": 0.036447,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 80130094,
+          "name": "2. Lucy Lulu",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 4.8,
+          "best_back_size": 54.91,
+          "best_lay": 5.0,
+          "best_lay_size": 16.09,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 4.8,
+              "size": 54.91
+            },
+            {
+              "price": 4.7,
+              "size": 12.23
+            },
+            {
+              "price": 4.6,
+              "size": 23.81
+            },
+            {
+              "price": 4.5,
+              "size": 73.69
+            },
+            {
+              "price": 4.4,
+              "size": 66.83
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.0,
+              "size": 16.09
+            },
+            {
+              "price": 5.1,
+              "size": 18.39
+            },
+            {
+              "price": 5.2,
+              "size": 24.93
+            },
+            {
+              "price": 5.3,
+              "size": 40.2
+            },
+            {
+              "price": 5.4,
+              "size": 55.44
+            }
+          ],
+          "runner_matched_volume": 2908.42,
+          "last_price_traded": 4.9,
+          "market_prob": 0.205015,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 9487980,
+          "name": "3. Top Act",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 4.6,
+          "best_back_size": 20.6,
+          "best_lay": 4.7,
+          "best_lay_size": 23.85,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 4.6,
+              "size": 20.6
+            },
+            {
+              "price": 4.5,
+              "size": 17.58
+            },
+            {
+              "price": 4.4,
+              "size": 11.75
+            },
+            {
+              "price": 4.3,
+              "size": 40.32
+            },
+            {
+              "price": 4.2,
+              "size": 43.42
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.7,
+              "size": 23.85
+            },
+            {
+              "price": 4.8,
+              "size": 7.02
+            },
+            {
+              "price": 4.9,
+              "size": 7.87
+            },
+            {
+              "price": 5.0,
+              "size": 43.34
+            },
+            {
+              "price": 5.1,
+              "size": 34.7
+            }
+          ],
+          "runner_matched_volume": 1141.98,
+          "last_price_traded": 4.6,
+          "market_prob": 0.213928,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 42413108,
+          "name": "4. The Tyler",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 4.1,
+          "best_back_size": 2.24,
+          "best_lay": 4.2,
+          "best_lay_size": 11.71,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 4.1,
+              "size": 2.24
+            },
+            {
+              "price": 4.0,
+              "size": 29.24
+            },
+            {
+              "price": 3.95,
+              "size": 96.24
+            },
+            {
+              "price": 3.9,
+              "size": 46.52
+            },
+            {
+              "price": 3.85,
+              "size": 62.99
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.2,
+              "size": 11.71
+            },
+            {
+              "price": 4.3,
+              "size": 19.4
+            },
+            {
+              "price": 4.4,
+              "size": 28.14
+            },
+            {
+              "price": 4.5,
+              "size": 48.92
+            },
+            {
+              "price": 4.6,
+              "size": 49.5
+            }
+          ],
+          "runner_matched_volume": 1026.42,
+          "last_price_traded": 4.1,
+          "market_prob": 0.240017,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 78534717,
+          "name": "5. Sources Link",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 7.0,
+          "best_back_size": 8.53,
+          "best_lay": 7.2,
+          "best_lay_size": 8.79,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 7.0,
+              "size": 8.53
+            },
+            {
+              "price": 6.8,
+              "size": 13.16
+            },
+            {
+              "price": 6.6,
+              "size": 27.71
+            },
+            {
+              "price": 6.4,
+              "size": 91.56
+            },
+            {
+              "price": 6.2,
+              "size": 33.43
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.2,
+              "size": 8.79
+            },
+            {
+              "price": 7.4,
+              "size": 24.93
+            },
+            {
+              "price": 7.6,
+              "size": 1.93
+            },
+            {
+              "price": 7.8,
+              "size": 11.12
+            },
+            {
+              "price": 8.0,
+              "size": 14.34
+            }
+          ],
+          "runner_matched_volume": 1378.7,
+          "last_price_traded": 7.2,
+          "market_prob": 0.140581,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 59186403,
+          "name": "7. Wolf Point",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 6.0,
+          "best_back_size": 6.45,
+          "best_lay": 6.2,
+          "best_lay_size": 9.76,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 6.0,
+              "size": 6.45
+            },
+            {
+              "price": 5.9,
+              "size": 2.86
+            },
+            {
+              "price": 5.8,
+              "size": 4.82
+            },
+            {
+              "price": 5.7,
+              "size": 30.14
+            },
+            {
+              "price": 5.6,
+              "size": 58.97
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.2,
+              "size": 9.76
+            },
+            {
+              "price": 6.4,
+              "size": 22.83
+            },
+            {
+              "price": 6.6,
+              "size": 39.16
+            },
+            {
+              "price": 6.8,
+              "size": 14.98
+            },
+            {
+              "price": 7.0,
+              "size": 37.78
+            }
+          ],
+          "runner_matched_volume": 962.46,
+          "last_price_traded": 6.2,
+          "market_prob": 0.164012,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 99242363,
+          "name": "8. Busterkick",
+          "saddle_cloth": 7,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-13T03:43:30.751302Z",
+      "seconds_to_off": 270,
+      "market_matched_volume": 10153.3,
+      "overround_pct": 101.3,
+      "runners": [
+        {
+          "selection_id": 94181149,
+          "name": "1. Sweetpea Moochi",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 23.0,
+          "best_back_size": 9.16,
+          "best_lay": 24.0,
+          "best_lay_size": 2.6,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 23.0,
+              "size": 9.16
+            },
+            {
+              "price": 22.0,
+              "size": 14.92
+            },
+            {
+              "price": 21.0,
+              "size": 8.28
+            },
+            {
+              "price": 20.0,
+              "size": 46.56
+            },
+            {
+              "price": 19.5,
+              "size": 14.14
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 24.0,
+              "size": 2.6
+            },
+            {
+              "price": 25.0,
+              "size": 4.01
+            },
+            {
+              "price": 26.0,
+              "size": 8.38
+            },
+            {
+              "price": 27.0,
+              "size": 6.12
+            },
+            {
+              "price": 28.0,
+              "size": 5.99
+            }
+          ],
+          "runner_matched_volume": 265.5,
+          "last_price_traded": 24.0,
+          "market_prob": 0.042911,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 80130094,
+          "name": "2. Lucy Lulu",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 5.4,
+          "best_back_size": 30.5,
+          "best_lay": 5.5,
+          "best_lay_size": 10.28,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.4,
+              "size": 30.5
+            },
+            {
+              "price": 5.3,
+              "size": 17.71
+            },
+            {
+              "price": 5.2,
+              "size": 26.23
+            },
+            {
+              "price": 5.1,
+              "size": 62.28
+            },
+            {
+              "price": 5.0,
+              "size": 77.06
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.5,
+              "size": 10.28
+            },
+            {
+              "price": 5.6,
+              "size": 12.52
+            },
+            {
+              "price": 5.7,
+              "size": 12.01
+            },
+            {
+              "price": 5.8,
+              "size": 23.38
+            },
+            {
+              "price": 5.9,
+              "size": 17.87
+            }
+          ],
+          "runner_matched_volume": 3822.28,
+          "last_price_traded": 5.5,
+          "market_prob": 0.182767,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 9487980,
+          "name": "3. Top Act",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 4.7,
+          "best_back_size": 20.62,
+          "best_lay": 4.8,
+          "best_lay_size": 12.0,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 4.7,
+              "size": 20.62
+            },
+            {
+              "price": 4.6,
+              "size": 16.56
+            },
+            {
+              "price": 4.5,
+              "size": 54.3
+            },
+            {
+              "price": 4.4,
+              "size": 57.32
+            },
+            {
+              "price": 4.3,
+              "size": 80.83
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.8,
+              "size": 12.0
+            },
+            {
+              "price": 4.9,
+              "size": 25.11
+            },
+            {
+              "price": 5.0,
+              "size": 7.72
+            },
+            {
+              "price": 5.1,
+              "size": 27.81
+            },
+            {
+              "price": 5.2,
+              "size": 31.01
+            }
+          ],
+          "runner_matched_volume": 1569.04,
+          "last_price_traded": 4.8,
+          "market_prob": 0.209988,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 42413108,
+          "name": "4. The Tyler",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 4.2,
+          "best_back_size": 9.91,
+          "best_lay": 4.3,
+          "best_lay_size": 26.13,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 4.2,
+              "size": 9.91
+            },
+            {
+              "price": 4.1,
+              "size": 26.22
+            },
+            {
+              "price": 4.0,
+              "size": 33.19
+            },
+            {
+              "price": 3.95,
+              "size": 39.38
+            },
+            {
+              "price": 3.9,
+              "size": 46.22
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.3,
+              "size": 26.13
+            },
+            {
+              "price": 4.4,
+              "size": 16.07
+            },
+            {
+              "price": 4.5,
+              "size": 95.5
+            },
+            {
+              "price": 4.6,
+              "size": 48.55
+            },
+            {
+              "price": 4.7,
+              "size": 59.98
+            }
+          ],
+          "runner_matched_volume": 1392.12,
+          "last_price_traded": 4.1,
+          "market_prob": 0.234987,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 78534717,
+          "name": "5. Sources Link",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 6.2,
+          "best_back_size": 50.69,
+          "best_lay": 6.4,
+          "best_lay_size": 24.76,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 6.2,
+              "size": 50.69
+            },
+            {
+              "price": 6.0,
+              "size": 52.17
+            },
+            {
+              "price": 5.9,
+              "size": 119.95
+            },
+            {
+              "price": 5.8,
+              "size": 85.0
+            },
+            {
+              "price": 5.7,
+              "size": 45.29
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.4,
+              "size": 24.76
+            },
+            {
+              "price": 6.6,
+              "size": 26.47
+            },
+            {
+              "price": 6.8,
+              "size": 20.12
+            },
+            {
+              "price": 7.0,
+              "size": 13.01
+            },
+            {
+              "price": 7.2,
+              "size": 38.46
+            }
+          ],
+          "runner_matched_volume": 1765.83,
+          "last_price_traded": 6.2,
+          "market_prob": 0.159185,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 59186403,
+          "name": "7. Wolf Point",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 5.8,
+          "best_back_size": 4.54,
+          "best_lay": 5.9,
+          "best_lay_size": 20.32,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.8,
+              "size": 4.54
+            },
+            {
+              "price": 5.7,
+              "size": 48.7
+            },
+            {
+              "price": 5.6,
+              "size": 8.18
+            },
+            {
+              "price": 5.5,
+              "size": 23.02
+            },
+            {
+              "price": 5.4,
+              "size": 38.07
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.9,
+              "size": 20.32
+            },
+            {
+              "price": 6.0,
+              "size": 23.91
+            },
+            {
+              "price": 6.2,
+              "size": 19.1
+            },
+            {
+              "price": 6.4,
+              "size": 47.57
+            },
+            {
+              "price": 6.6,
+              "size": 46.1
+            }
+          ],
+          "runner_matched_volume": 1338.51,
+          "last_price_traded": 5.8,
+          "market_prob": 0.170163,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 99242363,
+          "name": "8. Busterkick",
+          "saddle_cloth": 7,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-13T03:45:11.926040Z",
+      "seconds_to_off": 169,
+      "market_matched_volume": 12859.29,
+      "overround_pct": 101.3,
+      "runners": [
+        {
+          "selection_id": 94181149,
+          "name": "1. Sweetpea Moochi",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 23.0,
+          "best_back_size": 17.69,
+          "best_lay": 24.0,
+          "best_lay_size": 2.04,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 23.0,
+              "size": 17.69
+            },
+            {
+              "price": 22.0,
+              "size": 32.58
+            },
+            {
+              "price": 21.0,
+              "size": 24.88
+            },
+            {
+              "price": 20.0,
+              "size": 41.47
+            },
+            {
+              "price": 19.5,
+              "size": 46.86
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 24.0,
+              "size": 2.04
+            },
+            {
+              "price": 25.0,
+              "size": 12.58
+            },
+            {
+              "price": 26.0,
+              "size": 15.83
+            },
+            {
+              "price": 27.0,
+              "size": 8.69
+            },
+            {
+              "price": 28.0,
+              "size": 26.46
+            }
+          ],
+          "runner_matched_volume": 652.08,
+          "last_price_traded": 24.0,
+          "market_prob": 0.042917,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 80130094,
+          "name": "2. Lucy Lulu",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 5.4,
+          "best_back_size": 33.11,
+          "best_lay": 5.5,
+          "best_lay_size": 10.94,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.4,
+              "size": 33.11
+            },
+            {
+              "price": 5.3,
+              "size": 64.65
+            },
+            {
+              "price": 5.2,
+              "size": 80.2
+            },
+            {
+              "price": 5.1,
+              "size": 120.48
+            },
+            {
+              "price": 5.0,
+              "size": 128.19
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.5,
+              "size": 10.94
+            },
+            {
+              "price": 5.6,
+              "size": 53.84
+            },
+            {
+              "price": 5.7,
+              "size": 33.2
+            },
+            {
+              "price": 5.8,
+              "size": 47.58
+            },
+            {
+              "price": 5.9,
+              "size": 55.5
+            }
+          ],
+          "runner_matched_volume": 4812.63,
+          "last_price_traded": 5.5,
+          "market_prob": 0.182795,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 9487980,
+          "name": "3. Top Act",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 4.8,
+          "best_back_size": 118.55,
+          "best_lay": 5.0,
+          "best_lay_size": 29.11,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 4.8,
+              "size": 118.55
+            },
+            {
+              "price": 4.7,
+              "size": 44.66
+            },
+            {
+              "price": 4.6,
+              "size": 89.94
+            },
+            {
+              "price": 4.5,
+              "size": 114.12
+            },
+            {
+              "price": 4.4,
+              "size": 122.72
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.0,
+              "size": 29.11
+            },
+            {
+              "price": 5.1,
+              "size": 27.96
+            },
+            {
+              "price": 5.2,
+              "size": 35.9
+            },
+            {
+              "price": 5.3,
+              "size": 24.73
+            },
+            {
+              "price": 5.4,
+              "size": 67.39
+            }
+          ],
+          "runner_matched_volume": 2030.89,
+          "last_price_traded": 4.9,
+          "market_prob": 0.205644,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 42413108,
+          "name": "4. The Tyler",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 3.95,
+          "best_back_size": 7.35,
+          "best_lay": 4.0,
+          "best_lay_size": 7.06,
+          "spread": 0.05,
+          "back_ladder": [
+            {
+              "price": 3.95,
+              "size": 7.35
+            },
+            {
+              "price": 3.9,
+              "size": 27.59
+            },
+            {
+              "price": 3.85,
+              "size": 55.59
+            },
+            {
+              "price": 3.8,
+              "size": 116.42
+            },
+            {
+              "price": 3.75,
+              "size": 212.54
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.0,
+              "size": 7.06
+            },
+            {
+              "price": 4.1,
+              "size": 21.15
+            },
+            {
+              "price": 4.2,
+              "size": 37.32
+            },
+            {
+              "price": 4.3,
+              "size": 68.06
+            },
+            {
+              "price": 4.4,
+              "size": 86.75
+            }
+          ],
+          "runner_matched_volume": 1803.76,
+          "last_price_traded": 4.0,
+          "market_prob": 0.249896,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 78534717,
+          "name": "5. Sources Link",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 6.4,
+          "best_back_size": 46.83,
+          "best_lay": 6.6,
+          "best_lay_size": 32.72,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 6.4,
+              "size": 46.83
+            },
+            {
+              "price": 6.2,
+              "size": 71.72
+            },
+            {
+              "price": 6.0,
+              "size": 81.72
+            },
+            {
+              "price": 5.9,
+              "size": 45.49
+            },
+            {
+              "price": 5.8,
+              "size": 84.48
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.6,
+              "size": 32.72
+            },
+            {
+              "price": 6.8,
+              "size": 35.92
+            },
+            {
+              "price": 7.0,
+              "size": 85.78
+            },
+            {
+              "price": 7.2,
+              "size": 100.07
+            },
+            {
+              "price": 7.4,
+              "size": 70.65
+            }
+          ],
+          "runner_matched_volume": 2068.11,
+          "last_price_traded": 6.6,
+          "market_prob": 0.154233,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 59186403,
+          "name": "7. Wolf Point",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 6.0,
+          "best_back_size": 101.49,
+          "best_lay": 6.2,
+          "best_lay_size": 22.89,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 6.0,
+              "size": 101.49
+            },
+            {
+              "price": 5.9,
+              "size": 22.03
+            },
+            {
+              "price": 5.8,
+              "size": 46.72
+            },
+            {
+              "price": 5.7,
+              "size": 47.82
+            },
+            {
+              "price": 5.6,
+              "size": 70.24
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.2,
+              "size": 22.89
+            },
+            {
+              "price": 6.4,
+              "size": 38.62
+            },
+            {
+              "price": 6.6,
+              "size": 52.44
+            },
+            {
+              "price": 6.8,
+              "size": 101.69
+            },
+            {
+              "price": 7.0,
+              "size": 99.35
+            }
+          ],
+          "runner_matched_volume": 1491.8,
+          "last_price_traded": 6.0,
+          "market_prob": 0.164515,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 99242363,
+          "name": "8. Busterkick",
+          "saddle_cloth": 7,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-13T03:46:43.353927Z",
+      "seconds_to_off": 77,
+      "market_matched_volume": 18147.15,
+      "overround_pct": 101.4,
+      "runners": [
+        {
+          "selection_id": 94181149,
+          "name": "1. Sweetpea Moochi",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 21.0,
+          "best_back_size": 32.41,
+          "best_lay": 23.0,
+          "best_lay_size": 52.82,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 21.0,
+              "size": 32.41
+            },
+            {
+              "price": 20.0,
+              "size": 50.94
+            },
+            {
+              "price": 19.5,
+              "size": 45.01
+            },
+            {
+              "price": 19.0,
+              "size": 50.45
+            },
+            {
+              "price": 18.5,
+              "size": 72.86
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 23.0,
+              "size": 52.82
+            },
+            {
+              "price": 24.0,
+              "size": 23.57
+            },
+            {
+              "price": 25.0,
+              "size": 17.33
+            },
+            {
+              "price": 26.0,
+              "size": 21.18
+            },
+            {
+              "price": 27.0,
+              "size": 10.79
+            }
+          ],
+          "runner_matched_volume": 1180.68,
+          "last_price_traded": 22.0,
+          "market_prob": 0.046955,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 80130094,
+          "name": "2. Lucy Lulu",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 5.5,
+          "best_back_size": 38.7,
+          "best_lay": 5.6,
+          "best_lay_size": 9.75,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.5,
+              "size": 38.7
+            },
+            {
+              "price": 5.4,
+              "size": 44.92
+            },
+            {
+              "price": 5.3,
+              "size": 65.66
+            },
+            {
+              "price": 5.2,
+              "size": 87.01
+            },
+            {
+              "price": 5.1,
+              "size": 81.9
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.6,
+              "size": 9.75
+            },
+            {
+              "price": 5.7,
+              "size": 26.83
+            },
+            {
+              "price": 5.8,
+              "size": 34.72
+            },
+            {
+              "price": 5.9,
+              "size": 64.57
+            },
+            {
+              "price": 6.0,
+              "size": 106.59
+            }
+          ],
+          "runner_matched_volume": 6719.79,
+          "last_price_traded": 5.6,
+          "market_prob": 0.179281,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 9487980,
+          "name": "3. Top Act",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 4.9,
+          "best_back_size": 80.39,
+          "best_lay": 5.0,
+          "best_lay_size": 459.6,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 4.9,
+              "size": 80.39
+            },
+            {
+              "price": 4.8,
+              "size": 76.35
+            },
+            {
+              "price": 4.7,
+              "size": 137.01
+            },
+            {
+              "price": 4.6,
+              "size": 105.86
+            },
+            {
+              "price": 4.5,
+              "size": 122.72
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.0,
+              "size": 459.6
+            },
+            {
+              "price": 5.1,
+              "size": 19.68
+            },
+            {
+              "price": 5.2,
+              "size": 32.72
+            },
+            {
+              "price": 5.3,
+              "size": 50.87
+            },
+            {
+              "price": 5.4,
+              "size": 43.53
+            }
+          ],
+          "runner_matched_volume": 2938.82,
+          "last_price_traded": 4.9,
+          "market_prob": 0.201234,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 42413108,
+          "name": "4. The Tyler",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 4.1,
+          "best_back_size": 49.0,
+          "best_lay": 4.2,
+          "best_lay_size": 31.68,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 4.1,
+              "size": 49.0
+            },
+            {
+              "price": 4.0,
+              "size": 84.84
+            },
+            {
+              "price": 3.95,
+              "size": 47.23
+            },
+            {
+              "price": 3.9,
+              "size": 63.06
+            },
+            {
+              "price": 3.85,
+              "size": 70.05
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.2,
+              "size": 31.68
+            },
+            {
+              "price": 4.3,
+              "size": 61.45
+            },
+            {
+              "price": 4.4,
+              "size": 97.3
+            },
+            {
+              "price": 4.5,
+              "size": 157.37
+            },
+            {
+              "price": 4.6,
+              "size": 65.6
+            }
+          ],
+          "runner_matched_volume": 2398.68,
+          "last_price_traded": 4.1,
+          "market_prob": 0.240499,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 78534717,
+          "name": "5. Sources Link",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 6.2,
+          "best_back_size": 110.48,
+          "best_lay": 6.4,
+          "best_lay_size": 469.17,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 6.2,
+              "size": 110.48
+            },
+            {
+              "price": 6.0,
+              "size": 130.22
+            },
+            {
+              "price": 5.9,
+              "size": 89.6
+            },
+            {
+              "price": 5.8,
+              "size": 106.21
+            },
+            {
+              "price": 5.7,
+              "size": 118.94
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.4,
+              "size": 469.17
+            },
+            {
+              "price": 6.6,
+              "size": 37.73
+            },
+            {
+              "price": 6.8,
+              "size": 41.3
+            },
+            {
+              "price": 7.0,
+              "size": 65.13
+            },
+            {
+              "price": 7.2,
+              "size": 112.86
+            }
+          ],
+          "runner_matched_volume": 2605.0,
+          "last_price_traded": 6.2,
+          "market_prob": 0.15904,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 59186403,
+          "name": "7. Wolf Point",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 5.7,
+          "best_back_size": 23.15,
+          "best_lay": 5.8,
+          "best_lay_size": 5.89,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.7,
+              "size": 23.15
+            },
+            {
+              "price": 5.6,
+              "size": 62.39
+            },
+            {
+              "price": 5.5,
+              "size": 83.91
+            },
+            {
+              "price": 5.4,
+              "size": 97.37
+            },
+            {
+              "price": 5.3,
+              "size": 87.06
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.8,
+              "size": 5.89
+            },
+            {
+              "price": 5.9,
+              "size": 41.78
+            },
+            {
+              "price": 6.0,
+              "size": 31.52
+            },
+            {
+              "price": 6.2,
+              "size": 506.29
+            },
+            {
+              "price": 6.4,
+              "size": 17.22
+            }
+          ],
+          "runner_matched_volume": 2304.14,
+          "last_price_traded": 5.7,
+          "market_prob": 0.172991,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 99242363,
+          "name": "8. Busterkick",
+          "saddle_cloth": 7,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    }
+  ],
+  "place": {
+    "94181149": {
+      "place_entry": 7.2
+    },
+    "80130094": {
+      "place_entry": 3.0
+    },
+    "9487980": {
+      "place_entry": 2.52
+    },
+    "42413108": {
+      "place_entry": 2.14
+    },
+    "78534717": {
+      "place_entry": 2.96
+    },
+    "59186403": {
+      "place_entry": 2.68
+    },
+    "99242363": {}
+  },
+  "place_market_id": "1.259933598",
+  "place_terms": 2,
+  "finalized_at": "2026-07-13T03:51:08.752288Z"
+}
