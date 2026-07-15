@@ -348,104 +348,16 @@
       "trainer": "Keith Dryden & Libby Snowden",
       "jockey": "Ms Jessica Brookes (a3/52kg)",
       "last5": "561803560x",
-      "career": "50:11-8-8",
+      "career": "9:1-0-1",
       "weight_kg": 61.5,
       "barrier": 9,
       "official_rating": 65,
-      "prizemoney": 322285,
-      "first_up_record": "8:2-2-1",
-      "second_up_record": "8:2-1-1",
-      "track_record": "2:0-1-0",
-      "dist_record": "18:6-1-3",
-      "track_dist_record": "1:0-0-0",
-      "distances_won": "950 (1), 1000 (6), 1200 (3), 1300 (1)",
-      "going_record": {
-        "Firm": "0:0-0-0",
-        "Good": "24:6-5-3",
-        "Soft": "19:5-3-3",
-        "Heavy": "4:0-0-1",
-        "Synthetic": "3:0-0-1"
-      },
-      "recent_runs": [
-        {
-          "pos": 11,
-          "date": "2026-03-08",
-          "class": "OPEN",
-          "trial": false,
-          "distance_m": 1000,
-          "going": "Soft7",
-          "winner_time": 57.77,
-          "beaten_margin": 6.67,
-          "runner_time": 58.69,
-          "runner_time_reduced": true,
-          "sectional_600": 33.7,
-          "in_run": {
-            "@800": 8,
-            "@400": 11
-          }
-        },
-        {
-          "pos": 5,
-          "date": "2026-01-21",
-          "class": "4Y+ BM72",
-          "trial": false,
-          "distance_m": 1250,
-          "going": "Soft7",
-          "winner_time": 74.93,
-          "beaten_margin": 3.17,
-          "runner_time": 75.39,
-          "runner_time_reduced": true,
-          "sectional_600": 35.6,
-          "in_run": {
-            "@800": 3,
-            "@400": 3
-          }
-        },
-        {
-          "pos": 3,
-          "date": "2026-01-05",
-          "class": "MORUYA TP BM88",
-          "trial": false,
-          "distance_m": 1200,
-          "going": "Good4",
-          "winner_time": 69.59,
-          "beaten_margin": 1.4,
-          "runner_time": 69.78,
-          "runner_time_reduced": true,
-          "sectional_600": 34.17,
-          "in_run": {
-            "@800": 4,
-            "@400": 4
-          }
-        },
-        {
-          "pos": 10,
-          "date": "2025-12-12",
-          "class": "CG&E BM72",
-          "trial": false,
-          "distance_m": 1100,
-          "going": "Soft5",
-          "winner_time": 63.47,
-          "beaten_margin": 2.99,
-          "runner_time": 63.88,
-          "runner_time_reduced": true,
-          "sectional_600": 34.82,
-          "in_run": {
-            "@800": 9,
-            "@400": 9
-          }
-        }
+      "scratched": true,
+      "form_status": "unraced",
+      "warnings": [
+        "runner scratched (per form source) \u2014 career reconstructed from last5 for reference only, not expected to start",
+        "form source shows this runner SCRATCHED but Betfair still lists it ACTIVE \u2014 cross-source timing mismatch, treat the price as unreliable until one side updates"
       ],
-      "recent_class": [
-        "OPEN",
-        "4Y+ BM72",
-        "MORUYA TP BM88",
-        "CG&E BM72"
-      ],
-      "days_since_run": 130,
-      "runs_this_prep": 4,
-      "form_status": "confirmed",
-      "warnings": [],
       "last5_parsed": [
         {
           "raw": "5",
@@ -508,13 +420,13 @@
           "spell": true
         }
       ],
-      "data_status": "confirmed",
+      "data_status": "reconstructed",
       "open_price": 25.0,
       "call": {
         "call": "OK",
         "label": "OK",
-        "confidence": "ok",
-        "reason": "confirmed form, 50 career starts",
+        "confidence": "thin",
+        "reason": "career reconstructed from last5 (9:1-0-1)",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -1865,7 +1777,7 @@
       }
     }
   ],
-  "last_polled_at": "2026-07-15T07:47:45.945361Z",
+  "last_polled_at": "2026-07-15T08:02:42.825488Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
     "ok": 10,
