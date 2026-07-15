@@ -842,86 +842,16 @@
       "trainer": "Robert Agnew",
       "jockey": "Danny Peisley",
       "last5": "3833x1899x",
-      "career": "15:4-1-3",
+      "career": "8:1-0-3",
       "weight_kg": 57.5,
       "barrier": 9,
       "official_rating": 72,
-      "prizemoney": 113725,
-      "first_up_record": "4:3-0-0",
-      "second_up_record": "4:1-1-0",
-      "track_record": "1:0-0-0",
-      "dist_record": "7:3-1-1",
-      "track_dist_record": "0:0-0-0",
-      "distances_won": "1100 (1), 1200 (3)",
-      "going_record": {
-        "Firm": "0:0-0-0",
-        "Good": "10:4-1-1",
-        "Soft": "4:0-0-2",
-        "Heavy": "1:0-0-0",
-        "Synthetic": "0:0-0-0"
-      },
-      "recent_runs": [
-        {
-          "pos": 9,
-          "date": "2026-03-30",
-          "class": "BM82",
-          "trial": false,
-          "distance_m": 1420,
-          "going": "Good4",
-          "winner_time": 84.91,
-          "beaten_margin": 31.05,
-          "runner_time": 89.37,
-          "runner_time_reduced": true,
-          "sectional_600": 34.22,
-          "in_run": {
-            "@800": 4,
-            "@400": 6
-          }
-        },
-        {
-          "pos": 9,
-          "date": "2026-03-20",
-          "class": "NRTH WILD CARD",
-          "trial": false,
-          "distance_m": 1400,
-          "going": "Soft5",
-          "winner_time": 82.91,
-          "beaten_margin": 6.13,
-          "runner_time": 83.78,
-          "runner_time_reduced": true,
-          "sectional_600": 35.17,
-          "in_run": {
-            "@800": 1,
-            "@400": 1
-          }
-        },
-        {
-          "pos": 3,
-          "date": "2025-11-01",
-          "class": "HIGHWAY-C3",
-          "trial": false,
-          "distance_m": 1400,
-          "going": "Soft7",
-          "winner_time": 85.27,
-          "beaten_margin": 1.35,
-          "runner_time": 85.47,
-          "runner_time_reduced": true,
-          "sectional_600": 37.0,
-          "in_run": {
-            "@800": 3,
-            "@400": 3
-          }
-        }
+      "scratched": true,
+      "form_status": "unraced",
+      "warnings": [
+        "runner scratched (per form source) \u2014 career reconstructed from last5 for reference only, not expected to start",
+        "form source shows this runner SCRATCHED but Betfair still lists it ACTIVE \u2014 cross-source timing mismatch, treat the price as unreliable until one side updates"
       ],
-      "recent_class": [
-        "BM82",
-        "NRTH WILD CARD",
-        "HIGHWAY-C3"
-      ],
-      "days_since_run": 108,
-      "runs_this_prep": 2,
-      "form_status": "confirmed",
-      "warnings": [],
       "last5_parsed": [
         {
           "raw": "3",
@@ -984,13 +914,13 @@
           "spell": true
         }
       ],
-      "data_status": "confirmed",
+      "data_status": "reconstructed",
       "open_price": null,
       "call": {
         "call": "OK",
         "label": "OK",
-        "confidence": "ok",
-        "reason": "confirmed form, 15 career starts",
+        "confidence": "thin",
+        "reason": "career reconstructed from last5 (8:1-0-3)",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -2450,7 +2380,7 @@
       }
     }
   ],
-  "last_polled_at": "2026-07-15T06:47:48.079033Z",
+  "last_polled_at": "2026-07-15T07:02:48.289537Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
     "ok": 12,
