@@ -835,6 +835,20 @@
       },
       "recent_runs": [
         {
+          "pos": 2,
+          "date": "2026-07-15",
+          "class": "CTRY BM58",
+          "trial": false,
+          "distance_m": 1400,
+          "going": "Good4",
+          "winner_time": 83.99,
+          "beaten_margin": 1.86,
+          "runner_time": 84.26,
+          "runner_time_reduced": true,
+          "sectional_600": 34.85,
+          "in_run": null
+        },
+        {
           "pos": 4,
           "date": "2026-07-05",
           "class": "GNEAS PREL",
@@ -901,34 +915,17 @@
             "@800": 6,
             "@400": 7
           }
-        },
-        {
-          "pos": 8,
-          "date": "2025-12-31",
-          "class": "CTRY BM58",
-          "trial": false,
-          "distance_m": 1200,
-          "going": "Good3",
-          "winner_time": 70.39,
-          "beaten_margin": 4.9,
-          "runner_time": 71.08,
-          "runner_time_reduced": true,
-          "sectional_600": 34.26,
-          "in_run": {
-            "@800": 5,
-            "@400": 6
-          }
         }
       ],
       "recent_class": [
+        "CTRY BM58",
         "GNEAS PREL",
         "MDN-SW",
         "MDN-SW",
-        "MDN-SW",
-        "CTRY BM58"
+        "MDN-SW"
       ],
-      "days_since_run": 11,
-      "runs_this_prep": 4,
+      "days_since_run": 1,
+      "runs_this_prep": 5,
       "form_status": "confirmed",
       "warnings": [],
       "last5_parsed": [
@@ -2390,7 +2387,10 @@
           "runner_time": 97.3,
           "runner_time_reduced": true,
           "sectional_600": 34.53,
-          "in_run": null
+          "in_run": {
+            "@800": 3,
+            "@400": 4
+          }
         },
         {
           "pos": 11,
@@ -2601,7 +2601,7 @@
       }
     }
   ],
-  "last_polled_at": "2026-07-15T07:17:48.400400Z",
+  "last_polled_at": "2026-07-15T07:32:44.154257Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
     "ok": 13,
