@@ -1,7 +1,7 @@
 {
   "slate_date": "2026-07-16",
   "generated_at_utc": "2026-07-16T13:00:04Z",
-  "last_polled_at": "2026-07-16T13:00:04Z",
+  "last_polled_at": "2026-07-16T15:00:47Z",
   "final_snapshot": false,
   "source_versions": {
     "statsapi": "v1",
@@ -77,12 +77,35 @@
         "confidence": "ok",
         "reason": "both sides confirmed",
         "guard": "data_adequacy v1.0"
-      }
+      },
+      "live_odds": {
+        "source": "betfair_exchange_aud",
+        "captured_at": "2026-07-16T15:00:04Z",
+        "market_status": "OPEN",
+        "inplay": false,
+        "moneyline": {
+          "away": 2.18,
+          "home": 1.83
+        },
+        "total_runs": null,
+        "handicap": {
+          "prices": {
+            "New York Mets": null,
+            "Philadelphia Phillies": 1.01
+          },
+          "captured_at": "2026-07-16T15:00:04Z",
+          "market_status": "OPEN",
+          "inplay": false
+        }
+      },
+      "closing_odds": null
     }
   },
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
     "ok": 1,
     "no_call": 0
-  }
+  },
+  "live_odds_source": "betfair_exchange_aud (scout_odds.json)",
+  "live_odds_updated_at": "2026-07-16T15:00:47Z"
 }
