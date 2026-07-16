@@ -1,7 +1,7 @@
 {
-  "slate_date": "2026-07-15",
-  "generated_at_utc": "2026-07-15T13:00:05Z",
-  "last_polled_at": "2026-07-15T13:00:05Z",
+  "slate_date": "2026-07-16",
+  "generated_at_utc": "2026-07-16T13:00:04Z",
+  "last_polled_at": "2026-07-16T13:00:04Z",
   "final_snapshot": false,
   "source_versions": {
     "statsapi": "v1",
@@ -12,12 +12,77 @@
     "closing_odds_source": "betfair_exchange_aud"
   },
   "phase": 3,
-  "games": {},
-  "live_odds_source": "betfair_exchange_aud (scout_odds.json)",
-  "live_odds_updated_at": "2026-07-15T13:01:13Z",
+  "games": {
+    "mlb-nym-phi": {
+      "game_pk": 823440,
+      "game_number": 1,
+      "start_time_utc": "2026-07-16T23:10:00Z",
+      "park_factor": 1.02,
+      "park_factor_hand": {
+        "L": 0.99,
+        "R": 1.04
+      },
+      "park_factor_status": "confirmed",
+      "away": {
+        "team": "nym",
+        "starter": {
+          "name": "Christian Scott",
+          "mlbam_id": 681035,
+          "hand": "R",
+          "fip": 4.09,
+          "era": 3.17,
+          "ip": 54.0,
+          "xera": 4.51,
+          "xwoba": 0.328,
+          "xfip": 3.74,
+          "siera": 3.27,
+          "data_status": "confirmed",
+          "warnings": []
+        },
+        "bullpen_ra9": 4.57,
+        "rg": 4.1,
+        "wrc_plus": 96,
+        "wrc_vs_lhp": 97,
+        "wrc_vs_rhp": 95,
+        "data_status": "confirmed",
+        "warnings": []
+      },
+      "home": {
+        "team": "phi",
+        "starter": {
+          "name": "Aaron Nola",
+          "mlbam_id": 605400,
+          "hand": "R",
+          "fip": 4.66,
+          "era": 5.75,
+          "ip": 97.0,
+          "xera": 4.22,
+          "xwoba": 0.318,
+          "xfip": 3.46,
+          "siera": 3.34,
+          "data_status": "confirmed",
+          "warnings": []
+        },
+        "bullpen_ra9": 4.86,
+        "rg": 4.37,
+        "wrc_plus": 97,
+        "wrc_vs_lhp": 95,
+        "wrc_vs_rhp": 98,
+        "data_status": "confirmed",
+        "warnings": []
+      },
+      "call": {
+        "call": "OK",
+        "label": "OK",
+        "confidence": "ok",
+        "reason": "both sides confirmed",
+        "guard": "data_adequacy v1.0"
+      }
+    }
+  },
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
-    "ok": 0,
+    "ok": 1,
     "no_call": 0
   }
 }
