@@ -7,7 +7,7 @@
   "start_time_utc": "2026-07-16T03:42:00.000Z",
   "market_id": "1.260034222",
   "market_overround_pct": null,
-  "track_condition": "Soft 5",
+  "track_condition": "Good 4",
   "weather": null,
   "form_analysis": null,
   "runners": [
@@ -1751,20 +1751,6 @@
       },
       "recent_runs": [
         {
-          "pos": 4,
-          "date": "2026-07-14",
-          "class": "3Y-TRL",
-          "trial": false,
-          "distance_m": 800,
-          "going": "Good4",
-          "winner_time": 46.62,
-          "beaten_margin": 14.92,
-          "runner_time": 48.71,
-          "runner_time_reduced": true,
-          "sectional_600": 33.29,
-          "in_run": null
-        },
-        {
           "pos": 7,
           "date": "2026-06-30",
           "class": "MDN-SW",
@@ -1780,20 +1766,6 @@
             "@800": 8,
             "@400": 6
           }
-        },
-        {
-          "pos": 6,
-          "date": "2026-06-23",
-          "class": "3Y-TRL",
-          "trial": false,
-          "distance_m": 925,
-          "going": "Soft7",
-          "winner_time": 59.57,
-          "beaten_margin": 10.65,
-          "runner_time": 61.22,
-          "runner_time_reduced": true,
-          "sectional_600": 37.89,
-          "in_run": null
         },
         {
           "pos": 3,
@@ -1822,17 +1794,51 @@
           "runner_time_reduced": true,
           "sectional_600": 35.41,
           "in_run": null
+        },
+        {
+          "pos": 8,
+          "date": "2026-01-14",
+          "class": "MDN-SW",
+          "trial": false,
+          "distance_m": 1615,
+          "going": "Good4",
+          "winner_time": 97.47,
+          "beaten_margin": 9.66,
+          "runner_time": 98.87,
+          "runner_time_reduced": true,
+          "sectional_600": 34.92,
+          "in_run": {
+            "@800": 9,
+            "@400": 9
+          }
+        },
+        {
+          "pos": 10,
+          "date": "2025-12-21",
+          "class": "MDN-SW",
+          "trial": false,
+          "distance_m": 1400,
+          "going": "Good3",
+          "winner_time": 84.84,
+          "beaten_margin": 5.75,
+          "runner_time": 85.68,
+          "runner_time_reduced": true,
+          "sectional_600": 36.51,
+          "in_run": {
+            "@800": 12,
+            "@400": 11
+          }
         }
       ],
       "recent_class": [
-        "3Y-TRL",
         "MDN-SW",
-        "3Y-TRL",
         "MDN-TRL",
-        "MDN-TRL"
+        "MDN-TRL",
+        "MDN-SW",
+        "MDN-SW"
       ],
-      "days_since_run": 2,
-      "runs_this_prep": 5,
+      "days_since_run": 16,
+      "runs_this_prep": 3,
       "form_status": "confirmed",
       "warnings": [],
       "last5_parsed": [
@@ -1892,30 +1898,76 @@
       "back_depth_aud": 0,
       "bsp_near": null,
       "market_signal": "NEUTRAL",
-      "trainer": null,
-      "jockey": null,
+      "trainer": "Vic Heading",
+      "jockey": "Aidan Keeley (late alt)",
       "last5": null,
-      "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
+      "career": "0:0-0-0",
+      "weight_kg": 58.0,
+      "barrier": 14,
+      "prizemoney": 0,
+      "first_up_record": "0:0-0-0",
+      "second_up_record": "0:0-0-0",
+      "going_record": {
+        "Firm": "0:0-0-0",
+        "Good": "0:0-0-0",
+        "Soft": "0:0-0-0",
+        "Heavy": "0:0-0-0",
+        "Synthetic": "0:0-0-0"
+      },
+      "recent_runs": [
+        {
+          "pos": 4,
+          "date": "2026-07-14",
+          "class": "3Y-TRL",
+          "trial": false,
+          "distance_m": 800,
+          "going": "Good4",
+          "winner_time": 46.62,
+          "beaten_margin": 14.92,
+          "runner_time": 48.71,
+          "runner_time_reduced": true,
+          "sectional_600": 33.29,
+          "in_run": null
+        },
+        {
+          "pos": 6,
+          "date": "2026-06-23",
+          "class": "3Y-TRL",
+          "trial": false,
+          "distance_m": 925,
+          "going": "Soft7",
+          "winner_time": 59.57,
+          "beaten_margin": 10.65,
+          "runner_time": 61.22,
+          "runner_time_reduced": true,
+          "sectional_600": 37.89,
+          "in_run": null
+        }
+      ],
+      "recent_class": [
+        "3Y-TRL",
+        "3Y-TRL"
+      ],
+      "days_since_run": 2,
+      "runs_this_prep": 2,
+      "form_status": "confirmed",
       "warnings": [],
       "last5_parsed": [],
-      "data_status": "not_found",
+      "data_status": "unraced",
       "open_price": null,
       "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
+        "call": "OK",
+        "label": "OK",
+        "confidence": "thin",
+        "reason": "form present (0 career starts, ds=unraced)",
         "guard": "data_adequacy v1.0"
       }
     }
   ],
-  "last_polled_at": "2026-07-15T08:02:42.825488Z",
+  "last_polled_at": "2026-07-16T01:02:27.499222Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
-    "ok": 11,
-    "no_call": 1
+    "ok": 12,
+    "no_call": 0
   }
 }

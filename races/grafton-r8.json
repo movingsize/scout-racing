@@ -12,130 +12,8 @@
   "form_analysis": null,
   "runners": [
     {
-      "name": "1. Stoltz",
-      "saddle_cloth": 1,
-      "selection_id": 42769849,
-      "status": "ACTIVE",
-      "best_back": null,
-      "back_depth_aud": 0,
-      "bsp_near": null,
-      "market_signal": "NEUTRAL",
-      "trainer": null,
-      "jockey": null,
-      "last5": null,
-      "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
-      "warnings": [],
-      "last5_parsed": [],
-      "data_status": "not_found",
-      "open_price": 15.0,
-      "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
-        "guard": "data_adequacy v1.0"
-      }
-    },
-    {
-      "name": "2. Kitty Flash",
-      "saddle_cloth": 2,
-      "selection_id": 91114939,
-      "status": "ACTIVE",
-      "best_back": null,
-      "back_depth_aud": 0,
-      "bsp_near": null,
-      "market_signal": "NEUTRAL",
-      "trainer": "Chris & Corey Munce",
-      "jockey": "Ms Tahlia Fenlon",
-      "last5": "x1233x3000",
-      "career": "8:1-1-3",
-      "weight_kg": 54.5,
-      "barrier": 10,
-      "official_rating": 90,
-      "scratched": true,
-      "form_status": "unraced",
-      "warnings": [
-        "runner scratched (per form source) \u2014 career reconstructed from last5 for reference only, not expected to start",
-        "form source shows this runner SCRATCHED but Betfair still lists it ACTIVE \u2014 cross-source timing mismatch, treat the price as unreliable until one side updates"
-      ],
-      "last5_parsed": [
-        {
-          "raw": "x",
-          "pos": null,
-          "nonFinish": false,
-          "spell": true
-        },
-        {
-          "raw": "1",
-          "pos": 1,
-          "nonFinish": false,
-          "spell": false
-        },
-        {
-          "raw": "2",
-          "pos": 2,
-          "nonFinish": false,
-          "spell": false
-        },
-        {
-          "raw": "3",
-          "pos": 3,
-          "nonFinish": false,
-          "spell": false
-        },
-        {
-          "raw": "3",
-          "pos": 3,
-          "nonFinish": false,
-          "spell": false
-        },
-        {
-          "raw": "x",
-          "pos": null,
-          "nonFinish": false,
-          "spell": true
-        },
-        {
-          "raw": "3",
-          "pos": 3,
-          "nonFinish": false,
-          "spell": false
-        },
-        {
-          "raw": "0",
-          "pos": 0,
-          "nonFinish": false,
-          "spell": false
-        },
-        {
-          "raw": "0",
-          "pos": 0,
-          "nonFinish": false,
-          "spell": false
-        },
-        {
-          "raw": "0",
-          "pos": 0,
-          "nonFinish": false,
-          "spell": false
-        }
-      ],
-      "data_status": "reconstructed",
-      "open_price": 7.4,
-      "call": {
-        "call": "OK",
-        "label": "OK",
-        "confidence": "thin",
-        "reason": "career reconstructed from last5 (8:1-1-3)",
-        "guard": "data_adequacy v1.0"
-      }
-    },
-    {
       "name": "3. Emperor",
-      "saddle_cloth": 3,
+      "saddle_cloth": 1,
       "selection_id": 1012104,
       "status": "ACTIVE",
       "best_back": null,
@@ -281,7 +159,7 @@
     },
     {
       "name": "6. Mister Bianco",
-      "saddle_cloth": 4,
+      "saddle_cloth": 2,
       "selection_id": 83155708,
       "status": "ACTIVE",
       "best_back": null,
@@ -475,7 +353,7 @@
     },
     {
       "name": "7. Durova",
-      "saddle_cloth": 5,
+      "saddle_cloth": 3,
       "selection_id": 100632593,
       "status": "ACTIVE",
       "best_back": null,
@@ -669,7 +547,7 @@
     },
     {
       "name": "8. Krakarib",
-      "saddle_cloth": 6,
+      "saddle_cloth": 4,
       "selection_id": 61631141,
       "status": "ACTIVE",
       "best_back": null,
@@ -863,7 +741,7 @@
     },
     {
       "name": "9. Tectonic Plate",
-      "saddle_cloth": 7,
+      "saddle_cloth": 5,
       "selection_id": 62838788,
       "status": "ACTIVE",
       "best_back": null,
@@ -1057,7 +935,7 @@
     },
     {
       "name": "10. Zoutastic",
-      "saddle_cloth": 8,
+      "saddle_cloth": 6,
       "selection_id": 86654547,
       "status": "ACTIVE",
       "best_back": null,
@@ -1065,7 +943,7 @@
       "bsp_near": null,
       "market_signal": "NEUTRAL",
       "trainer": "Terry Croft",
-      "jockey": "Jean Van Overmeire",
+      "jockey": "Ben Looker (late alt)",
       "last5": "19x14830x8",
       "career": "18:4-1-2",
       "weight_kg": 54.0,
@@ -1152,20 +1030,20 @@
           }
         },
         {
-          "pos": 9,
-          "date": "2026-02-13",
-          "class": "3Y+ BM72",
+          "pos": 8,
+          "date": "2026-01-17",
+          "class": "MIDWAY BM72",
           "trial": false,
-          "distance_m": 1100,
-          "going": "Good4",
-          "winner_time": 63.92,
-          "beaten_margin": 3.96,
-          "runner_time": 64.47,
+          "distance_m": 1200,
+          "going": "Heavy8",
+          "winner_time": 73.59,
+          "beaten_margin": 12.64,
+          "runner_time": 75.45,
           "runner_time_reduced": true,
-          "sectional_600": 34.4,
+          "sectional_600": 35.82,
           "in_run": {
-            "@800": 8,
-            "@400": 8
+            "@800": 1,
+            "@400": 1
           }
         }
       ],
@@ -1174,7 +1052,7 @@
         "OPEN-BT",
         "MIDWAY BM72(71)",
         "MIDWAY BM72",
-        "3Y+ BM72"
+        "MIDWAY BM72"
       ],
       "days_since_run": 26,
       "runs_this_prep": 2,
@@ -1253,36 +1131,8 @@
       }
     },
     {
-      "name": "11. Action King",
-      "saddle_cloth": 9,
-      "selection_id": 89060987,
-      "status": "ACTIVE",
-      "best_back": null,
-      "back_depth_aud": 0,
-      "bsp_near": null,
-      "market_signal": "NEUTRAL",
-      "trainer": null,
-      "jockey": null,
-      "last5": null,
-      "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
-      "warnings": [],
-      "last5_parsed": [],
-      "data_status": "not_found",
-      "open_price": 9.4,
-      "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
-        "guard": "data_adequacy v1.0"
-      }
-    },
-    {
       "name": "12. Chandon Star",
-      "saddle_cloth": 10,
+      "saddle_cloth": 7,
       "selection_id": 100632594,
       "status": "ACTIVE",
       "best_back": null,
@@ -1482,7 +1332,7 @@
     },
     {
       "name": "13. Outweighed",
-      "saddle_cloth": 11,
+      "saddle_cloth": 8,
       "selection_id": 61896120,
       "status": "ACTIVE",
       "best_back": null,
@@ -1628,7 +1478,7 @@
     },
     {
       "name": "14. The Wolf",
-      "saddle_cloth": 12,
+      "saddle_cloth": 9,
       "selection_id": 82116581,
       "status": "ACTIVE",
       "best_back": null,
@@ -1810,7 +1660,7 @@
     },
     {
       "name": "16. Dune And Dusted",
-      "saddle_cloth": 13,
+      "saddle_cloth": 10,
       "selection_id": 66826268,
       "status": "ACTIVE",
       "best_back": null,
@@ -2007,9 +1857,159 @@
         "reason": "confirmed form, 36 career starts",
         "guard": "data_adequacy v1.0"
       }
+    },
+    {
+      "name": "2. Kitty Flash",
+      "saddle_cloth": 11,
+      "selection_id": 91114939,
+      "status": "ACTIVE",
+      "best_back": null,
+      "back_depth_aud": 0,
+      "bsp_near": null,
+      "market_signal": "NEUTRAL",
+      "trainer": "Chris & Corey Munce",
+      "jockey": "Ms Tahlia Fenlon",
+      "last5": "x1233x3000",
+      "career": "8:1-1-3",
+      "weight_kg": 54.5,
+      "barrier": 10,
+      "official_rating": 90,
+      "scratched": true,
+      "form_status": "unraced",
+      "warnings": [
+        "runner scratched (per form source) \u2014 career reconstructed from last5 for reference only, not expected to start",
+        "form source shows this runner SCRATCHED but Betfair still lists it ACTIVE \u2014 cross-source timing mismatch, treat the price as unreliable until one side updates"
+      ],
+      "last5_parsed": [
+        {
+          "raw": "x",
+          "pos": null,
+          "nonFinish": false,
+          "spell": true
+        },
+        {
+          "raw": "1",
+          "pos": 1,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "2",
+          "pos": 2,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "3",
+          "pos": 3,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "3",
+          "pos": 3,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "x",
+          "pos": null,
+          "nonFinish": false,
+          "spell": true
+        },
+        {
+          "raw": "3",
+          "pos": 3,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "0",
+          "pos": 0,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "0",
+          "pos": 0,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "0",
+          "pos": 0,
+          "nonFinish": false,
+          "spell": false
+        }
+      ],
+      "data_status": "reconstructed",
+      "open_price": 7.4,
+      "call": {
+        "call": "OK",
+        "label": "OK",
+        "confidence": "thin",
+        "reason": "career reconstructed from last5 (8:1-1-3)",
+        "guard": "data_adequacy v1.0"
+      }
+    },
+    {
+      "name": "11. Action King",
+      "saddle_cloth": 12,
+      "selection_id": 89060987,
+      "status": "ACTIVE",
+      "best_back": null,
+      "back_depth_aud": 0,
+      "bsp_near": null,
+      "market_signal": "NEUTRAL",
+      "trainer": null,
+      "jockey": null,
+      "last5": null,
+      "career": null,
+      "weight_kg": null,
+      "barrier": null,
+      "form_status": "not_found",
+      "warnings": [],
+      "last5_parsed": [],
+      "data_status": "not_found",
+      "open_price": 9.4,
+      "call": {
+        "call": "NO_CALL",
+        "label": "DATA BAD",
+        "confidence": null,
+        "reason": "data bad: data_status=not_found and no race form on record",
+        "guard": "data_adequacy v1.0"
+      }
+    },
+    {
+      "name": "1. Stoltz",
+      "saddle_cloth": 13,
+      "selection_id": 42769849,
+      "status": "ACTIVE",
+      "best_back": null,
+      "back_depth_aud": 0,
+      "bsp_near": null,
+      "market_signal": "NEUTRAL",
+      "trainer": null,
+      "jockey": null,
+      "last5": null,
+      "career": null,
+      "weight_kg": null,
+      "barrier": null,
+      "form_status": "not_found",
+      "warnings": [],
+      "last5_parsed": [],
+      "data_status": "not_found",
+      "open_price": 15.0,
+      "call": {
+        "call": "NO_CALL",
+        "label": "DATA BAD",
+        "confidence": null,
+        "reason": "data bad: data_status=not_found and no race form on record",
+        "guard": "data_adequacy v1.0"
+      }
     }
   ],
-  "last_polled_at": "2026-07-15T08:02:42.825488Z",
+  "last_polled_at": "2026-07-16T01:02:27.499222Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
     "ok": 11,

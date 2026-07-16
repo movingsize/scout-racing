@@ -351,7 +351,52 @@
           "runner_time_reduced": false,
           "sectional_600": 35.75,
           "in_run": null
-        },
+        }
+      ],
+      "recent_class": [
+        "MDN-BT"
+      ],
+      "days_since_run": 13,
+      "runs_this_prep": 1,
+      "form_status": "confirmed",
+      "warnings": [],
+      "last5_parsed": [],
+      "data_status": "unraced",
+      "open_price": 5.7,
+      "call": {
+        "call": "OK",
+        "label": "OK",
+        "confidence": "thin",
+        "reason": "form present (0 career starts, ds=unraced)",
+        "guard": "data_adequacy v1.0"
+      }
+    },
+    {
+      "name": "5. Stakeholder",
+      "saddle_cloth": 5,
+      "selection_id": 74900768,
+      "status": "ACTIVE",
+      "best_back": null,
+      "back_depth_aud": 0,
+      "bsp_near": null,
+      "market_signal": "NEUTRAL",
+      "trainer": "Tracey Bartley",
+      "jockey": "Rory Hutchings (late alt)",
+      "last5": "2x",
+      "career": "1:0-1-0",
+      "weight_kg": 59.0,
+      "barrier": 13,
+      "prizemoney": 5050,
+      "first_up_record": "1:0-1-0",
+      "second_up_record": "0:0-0-0",
+      "going_record": {
+        "Firm": "0:0-0-0",
+        "Good": "1:0-1-0",
+        "Soft": "0:0-0-0",
+        "Heavy": "0:0-0-0",
+        "Synthetic": "0:0-0-0"
+      },
+      "recent_runs": [
         {
           "pos": 5,
           "date": "2026-06-17",
@@ -399,51 +444,35 @@
         }
       ],
       "recent_class": [
-        "MDN-BT",
         "OPEN-BT",
         "OPEN-BT",
         "MDN-SW"
       ],
-      "days_since_run": 13,
-      "runs_this_prep": 3,
+      "days_since_run": 29,
+      "runs_this_prep": 2,
       "form_status": "confirmed",
       "warnings": [],
-      "last5_parsed": [],
-      "data_status": "unraced",
-      "open_price": 5.7,
+      "last5_parsed": [
+        {
+          "raw": "2",
+          "pos": 2,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "x",
+          "pos": null,
+          "nonFinish": false,
+          "spell": true
+        }
+      ],
+      "data_status": "confirmed",
+      "open_price": 14.0,
       "call": {
         "call": "OK",
         "label": "OK",
         "confidence": "thin",
-        "reason": "form present (0 career starts, ds=unraced)",
-        "guard": "data_adequacy v1.0"
-      }
-    },
-    {
-      "name": "5. Stakeholder",
-      "saddle_cloth": 5,
-      "selection_id": 74900768,
-      "status": "ACTIVE",
-      "best_back": null,
-      "back_depth_aud": 0,
-      "bsp_near": null,
-      "market_signal": "NEUTRAL",
-      "trainer": null,
-      "jockey": null,
-      "last5": null,
-      "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
-      "warnings": [],
-      "last5_parsed": [],
-      "data_status": "not_found",
-      "open_price": 14.0,
-      "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
+        "reason": "form present (1 career starts, ds=confirmed)",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -1060,10 +1089,10 @@
       }
     }
   ],
-  "last_polled_at": "2026-07-15T08:02:42.825488Z",
+  "last_polled_at": "2026-07-16T01:02:27.499222Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
-    "ok": 11,
-    "no_call": 1
+    "ok": 12,
+    "no_call": 0
   }
 }

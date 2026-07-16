@@ -1292,60 +1292,8 @@
       }
     },
     {
-      "name": "9. Royaltown",
-      "saddle_cloth": 8,
-      "selection_id": 100660639,
-      "status": "ACTIVE",
-      "best_back": null,
-      "back_depth_aud": 0,
-      "bsp_near": null,
-      "market_signal": "NEUTRAL",
-      "trainer": "Luke Pepper",
-      "jockey": "Pierre Boudvillain (late alt)",
-      "last5": "12x",
-      "career": "2:1-1-0",
-      "weight_kg": 56.5,
-      "barrier": 9,
-      "official_rating": 55,
-      "scratched": true,
-      "form_status": "unraced",
-      "warnings": [
-        "runner scratched (per form source) \u2014 career reconstructed from last5 for reference only, not expected to start",
-        "form source shows this runner SCRATCHED but Betfair still lists it ACTIVE \u2014 cross-source timing mismatch, treat the price as unreliable until one side updates"
-      ],
-      "last5_parsed": [
-        {
-          "raw": "1",
-          "pos": 1,
-          "nonFinish": false,
-          "spell": false
-        },
-        {
-          "raw": "2",
-          "pos": 2,
-          "nonFinish": false,
-          "spell": false
-        },
-        {
-          "raw": "x",
-          "pos": null,
-          "nonFinish": false,
-          "spell": true
-        }
-      ],
-      "data_status": "reconstructed",
-      "open_price": 8.0,
-      "call": {
-        "call": "OK",
-        "label": "OK",
-        "confidence": "thin",
-        "reason": "career reconstructed from last5 (2:1-1-0)",
-        "guard": "data_adequacy v1.0"
-      }
-    },
-    {
       "name": "10. Excuseme Mrofficer",
-      "saddle_cloth": 9,
+      "saddle_cloth": 8,
       "selection_id": 95069388,
       "status": "ACTIVE",
       "best_back": null,
@@ -1530,9 +1478,61 @@
         "reason": "confirmed form, 6 career starts",
         "guard": "data_adequacy v1.0"
       }
+    },
+    {
+      "name": "9. Royaltown",
+      "saddle_cloth": 9,
+      "selection_id": 100660639,
+      "status": "ACTIVE",
+      "best_back": null,
+      "back_depth_aud": 0,
+      "bsp_near": null,
+      "market_signal": "NEUTRAL",
+      "trainer": "Luke Pepper",
+      "jockey": "Pierre Boudvillain (late alt)",
+      "last5": "12x",
+      "career": "2:1-1-0",
+      "weight_kg": 56.5,
+      "barrier": 9,
+      "official_rating": 55,
+      "scratched": true,
+      "form_status": "unraced",
+      "warnings": [
+        "runner scratched (per form source) \u2014 career reconstructed from last5 for reference only, not expected to start",
+        "form source shows this runner SCRATCHED but Betfair still lists it ACTIVE \u2014 cross-source timing mismatch, treat the price as unreliable until one side updates"
+      ],
+      "last5_parsed": [
+        {
+          "raw": "1",
+          "pos": 1,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "2",
+          "pos": 2,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "x",
+          "pos": null,
+          "nonFinish": false,
+          "spell": true
+        }
+      ],
+      "data_status": "reconstructed",
+      "open_price": 8.0,
+      "call": {
+        "call": "OK",
+        "label": "OK",
+        "confidence": "thin",
+        "reason": "career reconstructed from last5 (2:1-1-0)",
+        "guard": "data_adequacy v1.0"
+      }
     }
   ],
-  "last_polled_at": "2026-07-15T08:02:42.825488Z",
+  "last_polled_at": "2026-07-16T01:02:27.499222Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
     "ok": 9,
