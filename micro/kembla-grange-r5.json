@@ -1,0 +1,6035 @@
+{
+  "event_id": "kembla-grange-2026-07-16-r5",
+  "market_id": "1.260034201",
+  "venue": "Kembla Grange",
+  "race_name": "R5 1300m CL1",
+  "start_time_utc": "2026-07-16T04:35:00.000Z",
+  "captured_by": "micro-series v1",
+  "field_size": 8,
+  "model_overlay": {
+    "83155106": {
+      "model_prob": 0.251838,
+      "model_rank": 1,
+      "model_version": "2026-07-08"
+    },
+    "92417665": {
+      "model_prob": 0.200152,
+      "model_rank": 2,
+      "model_version": "2026-07-08"
+    },
+    "54901477": {
+      "model_prob": 0.181912,
+      "model_rank": 3,
+      "model_version": "2026-07-08"
+    },
+    "100660637": {
+      "model_prob": 0.140825,
+      "model_rank": 4,
+      "model_version": "2026-07-08"
+    },
+    "2515810": {
+      "model_prob": 0.081133,
+      "model_rank": 5,
+      "model_version": "2026-07-08"
+    },
+    "92207216": {
+      "model_prob": 0.066489,
+      "model_rank": 6,
+      "model_version": "2026-07-08"
+    },
+    "4970680": {
+      "model_prob": 0.044391,
+      "model_rank": 7,
+      "model_version": "2026-07-08"
+    },
+    "95069388": {
+      "model_prob": 0.03326,
+      "model_rank": 8,
+      "model_version": "2026-07-08"
+    }
+  },
+  "bsp": {
+    "100660639": {
+      "bsp": NaN,
+      "status": "REMOVED"
+    },
+    "100660637": {
+      "bsp": 7.4,
+      "status": "LOSER"
+    },
+    "2515810": {
+      "bsp": 16.61,
+      "status": "LOSER"
+    },
+    "83155106": {
+      "bsp": 2.91,
+      "status": "WINNER"
+    },
+    "4970680": {
+      "bsp": 47.57,
+      "status": "LOSER"
+    },
+    "54901477": {
+      "bsp": 5.8,
+      "status": "LOSER"
+    },
+    "92417665": {
+      "bsp": 4.2,
+      "status": "LOSER"
+    },
+    "92207216": {
+      "bsp": 22.05,
+      "status": "LOSER"
+    },
+    "95069388": {
+      "bsp": 159.25,
+      "status": "LOSER"
+    }
+  },
+  "result": {
+    "winner": "3. Cuesta",
+    "winner_bsp": 2.91,
+    "placings": [
+      "3. Cuesta",
+      "5. Call Me Sassy",
+      "6. Rose Of Fenway"
+    ],
+    "settled_at": "2026-07-16T04:38:00.738558Z"
+  },
+  "frames": [
+    {
+      "at": "2026-07-16T04:25:14.119826Z",
+      "seconds_to_off": 586,
+      "market_matched_volume": 4592.55,
+      "overround_pct": 102.2,
+      "runners": [
+        {
+          "selection_id": 100660637,
+          "name": "1. Onmalone",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 7.2,
+          "best_back_size": 4.39,
+          "best_lay": 8.0,
+          "best_lay_size": 31.94,
+          "spread": 0.8,
+          "back_ladder": [
+            {
+              "price": 7.2,
+              "size": 4.39
+            },
+            {
+              "price": 7.0,
+              "size": 37.45
+            },
+            {
+              "price": 6.8,
+              "size": 5.63
+            },
+            {
+              "price": 6.4,
+              "size": 36.9
+            },
+            {
+              "price": 6.2,
+              "size": 43.5
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.0,
+              "size": 31.94
+            },
+            {
+              "price": 8.2,
+              "size": 5.98
+            },
+            {
+              "price": 8.8,
+              "size": 42.53
+            },
+            {
+              "price": 9.6,
+              "size": 98.12
+            },
+            {
+              "price": 10.5,
+              "size": 6.69
+            }
+          ],
+          "runner_matched_volume": 104.41,
+          "last_price_traded": 7.2,
+          "market_prob": 0.135921,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 2515810,
+          "name": "2. Skirmish",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 18.5,
+          "best_back_size": 3.19,
+          "best_lay": 21.0,
+          "best_lay_size": 1.28,
+          "spread": 2.5,
+          "back_ladder": [
+            {
+              "price": 18.5,
+              "size": 3.19
+            },
+            {
+              "price": 18.0,
+              "size": 18.63
+            },
+            {
+              "price": 17.5,
+              "size": 3.96
+            },
+            {
+              "price": 17.0,
+              "size": 8.04
+            },
+            {
+              "price": 16.5,
+              "size": 47.45
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 21.0,
+              "size": 1.28
+            },
+            {
+              "price": 23.0,
+              "size": 16.59
+            },
+            {
+              "price": 24.0,
+              "size": 30.7
+            },
+            {
+              "price": 25.0,
+              "size": 13.53
+            },
+            {
+              "price": 29.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 111.91,
+          "last_price_traded": 18.5,
+          "market_prob": 0.052899,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 83155106,
+          "name": "3. Cuesta",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 3.4,
+          "best_back_size": 14.99,
+          "best_lay": 3.65,
+          "best_lay_size": 13.51,
+          "spread": 0.25,
+          "back_ladder": [
+            {
+              "price": 3.4,
+              "size": 14.99
+            },
+            {
+              "price": 3.35,
+              "size": 12.0
+            },
+            {
+              "price": 3.3,
+              "size": 35.13
+            },
+            {
+              "price": 3.25,
+              "size": 13.71
+            },
+            {
+              "price": 3.2,
+              "size": 133.3
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.65,
+              "size": 13.51
+            },
+            {
+              "price": 3.7,
+              "size": 68.0
+            },
+            {
+              "price": 3.75,
+              "size": 22.0
+            },
+            {
+              "price": 3.8,
+              "size": 7.0
+            },
+            {
+              "price": 4.0,
+              "size": 57.0
+            }
+          ],
+          "runner_matched_volume": 648.61,
+          "last_price_traded": 3.5,
+          "market_prob": 0.287833,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 4970680,
+          "name": "4. Tsarevich",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 42.0,
+          "best_back_size": 17.42,
+          "best_lay": 46.0,
+          "best_lay_size": 4.88,
+          "spread": 4.0,
+          "back_ladder": [
+            {
+              "price": 42.0,
+              "size": 17.42
+            },
+            {
+              "price": 40.0,
+              "size": 2.69
+            },
+            {
+              "price": 38.0,
+              "size": 13.46
+            },
+            {
+              "price": 36.0,
+              "size": 6.93
+            },
+            {
+              "price": 34.0,
+              "size": 8.23
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 46.0,
+              "size": 4.88
+            },
+            {
+              "price": 50.0,
+              "size": 23.34
+            },
+            {
+              "price": 250.0,
+              "size": 1.79
+            },
+            {
+              "price": 310.0,
+              "size": 1.93
+            },
+            {
+              "price": 440.0,
+              "size": 4.14
+            }
+          ],
+          "runner_matched_volume": 231.62,
+          "last_price_traded": 46.0,
+          "market_prob": 0.023301,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 54901477,
+          "name": "5. Call Me Sassy",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 5.0,
+          "best_back_size": 13.03,
+          "best_lay": 5.2,
+          "best_lay_size": 1.93,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 5.0,
+              "size": 13.03
+            },
+            {
+              "price": 4.9,
+              "size": 30.93
+            },
+            {
+              "price": 4.8,
+              "size": 48.33
+            },
+            {
+              "price": 4.7,
+              "size": 94.67
+            },
+            {
+              "price": 4.6,
+              "size": 4.38
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.2,
+              "size": 1.93
+            },
+            {
+              "price": 5.3,
+              "size": 29.0
+            },
+            {
+              "price": 5.4,
+              "size": 12.3
+            },
+            {
+              "price": 5.7,
+              "size": 25.0
+            },
+            {
+              "price": 5.8,
+              "size": 3.0
+            }
+          ],
+          "runner_matched_volume": 2823.13,
+          "last_price_traded": 5.1,
+          "market_prob": 0.195726,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 92417665,
+          "name": "6. Rose Of Fenway",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 4.0,
+          "best_back_size": 19.81,
+          "best_lay": 4.2,
+          "best_lay_size": 3.87,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 4.0,
+              "size": 19.81
+            },
+            {
+              "price": 3.95,
+              "size": 31.18
+            },
+            {
+              "price": 3.9,
+              "size": 7.79
+            },
+            {
+              "price": 3.85,
+              "size": 58.5
+            },
+            {
+              "price": 3.75,
+              "size": 170.23
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.2,
+              "size": 3.87
+            },
+            {
+              "price": 4.4,
+              "size": 25.37
+            },
+            {
+              "price": 4.5,
+              "size": 50.0
+            },
+            {
+              "price": 4.7,
+              "size": 33.46
+            },
+            {
+              "price": 5.2,
+              "size": 24.03
+            }
+          ],
+          "runner_matched_volume": 338.78,
+          "last_price_traded": 4.1,
+          "market_prob": 0.244658,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 92207216,
+          "name": "7. Sir Tua",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 19.0,
+          "best_back_size": 21.4,
+          "best_lay": 20.0,
+          "best_lay_size": 15.13,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 19.0,
+              "size": 21.4
+            },
+            {
+              "price": 18.5,
+              "size": 2.18
+            },
+            {
+              "price": 18.0,
+              "size": 10.71
+            },
+            {
+              "price": 17.5,
+              "size": 5.86
+            },
+            {
+              "price": 17.0,
+              "size": 28.05
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 20.0,
+              "size": 15.13
+            },
+            {
+              "price": 21.0,
+              "size": 3.1
+            },
+            {
+              "price": 22.0,
+              "size": 10.52
+            },
+            {
+              "price": 65.0,
+              "size": 21.52
+            },
+            {
+              "price": 110.0,
+              "size": 4.09
+            }
+          ],
+          "runner_matched_volume": 247.94,
+          "last_price_traded": 19.5,
+          "market_prob": 0.051507,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 95069388,
+          "name": "10. Excuseme Mrofficer",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 120.0,
+          "best_back_size": 2.8,
+          "best_lay": 420.0,
+          "best_lay_size": 1.72,
+          "spread": 300.0,
+          "back_ladder": [
+            {
+              "price": 120.0,
+              "size": 2.8
+            },
+            {
+              "price": 110.0,
+              "size": 10.34
+            },
+            {
+              "price": 100.0,
+              "size": 1.89
+            },
+            {
+              "price": 90.0,
+              "size": 2.53
+            },
+            {
+              "price": 80.0,
+              "size": 5.11
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 420.0,
+              "size": 1.72
+            },
+            {
+              "price": 920.0,
+              "size": 4.08
+            }
+          ],
+          "runner_matched_volume": 86.11,
+          "last_price_traded": 120.0,
+          "market_prob": 0.008155,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100660639,
+          "name": "9. Royaltown",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-16T04:25:14.459968Z",
+      "seconds_to_off": 586,
+      "market_matched_volume": 4592.55,
+      "overround_pct": 102.2,
+      "runners": [
+        {
+          "selection_id": 100660637,
+          "name": "1. Onmalone",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 7.2,
+          "best_back_size": 4.39,
+          "best_lay": 8.0,
+          "best_lay_size": 31.94,
+          "spread": 0.8,
+          "back_ladder": [
+            {
+              "price": 7.2,
+              "size": 4.39
+            },
+            {
+              "price": 7.0,
+              "size": 37.45
+            },
+            {
+              "price": 6.8,
+              "size": 5.63
+            },
+            {
+              "price": 6.4,
+              "size": 36.9
+            },
+            {
+              "price": 6.2,
+              "size": 43.5
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.0,
+              "size": 31.94
+            },
+            {
+              "price": 8.2,
+              "size": 5.98
+            },
+            {
+              "price": 8.8,
+              "size": 42.53
+            },
+            {
+              "price": 9.6,
+              "size": 98.12
+            },
+            {
+              "price": 10.5,
+              "size": 6.69
+            }
+          ],
+          "runner_matched_volume": 104.41,
+          "last_price_traded": 7.2,
+          "market_prob": 0.135921,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 2515810,
+          "name": "2. Skirmish",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 18.5,
+          "best_back_size": 3.19,
+          "best_lay": 21.0,
+          "best_lay_size": 1.28,
+          "spread": 2.5,
+          "back_ladder": [
+            {
+              "price": 18.5,
+              "size": 3.19
+            },
+            {
+              "price": 18.0,
+              "size": 18.63
+            },
+            {
+              "price": 17.5,
+              "size": 3.96
+            },
+            {
+              "price": 17.0,
+              "size": 8.04
+            },
+            {
+              "price": 16.5,
+              "size": 47.45
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 21.0,
+              "size": 1.28
+            },
+            {
+              "price": 23.0,
+              "size": 16.59
+            },
+            {
+              "price": 24.0,
+              "size": 30.7
+            },
+            {
+              "price": 25.0,
+              "size": 13.53
+            },
+            {
+              "price": 29.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 111.91,
+          "last_price_traded": 18.5,
+          "market_prob": 0.052899,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 83155106,
+          "name": "3. Cuesta",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 3.4,
+          "best_back_size": 14.99,
+          "best_lay": 3.65,
+          "best_lay_size": 13.51,
+          "spread": 0.25,
+          "back_ladder": [
+            {
+              "price": 3.4,
+              "size": 14.99
+            },
+            {
+              "price": 3.35,
+              "size": 12.0
+            },
+            {
+              "price": 3.3,
+              "size": 35.13
+            },
+            {
+              "price": 3.25,
+              "size": 13.71
+            },
+            {
+              "price": 3.2,
+              "size": 133.3
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.65,
+              "size": 13.51
+            },
+            {
+              "price": 3.7,
+              "size": 68.0
+            },
+            {
+              "price": 3.75,
+              "size": 22.0
+            },
+            {
+              "price": 3.8,
+              "size": 7.0
+            },
+            {
+              "price": 4.0,
+              "size": 57.0
+            }
+          ],
+          "runner_matched_volume": 648.61,
+          "last_price_traded": 3.5,
+          "market_prob": 0.287833,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 4970680,
+          "name": "4. Tsarevich",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 42.0,
+          "best_back_size": 17.42,
+          "best_lay": 46.0,
+          "best_lay_size": 4.88,
+          "spread": 4.0,
+          "back_ladder": [
+            {
+              "price": 42.0,
+              "size": 17.42
+            },
+            {
+              "price": 40.0,
+              "size": 2.69
+            },
+            {
+              "price": 38.0,
+              "size": 13.46
+            },
+            {
+              "price": 36.0,
+              "size": 6.93
+            },
+            {
+              "price": 34.0,
+              "size": 8.23
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 46.0,
+              "size": 4.88
+            },
+            {
+              "price": 50.0,
+              "size": 23.34
+            },
+            {
+              "price": 250.0,
+              "size": 1.79
+            },
+            {
+              "price": 310.0,
+              "size": 1.93
+            },
+            {
+              "price": 440.0,
+              "size": 4.14
+            }
+          ],
+          "runner_matched_volume": 231.62,
+          "last_price_traded": 46.0,
+          "market_prob": 0.023301,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 54901477,
+          "name": "5. Call Me Sassy",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 5.0,
+          "best_back_size": 13.03,
+          "best_lay": 5.2,
+          "best_lay_size": 1.93,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 5.0,
+              "size": 13.03
+            },
+            {
+              "price": 4.9,
+              "size": 30.93
+            },
+            {
+              "price": 4.8,
+              "size": 48.33
+            },
+            {
+              "price": 4.7,
+              "size": 94.67
+            },
+            {
+              "price": 4.6,
+              "size": 4.38
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.2,
+              "size": 1.93
+            },
+            {
+              "price": 5.3,
+              "size": 29.0
+            },
+            {
+              "price": 5.4,
+              "size": 12.3
+            },
+            {
+              "price": 5.7,
+              "size": 25.0
+            },
+            {
+              "price": 5.8,
+              "size": 3.0
+            }
+          ],
+          "runner_matched_volume": 2823.13,
+          "last_price_traded": 5.1,
+          "market_prob": 0.195726,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 92417665,
+          "name": "6. Rose Of Fenway",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 4.0,
+          "best_back_size": 19.81,
+          "best_lay": 4.2,
+          "best_lay_size": 3.87,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 4.0,
+              "size": 19.81
+            },
+            {
+              "price": 3.95,
+              "size": 31.18
+            },
+            {
+              "price": 3.9,
+              "size": 7.79
+            },
+            {
+              "price": 3.85,
+              "size": 58.5
+            },
+            {
+              "price": 3.75,
+              "size": 170.23
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.2,
+              "size": 3.87
+            },
+            {
+              "price": 4.4,
+              "size": 25.37
+            },
+            {
+              "price": 4.5,
+              "size": 50.0
+            },
+            {
+              "price": 4.7,
+              "size": 33.46
+            },
+            {
+              "price": 5.2,
+              "size": 24.03
+            }
+          ],
+          "runner_matched_volume": 338.78,
+          "last_price_traded": 4.1,
+          "market_prob": 0.244658,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 92207216,
+          "name": "7. Sir Tua",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 19.0,
+          "best_back_size": 21.4,
+          "best_lay": 20.0,
+          "best_lay_size": 15.13,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 19.0,
+              "size": 21.4
+            },
+            {
+              "price": 18.5,
+              "size": 2.18
+            },
+            {
+              "price": 18.0,
+              "size": 10.71
+            },
+            {
+              "price": 17.5,
+              "size": 5.86
+            },
+            {
+              "price": 17.0,
+              "size": 28.05
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 20.0,
+              "size": 15.13
+            },
+            {
+              "price": 21.0,
+              "size": 3.1
+            },
+            {
+              "price": 22.0,
+              "size": 10.52
+            },
+            {
+              "price": 65.0,
+              "size": 21.52
+            },
+            {
+              "price": 110.0,
+              "size": 4.09
+            }
+          ],
+          "runner_matched_volume": 247.94,
+          "last_price_traded": 19.5,
+          "market_prob": 0.051507,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 95069388,
+          "name": "10. Excuseme Mrofficer",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 120.0,
+          "best_back_size": 2.8,
+          "best_lay": 420.0,
+          "best_lay_size": 1.72,
+          "spread": 300.0,
+          "back_ladder": [
+            {
+              "price": 120.0,
+              "size": 2.8
+            },
+            {
+              "price": 110.0,
+              "size": 10.34
+            },
+            {
+              "price": 100.0,
+              "size": 1.89
+            },
+            {
+              "price": 90.0,
+              "size": 2.53
+            },
+            {
+              "price": 80.0,
+              "size": 5.11
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 420.0,
+              "size": 1.72
+            },
+            {
+              "price": 920.0,
+              "size": 4.08
+            }
+          ],
+          "runner_matched_volume": 86.11,
+          "last_price_traded": 120.0,
+          "market_prob": 0.008155,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100660639,
+          "name": "9. Royaltown",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-16T04:26:51.731238Z",
+      "seconds_to_off": 489,
+      "market_matched_volume": 5526.35,
+      "overround_pct": 101.6,
+      "runners": [
+        {
+          "selection_id": 100660637,
+          "name": "1. Onmalone",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 6.6,
+          "best_back_size": 8.93,
+          "best_lay": 7.2,
+          "best_lay_size": 8.36,
+          "spread": 0.6,
+          "back_ladder": [
+            {
+              "price": 6.6,
+              "size": 8.93
+            },
+            {
+              "price": 6.2,
+              "size": 43.52
+            },
+            {
+              "price": 6.0,
+              "size": 3.87
+            },
+            {
+              "price": 5.9,
+              "size": 32.15
+            },
+            {
+              "price": 5.8,
+              "size": 29.4
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.2,
+              "size": 8.36
+            },
+            {
+              "price": 7.4,
+              "size": 26.96
+            },
+            {
+              "price": 8.0,
+              "size": 19.33
+            },
+            {
+              "price": 8.8,
+              "size": 42.53
+            },
+            {
+              "price": 9.4,
+              "size": 21.52
+            }
+          ],
+          "runner_matched_volume": 197.31,
+          "last_price_traded": 6.6,
+          "market_prob": 0.149187,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 2515810,
+          "name": "2. Skirmish",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 18.0,
+          "best_back_size": 2.76,
+          "best_lay": 19.0,
+          "best_lay_size": 10.41,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 18.0,
+              "size": 2.76
+            },
+            {
+              "price": 17.5,
+              "size": 3.37
+            },
+            {
+              "price": 17.0,
+              "size": 9.25
+            },
+            {
+              "price": 16.5,
+              "size": 28.83
+            },
+            {
+              "price": 16.0,
+              "size": 6.44
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 19.0,
+              "size": 10.41
+            },
+            {
+              "price": 25.0,
+              "size": 14.07
+            },
+            {
+              "price": 27.0,
+              "size": 14.0
+            },
+            {
+              "price": 32.0,
+              "size": 2.0
+            },
+            {
+              "price": 55.0,
+              "size": 21.52
+            }
+          ],
+          "runner_matched_volume": 182.65,
+          "last_price_traded": 18.0,
+          "market_prob": 0.054702,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 83155106,
+          "name": "3. Cuesta",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 3.25,
+          "best_back_size": 5.85,
+          "best_lay": 3.65,
+          "best_lay_size": 2.71,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 3.25,
+              "size": 5.85
+            },
+            {
+              "price": 3.2,
+              "size": 3.52
+            },
+            {
+              "price": 3.15,
+              "size": 81.84
+            },
+            {
+              "price": 3.1,
+              "size": 100.51
+            },
+            {
+              "price": 3.05,
+              "size": 19.9
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.65,
+              "size": 2.71
+            },
+            {
+              "price": 3.7,
+              "size": 81.28
+            },
+            {
+              "price": 3.75,
+              "size": 22.0
+            },
+            {
+              "price": 3.8,
+              "size": 7.0
+            },
+            {
+              "price": 4.0,
+              "size": 64.0
+            }
+          ],
+          "runner_matched_volume": 930.33,
+          "last_price_traded": 3.25,
+          "market_prob": 0.302965,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 4970680,
+          "name": "4. Tsarevich",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 44.0,
+          "best_back_size": 1.16,
+          "best_lay": 46.0,
+          "best_lay_size": 3.97,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 44.0,
+              "size": 1.16
+            },
+            {
+              "price": 42.0,
+              "size": 16.44
+            },
+            {
+              "price": 40.0,
+              "size": 2.69
+            },
+            {
+              "price": 38.0,
+              "size": 11.36
+            },
+            {
+              "price": 36.0,
+              "size": 13.35
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 46.0,
+              "size": 3.97
+            },
+            {
+              "price": 48.0,
+              "size": 15.16
+            },
+            {
+              "price": 50.0,
+              "size": 13.34
+            },
+            {
+              "price": 250.0,
+              "size": 1.79
+            },
+            {
+              "price": 440.0,
+              "size": 4.14
+            }
+          ],
+          "runner_matched_volume": 240.35,
+          "last_price_traded": 44.0,
+          "market_prob": 0.022378,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 54901477,
+          "name": "5. Call Me Sassy",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 5.1,
+          "best_back_size": 14.93,
+          "best_lay": 5.4,
+          "best_lay_size": 29.0,
+          "spread": 0.3,
+          "back_ladder": [
+            {
+              "price": 5.1,
+              "size": 14.93
+            },
+            {
+              "price": 5.0,
+              "size": 41.95
+            },
+            {
+              "price": 4.9,
+              "size": 29.0
+            },
+            {
+              "price": 4.8,
+              "size": 48.33
+            },
+            {
+              "price": 4.7,
+              "size": 86.63
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.4,
+              "size": 29.0
+            },
+            {
+              "price": 5.6,
+              "size": 16.34
+            },
+            {
+              "price": 5.7,
+              "size": 25.0
+            },
+            {
+              "price": 5.8,
+              "size": 3.0
+            },
+            {
+              "price": 6.0,
+              "size": 9.67
+            }
+          ],
+          "runner_matched_volume": 3123.77,
+          "last_price_traded": 5.1,
+          "market_prob": 0.193066,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 92417665,
+          "name": "6. Rose Of Fenway",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 4.4,
+          "best_back_size": 20.7,
+          "best_lay": 4.5,
+          "best_lay_size": 45.03,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 4.4,
+              "size": 20.7
+            },
+            {
+              "price": 4.3,
+              "size": 5.88
+            },
+            {
+              "price": 4.2,
+              "size": 25.53
+            },
+            {
+              "price": 4.1,
+              "size": 40.31
+            },
+            {
+              "price": 4.0,
+              "size": 18.29
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.5,
+              "size": 45.03
+            },
+            {
+              "price": 4.7,
+              "size": 19.29
+            },
+            {
+              "price": 4.9,
+              "size": 8.16
+            },
+            {
+              "price": 5.2,
+              "size": 22.1
+            },
+            {
+              "price": 5.5,
+              "size": 26.64
+            }
+          ],
+          "runner_matched_volume": 450.46,
+          "last_price_traded": 4.5,
+          "market_prob": 0.223781,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 92207216,
+          "name": "7. Sir Tua",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 20.0,
+          "best_back_size": 2.63,
+          "best_lay": 21.0,
+          "best_lay_size": 2.13,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 20.0,
+              "size": 2.63
+            },
+            {
+              "price": 19.5,
+              "size": 1.01
+            },
+            {
+              "price": 18.0,
+              "size": 5.68
+            },
+            {
+              "price": 17.5,
+              "size": 10.56
+            },
+            {
+              "price": 17.0,
+              "size": 28.05
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 21.0,
+              "size": 2.13
+            },
+            {
+              "price": 22.0,
+              "size": 10.52
+            },
+            {
+              "price": 32.0,
+              "size": 2.44
+            },
+            {
+              "price": 60.0,
+              "size": 4.89
+            },
+            {
+              "price": 65.0,
+              "size": 21.52
+            }
+          ],
+          "runner_matched_volume": 312.31,
+          "last_price_traded": 21.0,
+          "market_prob": 0.049232,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 95069388,
+          "name": "10. Excuseme Mrofficer",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 210.0,
+          "best_back_size": 1.26,
+          "best_lay": 330.0,
+          "best_lay_size": 1.92,
+          "spread": 120.0,
+          "back_ladder": [
+            {
+              "price": 210.0,
+              "size": 1.26
+            },
+            {
+              "price": 200.0,
+              "size": 3.34
+            },
+            {
+              "price": 190.0,
+              "size": 2.36
+            },
+            {
+              "price": 180.0,
+              "size": 3.3
+            },
+            {
+              "price": 170.0,
+              "size": 2.63
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 330.0,
+              "size": 1.92
+            },
+            {
+              "price": 450.0,
+              "size": 1.01
+            },
+            {
+              "price": 920.0,
+              "size": 4.06
+            }
+          ],
+          "runner_matched_volume": 89.13,
+          "last_price_traded": 330.0,
+          "market_prob": 0.004689,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100660639,
+          "name": "9. Royaltown",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-16T04:26:52.574227Z",
+      "seconds_to_off": 488,
+      "market_matched_volume": 5526.35,
+      "overround_pct": 101.6,
+      "runners": [
+        {
+          "selection_id": 100660637,
+          "name": "1. Onmalone",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 6.6,
+          "best_back_size": 8.93,
+          "best_lay": 7.2,
+          "best_lay_size": 8.36,
+          "spread": 0.6,
+          "back_ladder": [
+            {
+              "price": 6.6,
+              "size": 8.93
+            },
+            {
+              "price": 6.2,
+              "size": 43.52
+            },
+            {
+              "price": 6.0,
+              "size": 3.87
+            },
+            {
+              "price": 5.9,
+              "size": 30.51
+            },
+            {
+              "price": 5.8,
+              "size": 29.4
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.2,
+              "size": 8.36
+            },
+            {
+              "price": 7.4,
+              "size": 26.96
+            },
+            {
+              "price": 8.0,
+              "size": 19.33
+            },
+            {
+              "price": 8.8,
+              "size": 42.53
+            },
+            {
+              "price": 9.4,
+              "size": 21.52
+            }
+          ],
+          "runner_matched_volume": 197.31,
+          "last_price_traded": 6.6,
+          "market_prob": 0.149187,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 2515810,
+          "name": "2. Skirmish",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 18.0,
+          "best_back_size": 2.76,
+          "best_lay": 19.0,
+          "best_lay_size": 10.41,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 18.0,
+              "size": 2.76
+            },
+            {
+              "price": 17.5,
+              "size": 3.37
+            },
+            {
+              "price": 17.0,
+              "size": 9.25
+            },
+            {
+              "price": 16.5,
+              "size": 28.83
+            },
+            {
+              "price": 16.0,
+              "size": 6.44
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 19.0,
+              "size": 10.41
+            },
+            {
+              "price": 25.0,
+              "size": 14.07
+            },
+            {
+              "price": 27.0,
+              "size": 14.0
+            },
+            {
+              "price": 32.0,
+              "size": 2.0
+            },
+            {
+              "price": 55.0,
+              "size": 21.52
+            }
+          ],
+          "runner_matched_volume": 182.65,
+          "last_price_traded": 18.0,
+          "market_prob": 0.054702,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 83155106,
+          "name": "3. Cuesta",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 3.25,
+          "best_back_size": 5.85,
+          "best_lay": 3.65,
+          "best_lay_size": 2.71,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 3.25,
+              "size": 5.85
+            },
+            {
+              "price": 3.2,
+              "size": 3.52
+            },
+            {
+              "price": 3.15,
+              "size": 81.84
+            },
+            {
+              "price": 3.1,
+              "size": 100.51
+            },
+            {
+              "price": 3.05,
+              "size": 19.9
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.65,
+              "size": 2.71
+            },
+            {
+              "price": 3.7,
+              "size": 81.28
+            },
+            {
+              "price": 3.75,
+              "size": 22.0
+            },
+            {
+              "price": 3.8,
+              "size": 7.0
+            },
+            {
+              "price": 4.0,
+              "size": 64.0
+            }
+          ],
+          "runner_matched_volume": 930.33,
+          "last_price_traded": 3.25,
+          "market_prob": 0.302965,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 4970680,
+          "name": "4. Tsarevich",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 44.0,
+          "best_back_size": 1.16,
+          "best_lay": 46.0,
+          "best_lay_size": 3.97,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 44.0,
+              "size": 1.16
+            },
+            {
+              "price": 42.0,
+              "size": 16.44
+            },
+            {
+              "price": 40.0,
+              "size": 2.69
+            },
+            {
+              "price": 38.0,
+              "size": 11.36
+            },
+            {
+              "price": 36.0,
+              "size": 13.35
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 46.0,
+              "size": 3.97
+            },
+            {
+              "price": 48.0,
+              "size": 15.16
+            },
+            {
+              "price": 50.0,
+              "size": 13.34
+            },
+            {
+              "price": 250.0,
+              "size": 1.79
+            },
+            {
+              "price": 440.0,
+              "size": 4.14
+            }
+          ],
+          "runner_matched_volume": 240.35,
+          "last_price_traded": 44.0,
+          "market_prob": 0.022378,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 54901477,
+          "name": "5. Call Me Sassy",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 5.1,
+          "best_back_size": 14.93,
+          "best_lay": 5.4,
+          "best_lay_size": 29.0,
+          "spread": 0.3,
+          "back_ladder": [
+            {
+              "price": 5.1,
+              "size": 14.93
+            },
+            {
+              "price": 5.0,
+              "size": 41.95
+            },
+            {
+              "price": 4.9,
+              "size": 29.0
+            },
+            {
+              "price": 4.8,
+              "size": 48.33
+            },
+            {
+              "price": 4.7,
+              "size": 86.63
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.4,
+              "size": 29.0
+            },
+            {
+              "price": 5.6,
+              "size": 16.34
+            },
+            {
+              "price": 5.7,
+              "size": 25.0
+            },
+            {
+              "price": 5.8,
+              "size": 3.0
+            },
+            {
+              "price": 6.0,
+              "size": 9.67
+            }
+          ],
+          "runner_matched_volume": 3123.77,
+          "last_price_traded": 5.1,
+          "market_prob": 0.193066,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 92417665,
+          "name": "6. Rose Of Fenway",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 4.4,
+          "best_back_size": 20.7,
+          "best_lay": 4.5,
+          "best_lay_size": 45.03,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 4.4,
+              "size": 20.7
+            },
+            {
+              "price": 4.3,
+              "size": 5.88
+            },
+            {
+              "price": 4.2,
+              "size": 25.53
+            },
+            {
+              "price": 4.1,
+              "size": 40.31
+            },
+            {
+              "price": 4.0,
+              "size": 18.29
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.5,
+              "size": 45.03
+            },
+            {
+              "price": 4.7,
+              "size": 19.29
+            },
+            {
+              "price": 4.9,
+              "size": 8.16
+            },
+            {
+              "price": 5.2,
+              "size": 22.1
+            },
+            {
+              "price": 5.5,
+              "size": 26.64
+            }
+          ],
+          "runner_matched_volume": 450.46,
+          "last_price_traded": 4.5,
+          "market_prob": 0.223781,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 92207216,
+          "name": "7. Sir Tua",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 20.0,
+          "best_back_size": 2.63,
+          "best_lay": 21.0,
+          "best_lay_size": 2.13,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 20.0,
+              "size": 2.63
+            },
+            {
+              "price": 19.5,
+              "size": 1.01
+            },
+            {
+              "price": 18.0,
+              "size": 5.68
+            },
+            {
+              "price": 17.5,
+              "size": 10.56
+            },
+            {
+              "price": 17.0,
+              "size": 28.05
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 21.0,
+              "size": 2.13
+            },
+            {
+              "price": 22.0,
+              "size": 10.52
+            },
+            {
+              "price": 32.0,
+              "size": 2.44
+            },
+            {
+              "price": 60.0,
+              "size": 4.89
+            },
+            {
+              "price": 65.0,
+              "size": 21.52
+            }
+          ],
+          "runner_matched_volume": 312.31,
+          "last_price_traded": 21.0,
+          "market_prob": 0.049232,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 95069388,
+          "name": "10. Excuseme Mrofficer",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 210.0,
+          "best_back_size": 1.26,
+          "best_lay": 330.0,
+          "best_lay_size": 1.92,
+          "spread": 120.0,
+          "back_ladder": [
+            {
+              "price": 210.0,
+              "size": 1.26
+            },
+            {
+              "price": 200.0,
+              "size": 3.34
+            },
+            {
+              "price": 190.0,
+              "size": 2.36
+            },
+            {
+              "price": 180.0,
+              "size": 3.3
+            },
+            {
+              "price": 170.0,
+              "size": 2.63
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 330.0,
+              "size": 1.92
+            },
+            {
+              "price": 450.0,
+              "size": 1.01
+            },
+            {
+              "price": 920.0,
+              "size": 4.06
+            }
+          ],
+          "runner_matched_volume": 89.13,
+          "last_price_traded": 330.0,
+          "market_prob": 0.004689,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100660639,
+          "name": "9. Royaltown",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-16T04:28:23.462639Z",
+      "seconds_to_off": 397,
+      "market_matched_volume": 6664.64,
+      "overround_pct": 102.5,
+      "runners": [
+        {
+          "selection_id": 100660637,
+          "name": "1. Onmalone",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 6.4,
+          "best_back_size": 4.99,
+          "best_lay": 7.2,
+          "best_lay_size": 2.56,
+          "spread": 0.8,
+          "back_ladder": [
+            {
+              "price": 6.4,
+              "size": 4.99
+            },
+            {
+              "price": 6.2,
+              "size": 10.73
+            },
+            {
+              "price": 6.0,
+              "size": 31.32
+            },
+            {
+              "price": 5.9,
+              "size": 76.69
+            },
+            {
+              "price": 5.8,
+              "size": 11.33
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.2,
+              "size": 2.56
+            },
+            {
+              "price": 7.4,
+              "size": 5.63
+            },
+            {
+              "price": 8.0,
+              "size": 19.33
+            },
+            {
+              "price": 8.2,
+              "size": 7.73
+            },
+            {
+              "price": 8.4,
+              "size": 5.8
+            }
+          ],
+          "runner_matched_volume": 305.67,
+          "last_price_traded": 7.2,
+          "market_prob": 0.152499,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 2515810,
+          "name": "2. Skirmish",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 18.0,
+          "best_back_size": 4.5,
+          "best_lay": 19.0,
+          "best_lay_size": 5.44,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 18.0,
+              "size": 4.5
+            },
+            {
+              "price": 17.5,
+              "size": 1.93
+            },
+            {
+              "price": 17.0,
+              "size": 8.27
+            },
+            {
+              "price": 16.5,
+              "size": 29.1
+            },
+            {
+              "price": 16.0,
+              "size": 11.85
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 19.0,
+              "size": 5.44
+            },
+            {
+              "price": 25.0,
+              "size": 14.25
+            },
+            {
+              "price": 27.0,
+              "size": 14.0
+            },
+            {
+              "price": 32.0,
+              "size": 2.0
+            },
+            {
+              "price": 55.0,
+              "size": 21.52
+            }
+          ],
+          "runner_matched_volume": 202.08,
+          "last_price_traded": 19.0,
+          "market_prob": 0.054222,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 83155106,
+          "name": "3. Cuesta",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 3.2,
+          "best_back_size": 8.87,
+          "best_lay": 3.45,
+          "best_lay_size": 8.79,
+          "spread": 0.25,
+          "back_ladder": [
+            {
+              "price": 3.2,
+              "size": 8.87
+            },
+            {
+              "price": 3.15,
+              "size": 19.95
+            },
+            {
+              "price": 3.1,
+              "size": 38.48
+            },
+            {
+              "price": 3.05,
+              "size": 25.68
+            },
+            {
+              "price": 3.0,
+              "size": 110.52
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.45,
+              "size": 8.79
+            },
+            {
+              "price": 3.55,
+              "size": 6.54
+            },
+            {
+              "price": 3.7,
+              "size": 68.0
+            },
+            {
+              "price": 3.75,
+              "size": 22.0
+            },
+            {
+              "price": 3.8,
+              "size": 7.0
+            }
+          ],
+          "runner_matched_volume": 1088.86,
+          "last_price_traded": 3.2,
+          "market_prob": 0.304999,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 4970680,
+          "name": "4. Tsarevich",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 50.0,
+          "best_back_size": 20.3,
+          "best_lay": 60.0,
+          "best_lay_size": 1.94,
+          "spread": 10.0,
+          "back_ladder": [
+            {
+              "price": 50.0,
+              "size": 20.3
+            },
+            {
+              "price": 48.0,
+              "size": 4.95
+            },
+            {
+              "price": 46.0,
+              "size": 9.29
+            },
+            {
+              "price": 44.0,
+              "size": 9.27
+            },
+            {
+              "price": 42.0,
+              "size": 13.3
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 60.0,
+              "size": 1.94
+            },
+            {
+              "price": 65.0,
+              "size": 14.95
+            },
+            {
+              "price": 75.0,
+              "size": 4.25
+            },
+            {
+              "price": 260.0,
+              "size": 1.72
+            },
+            {
+              "price": 440.0,
+              "size": 4.14
+            }
+          ],
+          "runner_matched_volume": 352.49,
+          "last_price_traded": 50.0,
+          "market_prob": 0.01952,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 54901477,
+          "name": "5. Call Me Sassy",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 4.9,
+          "best_back_size": 11.74,
+          "best_lay": 5.1,
+          "best_lay_size": 37.66,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 4.9,
+              "size": 11.74
+            },
+            {
+              "price": 4.8,
+              "size": 10.5
+            },
+            {
+              "price": 4.7,
+              "size": 38.79
+            },
+            {
+              "price": 4.6,
+              "size": 25.1
+            },
+            {
+              "price": 4.5,
+              "size": 21.49
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.1,
+              "size": 37.66
+            },
+            {
+              "price": 5.2,
+              "size": 5.8
+            },
+            {
+              "price": 5.3,
+              "size": 9.71
+            },
+            {
+              "price": 5.4,
+              "size": 7.61
+            },
+            {
+              "price": 5.5,
+              "size": 5.8
+            }
+          ],
+          "runner_matched_volume": 3502.68,
+          "last_price_traded": 4.9,
+          "market_prob": 0.199183,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 92417665,
+          "name": "6. Rose Of Fenway",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 4.6,
+          "best_back_size": 6.94,
+          "best_lay": 4.9,
+          "best_lay_size": 11.09,
+          "spread": 0.3,
+          "back_ladder": [
+            {
+              "price": 4.6,
+              "size": 6.94
+            },
+            {
+              "price": 4.5,
+              "size": 17.08
+            },
+            {
+              "price": 4.4,
+              "size": 21.81
+            },
+            {
+              "price": 4.3,
+              "size": 20.92
+            },
+            {
+              "price": 4.2,
+              "size": 38.46
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.9,
+              "size": 11.09
+            },
+            {
+              "price": 5.0,
+              "size": 11.69
+            },
+            {
+              "price": 5.2,
+              "size": 22.1
+            },
+            {
+              "price": 5.3,
+              "size": 5.8
+            },
+            {
+              "price": 5.4,
+              "size": 7.73
+            }
+          ],
+          "runner_matched_volume": 736.7,
+          "last_price_traded": 4.9,
+          "market_prob": 0.212173,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 92207216,
+          "name": "7. Sir Tua",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 18.5,
+          "best_back_size": 1.45,
+          "best_lay": 21.0,
+          "best_lay_size": 6.64,
+          "spread": 2.5,
+          "back_ladder": [
+            {
+              "price": 18.5,
+              "size": 1.45
+            },
+            {
+              "price": 18.0,
+              "size": 5.68
+            },
+            {
+              "price": 17.5,
+              "size": 11.81
+            },
+            {
+              "price": 17.0,
+              "size": 28.05
+            },
+            {
+              "price": 16.5,
+              "size": 6.24
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 21.0,
+              "size": 6.64
+            },
+            {
+              "price": 22.0,
+              "size": 10.52
+            },
+            {
+              "price": 32.0,
+              "size": 1.93
+            },
+            {
+              "price": 60.0,
+              "size": 8.76
+            },
+            {
+              "price": 65.0,
+              "size": 21.52
+            }
+          ],
+          "runner_matched_volume": 385.78,
+          "last_price_traded": 21.0,
+          "market_prob": 0.052757,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 95069388,
+          "name": "10. Excuseme Mrofficer",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 210.0,
+          "best_back_size": 2.24,
+          "best_lay": 690.0,
+          "best_lay_size": 1.31,
+          "spread": 480.0,
+          "back_ladder": [
+            {
+              "price": 210.0,
+              "size": 2.24
+            },
+            {
+              "price": 200.0,
+              "size": 3.3
+            },
+            {
+              "price": 190.0,
+              "size": 2.36
+            },
+            {
+              "price": 180.0,
+              "size": 2.99
+            },
+            {
+              "price": 170.0,
+              "size": 2.15
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 690.0,
+              "size": 1.31
+            },
+            {
+              "price": 920.0,
+              "size": 4.06
+            }
+          ],
+          "runner_matched_volume": 90.34,
+          "last_price_traded": 340.0,
+          "market_prob": 0.004648,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100660639,
+          "name": "9. Royaltown",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-16T04:28:24.292247Z",
+      "seconds_to_off": 396,
+      "market_matched_volume": 6664.64,
+      "overround_pct": 102.4,
+      "runners": [
+        {
+          "selection_id": 100660637,
+          "name": "1. Onmalone",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 6.4,
+          "best_back_size": 4.99,
+          "best_lay": 7.2,
+          "best_lay_size": 2.56,
+          "spread": 0.8,
+          "back_ladder": [
+            {
+              "price": 6.4,
+              "size": 4.99
+            },
+            {
+              "price": 6.2,
+              "size": 10.73
+            },
+            {
+              "price": 6.0,
+              "size": 31.32
+            },
+            {
+              "price": 5.9,
+              "size": 76.69
+            },
+            {
+              "price": 5.8,
+              "size": 9.67
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.2,
+              "size": 2.56
+            },
+            {
+              "price": 7.4,
+              "size": 5.63
+            },
+            {
+              "price": 8.0,
+              "size": 19.33
+            },
+            {
+              "price": 8.2,
+              "size": 7.73
+            },
+            {
+              "price": 8.4,
+              "size": 5.8
+            }
+          ],
+          "runner_matched_volume": 305.67,
+          "last_price_traded": 7.2,
+          "market_prob": 0.152532,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 2515810,
+          "name": "2. Skirmish",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 18.0,
+          "best_back_size": 4.5,
+          "best_lay": 19.0,
+          "best_lay_size": 5.44,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 18.0,
+              "size": 4.5
+            },
+            {
+              "price": 17.5,
+              "size": 1.93
+            },
+            {
+              "price": 17.0,
+              "size": 8.27
+            },
+            {
+              "price": 16.5,
+              "size": 29.1
+            },
+            {
+              "price": 16.0,
+              "size": 11.85
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 19.0,
+              "size": 5.44
+            },
+            {
+              "price": 25.0,
+              "size": 14.25
+            },
+            {
+              "price": 27.0,
+              "size": 14.0
+            },
+            {
+              "price": 32.0,
+              "size": 2.0
+            },
+            {
+              "price": 55.0,
+              "size": 21.52
+            }
+          ],
+          "runner_matched_volume": 202.08,
+          "last_price_traded": 19.0,
+          "market_prob": 0.054233,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 83155106,
+          "name": "3. Cuesta",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 3.2,
+          "best_back_size": 13.39,
+          "best_lay": 3.45,
+          "best_lay_size": 8.79,
+          "spread": 0.25,
+          "back_ladder": [
+            {
+              "price": 3.2,
+              "size": 13.39
+            },
+            {
+              "price": 3.15,
+              "size": 19.95
+            },
+            {
+              "price": 3.1,
+              "size": 38.48
+            },
+            {
+              "price": 3.05,
+              "size": 25.68
+            },
+            {
+              "price": 3.0,
+              "size": 110.52
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.45,
+              "size": 8.79
+            },
+            {
+              "price": 3.55,
+              "size": 6.54
+            },
+            {
+              "price": 3.7,
+              "size": 68.0
+            },
+            {
+              "price": 3.75,
+              "size": 22.0
+            },
+            {
+              "price": 3.8,
+              "size": 7.0
+            }
+          ],
+          "runner_matched_volume": 1088.86,
+          "last_price_traded": 3.2,
+          "market_prob": 0.305063,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 4970680,
+          "name": "4. Tsarevich",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 50.0,
+          "best_back_size": 20.3,
+          "best_lay": 60.0,
+          "best_lay_size": 1.94,
+          "spread": 10.0,
+          "back_ladder": [
+            {
+              "price": 50.0,
+              "size": 20.3
+            },
+            {
+              "price": 48.0,
+              "size": 4.95
+            },
+            {
+              "price": 46.0,
+              "size": 9.29
+            },
+            {
+              "price": 44.0,
+              "size": 9.27
+            },
+            {
+              "price": 42.0,
+              "size": 13.3
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 60.0,
+              "size": 1.94
+            },
+            {
+              "price": 65.0,
+              "size": 14.95
+            },
+            {
+              "price": 75.0,
+              "size": 4.25
+            },
+            {
+              "price": 260.0,
+              "size": 1.72
+            },
+            {
+              "price": 440.0,
+              "size": 4.14
+            }
+          ],
+          "runner_matched_volume": 352.49,
+          "last_price_traded": 50.0,
+          "market_prob": 0.019524,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 54901477,
+          "name": "5. Call Me Sassy",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 4.9,
+          "best_back_size": 11.74,
+          "best_lay": 5.1,
+          "best_lay_size": 37.66,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 4.9,
+              "size": 11.74
+            },
+            {
+              "price": 4.8,
+              "size": 10.5
+            },
+            {
+              "price": 4.7,
+              "size": 38.79
+            },
+            {
+              "price": 4.6,
+              "size": 25.1
+            },
+            {
+              "price": 4.5,
+              "size": 21.49
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.1,
+              "size": 37.66
+            },
+            {
+              "price": 5.2,
+              "size": 5.8
+            },
+            {
+              "price": 5.3,
+              "size": 9.71
+            },
+            {
+              "price": 5.4,
+              "size": 7.61
+            },
+            {
+              "price": 5.5,
+              "size": 5.8
+            }
+          ],
+          "runner_matched_volume": 3502.68,
+          "last_price_traded": 4.9,
+          "market_prob": 0.199225,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 92417665,
+          "name": "6. Rose Of Fenway",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 4.6,
+          "best_back_size": 6.94,
+          "best_lay": 4.9,
+          "best_lay_size": 11.37,
+          "spread": 0.3,
+          "back_ladder": [
+            {
+              "price": 4.6,
+              "size": 6.94
+            },
+            {
+              "price": 4.5,
+              "size": 17.08
+            },
+            {
+              "price": 4.4,
+              "size": 23.74
+            },
+            {
+              "price": 4.3,
+              "size": 20.92
+            },
+            {
+              "price": 4.2,
+              "size": 38.46
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.9,
+              "size": 11.37
+            },
+            {
+              "price": 5.0,
+              "size": 11.69
+            },
+            {
+              "price": 5.2,
+              "size": 22.1
+            },
+            {
+              "price": 5.3,
+              "size": 5.8
+            },
+            {
+              "price": 5.4,
+              "size": 7.73
+            }
+          ],
+          "runner_matched_volume": 736.7,
+          "last_price_traded": 4.9,
+          "market_prob": 0.212218,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 92207216,
+          "name": "7. Sir Tua",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 18.5,
+          "best_back_size": 1.45,
+          "best_lay": 21.0,
+          "best_lay_size": 6.64,
+          "spread": 2.5,
+          "back_ladder": [
+            {
+              "price": 18.5,
+              "size": 1.45
+            },
+            {
+              "price": 18.0,
+              "size": 5.68
+            },
+            {
+              "price": 17.5,
+              "size": 11.81
+            },
+            {
+              "price": 17.0,
+              "size": 28.05
+            },
+            {
+              "price": 16.5,
+              "size": 6.24
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 21.0,
+              "size": 6.64
+            },
+            {
+              "price": 22.0,
+              "size": 10.52
+            },
+            {
+              "price": 32.0,
+              "size": 1.93
+            },
+            {
+              "price": 60.0,
+              "size": 8.76
+            },
+            {
+              "price": 65.0,
+              "size": 21.52
+            }
+          ],
+          "runner_matched_volume": 385.78,
+          "last_price_traded": 21.0,
+          "market_prob": 0.052768,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 95069388,
+          "name": "10. Excuseme Mrofficer",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 220.0,
+          "best_back_size": 2.13,
+          "best_lay": 690.0,
+          "best_lay_size": 1.62,
+          "spread": 470.0,
+          "back_ladder": [
+            {
+              "price": 220.0,
+              "size": 2.13
+            },
+            {
+              "price": 210.0,
+              "size": 2.32
+            },
+            {
+              "price": 200.0,
+              "size": 3.3
+            },
+            {
+              "price": 190.0,
+              "size": 2.36
+            },
+            {
+              "price": 180.0,
+              "size": 2.99
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 690.0,
+              "size": 1.62
+            },
+            {
+              "price": 920.0,
+              "size": 4.06
+            }
+          ],
+          "runner_matched_volume": 90.34,
+          "last_price_traded": 340.0,
+          "market_prob": 0.004437,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100660639,
+          "name": "9. Royaltown",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-16T04:30:07.760812Z",
+      "seconds_to_off": 293,
+      "market_matched_volume": 7517.8,
+      "overround_pct": 101.9,
+      "runners": [
+        {
+          "selection_id": 100660637,
+          "name": "1. Onmalone",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 6.8,
+          "best_back_size": 12.99,
+          "best_lay": 7.0,
+          "best_lay_size": 30.51,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 6.8,
+              "size": 12.99
+            },
+            {
+              "price": 6.6,
+              "size": 9.32
+            },
+            {
+              "price": 6.4,
+              "size": 21.42
+            },
+            {
+              "price": 6.2,
+              "size": 28.46
+            },
+            {
+              "price": 6.0,
+              "size": 70.46
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.0,
+              "size": 30.51
+            },
+            {
+              "price": 7.2,
+              "size": 6.8
+            },
+            {
+              "price": 7.4,
+              "size": 20.91
+            },
+            {
+              "price": 7.6,
+              "size": 3.85
+            },
+            {
+              "price": 7.8,
+              "size": 5.8
+            }
+          ],
+          "runner_matched_volume": 346.47,
+          "last_price_traded": 7.0,
+          "market_prob": 0.144339,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 2515810,
+          "name": "2. Skirmish",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 19.0,
+          "best_back_size": 5.57,
+          "best_lay": 20.0,
+          "best_lay_size": 5.06,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 19.0,
+              "size": 5.57
+            },
+            {
+              "price": 18.5,
+              "size": 3.57
+            },
+            {
+              "price": 18.0,
+              "size": 8.17
+            },
+            {
+              "price": 17.5,
+              "size": 5.86
+            },
+            {
+              "price": 17.0,
+              "size": 26.43
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 20.0,
+              "size": 5.06
+            },
+            {
+              "price": 25.0,
+              "size": 24.1
+            },
+            {
+              "price": 26.0,
+              "size": 7.73
+            },
+            {
+              "price": 27.0,
+              "size": 14.0
+            },
+            {
+              "price": 28.0,
+              "size": 5.8
+            }
+          ],
+          "runner_matched_volume": 265.12,
+          "last_price_traded": 19.0,
+          "market_prob": 0.051658,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 83155106,
+          "name": "3. Cuesta",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 3.25,
+          "best_back_size": 50.94,
+          "best_lay": 3.35,
+          "best_lay_size": 28.11,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 3.25,
+              "size": 50.94
+            },
+            {
+              "price": 3.2,
+              "size": 20.24
+            },
+            {
+              "price": 3.15,
+              "size": 30.99
+            },
+            {
+              "price": 3.1,
+              "size": 38.28
+            },
+            {
+              "price": 3.05,
+              "size": 39.83
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.35,
+              "size": 28.11
+            },
+            {
+              "price": 3.4,
+              "size": 40.0
+            },
+            {
+              "price": 3.45,
+              "size": 9.18
+            },
+            {
+              "price": 3.5,
+              "size": 65.0
+            },
+            {
+              "price": 3.55,
+              "size": 48.91
+            }
+          ],
+          "runner_matched_volume": 1365.54,
+          "last_price_traded": 3.25,
+          "market_prob": 0.302002,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 4970680,
+          "name": "4. Tsarevich",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 55.0,
+          "best_back_size": 1.44,
+          "best_lay": 65.0,
+          "best_lay_size": 15.27,
+          "spread": 10.0,
+          "back_ladder": [
+            {
+              "price": 55.0,
+              "size": 1.44
+            },
+            {
+              "price": 50.0,
+              "size": 14.03
+            },
+            {
+              "price": 48.0,
+              "size": 15.63
+            },
+            {
+              "price": 46.0,
+              "size": 12.51
+            },
+            {
+              "price": 44.0,
+              "size": 13.8
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 65.0,
+              "size": 15.27
+            },
+            {
+              "price": 270.0,
+              "size": 1.66
+            },
+            {
+              "price": 440.0,
+              "size": 4.14
+            },
+            {
+              "price": 600.0,
+              "size": 23.39
+            },
+            {
+              "price": 920.0,
+              "size": 4.06
+            }
+          ],
+          "runner_matched_volume": 391.29,
+          "last_price_traded": 50.0,
+          "market_prob": 0.017846,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 54901477,
+          "name": "5. Call Me Sassy",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 5.0,
+          "best_back_size": 114.04,
+          "best_lay": 5.1,
+          "best_lay_size": 59.5,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.0,
+              "size": 114.04
+            },
+            {
+              "price": 4.9,
+              "size": 91.23
+            },
+            {
+              "price": 4.8,
+              "size": 88.59
+            },
+            {
+              "price": 4.7,
+              "size": 44.08
+            },
+            {
+              "price": 4.6,
+              "size": 58.01
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.1,
+              "size": 59.5
+            },
+            {
+              "price": 5.2,
+              "size": 65.8
+            },
+            {
+              "price": 5.3,
+              "size": 29.71
+            },
+            {
+              "price": 5.4,
+              "size": 32.61
+            },
+            {
+              "price": 5.5,
+              "size": 5.8
+            }
+          ],
+          "runner_matched_volume": 3603.96,
+          "last_price_traded": 5.1,
+          "market_prob": 0.196301,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 92417665,
+          "name": "6. Rose Of Fenway",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 4.3,
+          "best_back_size": 24.48,
+          "best_lay": 4.5,
+          "best_lay_size": 14.48,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 4.3,
+              "size": 24.48
+            },
+            {
+              "price": 4.2,
+              "size": 34.11
+            },
+            {
+              "price": 4.1,
+              "size": 34.13
+            },
+            {
+              "price": 4.0,
+              "size": 99.35
+            },
+            {
+              "price": 3.95,
+              "size": 69.05
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.5,
+              "size": 14.48
+            },
+            {
+              "price": 4.6,
+              "size": 38.79
+            },
+            {
+              "price": 4.7,
+              "size": 21.59
+            },
+            {
+              "price": 4.8,
+              "size": 31.25
+            },
+            {
+              "price": 4.9,
+              "size": 11.0
+            }
+          ],
+          "runner_matched_volume": 968.15,
+          "last_price_traded": 4.4,
+          "market_prob": 0.228257,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 92207216,
+          "name": "7. Sir Tua",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 18.5,
+          "best_back_size": 13.38,
+          "best_lay": 21.0,
+          "best_lay_size": 4.88,
+          "spread": 2.5,
+          "back_ladder": [
+            {
+              "price": 18.5,
+              "size": 13.38
+            },
+            {
+              "price": 18.0,
+              "size": 8.98
+            },
+            {
+              "price": 17.5,
+              "size": 5.86
+            },
+            {
+              "price": 17.0,
+              "size": 47.38
+            },
+            {
+              "price": 16.5,
+              "size": 12.96
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 21.0,
+              "size": 4.88
+            },
+            {
+              "price": 22.0,
+              "size": 10.52
+            },
+            {
+              "price": 30.0,
+              "size": 1.93
+            },
+            {
+              "price": 65.0,
+              "size": 21.52
+            },
+            {
+              "price": 110.0,
+              "size": 4.09
+            }
+          ],
+          "runner_matched_volume": 474.45,
+          "last_price_traded": 18.5,
+          "market_prob": 0.053054,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 95069388,
+          "name": "10. Excuseme Mrofficer",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 150.0,
+          "best_back_size": 8.46,
+          "best_lay": 740.0,
+          "best_lay_size": 1.31,
+          "spread": 590.0,
+          "back_ladder": [
+            {
+              "price": 150.0,
+              "size": 8.46
+            },
+            {
+              "price": 140.0,
+              "size": 1.29
+            },
+            {
+              "price": 130.0,
+              "size": 1.75
+            },
+            {
+              "price": 110.0,
+              "size": 8.8
+            },
+            {
+              "price": 80.0,
+              "size": 7.59
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 740.0,
+              "size": 1.31
+            },
+            {
+              "price": 770.0,
+              "size": 2.0
+            },
+            {
+              "price": 920.0,
+              "size": 4.3
+            }
+          ],
+          "runner_matched_volume": 102.79,
+          "last_price_traded": 150.0,
+          "market_prob": 0.006543,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100660639,
+          "name": "9. Royaltown",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-16T04:30:08.634973Z",
+      "seconds_to_off": 292,
+      "market_matched_volume": 7517.8,
+      "overround_pct": 101.9,
+      "runners": [
+        {
+          "selection_id": 100660637,
+          "name": "1. Onmalone",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 6.8,
+          "best_back_size": 12.99,
+          "best_lay": 7.0,
+          "best_lay_size": 30.51,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 6.8,
+              "size": 12.99
+            },
+            {
+              "price": 6.6,
+              "size": 9.32
+            },
+            {
+              "price": 6.4,
+              "size": 21.42
+            },
+            {
+              "price": 6.2,
+              "size": 28.46
+            },
+            {
+              "price": 6.0,
+              "size": 70.46
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.0,
+              "size": 30.51
+            },
+            {
+              "price": 7.2,
+              "size": 6.8
+            },
+            {
+              "price": 7.4,
+              "size": 20.91
+            },
+            {
+              "price": 7.6,
+              "size": 3.85
+            },
+            {
+              "price": 7.8,
+              "size": 5.8
+            }
+          ],
+          "runner_matched_volume": 346.47,
+          "last_price_traded": 7.0,
+          "market_prob": 0.144339,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 2515810,
+          "name": "2. Skirmish",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 19.0,
+          "best_back_size": 5.57,
+          "best_lay": 20.0,
+          "best_lay_size": 5.06,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 19.0,
+              "size": 5.57
+            },
+            {
+              "price": 18.5,
+              "size": 3.57
+            },
+            {
+              "price": 18.0,
+              "size": 8.17
+            },
+            {
+              "price": 17.5,
+              "size": 5.86
+            },
+            {
+              "price": 17.0,
+              "size": 26.43
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 20.0,
+              "size": 5.06
+            },
+            {
+              "price": 25.0,
+              "size": 24.1
+            },
+            {
+              "price": 26.0,
+              "size": 7.73
+            },
+            {
+              "price": 27.0,
+              "size": 14.0
+            },
+            {
+              "price": 28.0,
+              "size": 5.8
+            }
+          ],
+          "runner_matched_volume": 265.12,
+          "last_price_traded": 19.0,
+          "market_prob": 0.051658,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 83155106,
+          "name": "3. Cuesta",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 3.25,
+          "best_back_size": 50.94,
+          "best_lay": 3.35,
+          "best_lay_size": 28.11,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 3.25,
+              "size": 50.94
+            },
+            {
+              "price": 3.2,
+              "size": 20.24
+            },
+            {
+              "price": 3.15,
+              "size": 30.99
+            },
+            {
+              "price": 3.1,
+              "size": 38.28
+            },
+            {
+              "price": 3.05,
+              "size": 39.83
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.35,
+              "size": 28.11
+            },
+            {
+              "price": 3.4,
+              "size": 40.0
+            },
+            {
+              "price": 3.45,
+              "size": 9.18
+            },
+            {
+              "price": 3.5,
+              "size": 65.0
+            },
+            {
+              "price": 3.55,
+              "size": 48.91
+            }
+          ],
+          "runner_matched_volume": 1365.54,
+          "last_price_traded": 3.25,
+          "market_prob": 0.302002,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 4970680,
+          "name": "4. Tsarevich",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 55.0,
+          "best_back_size": 1.44,
+          "best_lay": 65.0,
+          "best_lay_size": 15.27,
+          "spread": 10.0,
+          "back_ladder": [
+            {
+              "price": 55.0,
+              "size": 1.44
+            },
+            {
+              "price": 50.0,
+              "size": 14.03
+            },
+            {
+              "price": 48.0,
+              "size": 15.63
+            },
+            {
+              "price": 46.0,
+              "size": 12.51
+            },
+            {
+              "price": 44.0,
+              "size": 13.8
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 65.0,
+              "size": 15.27
+            },
+            {
+              "price": 270.0,
+              "size": 1.66
+            },
+            {
+              "price": 440.0,
+              "size": 4.14
+            },
+            {
+              "price": 600.0,
+              "size": 23.39
+            },
+            {
+              "price": 920.0,
+              "size": 4.06
+            }
+          ],
+          "runner_matched_volume": 391.29,
+          "last_price_traded": 50.0,
+          "market_prob": 0.017846,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 54901477,
+          "name": "5. Call Me Sassy",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 5.0,
+          "best_back_size": 114.04,
+          "best_lay": 5.1,
+          "best_lay_size": 59.5,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.0,
+              "size": 114.04
+            },
+            {
+              "price": 4.9,
+              "size": 91.23
+            },
+            {
+              "price": 4.8,
+              "size": 88.59
+            },
+            {
+              "price": 4.7,
+              "size": 44.08
+            },
+            {
+              "price": 4.6,
+              "size": 58.01
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.1,
+              "size": 59.5
+            },
+            {
+              "price": 5.2,
+              "size": 65.8
+            },
+            {
+              "price": 5.3,
+              "size": 29.71
+            },
+            {
+              "price": 5.4,
+              "size": 32.61
+            },
+            {
+              "price": 5.5,
+              "size": 5.8
+            }
+          ],
+          "runner_matched_volume": 3603.96,
+          "last_price_traded": 5.1,
+          "market_prob": 0.196301,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 92417665,
+          "name": "6. Rose Of Fenway",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 4.3,
+          "best_back_size": 24.48,
+          "best_lay": 4.5,
+          "best_lay_size": 14.48,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 4.3,
+              "size": 24.48
+            },
+            {
+              "price": 4.2,
+              "size": 34.11
+            },
+            {
+              "price": 4.1,
+              "size": 34.13
+            },
+            {
+              "price": 4.0,
+              "size": 99.35
+            },
+            {
+              "price": 3.95,
+              "size": 69.05
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.5,
+              "size": 14.48
+            },
+            {
+              "price": 4.6,
+              "size": 38.79
+            },
+            {
+              "price": 4.7,
+              "size": 21.59
+            },
+            {
+              "price": 4.8,
+              "size": 31.25
+            },
+            {
+              "price": 4.9,
+              "size": 11.0
+            }
+          ],
+          "runner_matched_volume": 968.15,
+          "last_price_traded": 4.4,
+          "market_prob": 0.228257,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 92207216,
+          "name": "7. Sir Tua",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 18.5,
+          "best_back_size": 13.38,
+          "best_lay": 21.0,
+          "best_lay_size": 4.88,
+          "spread": 2.5,
+          "back_ladder": [
+            {
+              "price": 18.5,
+              "size": 13.38
+            },
+            {
+              "price": 18.0,
+              "size": 8.98
+            },
+            {
+              "price": 17.5,
+              "size": 5.86
+            },
+            {
+              "price": 17.0,
+              "size": 47.38
+            },
+            {
+              "price": 16.5,
+              "size": 12.96
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 21.0,
+              "size": 4.88
+            },
+            {
+              "price": 22.0,
+              "size": 10.52
+            },
+            {
+              "price": 30.0,
+              "size": 1.93
+            },
+            {
+              "price": 44.0,
+              "size": 21.52
+            },
+            {
+              "price": 65.0,
+              "size": 21.52
+            }
+          ],
+          "runner_matched_volume": 474.45,
+          "last_price_traded": 18.5,
+          "market_prob": 0.053054,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 95069388,
+          "name": "10. Excuseme Mrofficer",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 150.0,
+          "best_back_size": 8.46,
+          "best_lay": 740.0,
+          "best_lay_size": 1.31,
+          "spread": 590.0,
+          "back_ladder": [
+            {
+              "price": 150.0,
+              "size": 8.46
+            },
+            {
+              "price": 140.0,
+              "size": 1.29
+            },
+            {
+              "price": 130.0,
+              "size": 1.75
+            },
+            {
+              "price": 110.0,
+              "size": 8.8
+            },
+            {
+              "price": 80.0,
+              "size": 7.59
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 740.0,
+              "size": 1.31
+            },
+            {
+              "price": 770.0,
+              "size": 2.0
+            },
+            {
+              "price": 920.0,
+              "size": 4.3
+            }
+          ],
+          "runner_matched_volume": 102.79,
+          "last_price_traded": 150.0,
+          "market_prob": 0.006543,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100660639,
+          "name": "9. Royaltown",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-16T04:31:44.587855Z",
+      "seconds_to_off": 196,
+      "market_matched_volume": 8850.98,
+      "overround_pct": 101.9,
+      "runners": [
+        {
+          "selection_id": 100660637,
+          "name": "1. Onmalone",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 6.6,
+          "best_back_size": 17.61,
+          "best_lay": 6.8,
+          "best_lay_size": 16.2,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 6.6,
+              "size": 17.61
+            },
+            {
+              "price": 6.4,
+              "size": 17.57
+            },
+            {
+              "price": 6.2,
+              "size": 28.78
+            },
+            {
+              "price": 6.0,
+              "size": 79.68
+            },
+            {
+              "price": 5.9,
+              "size": 37.93
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.8,
+              "size": 16.2
+            },
+            {
+              "price": 7.0,
+              "size": 22.8
+            },
+            {
+              "price": 7.2,
+              "size": 4.85
+            },
+            {
+              "price": 7.4,
+              "size": 26.6
+            },
+            {
+              "price": 7.6,
+              "size": 48.04
+            }
+          ],
+          "runner_matched_volume": 382.78,
+          "last_price_traded": 6.8,
+          "market_prob": 0.148754,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 2515810,
+          "name": "2. Skirmish",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 18.5,
+          "best_back_size": 4.85,
+          "best_lay": 19.5,
+          "best_lay_size": 8.7,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 18.5,
+              "size": 4.85
+            },
+            {
+              "price": 18.0,
+              "size": 4.88
+            },
+            {
+              "price": 17.5,
+              "size": 11.9
+            },
+            {
+              "price": 17.0,
+              "size": 11.81
+            },
+            {
+              "price": 16.5,
+              "size": 34.61
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 19.5,
+              "size": 8.7
+            },
+            {
+              "price": 20.0,
+              "size": 5.28
+            },
+            {
+              "price": 24.0,
+              "size": 12.42
+            },
+            {
+              "price": 25.0,
+              "size": 31.57
+            },
+            {
+              "price": 26.0,
+              "size": 7.73
+            }
+          ],
+          "runner_matched_volume": 303.4,
+          "last_price_traded": 19.0,
+          "market_prob": 0.053069,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 83155106,
+          "name": "3. Cuesta",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 3.2,
+          "best_back_size": 19.07,
+          "best_lay": 3.35,
+          "best_lay_size": 6.55,
+          "spread": 0.15,
+          "back_ladder": [
+            {
+              "price": 3.2,
+              "size": 19.07
+            },
+            {
+              "price": 3.15,
+              "size": 157.93
+            },
+            {
+              "price": 3.1,
+              "size": 67.62
+            },
+            {
+              "price": 3.05,
+              "size": 41.76
+            },
+            {
+              "price": 3.0,
+              "size": 130.26
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.35,
+              "size": 6.55
+            },
+            {
+              "price": 3.4,
+              "size": 64.96
+            },
+            {
+              "price": 3.5,
+              "size": 124.01
+            },
+            {
+              "price": 3.55,
+              "size": 105.37
+            },
+            {
+              "price": 3.6,
+              "size": 68.42
+            }
+          ],
+          "runner_matched_volume": 2032.84,
+          "last_price_traded": 3.2,
+          "market_prob": 0.306805,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 4970680,
+          "name": "4. Tsarevich",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 50.0,
+          "best_back_size": 9.29,
+          "best_lay": 60.0,
+          "best_lay_size": 5.21,
+          "spread": 10.0,
+          "back_ladder": [
+            {
+              "price": 50.0,
+              "size": 9.29
+            },
+            {
+              "price": 48.0,
+              "size": 17.55
+            },
+            {
+              "price": 46.0,
+              "size": 7.87
+            },
+            {
+              "price": 44.0,
+              "size": 12.09
+            },
+            {
+              "price": 42.0,
+              "size": 13.89
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 60.0,
+              "size": 5.21
+            },
+            {
+              "price": 65.0,
+              "size": 9.97
+            },
+            {
+              "price": 440.0,
+              "size": 4.74
+            },
+            {
+              "price": 600.0,
+              "size": 23.39
+            },
+            {
+              "price": 920.0,
+              "size": 4.06
+            }
+          ],
+          "runner_matched_volume": 438.58,
+          "last_price_traded": 50.0,
+          "market_prob": 0.019636,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 54901477,
+          "name": "5. Call Me Sassy",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 5.1,
+          "best_back_size": 27.03,
+          "best_lay": 5.2,
+          "best_lay_size": 112.88,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.1,
+              "size": 27.03
+            },
+            {
+              "price": 5.0,
+              "size": 154.31
+            },
+            {
+              "price": 4.9,
+              "size": 101.08
+            },
+            {
+              "price": 4.8,
+              "size": 88.59
+            },
+            {
+              "price": 4.7,
+              "size": 48.24
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.2,
+              "size": 112.88
+            },
+            {
+              "price": 5.3,
+              "size": 29.71
+            },
+            {
+              "price": 5.4,
+              "size": 36.26
+            },
+            {
+              "price": 5.5,
+              "size": 5.8
+            },
+            {
+              "price": 5.6,
+              "size": 7.73
+            }
+          ],
+          "runner_matched_volume": 3875.19,
+          "last_price_traded": 5.2,
+          "market_prob": 0.192505,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 92417665,
+          "name": "6. Rose Of Fenway",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 4.4,
+          "best_back_size": 35.87,
+          "best_lay": 4.5,
+          "best_lay_size": 43.48,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 4.4,
+              "size": 35.87
+            },
+            {
+              "price": 4.3,
+              "size": 11.58
+            },
+            {
+              "price": 4.2,
+              "size": 36.48
+            },
+            {
+              "price": 4.1,
+              "size": 32.51
+            },
+            {
+              "price": 4.0,
+              "size": 84.92
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.5,
+              "size": 43.48
+            },
+            {
+              "price": 4.6,
+              "size": 49.14
+            },
+            {
+              "price": 4.7,
+              "size": 12.83
+            },
+            {
+              "price": 4.8,
+              "size": 64.93
+            },
+            {
+              "price": 4.9,
+              "size": 61.45
+            }
+          ],
+          "runner_matched_volume": 1182.44,
+          "last_price_traded": 4.4,
+          "market_prob": 0.223131,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 92207216,
+          "name": "7. Sir Tua",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 20.0,
+          "best_back_size": 11.75,
+          "best_lay": 22.0,
+          "best_lay_size": 20.84,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 20.0,
+              "size": 11.75
+            },
+            {
+              "price": 19.5,
+              "size": 17.26
+            },
+            {
+              "price": 19.0,
+              "size": 10.23
+            },
+            {
+              "price": 18.5,
+              "size": 7.93
+            },
+            {
+              "price": 18.0,
+              "size": 11.46
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 22.0,
+              "size": 20.84
+            },
+            {
+              "price": 23.0,
+              "size": 15.47
+            },
+            {
+              "price": 24.0,
+              "size": 9.27
+            },
+            {
+              "price": 25.0,
+              "size": 7.73
+            },
+            {
+              "price": 26.0,
+              "size": 7.73
+            }
+          ],
+          "runner_matched_volume": 524.16,
+          "last_price_traded": 22.0,
+          "market_prob": 0.049089,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 95069388,
+          "name": "10. Excuseme Mrofficer",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 140.0,
+          "best_back_size": 5.0,
+          "best_lay": 190.0,
+          "best_lay_size": 3.88,
+          "spread": 50.0,
+          "back_ladder": [
+            {
+              "price": 140.0,
+              "size": 5.0
+            },
+            {
+              "price": 130.0,
+              "size": 1.93
+            },
+            {
+              "price": 120.0,
+              "size": 19.06
+            },
+            {
+              "price": 110.0,
+              "size": 10.46
+            },
+            {
+              "price": 100.0,
+              "size": 26.04
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 190.0,
+              "size": 3.88
+            },
+            {
+              "price": 200.0,
+              "size": 3.87
+            },
+            {
+              "price": 780.0,
+              "size": 1.01
+            },
+            {
+              "price": 920.0,
+              "size": 4.06
+            }
+          ],
+          "runner_matched_volume": 111.55,
+          "last_price_traded": 160.0,
+          "market_prob": 0.007013,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100660639,
+          "name": "9. Royaltown",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-16T04:31:45.656335Z",
+      "seconds_to_off": 195,
+      "market_matched_volume": 8873.86,
+      "overround_pct": 102.2,
+      "runners": [
+        {
+          "selection_id": 100660637,
+          "name": "1. Onmalone",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 6.6,
+          "best_back_size": 12.7,
+          "best_lay": 6.8,
+          "best_lay_size": 16.2,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 6.6,
+              "size": 12.7
+            },
+            {
+              "price": 6.4,
+              "size": 17.57
+            },
+            {
+              "price": 6.2,
+              "size": 28.78
+            },
+            {
+              "price": 6.0,
+              "size": 79.68
+            },
+            {
+              "price": 5.9,
+              "size": 36.29
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.8,
+              "size": 16.2
+            },
+            {
+              "price": 7.0,
+              "size": 22.8
+            },
+            {
+              "price": 7.2,
+              "size": 4.85
+            },
+            {
+              "price": 7.4,
+              "size": 26.6
+            },
+            {
+              "price": 7.6,
+              "size": 48.04
+            }
+          ],
+          "runner_matched_volume": 382.78,
+          "last_price_traded": 6.8,
+          "market_prob": 0.148183,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 2515810,
+          "name": "2. Skirmish",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 18.5,
+          "best_back_size": 1.28,
+          "best_lay": 19.5,
+          "best_lay_size": 8.7,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 18.5,
+              "size": 1.28
+            },
+            {
+              "price": 18.0,
+              "size": 4.88
+            },
+            {
+              "price": 17.5,
+              "size": 11.9
+            },
+            {
+              "price": 17.0,
+              "size": 11.81
+            },
+            {
+              "price": 16.5,
+              "size": 35.19
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 19.5,
+              "size": 8.7
+            },
+            {
+              "price": 20.0,
+              "size": 5.28
+            },
+            {
+              "price": 24.0,
+              "size": 12.42
+            },
+            {
+              "price": 25.0,
+              "size": 31.57
+            },
+            {
+              "price": 26.0,
+              "size": 7.73
+            }
+          ],
+          "runner_matched_volume": 303.4,
+          "last_price_traded": 19.0,
+          "market_prob": 0.052865,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 83155106,
+          "name": "3. Cuesta",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 3.2,
+          "best_back_size": 20.29,
+          "best_lay": 3.35,
+          "best_lay_size": 6.55,
+          "spread": 0.15,
+          "back_ladder": [
+            {
+              "price": 3.2,
+              "size": 20.29
+            },
+            {
+              "price": 3.15,
+              "size": 157.93
+            },
+            {
+              "price": 3.1,
+              "size": 67.62
+            },
+            {
+              "price": 3.05,
+              "size": 41.76
+            },
+            {
+              "price": 3.0,
+              "size": 130.26
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.35,
+              "size": 6.55
+            },
+            {
+              "price": 3.4,
+              "size": 73.38
+            },
+            {
+              "price": 3.5,
+              "size": 115.59
+            },
+            {
+              "price": 3.55,
+              "size": 97.03
+            },
+            {
+              "price": 3.7,
+              "size": 3.0
+            }
+          ],
+          "runner_matched_volume": 2032.84,
+          "last_price_traded": 3.2,
+          "market_prob": 0.305628,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 4970680,
+          "name": "4. Tsarevich",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 50.0,
+          "best_back_size": 10.28,
+          "best_lay": 60.0,
+          "best_lay_size": 5.21,
+          "spread": 10.0,
+          "back_ladder": [
+            {
+              "price": 50.0,
+              "size": 10.28
+            },
+            {
+              "price": 48.0,
+              "size": 17.55
+            },
+            {
+              "price": 46.0,
+              "size": 7.87
+            },
+            {
+              "price": 44.0,
+              "size": 12.09
+            },
+            {
+              "price": 42.0,
+              "size": 13.89
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 60.0,
+              "size": 5.21
+            },
+            {
+              "price": 65.0,
+              "size": 9.97
+            },
+            {
+              "price": 290.0,
+              "size": 1.86
+            },
+            {
+              "price": 440.0,
+              "size": 4.42
+            },
+            {
+              "price": 600.0,
+              "size": 23.39
+            }
+          ],
+          "runner_matched_volume": 438.58,
+          "last_price_traded": 50.0,
+          "market_prob": 0.01956,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 54901477,
+          "name": "5. Call Me Sassy",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 5.0,
+          "best_back_size": 164.31,
+          "best_lay": 5.1,
+          "best_lay_size": 9.82,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.0,
+              "size": 164.31
+            },
+            {
+              "price": 4.9,
+              "size": 101.08
+            },
+            {
+              "price": 4.8,
+              "size": 88.59
+            },
+            {
+              "price": 4.7,
+              "size": 48.24
+            },
+            {
+              "price": 4.6,
+              "size": 88.92
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.1,
+              "size": 9.82
+            },
+            {
+              "price": 5.2,
+              "size": 180.54
+            },
+            {
+              "price": 5.3,
+              "size": 29.71
+            },
+            {
+              "price": 5.4,
+              "size": 36.26
+            },
+            {
+              "price": 5.5,
+              "size": 5.8
+            }
+          ],
+          "runner_matched_volume": 3898.07,
+          "last_price_traded": 5.1,
+          "market_prob": 0.195602,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 92417665,
+          "name": "6. Rose Of Fenway",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 4.4,
+          "best_back_size": 27.68,
+          "best_lay": 4.5,
+          "best_lay_size": 43.48,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 4.4,
+              "size": 27.68
+            },
+            {
+              "price": 4.3,
+              "size": 11.58
+            },
+            {
+              "price": 4.2,
+              "size": 36.48
+            },
+            {
+              "price": 4.1,
+              "size": 32.51
+            },
+            {
+              "price": 4.0,
+              "size": 84.92
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.5,
+              "size": 43.48
+            },
+            {
+              "price": 4.6,
+              "size": 49.14
+            },
+            {
+              "price": 4.7,
+              "size": 12.83
+            },
+            {
+              "price": 4.8,
+              "size": 64.93
+            },
+            {
+              "price": 4.9,
+              "size": 61.45
+            }
+          ],
+          "runner_matched_volume": 1182.44,
+          "last_price_traded": 4.4,
+          "market_prob": 0.222275,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 92207216,
+          "name": "7. Sir Tua",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 20.0,
+          "best_back_size": 10.11,
+          "best_lay": 22.0,
+          "best_lay_size": 20.84,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 20.0,
+              "size": 10.11
+            },
+            {
+              "price": 19.5,
+              "size": 17.26
+            },
+            {
+              "price": 19.0,
+              "size": 10.23
+            },
+            {
+              "price": 18.5,
+              "size": 7.93
+            },
+            {
+              "price": 18.0,
+              "size": 11.46
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 22.0,
+              "size": 20.84
+            },
+            {
+              "price": 23.0,
+              "size": 15.47
+            },
+            {
+              "price": 24.0,
+              "size": 9.27
+            },
+            {
+              "price": 25.0,
+              "size": 7.73
+            },
+            {
+              "price": 26.0,
+              "size": 7.73
+            }
+          ],
+          "runner_matched_volume": 524.16,
+          "last_price_traded": 22.0,
+          "market_prob": 0.0489,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 95069388,
+          "name": "10. Excuseme Mrofficer",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 140.0,
+          "best_back_size": 5.0,
+          "best_lay": 190.0,
+          "best_lay_size": 3.88,
+          "spread": 50.0,
+          "back_ladder": [
+            {
+              "price": 140.0,
+              "size": 5.0
+            },
+            {
+              "price": 130.0,
+              "size": 3.68
+            },
+            {
+              "price": 120.0,
+              "size": 19.06
+            },
+            {
+              "price": 110.0,
+              "size": 10.46
+            },
+            {
+              "price": 100.0,
+              "size": 26.04
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 190.0,
+              "size": 3.88
+            },
+            {
+              "price": 200.0,
+              "size": 3.87
+            },
+            {
+              "price": 740.0,
+              "size": 1.49
+            },
+            {
+              "price": 920.0,
+              "size": 4.18
+            }
+          ],
+          "runner_matched_volume": 111.55,
+          "last_price_traded": 160.0,
+          "market_prob": 0.006986,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100660639,
+          "name": "9. Royaltown",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-16T04:33:16.030147Z",
+      "seconds_to_off": 104,
+      "market_matched_volume": 15937.88,
+      "overround_pct": 101.5,
+      "runners": [
+        {
+          "selection_id": 100660637,
+          "name": "1. Onmalone",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 6.2,
+          "best_back_size": 23.0,
+          "best_lay": 6.4,
+          "best_lay_size": 41.98,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 6.2,
+              "size": 23.0
+            },
+            {
+              "price": 6.0,
+              "size": 88.8
+            },
+            {
+              "price": 5.9,
+              "size": 108.83
+            },
+            {
+              "price": 5.8,
+              "size": 53.11
+            },
+            {
+              "price": 5.7,
+              "size": 122.74
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.4,
+              "size": 41.98
+            },
+            {
+              "price": 6.6,
+              "size": 8.73
+            },
+            {
+              "price": 6.8,
+              "size": 17.34
+            },
+            {
+              "price": 7.0,
+              "size": 13.15
+            },
+            {
+              "price": 7.2,
+              "size": 65.28
+            }
+          ],
+          "runner_matched_volume": 706.08,
+          "last_price_traded": 6.2,
+          "market_prob": 0.158928,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 2515810,
+          "name": "2. Skirmish",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 18.0,
+          "best_back_size": 7.38,
+          "best_lay": 19.5,
+          "best_lay_size": 5.81,
+          "spread": 1.5,
+          "back_ladder": [
+            {
+              "price": 18.0,
+              "size": 7.38
+            },
+            {
+              "price": 17.5,
+              "size": 22.91
+            },
+            {
+              "price": 17.0,
+              "size": 16.1
+            },
+            {
+              "price": 16.5,
+              "size": 36.4
+            },
+            {
+              "price": 16.0,
+              "size": 43.94
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 19.5,
+              "size": 5.81
+            },
+            {
+              "price": 20.0,
+              "size": 25.6
+            },
+            {
+              "price": 21.0,
+              "size": 5.78
+            },
+            {
+              "price": 22.0,
+              "size": 7.73
+            },
+            {
+              "price": 23.0,
+              "size": 3.85
+            }
+          ],
+          "runner_matched_volume": 537.23,
+          "last_price_traded": 19.0,
+          "market_prob": 0.054742,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 83155106,
+          "name": "3. Cuesta",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 3.25,
+          "best_back_size": 26.11,
+          "best_lay": 3.3,
+          "best_lay_size": 375.05,
+          "spread": 0.05,
+          "back_ladder": [
+            {
+              "price": 3.25,
+              "size": 26.11
+            },
+            {
+              "price": 3.2,
+              "size": 200.18
+            },
+            {
+              "price": 3.15,
+              "size": 296.49
+            },
+            {
+              "price": 3.1,
+              "size": 188.26
+            },
+            {
+              "price": 3.05,
+              "size": 142.5
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.3,
+              "size": 375.05
+            },
+            {
+              "price": 3.35,
+              "size": 20.88
+            },
+            {
+              "price": 3.4,
+              "size": 66.09
+            },
+            {
+              "price": 3.5,
+              "size": 67.52
+            },
+            {
+              "price": 3.55,
+              "size": 97.03
+            }
+          ],
+          "runner_matched_volume": 3799.51,
+          "last_price_traded": 3.3,
+          "market_prob": 0.303185,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 4970680,
+          "name": "4. Tsarevich",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 50.0,
+          "best_back_size": 3.81,
+          "best_lay": 60.0,
+          "best_lay_size": 9.26,
+          "spread": 10.0,
+          "back_ladder": [
+            {
+              "price": 50.0,
+              "size": 3.81
+            },
+            {
+              "price": 48.0,
+              "size": 5.57
+            },
+            {
+              "price": 46.0,
+              "size": 12.26
+            },
+            {
+              "price": 44.0,
+              "size": 16.26
+            },
+            {
+              "price": 42.0,
+              "size": 19.55
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 60.0,
+              "size": 9.26
+            },
+            {
+              "price": 65.0,
+              "size": 7.07
+            },
+            {
+              "price": 290.0,
+              "size": 2.11
+            },
+            {
+              "price": 440.0,
+              "size": 4.61
+            },
+            {
+              "price": 600.0,
+              "size": 23.39
+            }
+          ],
+          "runner_matched_volume": 539.51,
+          "last_price_traded": 50.0,
+          "market_prob": 0.019707,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 54901477,
+          "name": "5. Call Me Sassy",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 5.5,
+          "best_back_size": 29.59,
+          "best_lay": 5.8,
+          "best_lay_size": 38.53,
+          "spread": 0.3,
+          "back_ladder": [
+            {
+              "price": 5.5,
+              "size": 29.59
+            },
+            {
+              "price": 5.4,
+              "size": 72.96
+            },
+            {
+              "price": 5.3,
+              "size": 96.17
+            },
+            {
+              "price": 5.2,
+              "size": 99.26
+            },
+            {
+              "price": 5.1,
+              "size": 229.75
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.8,
+              "size": 38.53
+            },
+            {
+              "price": 5.9,
+              "size": 9.42
+            },
+            {
+              "price": 6.0,
+              "size": 11.6
+            },
+            {
+              "price": 6.2,
+              "size": 62.64
+            },
+            {
+              "price": 6.4,
+              "size": 76.66
+            }
+          ],
+          "runner_matched_volume": 7503.77,
+          "last_price_traded": 5.5,
+          "market_prob": 0.179155,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 92417665,
+          "name": "6. Rose Of Fenway",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 4.3,
+          "best_back_size": 63.32,
+          "best_lay": 4.4,
+          "best_lay_size": 3.46,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 4.3,
+              "size": 63.32
+            },
+            {
+              "price": 4.2,
+              "size": 70.14
+            },
+            {
+              "price": 4.1,
+              "size": 301.0
+            },
+            {
+              "price": 4.0,
+              "size": 209.03
+            },
+            {
+              "price": 3.95,
+              "size": 120.36
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.4,
+              "size": 3.46
+            },
+            {
+              "price": 4.5,
+              "size": 67.63
+            },
+            {
+              "price": 4.6,
+              "size": 53.64
+            },
+            {
+              "price": 4.7,
+              "size": 43.51
+            },
+            {
+              "price": 4.8,
+              "size": 92.73
+            }
+          ],
+          "runner_matched_volume": 2097.11,
+          "last_price_traded": 4.3,
+          "market_prob": 0.229151,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 92207216,
+          "name": "7. Sir Tua",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 21.0,
+          "best_back_size": 13.88,
+          "best_lay": 23.0,
+          "best_lay_size": 5.11,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 21.0,
+              "size": 13.88
+            },
+            {
+              "price": 20.0,
+              "size": 18.02
+            },
+            {
+              "price": 19.5,
+              "size": 30.25
+            },
+            {
+              "price": 19.0,
+              "size": 18.79
+            },
+            {
+              "price": 18.5,
+              "size": 29.15
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 23.0,
+              "size": 5.11
+            },
+            {
+              "price": 24.0,
+              "size": 13.86
+            },
+            {
+              "price": 25.0,
+              "size": 9.76
+            },
+            {
+              "price": 26.0,
+              "size": 9.5
+            },
+            {
+              "price": 27.0,
+              "size": 3.02
+            }
+          ],
+          "runner_matched_volume": 636.95,
+          "last_price_traded": 22.0,
+          "market_prob": 0.046921,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 95069388,
+          "name": "10. Excuseme Mrofficer",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 120.0,
+          "best_back_size": 23.23,
+          "best_lay": 150.0,
+          "best_lay_size": 3.87,
+          "spread": 30.0,
+          "back_ladder": [
+            {
+              "price": 120.0,
+              "size": 23.23
+            },
+            {
+              "price": 110.0,
+              "size": 16.2
+            },
+            {
+              "price": 100.0,
+              "size": 27.56
+            },
+            {
+              "price": 95.0,
+              "size": 8.75
+            },
+            {
+              "price": 90.0,
+              "size": 23.18
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 150.0,
+              "size": 3.87
+            },
+            {
+              "price": 160.0,
+              "size": 5.34
+            },
+            {
+              "price": 170.0,
+              "size": 1.71
+            },
+            {
+              "price": 180.0,
+              "size": 6.36
+            },
+            {
+              "price": 480.0,
+              "size": 1.7
+            }
+          ],
+          "runner_matched_volume": 117.68,
+          "last_price_traded": 120.0,
+          "market_prob": 0.008211,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100660639,
+          "name": "9. Royaltown",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-16T04:33:17.095887Z",
+      "seconds_to_off": 103,
+      "market_matched_volume": 15954.44,
+      "overround_pct": 101.6,
+      "runners": [
+        {
+          "selection_id": 100660637,
+          "name": "1. Onmalone",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 6.2,
+          "best_back_size": 72.1,
+          "best_lay": 6.4,
+          "best_lay_size": 41.98,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 6.2,
+              "size": 72.1
+            },
+            {
+              "price": 6.0,
+              "size": 88.8
+            },
+            {
+              "price": 5.9,
+              "size": 108.83
+            },
+            {
+              "price": 5.8,
+              "size": 53.11
+            },
+            {
+              "price": 5.7,
+              "size": 122.74
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.4,
+              "size": 41.98
+            },
+            {
+              "price": 6.6,
+              "size": 8.73
+            },
+            {
+              "price": 6.8,
+              "size": 17.34
+            },
+            {
+              "price": 7.0,
+              "size": 13.15
+            },
+            {
+              "price": 7.2,
+              "size": 65.28
+            }
+          ],
+          "runner_matched_volume": 706.08,
+          "last_price_traded": 6.2,
+          "market_prob": 0.158797,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 2515810,
+          "name": "2. Skirmish",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 18.0,
+          "best_back_size": 7.38,
+          "best_lay": 19.5,
+          "best_lay_size": 5.81,
+          "spread": 1.5,
+          "back_ladder": [
+            {
+              "price": 18.0,
+              "size": 7.38
+            },
+            {
+              "price": 17.5,
+              "size": 22.91
+            },
+            {
+              "price": 17.0,
+              "size": 14.17
+            },
+            {
+              "price": 16.5,
+              "size": 40.1
+            },
+            {
+              "price": 16.0,
+              "size": 43.94
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 19.5,
+              "size": 5.81
+            },
+            {
+              "price": 20.0,
+              "size": 25.6
+            },
+            {
+              "price": 21.0,
+              "size": 5.78
+            },
+            {
+              "price": 22.0,
+              "size": 7.73
+            },
+            {
+              "price": 23.0,
+              "size": 3.85
+            }
+          ],
+          "runner_matched_volume": 537.23,
+          "last_price_traded": 19.0,
+          "market_prob": 0.054697,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 83155106,
+          "name": "3. Cuesta",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 3.25,
+          "best_back_size": 25.83,
+          "best_lay": 3.3,
+          "best_lay_size": 375.05,
+          "spread": 0.05,
+          "back_ladder": [
+            {
+              "price": 3.25,
+              "size": 25.83
+            },
+            {
+              "price": 3.2,
+              "size": 200.18
+            },
+            {
+              "price": 3.15,
+              "size": 296.49
+            },
+            {
+              "price": 3.1,
+              "size": 188.26
+            },
+            {
+              "price": 3.05,
+              "size": 142.5
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.3,
+              "size": 375.05
+            },
+            {
+              "price": 3.35,
+              "size": 20.88
+            },
+            {
+              "price": 3.4,
+              "size": 66.09
+            },
+            {
+              "price": 3.5,
+              "size": 67.52
+            },
+            {
+              "price": 3.55,
+              "size": 97.03
+            }
+          ],
+          "runner_matched_volume": 3800.07,
+          "last_price_traded": 3.25,
+          "market_prob": 0.302936,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 4970680,
+          "name": "4. Tsarevich",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 48.0,
+          "best_back_size": 7.31,
+          "best_lay": 60.0,
+          "best_lay_size": 19.26,
+          "spread": 12.0,
+          "back_ladder": [
+            {
+              "price": 48.0,
+              "size": 7.31
+            },
+            {
+              "price": 46.0,
+              "size": 10.51
+            },
+            {
+              "price": 44.0,
+              "size": 16.26
+            },
+            {
+              "price": 42.0,
+              "size": 18.15
+            },
+            {
+              "price": 40.0,
+              "size": 34.95
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 60.0,
+              "size": 19.26
+            },
+            {
+              "price": 65.0,
+              "size": 7.07
+            },
+            {
+              "price": 290.0,
+              "size": 2.11
+            },
+            {
+              "price": 440.0,
+              "size": 4.61
+            },
+            {
+              "price": 600.0,
+              "size": 23.39
+            }
+          ],
+          "runner_matched_volume": 555.51,
+          "last_price_traded": 48.0,
+          "market_prob": 0.020511,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 54901477,
+          "name": "5. Call Me Sassy",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 5.5,
+          "best_back_size": 29.59,
+          "best_lay": 5.8,
+          "best_lay_size": 38.53,
+          "spread": 0.3,
+          "back_ladder": [
+            {
+              "price": 5.5,
+              "size": 29.59
+            },
+            {
+              "price": 5.4,
+              "size": 72.96
+            },
+            {
+              "price": 5.3,
+              "size": 96.17
+            },
+            {
+              "price": 5.2,
+              "size": 99.26
+            },
+            {
+              "price": 5.1,
+              "size": 229.75
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.8,
+              "size": 38.53
+            },
+            {
+              "price": 5.9,
+              "size": 9.42
+            },
+            {
+              "price": 6.0,
+              "size": 11.6
+            },
+            {
+              "price": 6.2,
+              "size": 62.64
+            },
+            {
+              "price": 6.4,
+              "size": 76.66
+            }
+          ],
+          "runner_matched_volume": 7503.77,
+          "last_price_traded": 5.5,
+          "market_prob": 0.179008,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 92417665,
+          "name": "6. Rose Of Fenway",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 4.3,
+          "best_back_size": 63.32,
+          "best_lay": 4.4,
+          "best_lay_size": 3.46,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 4.3,
+              "size": 63.32
+            },
+            {
+              "price": 4.2,
+              "size": 70.14
+            },
+            {
+              "price": 4.1,
+              "size": 301.0
+            },
+            {
+              "price": 4.0,
+              "size": 209.03
+            },
+            {
+              "price": 3.95,
+              "size": 120.36
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.4,
+              "size": 3.46
+            },
+            {
+              "price": 4.5,
+              "size": 67.63
+            },
+            {
+              "price": 4.6,
+              "size": 55.57
+            },
+            {
+              "price": 4.7,
+              "size": 43.51
+            },
+            {
+              "price": 4.8,
+              "size": 92.73
+            }
+          ],
+          "runner_matched_volume": 2097.11,
+          "last_price_traded": 4.3,
+          "market_prob": 0.228963,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 92207216,
+          "name": "7. Sir Tua",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 21.0,
+          "best_back_size": 13.88,
+          "best_lay": 23.0,
+          "best_lay_size": 5.11,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 21.0,
+              "size": 13.88
+            },
+            {
+              "price": 20.0,
+              "size": 18.02
+            },
+            {
+              "price": 19.5,
+              "size": 30.25
+            },
+            {
+              "price": 19.0,
+              "size": 18.79
+            },
+            {
+              "price": 18.5,
+              "size": 29.15
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 23.0,
+              "size": 5.11
+            },
+            {
+              "price": 24.0,
+              "size": 13.86
+            },
+            {
+              "price": 25.0,
+              "size": 9.76
+            },
+            {
+              "price": 26.0,
+              "size": 9.5
+            },
+            {
+              "price": 27.0,
+              "size": 3.02
+            }
+          ],
+          "runner_matched_volume": 636.95,
+          "last_price_traded": 22.0,
+          "market_prob": 0.046883,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 95069388,
+          "name": "10. Excuseme Mrofficer",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 120.0,
+          "best_back_size": 23.23,
+          "best_lay": 150.0,
+          "best_lay_size": 3.87,
+          "spread": 30.0,
+          "back_ladder": [
+            {
+              "price": 120.0,
+              "size": 23.23
+            },
+            {
+              "price": 110.0,
+              "size": 16.2
+            },
+            {
+              "price": 100.0,
+              "size": 27.56
+            },
+            {
+              "price": 95.0,
+              "size": 8.75
+            },
+            {
+              "price": 90.0,
+              "size": 23.18
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 150.0,
+              "size": 3.87
+            },
+            {
+              "price": 160.0,
+              "size": 5.34
+            },
+            {
+              "price": 170.0,
+              "size": 1.71
+            },
+            {
+              "price": 180.0,
+              "size": 6.36
+            },
+            {
+              "price": 480.0,
+              "size": 1.7
+            }
+          ],
+          "runner_matched_volume": 117.68,
+          "last_price_traded": 120.0,
+          "market_prob": 0.008205,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100660639,
+          "name": "9. Royaltown",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    }
+  ],
+  "place": {
+    "100660637": {
+      "place_entry": 1.97,
+      "place_bsp": 1.97,
+      "place_status": "LOSER",
+      "placed": false
+    },
+    "2515810": {
+      "place_entry": 3.8,
+      "place_bsp": 3.66,
+      "place_status": "LOSER",
+      "placed": false
+    },
+    "83155106": {
+      "place_entry": 1.42,
+      "place_bsp": 1.32,
+      "place_status": "WINNER",
+      "placed": true
+    },
+    "4970680": {
+      "place_entry": 7.8,
+      "place_bsp": 7.6,
+      "place_status": "LOSER",
+      "placed": false
+    },
+    "54901477": {
+      "place_entry": 1.65,
+      "place_bsp": 1.98,
+      "place_status": "WINNER",
+      "placed": true
+    },
+    "92417665": {
+      "place_entry": 1.57,
+      "place_bsp": 1.92,
+      "place_status": "WINNER",
+      "placed": true
+    },
+    "92207216": {
+      "place_entry": 3.65,
+      "place_bsp": 3.89,
+      "place_status": "LOSER",
+      "placed": false
+    },
+    "95069388": {
+      "place_entry": 16.5,
+      "place_bsp": 11.27,
+      "place_status": "LOSER",
+      "placed": false
+    },
+    "100660639": {
+      "place_bsp": NaN,
+      "place_status": "REMOVED",
+      "placed": false
+    }
+  },
+  "place_market_id": "1.260034202",
+  "place_terms": 3,
+  "finalized_at": "2026-07-16T04:38:08.036138Z"
+}
