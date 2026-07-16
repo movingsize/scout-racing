@@ -583,53 +583,8 @@
       }
     },
     {
-      "name": "8. Reina Del Rio",
-      "saddle_cloth": 5,
-      "selection_id": 100660952,
-      "status": "ACTIVE",
-      "best_back": null,
-      "back_depth_aud": 0,
-      "bsp_near": null,
-      "market_signal": "NEUTRAL",
-      "trainer": "Shea Eden",
-      "jockey": "Joe Bowditch",
-      "last5": "6x",
-      "career": "1:0-0-0",
-      "weight_kg": 57.5,
-      "barrier": 12,
-      "scratched": true,
-      "form_status": "unraced",
-      "warnings": [
-        "runner scratched (per form source) \u2014 career reconstructed from last5 for reference only, not expected to start",
-        "form source shows this runner SCRATCHED but Betfair still lists it ACTIVE \u2014 cross-source timing mismatch, treat the price as unreliable until one side updates"
-      ],
-      "last5_parsed": [
-        {
-          "raw": "6",
-          "pos": 6,
-          "nonFinish": false,
-          "spell": false
-        },
-        {
-          "raw": "x",
-          "pos": null,
-          "nonFinish": false,
-          "spell": true
-        }
-      ],
-      "data_status": "reconstructed",
-      "open_price": 36.0,
-      "call": {
-        "call": "OK",
-        "label": "OK",
-        "confidence": "thin",
-        "reason": "career reconstructed from last5 (1:0-0-0)",
-        "guard": "data_adequacy v1.0"
-      }
-    },
-    {
       "name": "10. Covert Action",
-      "saddle_cloth": 6,
+      "saddle_cloth": 5,
       "selection_id": 6254981,
       "status": "ACTIVE",
       "best_back": null,
@@ -748,7 +703,7 @@
     },
     {
       "name": "11. Majestic Son",
-      "saddle_cloth": 7,
+      "saddle_cloth": 6,
       "selection_id": 100660954,
       "status": "ACTIVE",
       "best_back": null,
@@ -837,7 +792,7 @@
     },
     {
       "name": "12. Bossy Babe",
-      "saddle_cloth": 8,
+      "saddle_cloth": 7,
       "selection_id": 100049425,
       "status": "ACTIVE",
       "best_back": null,
@@ -936,7 +891,7 @@
     },
     {
       "name": "3. Vintell",
-      "saddle_cloth": 9,
+      "saddle_cloth": 8,
       "selection_id": 100660948,
       "status": "ACTIVE",
       "best_back": null,
@@ -981,7 +936,7 @@
     },
     {
       "name": "5. Carlow Rose",
-      "saddle_cloth": 10,
+      "saddle_cloth": 9,
       "selection_id": 100660950,
       "status": "ACTIVE",
       "best_back": null,
@@ -1026,7 +981,7 @@
     },
     {
       "name": "2. Delavega",
-      "saddle_cloth": 11,
+      "saddle_cloth": 10,
       "selection_id": 100660947,
       "status": "ACTIVE",
       "best_back": null,
@@ -1065,7 +1020,7 @@
     },
     {
       "name": "9. Brazen Bold",
-      "saddle_cloth": 12,
+      "saddle_cloth": 11,
       "selection_id": 100660953,
       "status": "ACTIVE",
       "best_back": null,
@@ -1093,9 +1048,54 @@
         "reason": "data bad: data_status=unraced and no race form on record",
         "guard": "data_adequacy v1.0"
       }
+    },
+    {
+      "name": "8. Reina Del Rio",
+      "saddle_cloth": 12,
+      "selection_id": 100660952,
+      "status": "ACTIVE",
+      "best_back": null,
+      "back_depth_aud": 0,
+      "bsp_near": null,
+      "market_signal": "NEUTRAL",
+      "trainer": "Shea Eden",
+      "jockey": "Joe Bowditch",
+      "last5": "6x",
+      "career": "1:0-0-0",
+      "weight_kg": 57.5,
+      "barrier": 12,
+      "scratched": true,
+      "form_status": "unraced",
+      "warnings": [
+        "runner scratched (per form source) \u2014 career reconstructed from last5 for reference only, not expected to start",
+        "form source shows this runner SCRATCHED but Betfair still lists it ACTIVE \u2014 cross-source timing mismatch, treat the price as unreliable until one side updates"
+      ],
+      "last5_parsed": [
+        {
+          "raw": "6",
+          "pos": 6,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "x",
+          "pos": null,
+          "nonFinish": false,
+          "spell": true
+        }
+      ],
+      "data_status": "reconstructed",
+      "open_price": 36.0,
+      "call": {
+        "call": "OK",
+        "label": "OK",
+        "confidence": "thin",
+        "reason": "career reconstructed from last5 (1:0-0-0)",
+        "guard": "data_adequacy v1.0"
+      }
     }
   ],
-  "last_polled_at": "2026-07-16T02:17:20.031965Z",
+  "last_polled_at": "2026-07-16T02:32:15.797567Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
     "ok": 9,
