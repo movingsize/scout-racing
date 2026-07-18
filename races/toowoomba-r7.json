@@ -6,87 +6,25 @@
   "race_type": "Flat",
   "start_time_utc": "2026-07-18T10:14:00.000Z",
   "market_id": "1.260094213",
-  "market_overround_pct": 121.3,
+  "market_overround_pct": null,
   "track_condition": "Good 4",
   "weather": {
-    "temperature_c": 17.0,
+    "temperature_c": 17.2,
     "precipitation_mm": 0.0,
-    "wind_speed_kmh": 13.1,
+    "wind_speed_kmh": 12.8,
     "wind_direction": "SSE",
     "condition": "Clear sky"
   },
   "form_analysis": "FLIRTATIOUS LASS placed when unwanted in the betting at only start at Toowoomba and keep an eye on a Michael G Nolan trained horse, genuine contender. SPIRIT OF RIVERTON finished strongly to end up midfield at only start at Toowoomba and from a strong camp, still in this. MANDRIANA only just missed at only start, finishing three quarters of a length back from the winner at Gatton and from a good stable, sneaky chance. ENTERPRISE ALOISIA first starter and drawn ideally, each-way claims.",
   "runners": [
     {
-      "name": "4. Mandriana",
-      "saddle_cloth": 3,
-      "selection_id": 100720989,
-      "status": "ACTIVE",
-      "best_back": 2.12,
-      "back_depth_aud": 135.0,
-      "bsp_near": 2.66,
-      "market_signal": "\u2744\ufe0f DRIFT",
-      "trainer": "Paul Wallace",
-      "jockey": "Chloe Lowe",
-      "last5": "----2",
-      "career": "1:0-1-0",
-      "weight_kg": 59.0,
-      "barrier": 2,
-      "form_status": "confirmed",
-      "warnings": [
-        "last5 contains unrecognized non-finish code(s): ['-']",
-        "career reconstructed from last5 (raw last5='----2', scraped career='1-0-1-0' was inconsistent with it)"
-      ],
-      "last5_parsed": [
-        {
-          "raw": "-",
-          "pos": null,
-          "nonFinish": true,
-          "spell": false
-        },
-        {
-          "raw": "-",
-          "pos": null,
-          "nonFinish": true,
-          "spell": false
-        },
-        {
-          "raw": "-",
-          "pos": null,
-          "nonFinish": true,
-          "spell": false
-        },
-        {
-          "raw": "-",
-          "pos": null,
-          "nonFinish": true,
-          "spell": false
-        },
-        {
-          "raw": "2",
-          "pos": 2,
-          "nonFinish": false,
-          "spell": false
-        }
-      ],
-      "data_status": "reconstructed",
-      "open_price": 2.12,
-      "call": {
-        "call": "OK",
-        "label": "OK",
-        "confidence": "thin",
-        "reason": "career reconstructed from last5 (1:0-1-0)",
-        "guard": "data_adequacy v1.0"
-      }
-    },
-    {
       "name": "1. Spirit Of Riverton",
       "saddle_cloth": 1,
       "selection_id": 100720987,
       "status": "ACTIVE",
-      "best_back": 3.35,
-      "back_depth_aud": 66.0,
-      "bsp_near": 3.31,
+      "best_back": null,
+      "back_depth_aud": 0,
+      "bsp_near": null,
       "market_signal": "NEUTRAL",
       "trainer": "Pat Webster",
       "jockey": "Bailey Wheeler",
@@ -142,13 +80,197 @@
       }
     },
     {
+      "name": "3. Lili Anna",
+      "saddle_cloth": 2,
+      "selection_id": 100720988,
+      "status": "ACTIVE",
+      "best_back": null,
+      "back_depth_aud": 0,
+      "bsp_near": null,
+      "market_signal": "NEUTRAL",
+      "trainer": "Nicholas Beck",
+      "jockey": "Nathan Fazackerley",
+      "last5": "-----",
+      "career": "0-0-0-0",
+      "weight_kg": 59.0,
+      "barrier": 5,
+      "form_status": "confirmed",
+      "warnings": [
+        "last5 contains unrecognized non-finish code(s): ['-']"
+      ],
+      "last5_parsed": [
+        {
+          "raw": "-",
+          "pos": null,
+          "nonFinish": true,
+          "spell": false
+        },
+        {
+          "raw": "-",
+          "pos": null,
+          "nonFinish": true,
+          "spell": false
+        },
+        {
+          "raw": "-",
+          "pos": null,
+          "nonFinish": true,
+          "spell": false
+        },
+        {
+          "raw": "-",
+          "pos": null,
+          "nonFinish": true,
+          "spell": false
+        },
+        {
+          "raw": "-",
+          "pos": null,
+          "nonFinish": true,
+          "spell": false
+        }
+      ],
+      "data_status": "unraced",
+      "open_price": 40.0,
+      "call": {
+        "call": "NO_CALL",
+        "label": "DATA BAD",
+        "confidence": null,
+        "reason": "data bad: data_status=unraced and no race form on record",
+        "guard": "data_adequacy v1.0"
+      }
+    },
+    {
+      "name": "4. Mandriana",
+      "saddle_cloth": 3,
+      "selection_id": 100720989,
+      "status": "ACTIVE",
+      "best_back": null,
+      "back_depth_aud": 0,
+      "bsp_near": null,
+      "market_signal": "NEUTRAL",
+      "trainer": "Paul Wallace",
+      "jockey": "Chloe Lowe",
+      "last5": "----2",
+      "career": "1:0-1-0",
+      "weight_kg": 59.0,
+      "barrier": 2,
+      "form_status": "confirmed",
+      "warnings": [
+        "last5 contains unrecognized non-finish code(s): ['-']",
+        "career reconstructed from last5 (raw last5='----2', scraped career='1-0-1-0' was inconsistent with it)"
+      ],
+      "last5_parsed": [
+        {
+          "raw": "-",
+          "pos": null,
+          "nonFinish": true,
+          "spell": false
+        },
+        {
+          "raw": "-",
+          "pos": null,
+          "nonFinish": true,
+          "spell": false
+        },
+        {
+          "raw": "-",
+          "pos": null,
+          "nonFinish": true,
+          "spell": false
+        },
+        {
+          "raw": "-",
+          "pos": null,
+          "nonFinish": true,
+          "spell": false
+        },
+        {
+          "raw": "2",
+          "pos": 2,
+          "nonFinish": false,
+          "spell": false
+        }
+      ],
+      "data_status": "reconstructed",
+      "open_price": 2.12,
+      "call": {
+        "call": "OK",
+        "label": "OK",
+        "confidence": "thin",
+        "reason": "career reconstructed from last5 (1:0-1-0)",
+        "guard": "data_adequacy v1.0"
+      }
+    },
+    {
+      "name": "5. Enterprise Aloisia",
+      "saddle_cloth": 4,
+      "selection_id": 100720990,
+      "status": "ACTIVE",
+      "best_back": null,
+      "back_depth_aud": 0,
+      "bsp_near": null,
+      "market_signal": "NEUTRAL",
+      "trainer": "Philip Minter",
+      "jockey": "Gary Geran",
+      "last5": "-----",
+      "career": "0-0-0-0",
+      "weight_kg": 58.5,
+      "barrier": 1,
+      "form_status": "confirmed",
+      "warnings": [
+        "last5 contains unrecognized non-finish code(s): ['-']"
+      ],
+      "last5_parsed": [
+        {
+          "raw": "-",
+          "pos": null,
+          "nonFinish": true,
+          "spell": false
+        },
+        {
+          "raw": "-",
+          "pos": null,
+          "nonFinish": true,
+          "spell": false
+        },
+        {
+          "raw": "-",
+          "pos": null,
+          "nonFinish": true,
+          "spell": false
+        },
+        {
+          "raw": "-",
+          "pos": null,
+          "nonFinish": true,
+          "spell": false
+        },
+        {
+          "raw": "-",
+          "pos": null,
+          "nonFinish": true,
+          "spell": false
+        }
+      ],
+      "data_status": "unraced",
+      "open_price": 19.0,
+      "call": {
+        "call": "NO_CALL",
+        "label": "DATA BAD",
+        "confidence": null,
+        "reason": "data bad: data_status=unraced and no race form on record",
+        "guard": "data_adequacy v1.0"
+      }
+    },
+    {
       "name": "6. Flirtatious Lass",
       "saddle_cloth": 5,
       "selection_id": 100720991,
       "status": "ACTIVE",
-      "best_back": 7.2,
-      "back_depth_aud": 56.0,
-      "bsp_near": 6.71,
+      "best_back": null,
+      "back_depth_aud": 0,
+      "bsp_near": null,
       "market_signal": "NEUTRAL",
       "trainer": "Michael G Nolan",
       "jockey": "Nozi Tomizawa",
@@ -208,10 +330,10 @@
       "saddle_cloth": 6,
       "selection_id": 100720993,
       "status": "ACTIVE",
-      "best_back": 14.5,
-      "back_depth_aud": 32.0,
-      "bsp_near": 24.25,
-      "market_signal": "\u2744\ufe0f DRIFT",
+      "best_back": null,
+      "back_depth_aud": 0,
+      "bsp_near": null,
+      "market_signal": "NEUTRAL",
       "trainer": "Philip Minter",
       "jockey": "Dan McGillivray",
       "last5": "---39",
@@ -266,34 +388,34 @@
       }
     },
     {
-      "name": "15. Nasiron",
-      "saddle_cloth": 10,
-      "selection_id": 86099117,
+      "name": "9. Exceptional Rupert",
+      "saddle_cloth": 7,
+      "selection_id": 100720994,
       "status": "ACTIVE",
-      "best_back": 16.5,
-      "back_depth_aud": 28.0,
-      "bsp_near": 16.15,
+      "best_back": null,
+      "back_depth_aud": 0,
+      "bsp_near": null,
       "market_signal": "NEUTRAL",
-      "trainer": "Roger Milne",
-      "jockey": "Hannah Richardson",
-      "last5": "77475",
+      "trainer": "Kevin Sims",
+      "jockey": "Scott Sheargold",
+      "last5": "58407",
       "career": "5:0-0-0",
-      "weight_kg": 54.0,
-      "barrier": 4,
+      "weight_kg": 58.0,
+      "barrier": 8,
       "form_status": "confirmed",
       "warnings": [
-        "career reconstructed from last5 (raw last5='77475', scraped career='14-0-2-2' was inconsistent with it)"
+        "career reconstructed from last5 (raw last5='58407', scraped career='5-0-0-0' was inconsistent with it)"
       ],
       "last5_parsed": [
         {
-          "raw": "7",
-          "pos": 7,
+          "raw": "5",
+          "pos": 5,
           "nonFinish": false,
           "spell": false
         },
         {
-          "raw": "7",
-          "pos": 7,
+          "raw": "8",
+          "pos": 8,
           "nonFinish": false,
           "spell": false
         },
@@ -304,20 +426,20 @@
           "spell": false
         },
         {
-          "raw": "7",
-          "pos": 7,
+          "raw": "0",
+          "pos": 0,
           "nonFinish": false,
           "spell": false
         },
         {
-          "raw": "5",
-          "pos": 5,
+          "raw": "7",
+          "pos": 7,
           "nonFinish": false,
           "spell": false
         }
       ],
       "data_status": "reconstructed",
-      "open_price": 16.5,
+      "open_price": 46.0,
       "call": {
         "call": "OK",
         "label": "OK",
@@ -327,75 +449,14 @@
       }
     },
     {
-      "name": "5. Enterprise Aloisia",
-      "saddle_cloth": 4,
-      "selection_id": 100720990,
-      "status": "ACTIVE",
-      "best_back": 19.0,
-      "back_depth_aud": 28.0,
-      "bsp_near": 79.0,
-      "market_signal": "\u2744\ufe0f DRIFT",
-      "trainer": "Philip Minter",
-      "jockey": "Gary Geran",
-      "last5": "-----",
-      "career": "0-0-0-0",
-      "weight_kg": 58.5,
-      "barrier": 1,
-      "form_status": "confirmed",
-      "warnings": [
-        "last5 contains unrecognized non-finish code(s): ['-']"
-      ],
-      "last5_parsed": [
-        {
-          "raw": "-",
-          "pos": null,
-          "nonFinish": true,
-          "spell": false
-        },
-        {
-          "raw": "-",
-          "pos": null,
-          "nonFinish": true,
-          "spell": false
-        },
-        {
-          "raw": "-",
-          "pos": null,
-          "nonFinish": true,
-          "spell": false
-        },
-        {
-          "raw": "-",
-          "pos": null,
-          "nonFinish": true,
-          "spell": false
-        },
-        {
-          "raw": "-",
-          "pos": null,
-          "nonFinish": true,
-          "spell": false
-        }
-      ],
-      "data_status": "unraced",
-      "open_price": 19.0,
-      "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=unraced and no race form on record",
-        "guard": "data_adequacy v1.0"
-      }
-    },
-    {
       "name": "12. Shes A Belle",
       "saddle_cloth": 8,
       "selection_id": 92784180,
       "status": "ACTIVE",
-      "best_back": 20.0,
-      "back_depth_aud": 32.0,
-      "bsp_near": 80.5,
-      "market_signal": "\u2744\ufe0f DRIFT",
+      "best_back": null,
+      "back_depth_aud": 0,
+      "bsp_near": null,
+      "market_signal": "NEUTRAL",
       "trainer": "Rex Lipp",
       "jockey": "Kenji Yoshida",
       "last5": "--895",
@@ -450,75 +511,14 @@
       }
     },
     {
-      "name": "3. Lili Anna",
-      "saddle_cloth": 2,
-      "selection_id": 100720988,
-      "status": "ACTIVE",
-      "best_back": 40.0,
-      "back_depth_aud": 16.0,
-      "bsp_near": 135.0,
-      "market_signal": "\u2744\ufe0f DRIFT",
-      "trainer": "Nicholas Beck",
-      "jockey": "Nathan Fazackerley",
-      "last5": "-----",
-      "career": "0-0-0-0",
-      "weight_kg": 59.0,
-      "barrier": 5,
-      "form_status": "confirmed",
-      "warnings": [
-        "last5 contains unrecognized non-finish code(s): ['-']"
-      ],
-      "last5_parsed": [
-        {
-          "raw": "-",
-          "pos": null,
-          "nonFinish": true,
-          "spell": false
-        },
-        {
-          "raw": "-",
-          "pos": null,
-          "nonFinish": true,
-          "spell": false
-        },
-        {
-          "raw": "-",
-          "pos": null,
-          "nonFinish": true,
-          "spell": false
-        },
-        {
-          "raw": "-",
-          "pos": null,
-          "nonFinish": true,
-          "spell": false
-        },
-        {
-          "raw": "-",
-          "pos": null,
-          "nonFinish": true,
-          "spell": false
-        }
-      ],
-      "data_status": "unraced",
-      "open_price": 40.0,
-      "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=unraced and no race form on record",
-        "guard": "data_adequacy v1.0"
-      }
-    },
-    {
       "name": "13. Thats A Beauty",
       "saddle_cloth": 9,
       "selection_id": 100720996,
       "status": "ACTIVE",
-      "best_back": 40.0,
-      "back_depth_aud": 17.0,
-      "bsp_near": 32.13,
-      "market_signal": "\ud83d\udd25 STEAM",
+      "best_back": null,
+      "back_depth_aud": 0,
+      "bsp_near": null,
+      "market_signal": "NEUTRAL",
       "trainer": "Kris Zahmel",
       "jockey": "Kelsey Lenton",
       "last5": "--704",
@@ -573,34 +573,34 @@
       }
     },
     {
-      "name": "9. Exceptional Rupert",
-      "saddle_cloth": 7,
-      "selection_id": 100720994,
+      "name": "15. Nasiron",
+      "saddle_cloth": 10,
+      "selection_id": 86099117,
       "status": "ACTIVE",
-      "best_back": 46.0,
-      "back_depth_aud": 15.0,
-      "bsp_near": 138.0,
-      "market_signal": "\u2744\ufe0f DRIFT",
-      "trainer": "Kevin Sims",
-      "jockey": "Scott Sheargold",
-      "last5": "58407",
+      "best_back": null,
+      "back_depth_aud": 0,
+      "bsp_near": null,
+      "market_signal": "NEUTRAL",
+      "trainer": "Roger Milne",
+      "jockey": "Hannah Richardson",
+      "last5": "77475",
       "career": "5:0-0-0",
-      "weight_kg": 58.0,
-      "barrier": 8,
+      "weight_kg": 54.0,
+      "barrier": 4,
       "form_status": "confirmed",
       "warnings": [
-        "career reconstructed from last5 (raw last5='58407', scraped career='5-0-0-0' was inconsistent with it)"
+        "career reconstructed from last5 (raw last5='77475', scraped career='14-0-2-2' was inconsistent with it)"
       ],
       "last5_parsed": [
         {
-          "raw": "5",
-          "pos": 5,
+          "raw": "7",
+          "pos": 7,
           "nonFinish": false,
           "spell": false
         },
         {
-          "raw": "8",
-          "pos": 8,
+          "raw": "7",
+          "pos": 7,
           "nonFinish": false,
           "spell": false
         },
@@ -611,20 +611,20 @@
           "spell": false
         },
         {
-          "raw": "0",
-          "pos": 0,
+          "raw": "7",
+          "pos": 7,
           "nonFinish": false,
           "spell": false
         },
         {
-          "raw": "7",
-          "pos": 7,
+          "raw": "5",
+          "pos": 5,
           "nonFinish": false,
           "spell": false
         }
       ],
       "data_status": "reconstructed",
-      "open_price": 46.0,
+      "open_price": 16.5,
       "call": {
         "call": "OK",
         "label": "OK",
@@ -637,7 +637,7 @@
       "name": "2. Dracarian",
       "saddle_cloth": 11,
       "selection_id": 99141646,
-      "status": "REMOVED",
+      "status": "ACTIVE",
       "best_back": null,
       "back_depth_aud": 0,
       "bsp_near": null,
@@ -657,7 +657,7 @@
         "call": "NO_CALL",
         "label": "DATA BAD",
         "confidence": null,
-        "reason": "data bad: runner not active (status=REMOVED)",
+        "reason": "data bad: data_status=not_found and no race form on record",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -665,7 +665,7 @@
       "name": "14. Mover And Shaker",
       "saddle_cloth": 12,
       "selection_id": 96533963,
-      "status": "REMOVED",
+      "status": "ACTIVE",
       "best_back": null,
       "back_depth_aud": 0,
       "bsp_near": null,
@@ -685,12 +685,12 @@
         "call": "NO_CALL",
         "label": "DATA BAD",
         "confidence": null,
-        "reason": "data bad: runner not active (status=REMOVED)",
+        "reason": "data bad: data_status=not_found and no race form on record",
         "guard": "data_adequacy v1.0"
       }
     }
   ],
-  "last_polled_at": "2026-07-18T02:18:02.493837Z",
+  "last_polled_at": "2026-07-18T02:33:32.885745Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
     "ok": 8,
