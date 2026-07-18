@@ -1,0 +1,2530 @@
+{
+  "event_id": "mildura-2026-07-18-r1",
+  "market_id": "1.260094109",
+  "venue": "Mildura",
+  "race_name": "R1 1000m Mdn",
+  "start_time_utc": "2026-07-18T02:56:00.000Z",
+  "captured_by": "micro-series v1",
+  "field_size": 5,
+  "model_overlay": {
+    "4967093": {
+      "model_prob": 0.464936,
+      "model_rank": 1,
+      "model_version": "2026-07-08"
+    },
+    "6094283": {
+      "model_prob": 0.169005,
+      "model_rank": 3,
+      "model_version": "2026-07-08"
+    },
+    "422505": {
+      "model_prob": 0.233639,
+      "model_rank": 2,
+      "model_version": "2026-07-08"
+    },
+    "3100525": {
+      "model_prob": 0.067331,
+      "model_rank": 4,
+      "model_version": "2026-07-08"
+    },
+    "75795952": {
+      "model_prob": 0.06509,
+      "model_rank": 5,
+      "model_version": "2026-07-08"
+    }
+  },
+  "bsp": {
+    "75795952": {
+      "bsp": 110.0,
+      "status": "LOSER"
+    },
+    "4967093": {
+      "bsp": 1.89,
+      "status": "WINNER"
+    },
+    "6094283": {
+      "bsp": 4.8,
+      "status": "LOSER"
+    },
+    "3100525": {
+      "bsp": 23.33,
+      "status": "LOSER"
+    },
+    "422505": {
+      "bsp": 4.5,
+      "status": "LOSER"
+    }
+  },
+  "result": {
+    "winner": "2. Codename",
+    "winner_bsp": 1.89,
+    "placings": [
+      "2. Codename",
+      "4. Four On The Floor"
+    ],
+    "settled_at": "2026-07-18T02:59:00.744755Z"
+  },
+  "frames": [
+    {
+      "at": "2026-07-18T02:46:01.149866Z",
+      "seconds_to_off": 599,
+      "market_matched_volume": 2583.67,
+      "overround_pct": 105.0,
+      "runners": [
+        {
+          "selection_id": 75795952,
+          "name": "1. Brazen Martini",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 44.0,
+          "best_back_size": 3.4,
+          "best_lay": 110.0,
+          "best_lay_size": 4.05,
+          "spread": 66.0,
+          "back_ladder": [
+            {
+              "price": 44.0,
+              "size": 3.4
+            },
+            {
+              "price": 42.0,
+              "size": 1.55
+            },
+            {
+              "price": 38.0,
+              "size": 1.67
+            },
+            {
+              "price": 36.0,
+              "size": 1.17
+            },
+            {
+              "price": 34.0,
+              "size": 1.14
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 110.0,
+              "size": 4.05
+            },
+            {
+              "price": 240.0,
+              "size": 2.62
+            },
+            {
+              "price": 250.0,
+              "size": 1.13
+            },
+            {
+              "price": 440.0,
+              "size": 4.04
+            },
+            {
+              "price": 600.0,
+              "size": 23.31
+            }
+          ],
+          "runner_matched_volume": 0.22,
+          "last_price_traded": 240.0,
+          "market_prob": 0.021639,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 4967093,
+          "name": "2. Codename",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 1.81,
+          "best_back_size": 11.72,
+          "best_lay": 1.93,
+          "best_lay_size": 1.93,
+          "spread": 0.12,
+          "back_ladder": [
+            {
+              "price": 1.81,
+              "size": 11.72
+            },
+            {
+              "price": 1.8,
+              "size": 62.5
+            },
+            {
+              "price": 1.79,
+              "size": 10.0
+            },
+            {
+              "price": 1.76,
+              "size": 3.62
+            },
+            {
+              "price": 1.75,
+              "size": 12.02
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 1.93,
+              "size": 1.93
+            },
+            {
+              "price": 1.94,
+              "size": 200.0
+            },
+            {
+              "price": 1.95,
+              "size": 13.38
+            },
+            {
+              "price": 1.96,
+              "size": 12.91
+            },
+            {
+              "price": 1.97,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 1138.42,
+          "last_price_traded": 1.84,
+          "market_prob": 0.52602,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 6094283,
+          "name": "3. Defy Gravity",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 4.9,
+          "best_back_size": 6.16,
+          "best_lay": 5.3,
+          "best_lay_size": 1.93,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 4.9,
+              "size": 6.16
+            },
+            {
+              "price": 4.8,
+              "size": 13.16
+            },
+            {
+              "price": 4.6,
+              "size": 14.45
+            },
+            {
+              "price": 4.5,
+              "size": 39.62
+            },
+            {
+              "price": 4.4,
+              "size": 70.21
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.3,
+              "size": 1.93
+            },
+            {
+              "price": 5.4,
+              "size": 26.27
+            },
+            {
+              "price": 5.5,
+              "size": 32.89
+            },
+            {
+              "price": 5.6,
+              "size": 29.95
+            },
+            {
+              "price": 5.7,
+              "size": 26.52
+            }
+          ],
+          "runner_matched_volume": 773.26,
+          "last_price_traded": 5.0,
+          "market_prob": 0.194305,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 3100525,
+          "name": "4. Four On The Floor",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 26.0,
+          "best_back_size": 2.0,
+          "best_lay": 40.0,
+          "best_lay_size": 1.6,
+          "spread": 14.0,
+          "back_ladder": [
+            {
+              "price": 26.0,
+              "size": 2.0
+            },
+            {
+              "price": 24.0,
+              "size": 5.24
+            },
+            {
+              "price": 23.0,
+              "size": 3.26
+            },
+            {
+              "price": 22.0,
+              "size": 1.5
+            },
+            {
+              "price": 20.0,
+              "size": 5.07
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 40.0,
+              "size": 1.6
+            },
+            {
+              "price": 42.0,
+              "size": 6.63
+            },
+            {
+              "price": 44.0,
+              "size": 3.81
+            },
+            {
+              "price": 46.0,
+              "size": 1.93
+            },
+            {
+              "price": 48.0,
+              "size": 6.81
+            }
+          ],
+          "runner_matched_volume": 8.24,
+          "last_price_traded": 36.0,
+          "market_prob": 0.036619,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 422505,
+          "name": "5. Renege",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 4.3,
+          "best_back_size": 15.15,
+          "best_lay": 4.9,
+          "best_lay_size": 18.43,
+          "spread": 0.6,
+          "back_ladder": [
+            {
+              "price": 4.3,
+              "size": 15.15
+            },
+            {
+              "price": 4.2,
+              "size": 35.8
+            },
+            {
+              "price": 4.1,
+              "size": 9.71
+            },
+            {
+              "price": 4.0,
+              "size": 38.52
+            },
+            {
+              "price": 3.95,
+              "size": 39.18
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.9,
+              "size": 18.43
+            },
+            {
+              "price": 5.0,
+              "size": 59.93
+            },
+            {
+              "price": 5.1,
+              "size": 3.88
+            },
+            {
+              "price": 5.2,
+              "size": 31.4
+            },
+            {
+              "price": 5.3,
+              "size": 28.8
+            }
+          ],
+          "runner_matched_volume": 663.52,
+          "last_price_traded": 4.9,
+          "market_prob": 0.221418,
+          "market_rank": 2
+        }
+      ]
+    },
+    {
+      "at": "2026-07-18T02:47:15.381119Z",
+      "seconds_to_off": 525,
+      "market_matched_volume": 3015.08,
+      "overround_pct": 104.0,
+      "runners": [
+        {
+          "selection_id": 75795952,
+          "name": "1. Brazen Martini",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 48.0,
+          "best_back_size": 1.39,
+          "best_lay": 70.0,
+          "best_lay_size": 4.22,
+          "spread": 22.0,
+          "back_ladder": [
+            {
+              "price": 48.0,
+              "size": 1.39
+            },
+            {
+              "price": 44.0,
+              "size": 2.43
+            },
+            {
+              "price": 42.0,
+              "size": 2.28
+            },
+            {
+              "price": 40.0,
+              "size": 3.61
+            },
+            {
+              "price": 38.0,
+              "size": 4.27
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 70.0,
+              "size": 4.22
+            },
+            {
+              "price": 75.0,
+              "size": 3.83
+            },
+            {
+              "price": 90.0,
+              "size": 1.33
+            },
+            {
+              "price": 250.0,
+              "size": 1.73
+            },
+            {
+              "price": 440.0,
+              "size": 4.04
+            }
+          ],
+          "runner_matched_volume": 1.62,
+          "last_price_traded": 75.0,
+          "market_prob": 0.020034,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 4967093,
+          "name": "2. Codename",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 1.82,
+          "best_back_size": 10.82,
+          "best_lay": 1.92,
+          "best_lay_size": 8.68,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 1.82,
+              "size": 10.82
+            },
+            {
+              "price": 1.81,
+              "size": 11.56
+            },
+            {
+              "price": 1.8,
+              "size": 15.93
+            },
+            {
+              "price": 1.79,
+              "size": 4.68
+            },
+            {
+              "price": 1.75,
+              "size": 11.56
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 1.92,
+              "size": 8.68
+            },
+            {
+              "price": 1.93,
+              "size": 8.44
+            },
+            {
+              "price": 1.94,
+              "size": 207.47
+            },
+            {
+              "price": 1.95,
+              "size": 13.38
+            },
+            {
+              "price": 1.96,
+              "size": 12.91
+            }
+          ],
+          "runner_matched_volume": 1387.19,
+          "last_price_traded": 1.85,
+          "market_prob": 0.528379,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 6094283,
+          "name": "3. Defy Gravity",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 5.0,
+          "best_back_size": 3.64,
+          "best_lay": 5.4,
+          "best_lay_size": 3.37,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 5.0,
+              "size": 3.64
+            },
+            {
+              "price": 4.8,
+              "size": 4.08
+            },
+            {
+              "price": 4.7,
+              "size": 6.24
+            },
+            {
+              "price": 4.6,
+              "size": 48.63
+            },
+            {
+              "price": 4.5,
+              "size": 39.62
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.4,
+              "size": 3.37
+            },
+            {
+              "price": 5.5,
+              "size": 19.49
+            },
+            {
+              "price": 5.6,
+              "size": 23.3
+            },
+            {
+              "price": 5.7,
+              "size": 19.27
+            },
+            {
+              "price": 5.8,
+              "size": 13.48
+            }
+          ],
+          "runner_matched_volume": 869.03,
+          "last_price_traded": 5.3,
+          "market_prob": 0.19233,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 3100525,
+          "name": "4. Four On The Floor",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 27.0,
+          "best_back_size": 2.89,
+          "best_lay": 36.0,
+          "best_lay_size": 1.19,
+          "spread": 9.0,
+          "back_ladder": [
+            {
+              "price": 27.0,
+              "size": 2.89
+            },
+            {
+              "price": 26.0,
+              "size": 3.33
+            },
+            {
+              "price": 25.0,
+              "size": 6.01
+            },
+            {
+              "price": 24.0,
+              "size": 8.03
+            },
+            {
+              "price": 23.0,
+              "size": 7.47
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 36.0,
+              "size": 1.19
+            },
+            {
+              "price": 38.0,
+              "size": 1.94
+            },
+            {
+              "price": 42.0,
+              "size": 7.26
+            },
+            {
+              "price": 44.0,
+              "size": 3.81
+            },
+            {
+              "price": 46.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 11.73,
+          "last_price_traded": 27.0,
+          "market_prob": 0.035617,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 422505,
+          "name": "5. Renege",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 4.3,
+          "best_back_size": 5.72,
+          "best_lay": 4.6,
+          "best_lay_size": 5.32,
+          "spread": 0.3,
+          "back_ladder": [
+            {
+              "price": 4.3,
+              "size": 5.72
+            },
+            {
+              "price": 4.2,
+              "size": 39.64
+            },
+            {
+              "price": 4.1,
+              "size": 48.46
+            },
+            {
+              "price": 4.0,
+              "size": 42.35
+            },
+            {
+              "price": 3.95,
+              "size": 136.51
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.6,
+              "size": 5.32
+            },
+            {
+              "price": 4.7,
+              "size": 5.62
+            },
+            {
+              "price": 4.8,
+              "size": 6.09
+            },
+            {
+              "price": 4.9,
+              "size": 5.74
+            },
+            {
+              "price": 5.0,
+              "size": 56.08
+            }
+          ],
+          "runner_matched_volume": 745.49,
+          "last_price_traded": 4.6,
+          "market_prob": 0.22364,
+          "market_rank": 2
+        }
+      ]
+    },
+    {
+      "at": "2026-07-18T02:48:30.336082Z",
+      "seconds_to_off": 450,
+      "market_matched_volume": 3630.9,
+      "overround_pct": 101.5,
+      "runners": [
+        {
+          "selection_id": 75795952,
+          "name": "1. Brazen Martini",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 46.0,
+          "best_back_size": 2.79,
+          "best_lay": 55.0,
+          "best_lay_size": 1.2,
+          "spread": 9.0,
+          "back_ladder": [
+            {
+              "price": 46.0,
+              "size": 2.79
+            },
+            {
+              "price": 42.0,
+              "size": 2.28
+            },
+            {
+              "price": 40.0,
+              "size": 1.14
+            },
+            {
+              "price": 38.0,
+              "size": 1.67
+            },
+            {
+              "price": 36.0,
+              "size": 3.92
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 55.0,
+              "size": 1.2
+            },
+            {
+              "price": 70.0,
+              "size": 1.1
+            },
+            {
+              "price": 85.0,
+              "size": 1.13
+            },
+            {
+              "price": 120.0,
+              "size": 1.18
+            },
+            {
+              "price": 270.0,
+              "size": 1.24
+            }
+          ],
+          "runner_matched_volume": 8.65,
+          "last_price_traded": 46.0,
+          "market_prob": 0.021416,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 4967093,
+          "name": "2. Codename",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 1.9,
+          "best_back_size": 50.82,
+          "best_lay": 1.93,
+          "best_lay_size": 1.46,
+          "spread": 0.03,
+          "back_ladder": [
+            {
+              "price": 1.9,
+              "size": 50.82
+            },
+            {
+              "price": 1.89,
+              "size": 8.13
+            },
+            {
+              "price": 1.88,
+              "size": 8.28
+            },
+            {
+              "price": 1.87,
+              "size": 5.3
+            },
+            {
+              "price": 1.83,
+              "size": 9.3
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 1.93,
+              "size": 1.46
+            },
+            {
+              "price": 1.94,
+              "size": 209.67
+            },
+            {
+              "price": 1.95,
+              "size": 13.64
+            },
+            {
+              "price": 1.96,
+              "size": 15.24
+            },
+            {
+              "price": 1.97,
+              "size": 5.76
+            }
+          ],
+          "runner_matched_volume": 1682.34,
+          "last_price_traded": 1.9,
+          "market_prob": 0.518489,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 6094283,
+          "name": "3. Defy Gravity",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 5.0,
+          "best_back_size": 17.61,
+          "best_lay": 5.2,
+          "best_lay_size": 2.79,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 5.0,
+              "size": 17.61
+            },
+            {
+              "price": 4.9,
+              "size": 11.06
+            },
+            {
+              "price": 4.8,
+              "size": 4.08
+            },
+            {
+              "price": 4.7,
+              "size": 41.31
+            },
+            {
+              "price": 4.6,
+              "size": 50.36
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.2,
+              "size": 2.79
+            },
+            {
+              "price": 5.3,
+              "size": 8.13
+            },
+            {
+              "price": 5.4,
+              "size": 3.37
+            },
+            {
+              "price": 5.5,
+              "size": 22.86
+            },
+            {
+              "price": 5.6,
+              "size": 47.89
+            }
+          ],
+          "runner_matched_volume": 956.38,
+          "last_price_traded": 5.0,
+          "market_prob": 0.197026,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 3100525,
+          "name": "4. Four On The Floor",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 29.0,
+          "best_back_size": 1.82,
+          "best_lay": 36.0,
+          "best_lay_size": 1.42,
+          "spread": 7.0,
+          "back_ladder": [
+            {
+              "price": 29.0,
+              "size": 1.82
+            },
+            {
+              "price": 26.0,
+              "size": 3.94
+            },
+            {
+              "price": 25.0,
+              "size": 2.0
+            },
+            {
+              "price": 23.0,
+              "size": 7.47
+            },
+            {
+              "price": 22.0,
+              "size": 9.92
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 36.0,
+              "size": 1.42
+            },
+            {
+              "price": 38.0,
+              "size": 2.07
+            },
+            {
+              "price": 40.0,
+              "size": 1.21
+            },
+            {
+              "price": 42.0,
+              "size": 2.78
+            },
+            {
+              "price": 44.0,
+              "size": 3.81
+            }
+          ],
+          "runner_matched_volume": 21.48,
+          "last_price_traded": 28.0,
+          "market_prob": 0.03397,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 422505,
+          "name": "5. Renege",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 4.3,
+          "best_back_size": 12.13,
+          "best_lay": 4.5,
+          "best_lay_size": 3.2,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 4.3,
+              "size": 12.13
+            },
+            {
+              "price": 4.2,
+              "size": 39.64
+            },
+            {
+              "price": 4.1,
+              "size": 41.1
+            },
+            {
+              "price": 4.0,
+              "size": 42.35
+            },
+            {
+              "price": 3.95,
+              "size": 136.51
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.5,
+              "size": 3.2
+            },
+            {
+              "price": 4.7,
+              "size": 4.14
+            },
+            {
+              "price": 4.8,
+              "size": 29.98
+            },
+            {
+              "price": 4.9,
+              "size": 44.13
+            },
+            {
+              "price": 5.0,
+              "size": 59.91
+            }
+          ],
+          "runner_matched_volume": 962.03,
+          "last_price_traded": 4.4,
+          "market_prob": 0.2291,
+          "market_rank": 2
+        }
+      ]
+    },
+    {
+      "at": "2026-07-18T02:49:45.370209Z",
+      "seconds_to_off": 375,
+      "market_matched_volume": 3965.78,
+      "overround_pct": 102.1,
+      "runners": [
+        {
+          "selection_id": 75795952,
+          "name": "1. Brazen Martini",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 42.0,
+          "best_back_size": 2.08,
+          "best_lay": 60.0,
+          "best_lay_size": 1.43,
+          "spread": 18.0,
+          "back_ladder": [
+            {
+              "price": 42.0,
+              "size": 2.08
+            },
+            {
+              "price": 40.0,
+              "size": 2.12
+            },
+            {
+              "price": 38.0,
+              "size": 3.66
+            },
+            {
+              "price": 36.0,
+              "size": 1.98
+            },
+            {
+              "price": 34.0,
+              "size": 4.99
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 60.0,
+              "size": 1.43
+            },
+            {
+              "price": 65.0,
+              "size": 3.85
+            },
+            {
+              "price": 80.0,
+              "size": 2.98
+            },
+            {
+              "price": 120.0,
+              "size": 1.18
+            },
+            {
+              "price": 260.0,
+              "size": 1.28
+            }
+          ],
+          "runner_matched_volume": 9.53,
+          "last_price_traded": 50.0,
+          "market_prob": 0.023317,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 4967093,
+          "name": "2. Codename",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 1.85,
+          "best_back_size": 7.92,
+          "best_lay": 1.88,
+          "best_lay_size": 5.34,
+          "spread": 0.03,
+          "back_ladder": [
+            {
+              "price": 1.85,
+              "size": 7.92
+            },
+            {
+              "price": 1.84,
+              "size": 4.82
+            },
+            {
+              "price": 1.83,
+              "size": 12.17
+            },
+            {
+              "price": 1.82,
+              "size": 15.39
+            },
+            {
+              "price": 1.81,
+              "size": 13.39
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 1.88,
+              "size": 5.34
+            },
+            {
+              "price": 1.89,
+              "size": 56.71
+            },
+            {
+              "price": 1.93,
+              "size": 7.52
+            },
+            {
+              "price": 1.94,
+              "size": 11.84
+            },
+            {
+              "price": 1.95,
+              "size": 13.64
+            }
+          ],
+          "runner_matched_volume": 1899.02,
+          "last_price_traded": 1.86,
+          "market_prob": 0.529364,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 6094283,
+          "name": "3. Defy Gravity",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 5.1,
+          "best_back_size": 5.64,
+          "best_lay": 5.4,
+          "best_lay_size": 3.35,
+          "spread": 0.3,
+          "back_ladder": [
+            {
+              "price": 5.1,
+              "size": 5.64
+            },
+            {
+              "price": 5.0,
+              "size": 2.95
+            },
+            {
+              "price": 4.9,
+              "size": 11.06
+            },
+            {
+              "price": 4.8,
+              "size": 8.42
+            },
+            {
+              "price": 4.7,
+              "size": 41.31
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.4,
+              "size": 3.35
+            },
+            {
+              "price": 5.5,
+              "size": 22.86
+            },
+            {
+              "price": 5.6,
+              "size": 22.81
+            },
+            {
+              "price": 5.7,
+              "size": 23.1
+            },
+            {
+              "price": 5.8,
+              "size": 31.76
+            }
+          ],
+          "runner_matched_volume": 1025.15,
+          "last_price_traded": 5.0,
+          "market_prob": 0.192024,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 3100525,
+          "name": "4. Four On The Floor",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 26.0,
+          "best_back_size": 3.67,
+          "best_lay": 38.0,
+          "best_lay_size": 2.69,
+          "spread": 12.0,
+          "back_ladder": [
+            {
+              "price": 26.0,
+              "size": 3.67
+            },
+            {
+              "price": 25.0,
+              "size": 6.01
+            },
+            {
+              "price": 24.0,
+              "size": 7.07
+            },
+            {
+              "price": 23.0,
+              "size": 7.47
+            },
+            {
+              "price": 22.0,
+              "size": 9.92
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 38.0,
+              "size": 2.69
+            },
+            {
+              "price": 42.0,
+              "size": 3.41
+            },
+            {
+              "price": 44.0,
+              "size": 3.81
+            },
+            {
+              "price": 46.0,
+              "size": 5.76
+            },
+            {
+              "price": 48.0,
+              "size": 28.33
+            }
+          ],
+          "runner_matched_volume": 22.72,
+          "last_price_traded": 36.0,
+          "market_prob": 0.037666,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 422505,
+          "name": "5. Renege",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 4.5,
+          "best_back_size": 5.09,
+          "best_lay": 4.6,
+          "best_lay_size": 9.36,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 4.5,
+              "size": 5.09
+            },
+            {
+              "price": 4.4,
+              "size": 5.71
+            },
+            {
+              "price": 4.3,
+              "size": 3.74
+            },
+            {
+              "price": 4.2,
+              "size": 39.66
+            },
+            {
+              "price": 4.1,
+              "size": 75.1
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.6,
+              "size": 9.36
+            },
+            {
+              "price": 4.7,
+              "size": 4.14
+            },
+            {
+              "price": 4.8,
+              "size": 30.5
+            },
+            {
+              "price": 4.9,
+              "size": 44.13
+            },
+            {
+              "price": 5.0,
+              "size": 77.61
+            }
+          ],
+          "runner_matched_volume": 1009.34,
+          "last_price_traded": 4.6,
+          "market_prob": 0.217628,
+          "market_rank": 2
+        }
+      ]
+    },
+    {
+      "at": "2026-07-18T02:51:00.367988Z",
+      "seconds_to_off": 300,
+      "market_matched_volume": 5219.64,
+      "overround_pct": 102.9,
+      "runners": [
+        {
+          "selection_id": 75795952,
+          "name": "1. Brazen Martini",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 44.0,
+          "best_back_size": 5.84,
+          "best_lay": 70.0,
+          "best_lay_size": 5.2,
+          "spread": 26.0,
+          "back_ladder": [
+            {
+              "price": 44.0,
+              "size": 5.84
+            },
+            {
+              "price": 42.0,
+              "size": 3.61
+            },
+            {
+              "price": 40.0,
+              "size": 3.35
+            },
+            {
+              "price": 38.0,
+              "size": 3.66
+            },
+            {
+              "price": 36.0,
+              "size": 1.17
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 70.0,
+              "size": 5.2
+            },
+            {
+              "price": 75.0,
+              "size": 5.58
+            },
+            {
+              "price": 90.0,
+              "size": 1.33
+            },
+            {
+              "price": 260.0,
+              "size": 1.76
+            },
+            {
+              "price": 440.0,
+              "size": 4.04
+            }
+          ],
+          "runner_matched_volume": 14.97,
+          "last_price_traded": 75.0,
+          "market_prob": 0.022084,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 4967093,
+          "name": "2. Codename",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 1.77,
+          "best_back_size": 11.56,
+          "best_lay": 1.82,
+          "best_lay_size": 9.77,
+          "spread": 0.05,
+          "back_ladder": [
+            {
+              "price": 1.77,
+              "size": 11.56
+            },
+            {
+              "price": 1.76,
+              "size": 10.98
+            },
+            {
+              "price": 1.75,
+              "size": 29.72
+            },
+            {
+              "price": 1.74,
+              "size": 107.31
+            },
+            {
+              "price": 1.73,
+              "size": 66.99
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 1.82,
+              "size": 9.77
+            },
+            {
+              "price": 1.83,
+              "size": 9.96
+            },
+            {
+              "price": 1.84,
+              "size": 11.53
+            },
+            {
+              "price": 1.85,
+              "size": 29.12
+            },
+            {
+              "price": 1.86,
+              "size": 15.53
+            }
+          ],
+          "runner_matched_volume": 2271.93,
+          "last_price_traded": 1.82,
+          "market_prob": 0.54897,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 6094283,
+          "name": "3. Defy Gravity",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 5.1,
+          "best_back_size": 3.74,
+          "best_lay": 5.2,
+          "best_lay_size": 4.35,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.1,
+              "size": 3.74
+            },
+            {
+              "price": 5.0,
+              "size": 7.92
+            },
+            {
+              "price": 4.9,
+              "size": 15.14
+            },
+            {
+              "price": 4.8,
+              "size": 8.42
+            },
+            {
+              "price": 4.7,
+              "size": 41.31
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.2,
+              "size": 4.35
+            },
+            {
+              "price": 5.3,
+              "size": 14.27
+            },
+            {
+              "price": 5.4,
+              "size": 3.35
+            },
+            {
+              "price": 5.5,
+              "size": 26.7
+            },
+            {
+              "price": 5.6,
+              "size": 22.81
+            }
+          ],
+          "runner_matched_volume": 1337.27,
+          "last_price_traded": 5.1,
+          "market_prob": 0.190525,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 3100525,
+          "name": "4. Four On The Floor",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 27.0,
+          "best_back_size": 12.56,
+          "best_lay": 34.0,
+          "best_lay_size": 2.72,
+          "spread": 7.0,
+          "back_ladder": [
+            {
+              "price": 27.0,
+              "size": 12.56
+            },
+            {
+              "price": 26.0,
+              "size": 7.6
+            },
+            {
+              "price": 25.0,
+              "size": 9.84
+            },
+            {
+              "price": 24.0,
+              "size": 10.11
+            },
+            {
+              "price": 23.0,
+              "size": 11.31
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 34.0,
+              "size": 2.72
+            },
+            {
+              "price": 36.0,
+              "size": 2.32
+            },
+            {
+              "price": 38.0,
+              "size": 3.16
+            },
+            {
+              "price": 40.0,
+              "size": 6.85
+            },
+            {
+              "price": 42.0,
+              "size": 6.71
+            }
+          ],
+          "runner_matched_volume": 147.34,
+          "last_price_traded": 29.0,
+          "market_prob": 0.035988,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 422505,
+          "name": "5. Renege",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 4.8,
+          "best_back_size": 4.93,
+          "best_lay": 5.0,
+          "best_lay_size": 1.68,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 4.8,
+              "size": 4.93
+            },
+            {
+              "price": 4.7,
+              "size": 27.08
+            },
+            {
+              "price": 4.6,
+              "size": 5.76
+            },
+            {
+              "price": 4.5,
+              "size": 37.4
+            },
+            {
+              "price": 4.4,
+              "size": 44.63
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.0,
+              "size": 1.68
+            },
+            {
+              "price": 5.1,
+              "size": 3.54
+            },
+            {
+              "price": 5.2,
+              "size": 26.28
+            },
+            {
+              "price": 5.3,
+              "size": 20.42
+            },
+            {
+              "price": 5.4,
+              "size": 32.03
+            }
+          ],
+          "runner_matched_volume": 1448.12,
+          "last_price_traded": 4.8,
+          "market_prob": 0.202433,
+          "market_rank": 2
+        }
+      ]
+    },
+    {
+      "at": "2026-07-18T02:52:15.377206Z",
+      "seconds_to_off": 225,
+      "market_matched_volume": 6220.31,
+      "overround_pct": 101.5,
+      "runners": [
+        {
+          "selection_id": 75795952,
+          "name": "1. Brazen Martini",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 55.0,
+          "best_back_size": 1.3,
+          "best_lay": 65.0,
+          "best_lay_size": 7.08,
+          "spread": 10.0,
+          "back_ladder": [
+            {
+              "price": 55.0,
+              "size": 1.3
+            },
+            {
+              "price": 50.0,
+              "size": 1.32
+            },
+            {
+              "price": 48.0,
+              "size": 2.41
+            },
+            {
+              "price": 46.0,
+              "size": 2.99
+            },
+            {
+              "price": 44.0,
+              "size": 10.14
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 65.0,
+              "size": 7.08
+            },
+            {
+              "price": 70.0,
+              "size": 2.23
+            },
+            {
+              "price": 75.0,
+              "size": 3.85
+            },
+            {
+              "price": 80.0,
+              "size": 2.48
+            },
+            {
+              "price": 85.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 39.87,
+          "last_price_traded": 65.0,
+          "market_prob": 0.017919,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 4967093,
+          "name": "2. Codename",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 1.91,
+          "best_back_size": 31.23,
+          "best_lay": 1.93,
+          "best_lay_size": 12.02,
+          "spread": 0.02,
+          "back_ladder": [
+            {
+              "price": 1.91,
+              "size": 31.23
+            },
+            {
+              "price": 1.9,
+              "size": 14.74
+            },
+            {
+              "price": 1.89,
+              "size": 82.23
+            },
+            {
+              "price": 1.88,
+              "size": 15.14
+            },
+            {
+              "price": 1.87,
+              "size": 9.69
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 1.93,
+              "size": 12.02
+            },
+            {
+              "price": 1.94,
+              "size": 1.93
+            },
+            {
+              "price": 1.95,
+              "size": 25.87
+            },
+            {
+              "price": 1.96,
+              "size": 34.64
+            },
+            {
+              "price": 1.97,
+              "size": 20.17
+            }
+          ],
+          "runner_matched_volume": 2655.18,
+          "last_price_traded": 1.91,
+          "market_prob": 0.515981,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 6094283,
+          "name": "3. Defy Gravity",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 4.5,
+          "best_back_size": 48.07,
+          "best_lay": 4.6,
+          "best_lay_size": 41.25,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 4.5,
+              "size": 48.07
+            },
+            {
+              "price": 4.4,
+              "size": 43.93
+            },
+            {
+              "price": 4.3,
+              "size": 85.65
+            },
+            {
+              "price": 4.2,
+              "size": 86.4
+            },
+            {
+              "price": 4.1,
+              "size": 112.89
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.6,
+              "size": 41.25
+            },
+            {
+              "price": 4.7,
+              "size": 14.61
+            },
+            {
+              "price": 4.8,
+              "size": 24.28
+            },
+            {
+              "price": 4.9,
+              "size": 49.91
+            },
+            {
+              "price": 5.0,
+              "size": 93.24
+            }
+          ],
+          "runner_matched_volume": 1711.3,
+          "last_price_traded": 4.5,
+          "market_prob": 0.219005,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 3100525,
+          "name": "4. Four On The Floor",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 30.0,
+          "best_back_size": 2.79,
+          "best_lay": 32.0,
+          "best_lay_size": 1.79,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 30.0,
+              "size": 2.79
+            },
+            {
+              "price": 28.0,
+              "size": 5.8
+            },
+            {
+              "price": 27.0,
+              "size": 8.59
+            },
+            {
+              "price": 26.0,
+              "size": 13.18
+            },
+            {
+              "price": 25.0,
+              "size": 16.28
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 32.0,
+              "size": 1.79
+            },
+            {
+              "price": 34.0,
+              "size": 3.51
+            },
+            {
+              "price": 36.0,
+              "size": 1.93
+            },
+            {
+              "price": 38.0,
+              "size": 8.6
+            },
+            {
+              "price": 40.0,
+              "size": 11.89
+            }
+          ],
+          "runner_matched_volume": 167.45,
+          "last_price_traded": 32.0,
+          "market_prob": 0.032851,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 422505,
+          "name": "5. Renege",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 4.6,
+          "best_back_size": 47.14,
+          "best_lay": 4.7,
+          "best_lay_size": 14.86,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 4.6,
+              "size": 47.14
+            },
+            {
+              "price": 4.5,
+              "size": 24.02
+            },
+            {
+              "price": 4.4,
+              "size": 82.49
+            },
+            {
+              "price": 4.3,
+              "size": 84.18
+            },
+            {
+              "price": 4.2,
+              "size": 210.21
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.7,
+              "size": 14.86
+            },
+            {
+              "price": 4.8,
+              "size": 21.49
+            },
+            {
+              "price": 4.9,
+              "size": 21.88
+            },
+            {
+              "price": 5.0,
+              "size": 20.14
+            },
+            {
+              "price": 5.1,
+              "size": 32.74
+            }
+          ],
+          "runner_matched_volume": 1646.5,
+          "last_price_traded": 4.6,
+          "market_prob": 0.214244,
+          "market_rank": 3
+        }
+      ]
+    },
+    {
+      "at": "2026-07-18T02:53:30.338584Z",
+      "seconds_to_off": 150,
+      "market_matched_volume": 11343.02,
+      "overround_pct": 101.4,
+      "runners": [
+        {
+          "selection_id": 75795952,
+          "name": "1. Brazen Martini",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 65.0,
+          "best_back_size": 3.68,
+          "best_lay": 80.0,
+          "best_lay_size": 12.96,
+          "spread": 15.0,
+          "back_ladder": [
+            {
+              "price": 65.0,
+              "size": 3.68
+            },
+            {
+              "price": 60.0,
+              "size": 11.46
+            },
+            {
+              "price": 55.0,
+              "size": 8.31
+            },
+            {
+              "price": 50.0,
+              "size": 9.4
+            },
+            {
+              "price": 48.0,
+              "size": 10.66
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 80.0,
+              "size": 12.96
+            },
+            {
+              "price": 90.0,
+              "size": 7.79
+            },
+            {
+              "price": 95.0,
+              "size": 9.75
+            },
+            {
+              "price": 100.0,
+              "size": 9.81
+            },
+            {
+              "price": 110.0,
+              "size": 10.59
+            }
+          ],
+          "runner_matched_volume": 74.64,
+          "last_price_traded": 60.0,
+          "market_prob": 0.015168,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 4967093,
+          "name": "2. Codename",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 1.89,
+          "best_back_size": 99.17,
+          "best_lay": 1.91,
+          "best_lay_size": 10.42,
+          "spread": 0.02,
+          "back_ladder": [
+            {
+              "price": 1.89,
+              "size": 99.17
+            },
+            {
+              "price": 1.88,
+              "size": 49.33
+            },
+            {
+              "price": 1.87,
+              "size": 49.01
+            },
+            {
+              "price": 1.86,
+              "size": 67.4
+            },
+            {
+              "price": 1.85,
+              "size": 49.52
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 1.91,
+              "size": 10.42
+            },
+            {
+              "price": 1.92,
+              "size": 42.01
+            },
+            {
+              "price": 1.93,
+              "size": 36.87
+            },
+            {
+              "price": 1.94,
+              "size": 1.93
+            },
+            {
+              "price": 1.97,
+              "size": 18.6
+            }
+          ],
+          "runner_matched_volume": 6079.93,
+          "last_price_traded": 1.93,
+          "market_prob": 0.521641,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 6094283,
+          "name": "3. Defy Gravity",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 4.9,
+          "best_back_size": 23.25,
+          "best_lay": 5.0,
+          "best_lay_size": 45.74,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 4.9,
+              "size": 23.25
+            },
+            {
+              "price": 4.8,
+              "size": 30.99
+            },
+            {
+              "price": 4.7,
+              "size": 47.03
+            },
+            {
+              "price": 4.6,
+              "size": 63.3
+            },
+            {
+              "price": 4.5,
+              "size": 45.6
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.0,
+              "size": 45.74
+            },
+            {
+              "price": 5.1,
+              "size": 61.9
+            },
+            {
+              "price": 5.2,
+              "size": 33.04
+            },
+            {
+              "price": 5.3,
+              "size": 30.83
+            },
+            {
+              "price": 5.4,
+              "size": 46.01
+            }
+          ],
+          "runner_matched_volume": 2135.1,
+          "last_price_traded": 4.9,
+          "market_prob": 0.201204,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 3100525,
+          "name": "4. Four On The Floor",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 26.0,
+          "best_back_size": 6.34,
+          "best_lay": 27.0,
+          "best_lay_size": 8.03,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 26.0,
+              "size": 6.34
+            },
+            {
+              "price": 25.0,
+              "size": 44.27
+            },
+            {
+              "price": 24.0,
+              "size": 11.16
+            },
+            {
+              "price": 23.0,
+              "size": 24.04
+            },
+            {
+              "price": 22.0,
+              "size": 39.05
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 27.0,
+              "size": 8.03
+            },
+            {
+              "price": 28.0,
+              "size": 19.23
+            },
+            {
+              "price": 29.0,
+              "size": 23.37
+            },
+            {
+              "price": 30.0,
+              "size": 17.56
+            },
+            {
+              "price": 32.0,
+              "size": 31.44
+            }
+          ],
+          "runner_matched_volume": 519.99,
+          "last_price_traded": 26.0,
+          "market_prob": 0.037919,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 422505,
+          "name": "5. Renege",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 4.4,
+          "best_back_size": 41.52,
+          "best_lay": 4.6,
+          "best_lay_size": 115.1,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 4.4,
+              "size": 41.52
+            },
+            {
+              "price": 4.3,
+              "size": 51.14
+            },
+            {
+              "price": 4.2,
+              "size": 110.8
+            },
+            {
+              "price": 4.1,
+              "size": 166.64
+            },
+            {
+              "price": 4.0,
+              "size": 88.01
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.6,
+              "size": 115.1
+            },
+            {
+              "price": 4.7,
+              "size": 47.4
+            },
+            {
+              "price": 4.8,
+              "size": 32.58
+            },
+            {
+              "price": 4.9,
+              "size": 24.83
+            },
+            {
+              "price": 5.0,
+              "size": 35.88
+            }
+          ],
+          "runner_matched_volume": 2533.34,
+          "last_price_traded": 4.5,
+          "market_prob": 0.224068,
+          "market_rank": 2
+        }
+      ]
+    },
+    {
+      "at": "2026-07-18T02:54:45.362137Z",
+      "seconds_to_off": 75,
+      "market_matched_volume": 28563.08,
+      "overround_pct": 101.5,
+      "runners": [
+        {
+          "selection_id": 75795952,
+          "name": "1. Brazen Martini",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 75.0,
+          "best_back_size": 6.87,
+          "best_lay": 85.0,
+          "best_lay_size": 3.87,
+          "spread": 10.0,
+          "back_ladder": [
+            {
+              "price": 75.0,
+              "size": 6.87
+            },
+            {
+              "price": 70.0,
+              "size": 71.88
+            },
+            {
+              "price": 65.0,
+              "size": 9.25
+            },
+            {
+              "price": 60.0,
+              "size": 17.09
+            },
+            {
+              "price": 55.0,
+              "size": 22.63
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 85.0,
+              "size": 3.87
+            },
+            {
+              "price": 90.0,
+              "size": 9.59
+            },
+            {
+              "price": 95.0,
+              "size": 6.84
+            },
+            {
+              "price": 100.0,
+              "size": 7.89
+            },
+            {
+              "price": 110.0,
+              "size": 10.59
+            }
+          ],
+          "runner_matched_volume": 263.77,
+          "last_price_traded": 75.0,
+          "market_prob": 0.013134,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 4967093,
+          "name": "2. Codename",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 1.91,
+          "best_back_size": 57.73,
+          "best_lay": 1.93,
+          "best_lay_size": 15.62,
+          "spread": 0.02,
+          "back_ladder": [
+            {
+              "price": 1.91,
+              "size": 57.73
+            },
+            {
+              "price": 1.9,
+              "size": 281.03
+            },
+            {
+              "price": 1.89,
+              "size": 69.87
+            },
+            {
+              "price": 1.88,
+              "size": 109.55
+            },
+            {
+              "price": 1.87,
+              "size": 173.33
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 1.93,
+              "size": 15.62
+            },
+            {
+              "price": 1.94,
+              "size": 47.69
+            },
+            {
+              "price": 1.95,
+              "size": 68.89
+            },
+            {
+              "price": 1.96,
+              "size": 43.1
+            },
+            {
+              "price": 1.97,
+              "size": 49.86
+            }
+          ],
+          "runner_matched_volume": 16941.63,
+          "last_price_traded": 1.93,
+          "market_prob": 0.515744,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 6094283,
+          "name": "3. Defy Gravity",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 4.6,
+          "best_back_size": 127.1,
+          "best_lay": 4.8,
+          "best_lay_size": 46.24,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 4.6,
+              "size": 127.1
+            },
+            {
+              "price": 4.5,
+              "size": 200.08
+            },
+            {
+              "price": 4.4,
+              "size": 103.98
+            },
+            {
+              "price": 4.3,
+              "size": 123.01
+            },
+            {
+              "price": 4.2,
+              "size": 98.7
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.8,
+              "size": 46.24
+            },
+            {
+              "price": 4.9,
+              "size": 195.4
+            },
+            {
+              "price": 5.0,
+              "size": 42.54
+            },
+            {
+              "price": 5.1,
+              "size": 53.3
+            },
+            {
+              "price": 5.2,
+              "size": 108.91
+            }
+          ],
+          "runner_matched_volume": 5252.75,
+          "last_price_traded": 4.7,
+          "market_prob": 0.214146,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 3100525,
+          "name": "4. Four On The Floor",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 23.0,
+          "best_back_size": 22.71,
+          "best_lay": 24.0,
+          "best_lay_size": 24.79,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 23.0,
+              "size": 22.71
+            },
+            {
+              "price": 22.0,
+              "size": 56.48
+            },
+            {
+              "price": 21.0,
+              "size": 48.13
+            },
+            {
+              "price": 20.0,
+              "size": 53.83
+            },
+            {
+              "price": 19.5,
+              "size": 55.37
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 24.0,
+              "size": 24.79
+            },
+            {
+              "price": 25.0,
+              "size": 16.42
+            },
+            {
+              "price": 26.0,
+              "size": 35.35
+            },
+            {
+              "price": 27.0,
+              "size": 44.93
+            },
+            {
+              "price": 28.0,
+              "size": 43.92
+            }
+          ],
+          "runner_matched_volume": 1190.7,
+          "last_price_traded": 24.0,
+          "market_prob": 0.042829,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 422505,
+          "name": "5. Renege",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 4.6,
+          "best_back_size": 29.52,
+          "best_lay": 4.7,
+          "best_lay_size": 13.87,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 4.6,
+              "size": 29.52
+            },
+            {
+              "price": 4.5,
+              "size": 62.31
+            },
+            {
+              "price": 4.4,
+              "size": 93.13
+            },
+            {
+              "price": 4.3,
+              "size": 99.29
+            },
+            {
+              "price": 4.2,
+              "size": 164.15
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.7,
+              "size": 13.87
+            },
+            {
+              "price": 4.8,
+              "size": 38.82
+            },
+            {
+              "price": 4.9,
+              "size": 93.9
+            },
+            {
+              "price": 5.0,
+              "size": 51.61
+            },
+            {
+              "price": 5.1,
+              "size": 38.89
+            }
+          ],
+          "runner_matched_volume": 4914.21,
+          "last_price_traded": 4.7,
+          "market_prob": 0.214146,
+          "market_rank": 3
+        }
+      ]
+    }
+  ],
+  "place": {
+    "75795952": {
+      "place_entry": 9.8,
+      "place_bsp": 17.5,
+      "place_status": "LOSER",
+      "placed": false
+    },
+    "4967093": {
+      "place_entry": 1.23,
+      "place_bsp": 1.26,
+      "place_status": "WINNER",
+      "placed": true
+    },
+    "6094283": {
+      "place_entry": 1.88,
+      "place_bsp": 2.02,
+      "place_status": "LOSER",
+      "placed": false
+    },
+    "3100525": {
+      "place_entry": 7.8,
+      "place_bsp": 7.63,
+      "place_status": "WINNER",
+      "placed": true
+    },
+    "422505": {
+      "place_entry": 1.93,
+      "place_bsp": 1.84,
+      "place_status": "LOSER",
+      "placed": false
+    }
+  },
+  "place_entry_at": "2026-07-18T02:52:05.691283Z",
+  "place_market_id": "1.260094110",
+  "place_terms": 2,
+  "place_terms_settled": 2,
+  "finalized_at": "2026-07-18T02:59:04.210075Z"
+}
