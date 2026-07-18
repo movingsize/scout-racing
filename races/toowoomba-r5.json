@@ -9,9 +9,9 @@
   "market_overround_pct": null,
   "track_condition": "Good 4",
   "weather": {
-    "temperature_c": 15.7,
+    "temperature_c": 16.1,
     "precipitation_mm": 0.0,
-    "wind_speed_kmh": 14.6,
+    "wind_speed_kmh": 14.4,
     "wind_direction": "SSE",
     "condition": "Clear sky"
   },
@@ -514,22 +514,55 @@
       "back_depth_aud": 0,
       "bsp_near": null,
       "market_signal": "NEUTRAL",
-      "trainer": null,
-      "jockey": null,
-      "last5": null,
-      "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
-      "warnings": [],
-      "last5_parsed": [],
-      "data_status": "not_found",
+      "trainer": "Rochelle Pereira",
+      "jockey": "Fiona Sandkuhl",
+      "last5": "33073",
+      "career": "5:0-0-3",
+      "weight_kg": 54.0,
+      "barrier": 7,
+      "form_status": "confirmed",
+      "warnings": [
+        "career reconstructed from last5 (raw last5='33073', scraped career='13-1-0-3' was inconsistent with it)"
+      ],
+      "last5_parsed": [
+        {
+          "raw": "3",
+          "pos": 3,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "3",
+          "pos": 3,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "0",
+          "pos": 0,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "7",
+          "pos": 7,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "3",
+          "pos": 3,
+          "nonFinish": false,
+          "spell": false
+        }
+      ],
+      "data_status": "reconstructed",
       "open_price": null,
       "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
+        "call": "OK",
+        "label": "OK",
+        "confidence": "thin",
+        "reason": "career reconstructed from last5 (5:0-0-3)",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -590,10 +623,10 @@
       }
     }
   ],
-  "last_polled_at": "2026-07-18T01:18:23.332080Z",
+  "last_polled_at": "2026-07-18T01:33:20.504168Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
-    "ok": 8,
-    "no_call": 3
+    "ok": 9,
+    "no_call": 2
   }
 }
