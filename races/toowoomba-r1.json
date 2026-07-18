@@ -6,12 +6,12 @@
   "race_type": "Flat",
   "start_time_utc": "2026-07-18T07:00:00.000Z",
   "market_id": "1.260094189",
-  "market_overround_pct": null,
+  "market_overround_pct": 121.3,
   "track_condition": "Good 4",
   "weather": {
-    "temperature_c": 16.7,
+    "temperature_c": 17.0,
     "precipitation_mm": 0.0,
-    "wind_speed_kmh": 13.4,
+    "wind_speed_kmh": 13.1,
     "wind_direction": "SSE",
     "condition": "Clear sky"
   },
@@ -22,9 +22,9 @@
       "saddle_cloth": 1,
       "selection_id": 100720967,
       "status": "ACTIVE",
-      "best_back": null,
-      "back_depth_aud": 0,
-      "bsp_near": null,
+      "best_back": 1.98,
+      "back_depth_aud": 263.0,
+      "bsp_near": 1.98,
       "market_signal": "NEUTRAL",
       "trainer": "Pat Webster",
       "jockey": "Les Tilley",
@@ -70,7 +70,7 @@
         }
       ],
       "data_status": "reconstructed",
-      "open_price": null,
+      "open_price": 1.98,
       "call": {
         "call": "OK",
         "label": "OK",
@@ -80,197 +80,13 @@
       }
     },
     {
-      "name": "2. Just Jimmy",
-      "saddle_cloth": 2,
-      "selection_id": 90604895,
-      "status": "ACTIVE",
-      "best_back": null,
-      "back_depth_aud": 0,
-      "bsp_near": null,
-      "market_signal": "NEUTRAL",
-      "trainer": "Malcolm Bailey",
-      "jockey": "Olivia Kendal",
-      "last5": "----0",
-      "career": "1:0-0-0",
-      "weight_kg": 58.5,
-      "barrier": 11,
-      "form_status": "confirmed",
-      "warnings": [
-        "last5 contains unrecognized non-finish code(s): ['-']",
-        "career reconstructed from last5 (raw last5='----0', scraped career='1-0-0-0' was inconsistent with it)"
-      ],
-      "last5_parsed": [
-        {
-          "raw": "-",
-          "pos": null,
-          "nonFinish": true,
-          "spell": false
-        },
-        {
-          "raw": "-",
-          "pos": null,
-          "nonFinish": true,
-          "spell": false
-        },
-        {
-          "raw": "-",
-          "pos": null,
-          "nonFinish": true,
-          "spell": false
-        },
-        {
-          "raw": "-",
-          "pos": null,
-          "nonFinish": true,
-          "spell": false
-        },
-        {
-          "raw": "0",
-          "pos": 0,
-          "nonFinish": false,
-          "spell": false
-        }
-      ],
-      "data_status": "reconstructed",
-      "open_price": null,
-      "call": {
-        "call": "OK",
-        "label": "OK",
-        "confidence": "thin",
-        "reason": "career reconstructed from last5 (1:0-0-0)",
-        "guard": "data_adequacy v1.0"
-      }
-    },
-    {
-      "name": "3. Burum Beau",
-      "saddle_cloth": 3,
-      "selection_id": 100720968,
-      "status": "ACTIVE",
-      "best_back": null,
-      "back_depth_aud": 0,
-      "bsp_near": null,
-      "market_signal": "NEUTRAL",
-      "trainer": "Nick Keal",
-      "jockey": "Kelsey Lenton",
-      "last5": "-----",
-      "career": "0-0-0-0",
-      "weight_kg": 57.0,
-      "barrier": 12,
-      "form_status": "confirmed",
-      "warnings": [
-        "last5 contains unrecognized non-finish code(s): ['-']"
-      ],
-      "last5_parsed": [
-        {
-          "raw": "-",
-          "pos": null,
-          "nonFinish": true,
-          "spell": false
-        },
-        {
-          "raw": "-",
-          "pos": null,
-          "nonFinish": true,
-          "spell": false
-        },
-        {
-          "raw": "-",
-          "pos": null,
-          "nonFinish": true,
-          "spell": false
-        },
-        {
-          "raw": "-",
-          "pos": null,
-          "nonFinish": true,
-          "spell": false
-        },
-        {
-          "raw": "-",
-          "pos": null,
-          "nonFinish": true,
-          "spell": false
-        }
-      ],
-      "data_status": "unraced",
-      "open_price": null,
-      "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=unraced and no race form on record",
-        "guard": "data_adequacy v1.0"
-      }
-    },
-    {
-      "name": "4. Kanna Kamui",
-      "saddle_cloth": 4,
-      "selection_id": 100720969,
-      "status": "ACTIVE",
-      "best_back": null,
-      "back_depth_aud": 0,
-      "bsp_near": null,
-      "market_signal": "NEUTRAL",
-      "trainer": "Liam Birchley",
-      "jockey": "Harrison Shaw",
-      "last5": "-----",
-      "career": "0-0-0-0",
-      "weight_kg": 57.0,
-      "barrier": 8,
-      "form_status": "confirmed",
-      "warnings": [
-        "last5 contains unrecognized non-finish code(s): ['-']"
-      ],
-      "last5_parsed": [
-        {
-          "raw": "-",
-          "pos": null,
-          "nonFinish": true,
-          "spell": false
-        },
-        {
-          "raw": "-",
-          "pos": null,
-          "nonFinish": true,
-          "spell": false
-        },
-        {
-          "raw": "-",
-          "pos": null,
-          "nonFinish": true,
-          "spell": false
-        },
-        {
-          "raw": "-",
-          "pos": null,
-          "nonFinish": true,
-          "spell": false
-        },
-        {
-          "raw": "-",
-          "pos": null,
-          "nonFinish": true,
-          "spell": false
-        }
-      ],
-      "data_status": "unraced",
-      "open_price": null,
-      "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=unraced and no race form on record",
-        "guard": "data_adequacy v1.0"
-      }
-    },
-    {
       "name": "5. Lady Estelle",
       "saddle_cloth": 5,
       "selection_id": 100720970,
       "status": "ACTIVE",
-      "best_back": null,
-      "back_depth_aud": 0,
-      "bsp_near": null,
+      "best_back": 4.4,
+      "back_depth_aud": 87.0,
+      "bsp_near": 4.4,
       "market_signal": "NEUTRAL",
       "trainer": "Pat Webster",
       "jockey": "Chloe Lowe",
@@ -315,7 +131,68 @@
         }
       ],
       "data_status": "unraced",
-      "open_price": null,
+      "open_price": 4.4,
+      "call": {
+        "call": "NO_CALL",
+        "label": "DATA BAD",
+        "confidence": null,
+        "reason": "data bad: data_status=unraced and no race form on record",
+        "guard": "data_adequacy v1.0"
+      }
+    },
+    {
+      "name": "3. Burum Beau",
+      "saddle_cloth": 3,
+      "selection_id": 100720968,
+      "status": "ACTIVE",
+      "best_back": 5.5,
+      "back_depth_aud": 78.0,
+      "bsp_near": 5.58,
+      "market_signal": "NEUTRAL",
+      "trainer": "Nick Keal",
+      "jockey": "Kelsey Lenton",
+      "last5": "-----",
+      "career": "0-0-0-0",
+      "weight_kg": 57.0,
+      "barrier": 12,
+      "form_status": "confirmed",
+      "warnings": [
+        "last5 contains unrecognized non-finish code(s): ['-']"
+      ],
+      "last5_parsed": [
+        {
+          "raw": "-",
+          "pos": null,
+          "nonFinish": true,
+          "spell": false
+        },
+        {
+          "raw": "-",
+          "pos": null,
+          "nonFinish": true,
+          "spell": false
+        },
+        {
+          "raw": "-",
+          "pos": null,
+          "nonFinish": true,
+          "spell": false
+        },
+        {
+          "raw": "-",
+          "pos": null,
+          "nonFinish": true,
+          "spell": false
+        },
+        {
+          "raw": "-",
+          "pos": null,
+          "nonFinish": true,
+          "spell": false
+        }
+      ],
+      "data_status": "unraced",
+      "open_price": 5.5,
       "call": {
         "call": "NO_CALL",
         "label": "DATA BAD",
@@ -329,10 +206,10 @@
       "saddle_cloth": 6,
       "selection_id": 100720971,
       "status": "ACTIVE",
-      "best_back": null,
-      "back_depth_aud": 0,
-      "bsp_near": null,
-      "market_signal": "NEUTRAL",
+      "best_back": 5.8,
+      "back_depth_aud": 36.0,
+      "bsp_near": 5.22,
+      "market_signal": "\ud83d\udd25 STEAM",
       "trainer": "Rex Lipp",
       "jockey": "Kenji Yoshida",
       "last5": "-----",
@@ -376,7 +253,7 @@
         }
       ],
       "data_status": "unraced",
-      "open_price": null,
+      "open_price": 5.8,
       "call": {
         "call": "NO_CALL",
         "label": "DATA BAD",
@@ -386,24 +263,23 @@
       }
     },
     {
-      "name": "7. Disco Diamond",
-      "saddle_cloth": 7,
-      "selection_id": 100720972,
+      "name": "4. Kanna Kamui",
+      "saddle_cloth": 4,
+      "selection_id": 100720969,
       "status": "ACTIVE",
-      "best_back": null,
-      "back_depth_aud": 0,
-      "bsp_near": null,
-      "market_signal": "NEUTRAL",
-      "trainer": "Glenn Richardson",
-      "jockey": "Hannah Richardson",
-      "last5": "----7",
-      "career": "1:0-0-0",
-      "weight_kg": 56.5,
-      "barrier": 5,
+      "best_back": 15.5,
+      "back_depth_aud": 13.0,
+      "bsp_near": 52.75,
+      "market_signal": "\u2744\ufe0f DRIFT",
+      "trainer": "Liam Birchley",
+      "jockey": "Harrison Shaw",
+      "last5": "-----",
+      "career": "0-0-0-0",
+      "weight_kg": 57.0,
+      "barrier": 8,
       "form_status": "confirmed",
       "warnings": [
-        "last5 contains unrecognized non-finish code(s): ['-']",
-        "career reconstructed from last5 (raw last5='----7', scraped career='1-0-0-0' was inconsistent with it)"
+        "last5 contains unrecognized non-finish code(s): ['-']"
       ],
       "last5_parsed": [
         {
@@ -431,19 +307,19 @@
           "spell": false
         },
         {
-          "raw": "7",
-          "pos": 7,
-          "nonFinish": false,
+          "raw": "-",
+          "pos": null,
+          "nonFinish": true,
           "spell": false
         }
       ],
-      "data_status": "reconstructed",
-      "open_price": null,
+      "data_status": "unraced",
+      "open_price": 15.5,
       "call": {
-        "call": "OK",
-        "label": "OK",
-        "confidence": "thin",
-        "reason": "career reconstructed from last5 (1:0-0-0)",
+        "call": "NO_CALL",
+        "label": "DATA BAD",
+        "confidence": null,
+        "reason": "data bad: data_status=unraced and no race form on record",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -452,9 +328,9 @@
       "saddle_cloth": 8,
       "selection_id": 100720973,
       "status": "ACTIVE",
-      "best_back": null,
-      "back_depth_aud": 0,
-      "bsp_near": null,
+      "best_back": 23.0,
+      "back_depth_aud": 26.0,
+      "bsp_near": 21.71,
       "market_signal": "NEUTRAL",
       "trainer": "Kevin Kemp",
       "jockey": "Montanna Savva",
@@ -500,7 +376,131 @@
         }
       ],
       "data_status": "reconstructed",
-      "open_price": null,
+      "open_price": 23.0,
+      "call": {
+        "call": "OK",
+        "label": "OK",
+        "confidence": "thin",
+        "reason": "career reconstructed from last5 (1:0-0-0)",
+        "guard": "data_adequacy v1.0"
+      }
+    },
+    {
+      "name": "7. Disco Diamond",
+      "saddle_cloth": 7,
+      "selection_id": 100720972,
+      "status": "ACTIVE",
+      "best_back": 90.0,
+      "back_depth_aud": 12.0,
+      "bsp_near": 240.0,
+      "market_signal": "\u2744\ufe0f DRIFT",
+      "trainer": "Glenn Richardson",
+      "jockey": "Hannah Richardson",
+      "last5": "----7",
+      "career": "1:0-0-0",
+      "weight_kg": 56.5,
+      "barrier": 5,
+      "form_status": "confirmed",
+      "warnings": [
+        "last5 contains unrecognized non-finish code(s): ['-']",
+        "career reconstructed from last5 (raw last5='----7', scraped career='1-0-0-0' was inconsistent with it)"
+      ],
+      "last5_parsed": [
+        {
+          "raw": "-",
+          "pos": null,
+          "nonFinish": true,
+          "spell": false
+        },
+        {
+          "raw": "-",
+          "pos": null,
+          "nonFinish": true,
+          "spell": false
+        },
+        {
+          "raw": "-",
+          "pos": null,
+          "nonFinish": true,
+          "spell": false
+        },
+        {
+          "raw": "-",
+          "pos": null,
+          "nonFinish": true,
+          "spell": false
+        },
+        {
+          "raw": "7",
+          "pos": 7,
+          "nonFinish": false,
+          "spell": false
+        }
+      ],
+      "data_status": "reconstructed",
+      "open_price": 90.0,
+      "call": {
+        "call": "OK",
+        "label": "OK",
+        "confidence": "thin",
+        "reason": "career reconstructed from last5 (1:0-0-0)",
+        "guard": "data_adequacy v1.0"
+      }
+    },
+    {
+      "name": "2. Just Jimmy",
+      "saddle_cloth": 2,
+      "selection_id": 90604895,
+      "status": "ACTIVE",
+      "best_back": 130.0,
+      "back_depth_aud": 8.0,
+      "bsp_near": 260.0,
+      "market_signal": "\u2744\ufe0f DRIFT",
+      "trainer": "Malcolm Bailey",
+      "jockey": "Olivia Kendal",
+      "last5": "----0",
+      "career": "1:0-0-0",
+      "weight_kg": 58.5,
+      "barrier": 11,
+      "form_status": "confirmed",
+      "warnings": [
+        "last5 contains unrecognized non-finish code(s): ['-']",
+        "career reconstructed from last5 (raw last5='----0', scraped career='1-0-0-0' was inconsistent with it)"
+      ],
+      "last5_parsed": [
+        {
+          "raw": "-",
+          "pos": null,
+          "nonFinish": true,
+          "spell": false
+        },
+        {
+          "raw": "-",
+          "pos": null,
+          "nonFinish": true,
+          "spell": false
+        },
+        {
+          "raw": "-",
+          "pos": null,
+          "nonFinish": true,
+          "spell": false
+        },
+        {
+          "raw": "-",
+          "pos": null,
+          "nonFinish": true,
+          "spell": false
+        },
+        {
+          "raw": "0",
+          "pos": 0,
+          "nonFinish": false,
+          "spell": false
+        }
+      ],
+      "data_status": "reconstructed",
+      "open_price": 130.0,
       "call": {
         "call": "OK",
         "label": "OK",
@@ -513,7 +513,7 @@
       "name": "9. Hail And Harty",
       "saddle_cloth": 9,
       "selection_id": 100720974,
-      "status": "ACTIVE",
+      "status": "REMOVED",
       "best_back": null,
       "back_depth_aud": 0,
       "bsp_near": null,
@@ -533,7 +533,7 @@
         "call": "NO_CALL",
         "label": "DATA BAD",
         "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
+        "reason": "data bad: runner not active (status=REMOVED)",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -541,7 +541,7 @@
       "name": "10. Kiskaboom",
       "saddle_cloth": 10,
       "selection_id": 100720975,
-      "status": "ACTIVE",
+      "status": "REMOVED",
       "best_back": null,
       "back_depth_aud": 0,
       "bsp_near": null,
@@ -561,7 +561,7 @@
         "call": "NO_CALL",
         "label": "DATA BAD",
         "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
+        "reason": "data bad: runner not active (status=REMOVED)",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -569,7 +569,7 @@
       "name": "11. Mishani Rozay",
       "saddle_cloth": 11,
       "selection_id": 95580084,
-      "status": "ACTIVE",
+      "status": "REMOVED",
       "best_back": null,
       "back_depth_aud": 0,
       "bsp_near": null,
@@ -589,7 +589,7 @@
         "call": "NO_CALL",
         "label": "DATA BAD",
         "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
+        "reason": "data bad: runner not active (status=REMOVED)",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -597,7 +597,7 @@
       "name": "12. Saluki",
       "saddle_cloth": 12,
       "selection_id": 3523899,
-      "status": "ACTIVE",
+      "status": "REMOVED",
       "best_back": null,
       "back_depth_aud": 0,
       "bsp_near": null,
@@ -617,12 +617,12 @@
         "call": "NO_CALL",
         "label": "DATA BAD",
         "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
+        "reason": "data bad: runner not active (status=REMOVED)",
         "guard": "data_adequacy v1.0"
       }
     }
   ],
-  "last_polled_at": "2026-07-18T02:04:35.895088Z",
+  "last_polled_at": "2026-07-18T02:18:02.493837Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
     "ok": 4,
