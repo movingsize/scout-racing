@@ -6,7 +6,7 @@
   "race_type": "Flat",
   "start_time_utc": "2026-07-19T08:55:00.000Z",
   "market_id": "1.260121626",
-  "market_overround_pct": 117.9,
+  "market_overround_pct": 117.2,
   "track_condition": "Good",
   "weather": null,
   "form_analysis": null,
@@ -17,7 +17,7 @@
       "selection_id": 5137802,
       "status": "ACTIVE",
       "best_back": 3.5,
-      "back_depth_aud": 122.0,
+      "back_depth_aud": 76.0,
       "bsp_near": 3.5,
       "market_signal": "NEUTRAL",
       "trainer": null,
@@ -236,34 +236,6 @@
       }
     },
     {
-      "name": "3. On Just Terms",
-      "saddle_cloth": 2,
-      "selection_id": 100695100,
-      "status": "ACTIVE",
-      "best_back": 26.0,
-      "back_depth_aud": 31.0,
-      "bsp_near": 31.13,
-      "market_signal": "\u2744\ufe0f DRIFT",
-      "trainer": null,
-      "jockey": null,
-      "last5": null,
-      "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
-      "warnings": [],
-      "last5_parsed": [],
-      "data_status": "not_found",
-      "open_price": 25.0,
-      "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
-        "guard": "data_adequacy v1.0"
-      }
-    },
-    {
       "name": "13. War Tactics",
       "saddle_cloth": 12,
       "selection_id": 100425095,
@@ -283,6 +255,34 @@
       "last5_parsed": [],
       "data_status": "not_found",
       "open_price": 28.0,
+      "call": {
+        "call": "NO_CALL",
+        "label": "DATA BAD",
+        "confidence": null,
+        "reason": "data bad: data_status=not_found and no race form on record",
+        "guard": "data_adequacy v1.0"
+      }
+    },
+    {
+      "name": "3. On Just Terms",
+      "saddle_cloth": 2,
+      "selection_id": 100695100,
+      "status": "ACTIVE",
+      "best_back": 32.0,
+      "back_depth_aud": 26.0,
+      "bsp_near": 31.14,
+      "market_signal": "NEUTRAL",
+      "trainer": null,
+      "jockey": null,
+      "last5": null,
+      "career": null,
+      "weight_kg": null,
+      "barrier": null,
+      "form_status": "not_found",
+      "warnings": [],
+      "last5_parsed": [],
+      "data_status": "not_found",
+      "open_price": 25.0,
       "call": {
         "call": "NO_CALL",
         "label": "DATA BAD",
@@ -376,7 +376,7 @@
       }
     }
   ],
-  "last_polled_at": "2026-07-19T02:59:35.300526Z",
+  "last_polled_at": "2026-07-19T03:14:26.763323Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
     "ok": 0,
