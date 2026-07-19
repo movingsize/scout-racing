@@ -379,7 +379,7 @@
       "selection_id": 65823503,
       "status": "ACTIVE",
       "best_back": 13.5,
-      "back_depth_aud": 29.0,
+      "back_depth_aud": 28.0,
       "bsp_near": 41.75,
       "market_signal": "\u2744\ufe0f DRIFT",
       "trainer": null,
@@ -407,7 +407,7 @@
       "selection_id": 94735860,
       "status": "ACTIVE",
       "best_back": 13.5,
-      "back_depth_aud": 29.0,
+      "back_depth_aud": 28.0,
       "bsp_near": 41.75,
       "market_signal": "\u2744\ufe0f DRIFT",
       "trainer": "Jane Clement",
@@ -1463,23 +1463,6 @@
           }
         },
         {
-          "pos": 11,
-          "date": "2026-07-03",
-          "class": "CTRY CL1",
-          "trial": false,
-          "distance_m": 1200,
-          "going": "Soft7",
-          "winner_time": 71.6,
-          "beaten_margin": 5.97,
-          "runner_time": 72.45,
-          "runner_time_reduced": true,
-          "sectional_600": 35.75,
-          "in_run": {
-            "@800": 4,
-            "@400": 7
-          }
-        },
-        {
           "pos": 3,
           "date": "2026-06-29",
           "class": "CTRY MDN-SW",
@@ -1529,17 +1512,34 @@
             "@800": 12,
             "@400": 12
           }
+        },
+        {
+          "pos": 7,
+          "date": "2026-05-24",
+          "class": "CTRY MDN",
+          "trial": false,
+          "distance_m": 1250,
+          "going": "Soft5",
+          "winner_time": 74.61,
+          "beaten_margin": 7.63,
+          "runner_time": 75.7,
+          "runner_time_reduced": true,
+          "sectional_600": null,
+          "in_run": {
+            "@800": 10,
+            "@400": 10
+          }
         }
       ],
       "recent_class": [
         "MDN",
-        "CTRY CL1",
         "CTRY MDN-SW",
         "CTRY MDN",
-        "MDN-SW"
+        "MDN-SW",
+        "CTRY MDN"
       ],
       "days_since_run": 13,
-      "runs_this_prep": 7,
+      "runs_this_prep": 5,
       "form_status": "confirmed",
       "warnings": [],
       "last5_parsed": [
@@ -2034,7 +2034,7 @@
       }
     }
   ],
-  "last_polled_at": "2026-07-19T08:27:46.196740Z",
+  "last_polled_at": "2026-07-19T08:42:44.852870Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
     "ok": 10,

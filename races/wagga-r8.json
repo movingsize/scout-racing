@@ -6,13 +6,13 @@
   "race_type": "Flat",
   "start_time_utc": "2026-07-20T06:55:00.000Z",
   "market_id": "1.260136803",
-  "market_overround_pct": 129.6,
+  "market_overround_pct": 130.1,
   "track_condition": "Heavy 8",
   "weather": {
-    "temperature_c": 9.2,
+    "temperature_c": 8.9,
     "precipitation_mm": 0.0,
-    "wind_speed_kmh": 4.8,
-    "wind_direction": "S",
+    "wind_speed_kmh": 5.2,
+    "wind_direction": "SSE",
     "condition": "Clear sky"
   },
   "form_analysis": null,
@@ -23,7 +23,7 @@
       "selection_id": 94448588,
       "status": "ACTIVE",
       "best_back": 2.22,
-      "back_depth_aud": 253.0,
+      "back_depth_aud": 263.0,
       "bsp_near": 3.71,
       "market_signal": "\u2744\ufe0f DRIFT",
       "trainer": "Dan McCarthy",
@@ -583,7 +583,7 @@
       "selection_id": 77728021,
       "status": "ACTIVE",
       "best_back": 10.5,
-      "back_depth_aud": 36.0,
+      "back_depth_aud": 38.0,
       "bsp_near": 28.25,
       "market_signal": "\u2744\ufe0f DRIFT",
       "trainer": "Wayne Carroll",
@@ -783,7 +783,7 @@
       "selection_id": 60228967,
       "status": "ACTIVE",
       "best_back": 15.5,
-      "back_depth_aud": 24.0,
+      "back_depth_aud": 27.0,
       "bsp_near": 52.75,
       "market_signal": "\u2744\ufe0f DRIFT",
       "trainer": null,
@@ -1037,8 +1037,8 @@
       "saddle_cloth": 10,
       "selection_id": 43058012,
       "status": "ACTIVE",
-      "best_back": 20.0,
-      "back_depth_aud": 67.0,
+      "best_back": 19.0,
+      "back_depth_aud": 73.0,
       "bsp_near": 80.5,
       "market_signal": "\u2744\ufe0f DRIFT",
       "trainer": "Keith Dryden & Libby Snowden",
@@ -1244,122 +1244,16 @@
       "trainer": "Michael Travers",
       "jockey": "Jeff Penza",
       "last5": "006x603071",
-      "career": "21:3-1-2",
+      "career": "9:1-0-1",
       "weight_kg": 56.0,
       "barrier": 18,
       "official_rating": 52,
-      "prizemoney": 56310,
-      "first_up_record": "3:1-0-0",
-      "second_up_record": "3:0-0-0",
-      "track_record": "1:0-0-0",
-      "dist_record": "2:1-0-0",
-      "track_dist_record": "0:0-0-0",
-      "distances_won": "1000 (1), 1250 (1), 1450 (1)",
-      "going_record": {
-        "Firm": "1:0-0-0",
-        "Good": "12:2-1-1",
-        "Soft": "4:0-0-0",
-        "Heavy": "2:1-0-0",
-        "Synthetic": "2:0-0-1"
-      },
-      "recent_runs": [
-        {
-          "pos": 1,
-          "date": "2026-06-27",
-          "class": "BM50",
-          "trial": false,
-          "distance_m": 1000,
-          "going": "Heavy9",
-          "winner_time": 59.4,
-          "beaten_margin": 0.0,
-          "runner_time": 59.4,
-          "runner_time_reduced": false,
-          "sectional_600": 35.93,
-          "in_run": {
-            "@800": 9,
-            "@400": 8
-          }
-        },
-        {
-          "pos": 7,
-          "date": "2026-06-13",
-          "class": "BM50",
-          "trial": false,
-          "distance_m": 1200,
-          "going": "Soft7",
-          "winner_time": 72.12,
-          "beaten_margin": 5.96,
-          "runner_time": 72.98,
-          "runner_time_reduced": true,
-          "sectional_600": 36.25,
-          "in_run": {
-            "@800": 12,
-            "@400": 12
-          }
-        },
-        {
-          "pos": 10,
-          "date": "2026-06-01",
-          "class": "CTRY CL2",
-          "trial": false,
-          "distance_m": 1400,
-          "going": "Soft6",
-          "winner_time": 83.73,
-          "beaten_margin": 10.32,
-          "runner_time": 85.21,
-          "runner_time_reduced": true,
-          "sectional_600": 36.02,
-          "in_run": {
-            "@800": 10,
-            "@400": 10
-          }
-        },
-        {
-          "pos": 3,
-          "date": "2026-05-11",
-          "class": "CTRY BM58",
-          "trial": false,
-          "distance_m": 1200,
-          "going": "Good4",
-          "winner_time": 69.86,
-          "beaten_margin": 0.65,
-          "runner_time": 69.95,
-          "runner_time_reduced": true,
-          "sectional_600": 35.83,
-          "in_run": {
-            "@800": 10,
-            "@400": 9
-          }
-        },
-        {
-          "pos": 12,
-          "date": "2026-04-12",
-          "class": "CL2",
-          "trial": false,
-          "distance_m": 1400,
-          "going": "Soft5",
-          "winner_time": 84.91,
-          "beaten_margin": 7.68,
-          "runner_time": 86.03,
-          "runner_time_reduced": true,
-          "sectional_600": 36.13,
-          "in_run": {
-            "@800": 10,
-            "@400": 11
-          }
-        }
+      "scratched": true,
+      "form_status": "unraced",
+      "warnings": [
+        "runner scratched (per form source) \u2014 career reconstructed from last5 for reference only, not expected to start",
+        "form source shows this runner SCRATCHED but Betfair still lists it ACTIVE \u2014 cross-source timing mismatch, treat the price as unreliable until one side updates"
       ],
-      "recent_class": [
-        "BM50",
-        "BM50",
-        "CTRY CL2",
-        "CTRY BM58",
-        "CL2"
-      ],
-      "days_since_run": 23,
-      "runs_this_prep": 5,
-      "form_status": "confirmed",
-      "warnings": [],
       "last5_parsed": [
         {
           "raw": "0",
@@ -1422,13 +1316,13 @@
           "spell": false
         }
       ],
-      "data_status": "confirmed",
+      "data_status": "reconstructed",
       "open_price": 23.0,
       "call": {
         "call": "OK",
         "label": "OK",
-        "confidence": "ok",
-        "reason": "confirmed form, 21 career starts",
+        "confidence": "thin",
+        "reason": "career reconstructed from last5 (9:1-0-1)",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -1802,8 +1696,8 @@
       "saddle_cloth": 11,
       "selection_id": 100721222,
       "status": "ACTIVE",
-      "best_back": 50.0,
-      "back_depth_aud": 32.0,
+      "best_back": 46.0,
+      "back_depth_aud": 35.0,
       "bsp_near": 185.0,
       "market_signal": "\u2744\ufe0f DRIFT",
       "trainer": "Rex Cole",
@@ -2195,40 +2089,12 @@
       }
     },
     {
-      "name": "16. Insane Volt",
-      "saddle_cloth": 15,
-      "selection_id": 100721223,
-      "status": "ACTIVE",
-      "best_back": 80.0,
-      "back_depth_aud": 23.0,
-      "bsp_near": 230.0,
-      "market_signal": "\u2744\ufe0f DRIFT",
-      "trainer": null,
-      "jockey": null,
-      "last5": null,
-      "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
-      "warnings": [],
-      "last5_parsed": [],
-      "data_status": "not_found",
-      "open_price": 80.0,
-      "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
-        "guard": "data_adequacy v1.0"
-      }
-    },
-    {
       "name": "17. Justbetryin",
       "saddle_cloth": 16,
       "selection_id": 100721224,
       "status": "ACTIVE",
-      "best_back": 80.0,
-      "back_depth_aud": 23.0,
+      "best_back": 75.0,
+      "back_depth_aud": 25.0,
       "bsp_near": 230.0,
       "market_signal": "\u2744\ufe0f DRIFT",
       "trainer": "Kerry Weir",
@@ -2423,6 +2289,34 @@
       }
     },
     {
+      "name": "16. Insane Volt",
+      "saddle_cloth": 15,
+      "selection_id": 100721223,
+      "status": "ACTIVE",
+      "best_back": 80.0,
+      "back_depth_aud": 23.0,
+      "bsp_near": 230.0,
+      "market_signal": "\u2744\ufe0f DRIFT",
+      "trainer": null,
+      "jockey": null,
+      "last5": null,
+      "career": null,
+      "weight_kg": null,
+      "barrier": null,
+      "form_status": "not_found",
+      "warnings": [],
+      "last5_parsed": [],
+      "data_status": "not_found",
+      "open_price": 80.0,
+      "call": {
+        "call": "NO_CALL",
+        "label": "DATA BAD",
+        "confidence": null,
+        "reason": "data bad: data_status=not_found and no race form on record",
+        "guard": "data_adequacy v1.0"
+      }
+    },
+    {
       "name": "18. Safe And Warm",
       "saddle_cloth": 17,
       "selection_id": 100721225,
@@ -2602,7 +2496,7 @@
       }
     }
   ],
-  "last_polled_at": "2026-07-19T08:27:46.196740Z",
+  "last_polled_at": "2026-07-19T08:42:44.852870Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
     "ok": 13,
