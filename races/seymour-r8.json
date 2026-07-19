@@ -220,104 +220,16 @@
       "trainer": "Leslie Robertson",
       "jockey": "Ms Chelsea Thompson (a3/51kg)",
       "last5": "1567001146",
-      "career": "43:10-3-3",
+      "career": "10:3-0-0",
       "weight_kg": 62.0,
       "barrier": 1,
       "official_rating": 66,
-      "prizemoney": 187500,
-      "first_up_record": "5:1-0-0",
-      "second_up_record": "4:2-0-0",
-      "track_record": "0:0-0-0",
-      "dist_record": "30:8-2-1",
-      "track_dist_record": "0:0-0-0",
-      "distances_won": "800 (1), 900 (1), 1000 (8)",
-      "going_record": {
-        "Firm": "0:0-0-0",
-        "Good": "20:4-2-1",
-        "Soft": "17:3-1-2",
-        "Heavy": "2:1-0-0",
-        "Synthetic": "4:2-0-0"
-      },
-      "recent_runs": [
-        {
-          "pos": 6,
-          "date": "2026-07-14",
-          "class": "BM62",
-          "trial": false,
-          "distance_m": 1000,
-          "going": "Synthetic",
-          "winner_time": 58.77,
-          "beaten_margin": 2.36,
-          "runner_time": 59.1,
-          "runner_time_reduced": true,
-          "sectional_600": 34.72,
-          "in_run": {
-            "@800": 3,
-            "@400": 1
-          }
-        },
-        {
-          "pos": 4,
-          "date": "2026-07-02",
-          "class": "BM70",
-          "trial": false,
-          "distance_m": 1000,
-          "going": "Synthetic",
-          "winner_time": 59.95,
-          "beaten_margin": 1.56,
-          "runner_time": 60.17,
-          "runner_time_reduced": true,
-          "sectional_600": 35.41,
-          "in_run": {
-            "@800": 4,
-            "@400": 1
-          }
-        },
-        {
-          "pos": 1,
-          "date": "2026-06-24",
-          "class": "BM66",
-          "trial": false,
-          "distance_m": 1000,
-          "going": "Synthetic",
-          "winner_time": 59.79,
-          "beaten_margin": 0.0,
-          "runner_time": 59.79,
-          "runner_time_reduced": false,
-          "sectional_600": 34.49,
-          "in_run": {
-            "@800": 1,
-            "@400": 1
-          }
-        },
-        {
-          "pos": 1,
-          "date": "2026-06-16",
-          "class": "BM66",
-          "trial": false,
-          "distance_m": 1000,
-          "going": "Synthetic",
-          "winner_time": 59.69,
-          "beaten_margin": 0.0,
-          "runner_time": 59.69,
-          "runner_time_reduced": false,
-          "sectional_600": 34.92,
-          "in_run": {
-            "@800": 1,
-            "@400": 1
-          }
-        }
+      "scratched": true,
+      "form_status": "unraced",
+      "warnings": [
+        "runner scratched (per form source) \u2014 career reconstructed from last5 for reference only, not expected to start",
+        "form source shows this runner SCRATCHED but Betfair still lists it ACTIVE \u2014 cross-source timing mismatch, treat the price as unreliable until one side updates"
       ],
-      "recent_class": [
-        "BM62",
-        "BM70",
-        "BM66",
-        "BM66"
-      ],
-      "days_since_run": 5,
-      "runs_this_prep": 4,
-      "form_status": "confirmed",
-      "warnings": [],
       "last5_parsed": [
         {
           "raw": "1",
@@ -380,13 +292,13 @@
           "spell": false
         }
       ],
-      "data_status": "confirmed",
+      "data_status": "reconstructed",
       "open_price": 13.0,
       "call": {
         "call": "OK",
         "label": "OK",
-        "confidence": "ok",
-        "reason": "confirmed form, 43 career starts",
+        "confidence": "thin",
+        "reason": "career reconstructed from last5 (10:3-0-0)",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -2317,7 +2229,7 @@
       }
     }
   ],
-  "last_polled_at": "2026-07-19T04:00:24.890950Z",
+  "last_polled_at": "2026-07-19T04:13:54.854511Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
     "ok": 12,
