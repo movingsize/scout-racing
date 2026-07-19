@@ -1474,108 +1474,12 @@
       "career": "7:0-0-0",
       "weight_kg": 57.5,
       "barrier": 8,
-      "prizemoney": 5920,
-      "first_up_record": "3:0-0-0",
-      "second_up_record": "2:0-0-0",
-      "going_record": {
-        "Firm": "0:0-0-0",
-        "Good": "6:0-0-0",
-        "Soft": "0:0-0-0",
-        "Heavy": "0:0-0-0",
-        "Synthetic": "1:0-0-0"
-      },
-      "recent_runs": [
-        {
-          "pos": 8,
-          "date": "2026-07-06",
-          "class": "MDN-SW",
-          "trial": false,
-          "distance_m": 1200,
-          "going": "Synthetic",
-          "winner_time": 70.0,
-          "beaten_margin": 3.23,
-          "runner_time": 70.45,
-          "runner_time_reduced": true,
-          "sectional_600": 34.28,
-          "in_run": {
-            "@800": 11,
-            "@400": 11
-          }
-        },
-        {
-          "pos": 7,
-          "date": "2026-06-25",
-          "class": "3YF MDN-SW",
-          "trial": false,
-          "distance_m": 1300,
-          "going": "Soft6",
-          "winner_time": 78.63,
-          "beaten_margin": 7.65,
-          "runner_time": 79.74,
-          "runner_time_reduced": true,
-          "sectional_600": 35.95,
-          "in_run": {
-            "@800": 13,
-            "@400": 12
-          }
-        },
-        {
-          "pos": 3,
-          "date": "2026-06-19",
-          "class": "Jump Out",
-          "trial": true,
-          "distance_m": 800,
-          "going": "Jump",
-          "winner_time": 50.82,
-          "beaten_margin": null,
-          "runner_time": null,
-          "runner_time_reduced": null,
-          "sectional_600": null,
-          "in_run": null
-        },
-        {
-          "pos": 6,
-          "date": "2026-06-12",
-          "class": "Jump Out",
-          "trial": true,
-          "distance_m": 800,
-          "going": "Jump",
-          "winner_time": 50.8,
-          "beaten_margin": null,
-          "runner_time": null,
-          "runner_time_reduced": null,
-          "sectional_600": null,
-          "in_run": null
-        },
-        {
-          "pos": 7,
-          "date": "2026-05-29",
-          "class": "3YF MDN-SW",
-          "trial": false,
-          "distance_m": 1100,
-          "going": "Good4",
-          "winner_time": 64.78,
-          "beaten_margin": 4.4,
-          "runner_time": 65.4,
-          "runner_time_reduced": true,
-          "sectional_600": 34.32,
-          "in_run": {
-            "@800": 9,
-            "@400": 9
-          }
-        }
+      "scratched": true,
+      "form_status": "unraced",
+      "warnings": [
+        "runner scratched (per form source) \u2014 career reconstructed from last5 for reference only, not expected to start",
+        "form source shows this runner SCRATCHED but Betfair still lists it ACTIVE \u2014 cross-source timing mismatch, treat the price as unreliable until one side updates"
       ],
-      "recent_class": [
-        "MDN-SW",
-        "3YF MDN-SW",
-        "Jump Out",
-        "Jump Out",
-        "3YF MDN-SW"
-      ],
-      "days_since_run": 13,
-      "runs_this_prep": 9,
-      "form_status": "confirmed",
-      "warnings": [],
       "last5_parsed": [
         {
           "raw": "7",
@@ -1632,13 +1536,13 @@
           "spell": false
         }
       ],
-      "data_status": "confirmed",
+      "data_status": "reconstructed",
       "open_price": 15.0,
       "call": {
         "call": "OK",
         "label": "OK",
-        "confidence": "ok",
-        "reason": "confirmed form, 7 career starts",
+        "confidence": "thin",
+        "reason": "career reconstructed from last5 (7:0-0-0)",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -1699,7 +1603,7 @@
       }
     }
   ],
-  "last_polled_at": "2026-07-18T04:32:54.054355Z",
+  "last_polled_at": "2026-07-19T01:45:11.132613Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
     "ok": 8,

@@ -20,22 +20,194 @@
       "back_depth_aud": 0,
       "bsp_near": null,
       "market_signal": "NEUTRAL",
-      "trainer": null,
-      "jockey": null,
-      "last5": null,
-      "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
+      "trainer": "Anthony Warren",
+      "jockey": "Ms Olivia Dalton (a2/54kg), (late alt)",
+      "last5": "62810x0020",
+      "career": "29:3-7-0",
+      "weight_kg": 63.0,
+      "barrier": 9,
+      "official_rating": 62,
+      "prizemoney": 98565,
+      "first_up_record": "6:0-1-0",
+      "second_up_record": "5:0-2-0",
+      "track_record": "1:0-0-0",
+      "dist_record": "0:0-0-0",
+      "track_dist_record": "0:0-0-0",
+      "distances_won": "1400 (1), 1550 (1), 2500 (1)",
+      "going_record": {
+        "Firm": "1:1-0-0",
+        "Good": "14:0-2-0",
+        "Soft": "9:1-5-0",
+        "Heavy": "4:1-0-0",
+        "Synthetic": "1:0-0-0"
+      },
+      "recent_runs": [
+        {
+          "pos": 11,
+          "date": "2026-07-16",
+          "class": "GRAFTON CUP LR",
+          "trial": false,
+          "distance_m": 2350,
+          "going": "Good3",
+          "winner_time": 143.44,
+          "beaten_margin": 26.34,
+          "runner_time": 147.3,
+          "runner_time_reduced": true,
+          "sectional_600": 34.41,
+          "in_run": {
+            "@800": 7,
+            "@400": 11
+          }
+        },
+        {
+          "pos": 2,
+          "date": "2026-07-03",
+          "class": "BM58",
+          "trial": false,
+          "distance_m": 2150,
+          "going": "Soft6",
+          "winner_time": 141.06,
+          "beaten_margin": 1.52,
+          "runner_time": 141.3,
+          "runner_time_reduced": true,
+          "sectional_600": 37.34,
+          "in_run": {
+            "@800": 2,
+            "@400": 1
+          }
+        },
+        {
+          "pos": 10,
+          "date": "2026-06-12",
+          "class": "BM65",
+          "trial": false,
+          "distance_m": 1750,
+          "going": "Synthetic",
+          "winner_time": 107.51,
+          "beaten_margin": 14.94,
+          "runner_time": 109.71,
+          "runner_time_reduced": true,
+          "sectional_600": 36.9,
+          "in_run": {
+            "@800": 8,
+            "@400": 8
+          }
+        },
+        {
+          "pos": 11,
+          "date": "2026-05-10",
+          "class": "BM66",
+          "trial": false,
+          "distance_m": 1425,
+          "going": "Good4",
+          "winner_time": 83.92,
+          "beaten_margin": 11.5,
+          "runner_time": 85.55,
+          "runner_time_reduced": true,
+          "sectional_600": 35.46,
+          "in_run": {
+            "@800": 2,
+            "@400": 3
+          }
+        },
+        {
+          "pos": 18,
+          "date": "2025-11-29",
+          "class": "CTRY CLSC",
+          "trial": false,
+          "distance_m": 2000,
+          "going": "Good4",
+          "winner_time": 124.38,
+          "beaten_margin": 24.72,
+          "runner_time": 128.07,
+          "runner_time_reduced": true,
+          "sectional_600": 35.8,
+          "in_run": {
+            "@800": 5,
+            "@400": 12
+          }
+        }
+      ],
+      "recent_class": [
+        "GRAFTON CUP LR",
+        "BM58",
+        "BM65",
+        "BM66",
+        "CTRY CLSC"
+      ],
+      "days_since_run": 3,
+      "runs_this_prep": 4,
+      "form_status": "confirmed",
       "warnings": [],
-      "last5_parsed": [],
-      "data_status": "not_found",
+      "last5_parsed": [
+        {
+          "raw": "6",
+          "pos": 6,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "2",
+          "pos": 2,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "8",
+          "pos": 8,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "1",
+          "pos": 1,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "0",
+          "pos": 0,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "x",
+          "pos": null,
+          "nonFinish": false,
+          "spell": true
+        },
+        {
+          "raw": "0",
+          "pos": 0,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "0",
+          "pos": 0,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "2",
+          "pos": 2,
+          "nonFinish": false,
+          "spell": false
+        },
+        {
+          "raw": "0",
+          "pos": 0,
+          "nonFinish": false,
+          "spell": false
+        }
+      ],
+      "data_status": "confirmed",
       "open_price": 19.0,
       "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
+        "call": "OK",
+        "label": "OK",
+        "confidence": "ok",
+        "reason": "confirmed form, 29 career starts",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -49,7 +221,7 @@
       "bsp_near": null,
       "market_signal": "NEUTRAL",
       "trainer": "Cassandra Schmidt",
-      "jockey": "Ms Leanne Boyd (a2/53.5kg)",
+      "jockey": "Ms Bailie Baker (a2/49kg), (late alt)",
       "last5": "479x00x048",
       "career": "33:3-2-2",
       "weight_kg": 60.5,
@@ -2188,10 +2360,10 @@
       }
     }
   ],
-  "last_polled_at": "2026-07-18T04:32:54.054355Z",
+  "last_polled_at": "2026-07-19T01:45:11.132613Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
-    "ok": 11,
-    "no_call": 1
+    "ok": 12,
+    "no_call": 0
   }
 }

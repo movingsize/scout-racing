@@ -1513,7 +1513,7 @@
       "bsp_near": null,
       "market_signal": "NEUTRAL",
       "trainer": "Clayton Douglas",
-      "jockey": "Jamie Mott",
+      "jockey": "Damien Thornton (late alt)",
       "last5": "Px18x5",
       "career": "4:1-0-0",
       "weight_kg": 59.0,
@@ -1904,23 +1904,6 @@
       },
       "recent_runs": [
         {
-          "pos": 5,
-          "date": "2026-07-17",
-          "class": "BM70",
-          "trial": false,
-          "distance_m": 1000,
-          "going": "Good4",
-          "winner_time": 59.37,
-          "beaten_margin": 3.25,
-          "runner_time": 59.83,
-          "runner_time_reduced": true,
-          "sectional_600": null,
-          "in_run": {
-            "@800": 4,
-            "@400": 5
-          }
-        },
-        {
           "pos": 8,
           "date": "2026-07-05",
           "class": "BM66",
@@ -1935,23 +1918,6 @@
           "in_run": {
             "@800": 12,
             "@400": 12
-          }
-        },
-        {
-          "pos": 2,
-          "date": "2026-06-26",
-          "class": "CL1",
-          "trial": false,
-          "distance_m": 1200,
-          "going": "Synthetic",
-          "winner_time": 72.91,
-          "beaten_margin": 2.75,
-          "runner_time": 73.31,
-          "runner_time_reduced": true,
-          "sectional_600": 36.38,
-          "in_run": {
-            "@800": 9,
-            "@400": 9
           }
         },
         {
@@ -1984,17 +1950,48 @@
           "runner_time_reduced": null,
           "sectional_600": null,
           "in_run": null
+        },
+        {
+          "pos": 3,
+          "date": "2026-05-26",
+          "class": "Jump Out",
+          "trial": true,
+          "distance_m": 900,
+          "going": "Jump",
+          "winner_time": 54.32,
+          "beaten_margin": null,
+          "runner_time": null,
+          "runner_time_reduced": null,
+          "sectional_600": null,
+          "in_run": null
+        },
+        {
+          "pos": 2,
+          "date": "2025-10-27",
+          "class": "BM56",
+          "trial": false,
+          "distance_m": 1170,
+          "going": "Soft5",
+          "winner_time": 68.67,
+          "beaten_margin": 2.0,
+          "runner_time": 68.95,
+          "runner_time_reduced": true,
+          "sectional_600": 35.2,
+          "in_run": {
+            "@800": 2,
+            "@400": 2
+          }
         }
       ],
       "recent_class": [
-        "BM70",
         "BM66",
-        "CL1",
         "BM58",
-        "Jump Out"
+        "Jump Out",
+        "Jump Out",
+        "BM56"
       ],
-      "days_since_run": 2,
-      "runs_this_prep": 8,
+      "days_since_run": 14,
+      "runs_this_prep": 4,
       "form_status": "confirmed",
       "warnings": [],
       "last5_parsed": [
@@ -2070,36 +2067,8 @@
       }
     },
     {
-      "name": "14. Moaksun",
-      "saddle_cloth": 12,
-      "selection_id": 100721765,
-      "status": "ACTIVE",
-      "best_back": null,
-      "back_depth_aud": 0,
-      "bsp_near": null,
-      "market_signal": "NEUTRAL",
-      "trainer": null,
-      "jockey": null,
-      "last5": null,
-      "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
-      "warnings": [],
-      "last5_parsed": [],
-      "data_status": "not_found",
-      "open_price": 18.0,
-      "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
-        "guard": "data_adequacy v1.0"
-      }
-    },
-    {
       "name": "15. Adki",
-      "saddle_cloth": 13,
+      "saddle_cloth": 12,
       "selection_id": 36431859,
       "status": "ACTIVE",
       "best_back": null,
@@ -2292,6 +2261,34 @@
       }
     },
     {
+      "name": "14. Moaksun",
+      "saddle_cloth": 13,
+      "selection_id": 100721765,
+      "status": "ACTIVE",
+      "best_back": null,
+      "back_depth_aud": 0,
+      "bsp_near": null,
+      "market_signal": "NEUTRAL",
+      "trainer": null,
+      "jockey": null,
+      "last5": null,
+      "career": null,
+      "weight_kg": null,
+      "barrier": null,
+      "form_status": "not_found",
+      "warnings": [],
+      "last5_parsed": [],
+      "data_status": "not_found",
+      "open_price": 18.0,
+      "call": {
+        "call": "NO_CALL",
+        "label": "DATA BAD",
+        "confidence": null,
+        "reason": "data bad: data_status=not_found and no race form on record",
+        "guard": "data_adequacy v1.0"
+      }
+    },
+    {
       "name": "17. Ourzacracker",
       "saddle_cloth": 14,
       "selection_id": 39980198,
@@ -2320,7 +2317,7 @@
       }
     }
   ],
-  "last_polled_at": "2026-07-18T04:32:54.054355Z",
+  "last_polled_at": "2026-07-19T01:45:11.132613Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
     "ok": 12,
