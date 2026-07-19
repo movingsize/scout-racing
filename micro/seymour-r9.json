@@ -1,0 +1,5977 @@
+{
+  "event_id": "seymour-2026-07-19-r9",
+  "market_id": "1.260121070",
+  "venue": "Seymour",
+  "race_name": "R9 1300m Hcap",
+  "start_time_utc": "2026-07-19T06:45:00.000Z",
+  "captured_by": "micro-series v1",
+  "field_size": 10,
+  "model_overlay": {
+    "93827291": {
+      "model_prob": 0.324804,
+      "model_rank": 1,
+      "model_version": "2026-07-08"
+    },
+    "100721766": {
+      "model_prob": 0.133394,
+      "model_rank": 2,
+      "model_version": "2026-07-08"
+    },
+    "100721767": {
+      "model_prob": 0.093809,
+      "model_rank": 3,
+      "model_version": "2026-07-08"
+    },
+    "927987": {
+      "model_prob": 0.088653,
+      "model_rank": 4,
+      "model_version": "2026-07-08"
+    },
+    "91807011": {
+      "model_prob": 0.080316,
+      "model_rank": 6,
+      "model_version": "2026-07-08"
+    },
+    "100721772": {
+      "model_prob": 0.072332,
+      "model_rank": 7,
+      "model_version": "2026-07-08"
+    },
+    "100721769": {
+      "model_prob": 0.081127,
+      "model_rank": 5,
+      "model_version": "2026-07-08"
+    },
+    "94780225": {
+      "model_prob": 0.050377,
+      "model_rank": 9,
+      "model_version": "2026-07-08"
+    },
+    "98482449": {
+      "model_prob": 0.050948,
+      "model_rank": 8,
+      "model_version": "2026-07-08"
+    },
+    "2863152": {
+      "model_prob": 0.02424,
+      "model_rank": 10,
+      "model_version": "2026-07-08"
+    }
+  },
+  "bsp": {
+    "100721770": {
+      "bsp": NaN,
+      "status": "REMOVED"
+    },
+    "83378701": {
+      "bsp": NaN,
+      "status": "REMOVED"
+    },
+    "42360888": {
+      "bsp": NaN,
+      "status": "REMOVED"
+    },
+    "100721768": {
+      "bsp": NaN,
+      "status": "REMOVED"
+    },
+    "86620782": {
+      "bsp": NaN,
+      "status": "REMOVED"
+    },
+    "100721771": {
+      "bsp": NaN,
+      "status": "REMOVED"
+    },
+    "98418547": {
+      "bsp": NaN,
+      "status": "REMOVED"
+    },
+    "927987": {
+      "bsp": 15.62,
+      "status": "REMOVED"
+    },
+    "91807011": {
+      "bsp": 9.83,
+      "status": "WINNER"
+    },
+    "2863152": {
+      "bsp": 146.76,
+      "status": "LOSER"
+    },
+    "100721766": {
+      "bsp": 7.07,
+      "status": "LOSER"
+    },
+    "98482449": {
+      "bsp": 26.17,
+      "status": "LOSER"
+    },
+    "100721767": {
+      "bsp": 9.93,
+      "status": "LOSER"
+    },
+    "93827291": {
+      "bsp": 2.11,
+      "status": "LOSER"
+    },
+    "100721769": {
+      "bsp": 13.0,
+      "status": "LOSER"
+    },
+    "94780225": {
+      "bsp": 23.08,
+      "status": "LOSER"
+    },
+    "100721772": {
+      "bsp": 14.89,
+      "status": "LOSER"
+    }
+  },
+  "result": {
+    "winner": "1. Zourain",
+    "winner_bsp": 9.83,
+    "placings": [
+      "1. Zourain",
+      "10. Our Justify",
+      "18. True Prophet"
+    ],
+    "settled_at": "2026-07-19T06:51:33.051057Z"
+  },
+  "frames": [
+    {
+      "at": "2026-07-19T06:35:01.027786Z",
+      "seconds_to_off": 599,
+      "market_matched_volume": 18016.94,
+      "overround_pct": 102.9,
+      "runners": [
+        {
+          "selection_id": 91807011,
+          "name": "1. Zourain",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 14.5,
+          "best_back_size": 8.37,
+          "best_lay": 15.5,
+          "best_lay_size": 24.89,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 14.5,
+              "size": 8.37
+            },
+            {
+              "price": 14.0,
+              "size": 17.17
+            },
+            {
+              "price": 13.5,
+              "size": 17.12
+            },
+            {
+              "price": 13.0,
+              "size": 13.01
+            },
+            {
+              "price": 12.5,
+              "size": 35.44
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 15.5,
+              "size": 24.89
+            },
+            {
+              "price": 16.0,
+              "size": 10.47
+            },
+            {
+              "price": 16.5,
+              "size": 8.67
+            },
+            {
+              "price": 17.0,
+              "size": 4.12
+            },
+            {
+              "price": 17.5,
+              "size": 12.5
+            }
+          ],
+          "runner_matched_volume": 494.97,
+          "last_price_traded": 15.0,
+          "market_prob": 0.067052,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 2863152,
+          "name": "2. Tijuana",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 180.0,
+          "best_back_size": 12.67,
+          "best_lay": 200.0,
+          "best_lay_size": 3.14,
+          "spread": 20.0,
+          "back_ladder": [
+            {
+              "price": 180.0,
+              "size": 12.67
+            },
+            {
+              "price": 170.0,
+              "size": 6.15
+            },
+            {
+              "price": 160.0,
+              "size": 2.68
+            },
+            {
+              "price": 150.0,
+              "size": 3.93
+            },
+            {
+              "price": 120.0,
+              "size": 3.6
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 200.0,
+              "size": 3.14
+            },
+            {
+              "price": 210.0,
+              "size": 10.09
+            },
+            {
+              "price": 300.0,
+              "size": 10.52
+            },
+            {
+              "price": 310.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 60.63,
+          "last_price_traded": 200.0,
+          "market_prob": 0.005401,
+          "market_rank": 10
+        },
+        {
+          "selection_id": 100721766,
+          "name": "3. Capricorn Star",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 7.2,
+          "best_back_size": 9.9,
+          "best_lay": 7.6,
+          "best_lay_size": 16.38,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 7.2,
+              "size": 9.9
+            },
+            {
+              "price": 7.0,
+              "size": 48.92
+            },
+            {
+              "price": 6.8,
+              "size": 36.34
+            },
+            {
+              "price": 6.6,
+              "size": 37.0
+            },
+            {
+              "price": 6.4,
+              "size": 61.1
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.6,
+              "size": 16.38
+            },
+            {
+              "price": 7.8,
+              "size": 10.66
+            },
+            {
+              "price": 8.0,
+              "size": 15.53
+            },
+            {
+              "price": 8.2,
+              "size": 12.95
+            },
+            {
+              "price": 8.4,
+              "size": 49.78
+            }
+          ],
+          "runner_matched_volume": 677.46,
+          "last_price_traded": 7.6,
+          "market_prob": 0.135035,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 98482449,
+          "name": "5. Hawk Power",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 32.0,
+          "best_back_size": 1.0,
+          "best_lay": 36.0,
+          "best_lay_size": 2.61,
+          "spread": 4.0,
+          "back_ladder": [
+            {
+              "price": 32.0,
+              "size": 1.0
+            },
+            {
+              "price": 30.0,
+              "size": 21.42
+            },
+            {
+              "price": 29.0,
+              "size": 21.45
+            },
+            {
+              "price": 28.0,
+              "size": 12.81
+            },
+            {
+              "price": 27.0,
+              "size": 13.9
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 36.0,
+              "size": 2.61
+            },
+            {
+              "price": 38.0,
+              "size": 10.38
+            },
+            {
+              "price": 40.0,
+              "size": 5.02
+            },
+            {
+              "price": 42.0,
+              "size": 12.57
+            },
+            {
+              "price": 44.0,
+              "size": 7.17
+            }
+          ],
+          "runner_matched_volume": 162.67,
+          "last_price_traded": 36.0,
+          "market_prob": 0.030383,
+          "market_rank": 9
+        },
+        {
+          "selection_id": 100721767,
+          "name": "7. Best Of The Best",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 13.0,
+          "best_back_size": 9.43,
+          "best_lay": 13.5,
+          "best_lay_size": 9.45,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 13.0,
+              "size": 9.43
+            },
+            {
+              "price": 12.5,
+              "size": 7.52
+            },
+            {
+              "price": 12.0,
+              "size": 18.97
+            },
+            {
+              "price": 11.5,
+              "size": 22.06
+            },
+            {
+              "price": 11.0,
+              "size": 39.43
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 13.5,
+              "size": 9.45
+            },
+            {
+              "price": 14.0,
+              "size": 24.62
+            },
+            {
+              "price": 14.5,
+              "size": 15.99
+            },
+            {
+              "price": 15.0,
+              "size": 9.62
+            },
+            {
+              "price": 15.5,
+              "size": 11.74
+            }
+          ],
+          "runner_matched_volume": 972.4,
+          "last_price_traded": 13.0,
+          "market_prob": 0.074788,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 927987,
+          "name": "9. Cashout",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 14.0,
+          "best_back_size": 8.18,
+          "best_lay": 15.5,
+          "best_lay_size": 2.45,
+          "spread": 1.5,
+          "back_ladder": [
+            {
+              "price": 14.0,
+              "size": 8.18
+            },
+            {
+              "price": 13.5,
+              "size": 5.8
+            },
+            {
+              "price": 13.0,
+              "size": 4.53
+            },
+            {
+              "price": 12.5,
+              "size": 10.66
+            },
+            {
+              "price": 12.0,
+              "size": 49.39
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 15.5,
+              "size": 2.45
+            },
+            {
+              "price": 16.0,
+              "size": 3.0
+            },
+            {
+              "price": 16.5,
+              "size": 5.2
+            },
+            {
+              "price": 17.0,
+              "size": 5.03
+            },
+            {
+              "price": 17.5,
+              "size": 7.01
+            }
+          ],
+          "runner_matched_volume": 240.24,
+          "last_price_traded": 15.5,
+          "market_prob": 0.069446,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 93827291,
+          "name": "10. Our Justify",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 2.08,
+          "best_back_size": 15.09,
+          "best_lay": 2.12,
+          "best_lay_size": 13.78,
+          "spread": 0.04,
+          "back_ladder": [
+            {
+              "price": 2.08,
+              "size": 15.09
+            },
+            {
+              "price": 2.06,
+              "size": 31.08
+            },
+            {
+              "price": 2.04,
+              "size": 409.04
+            },
+            {
+              "price": 2.02,
+              "size": 125.02
+            },
+            {
+              "price": 2.0,
+              "size": 83.13
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.12,
+              "size": 13.78
+            },
+            {
+              "price": 2.14,
+              "size": 29.41
+            },
+            {
+              "price": 2.16,
+              "size": 13.32
+            },
+            {
+              "price": 2.2,
+              "size": 146.43
+            },
+            {
+              "price": 2.22,
+              "size": 141.03
+            }
+          ],
+          "runner_matched_volume": 14714.67,
+          "last_price_traded": 2.04,
+          "market_prob": 0.467428,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100721769,
+          "name": "12. Bardias Dream",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 20.0,
+          "best_back_size": 2.08,
+          "best_lay": 21.0,
+          "best_lay_size": 5.92,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 20.0,
+              "size": 2.08
+            },
+            {
+              "price": 19.5,
+              "size": 2.43
+            },
+            {
+              "price": 19.0,
+              "size": 5.54
+            },
+            {
+              "price": 18.5,
+              "size": 7.4
+            },
+            {
+              "price": 18.0,
+              "size": 8.42
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 21.0,
+              "size": 5.92
+            },
+            {
+              "price": 22.0,
+              "size": 21.6
+            },
+            {
+              "price": 23.0,
+              "size": 11.83
+            },
+            {
+              "price": 24.0,
+              "size": 10.37
+            },
+            {
+              "price": 25.0,
+              "size": 9.29
+            }
+          ],
+          "runner_matched_volume": 88.05,
+          "last_price_traded": 20.0,
+          "market_prob": 0.048612,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 94780225,
+          "name": "13. Acheter",
+          "saddle_cloth": 9,
+          "status": "ACTIVE",
+          "best_back": 30.0,
+          "best_back_size": 5.98,
+          "best_lay": 34.0,
+          "best_lay_size": 18.91,
+          "spread": 4.0,
+          "back_ladder": [
+            {
+              "price": 30.0,
+              "size": 5.98
+            },
+            {
+              "price": 29.0,
+              "size": 15.38
+            },
+            {
+              "price": 28.0,
+              "size": 12.67
+            },
+            {
+              "price": 27.0,
+              "size": 19.68
+            },
+            {
+              "price": 26.0,
+              "size": 20.38
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 34.0,
+              "size": 18.91
+            },
+            {
+              "price": 36.0,
+              "size": 5.64
+            },
+            {
+              "price": 38.0,
+              "size": 5.09
+            },
+            {
+              "price": 40.0,
+              "size": 10.41
+            },
+            {
+              "price": 42.0,
+              "size": 8.62
+            }
+          ],
+          "runner_matched_volume": 234.68,
+          "last_price_traded": 34.0,
+          "market_prob": 0.032408,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100721772,
+          "name": "18. True Prophet",
+          "saddle_cloth": 10,
+          "status": "ACTIVE",
+          "best_back": 14.0,
+          "best_back_size": 3.58,
+          "best_lay": 15.0,
+          "best_lay_size": 5.3,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 14.0,
+              "size": 3.58
+            },
+            {
+              "price": 13.5,
+              "size": 18.19
+            },
+            {
+              "price": 13.0,
+              "size": 4.99
+            },
+            {
+              "price": 12.5,
+              "size": 18.36
+            },
+            {
+              "price": 12.0,
+              "size": 20.56
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 15.0,
+              "size": 5.3
+            },
+            {
+              "price": 15.5,
+              "size": 12.74
+            },
+            {
+              "price": 16.0,
+              "size": 22.56
+            },
+            {
+              "price": 16.5,
+              "size": 9.1
+            },
+            {
+              "price": 17.0,
+              "size": 7.02
+            }
+          ],
+          "runner_matched_volume": 371.12,
+          "last_price_traded": 14.5,
+          "market_prob": 0.069446,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100721770,
+          "name": "14. Boulder Jack",
+          "saddle_cloth": 11,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 83378701,
+          "name": "4. Gunado",
+          "saddle_cloth": 12,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 42360888,
+          "name": "8. Gobbos Mate",
+          "saddle_cloth": 13,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100721768,
+          "name": "11. Homeward",
+          "saddle_cloth": 14,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 86620782,
+          "name": "15. Friendzoned",
+          "saddle_cloth": 15,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100721771,
+          "name": "17. Belmia",
+          "saddle_cloth": 16,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 98418547,
+          "name": "16. Naval Force",
+          "saddle_cloth": 17,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-19T06:36:15.359232Z",
+      "seconds_to_off": 525,
+      "market_matched_volume": 18698.74,
+      "overround_pct": 102.7,
+      "runners": [
+        {
+          "selection_id": 91807011,
+          "name": "1. Zourain",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 14.5,
+          "best_back_size": 1.03,
+          "best_lay": 15.0,
+          "best_lay_size": 17.97,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 14.5,
+              "size": 1.03
+            },
+            {
+              "price": 14.0,
+              "size": 25.86
+            },
+            {
+              "price": 13.5,
+              "size": 20.98
+            },
+            {
+              "price": 13.0,
+              "size": 13.01
+            },
+            {
+              "price": 12.5,
+              "size": 41.31
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 15.0,
+              "size": 17.97
+            },
+            {
+              "price": 15.5,
+              "size": 14.39
+            },
+            {
+              "price": 16.0,
+              "size": 23.93
+            },
+            {
+              "price": 16.5,
+              "size": 8.67
+            },
+            {
+              "price": 17.0,
+              "size": 4.12
+            }
+          ],
+          "runner_matched_volume": 498.97,
+          "last_price_traded": 14.5,
+          "market_prob": 0.067131,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 2863152,
+          "name": "2. Tijuana",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 180.0,
+          "best_back_size": 12.67,
+          "best_lay": 200.0,
+          "best_lay_size": 3.14,
+          "spread": 20.0,
+          "back_ladder": [
+            {
+              "price": 180.0,
+              "size": 12.67
+            },
+            {
+              "price": 170.0,
+              "size": 6.15
+            },
+            {
+              "price": 160.0,
+              "size": 2.68
+            },
+            {
+              "price": 150.0,
+              "size": 3.93
+            },
+            {
+              "price": 120.0,
+              "size": 3.6
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 200.0,
+              "size": 3.14
+            },
+            {
+              "price": 210.0,
+              "size": 10.09
+            },
+            {
+              "price": 280.0,
+              "size": 1.41
+            },
+            {
+              "price": 300.0,
+              "size": 10.0
+            },
+            {
+              "price": 310.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 62.64,
+          "last_price_traded": 180.0,
+          "market_prob": 0.005408,
+          "market_rank": 10
+        },
+        {
+          "selection_id": 100721766,
+          "name": "3. Capricorn Star",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 7.4,
+          "best_back_size": 11.39,
+          "best_lay": 7.8,
+          "best_lay_size": 19.94,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 7.4,
+              "size": 11.39
+            },
+            {
+              "price": 7.2,
+              "size": 24.31
+            },
+            {
+              "price": 7.0,
+              "size": 52.75
+            },
+            {
+              "price": 6.8,
+              "size": 36.34
+            },
+            {
+              "price": 6.6,
+              "size": 38.47
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.8,
+              "size": 19.94
+            },
+            {
+              "price": 8.0,
+              "size": 32.13
+            },
+            {
+              "price": 8.2,
+              "size": 24.01
+            },
+            {
+              "price": 8.4,
+              "size": 33.21
+            },
+            {
+              "price": 8.6,
+              "size": 53.47
+            }
+          ],
+          "runner_matched_volume": 878.36,
+          "last_price_traded": 7.6,
+          "market_prob": 0.13154,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 98482449,
+          "name": "5. Hawk Power",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 34.0,
+          "best_back_size": 15.15,
+          "best_lay": 38.0,
+          "best_lay_size": 3.37,
+          "spread": 4.0,
+          "back_ladder": [
+            {
+              "price": 34.0,
+              "size": 15.15
+            },
+            {
+              "price": 32.0,
+              "size": 8.22
+            },
+            {
+              "price": 30.0,
+              "size": 23.62
+            },
+            {
+              "price": 29.0,
+              "size": 25.29
+            },
+            {
+              "price": 28.0,
+              "size": 12.81
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 38.0,
+              "size": 3.37
+            },
+            {
+              "price": 40.0,
+              "size": 5.12
+            },
+            {
+              "price": 42.0,
+              "size": 13.86
+            },
+            {
+              "price": 44.0,
+              "size": 7.17
+            },
+            {
+              "price": 46.0,
+              "size": 5.76
+            }
+          ],
+          "runner_matched_volume": 169.85,
+          "last_price_traded": 36.0,
+          "market_prob": 0.028629,
+          "market_rank": 9
+        },
+        {
+          "selection_id": 100721767,
+          "name": "7. Best Of The Best",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 11.0,
+          "best_back_size": 27.18,
+          "best_lay": 11.5,
+          "best_lay_size": 19.11,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 11.0,
+              "size": 27.18
+            },
+            {
+              "price": 10.5,
+              "size": 19.87
+            },
+            {
+              "price": 10.0,
+              "size": 61.88
+            },
+            {
+              "price": 9.8,
+              "size": 16.98
+            },
+            {
+              "price": 9.6,
+              "size": 17.29
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 11.5,
+              "size": 19.11
+            },
+            {
+              "price": 12.0,
+              "size": 11.35
+            },
+            {
+              "price": 12.5,
+              "size": 15.01
+            },
+            {
+              "price": 13.0,
+              "size": 91.56
+            },
+            {
+              "price": 13.5,
+              "size": 29.07
+            }
+          ],
+          "runner_matched_volume": 1051.28,
+          "last_price_traded": 11.5,
+          "market_prob": 0.088491,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 927987,
+          "name": "9. Cashout",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 13.5,
+          "best_back_size": 5.8,
+          "best_lay": 14.5,
+          "best_lay_size": 1.95,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 13.5,
+              "size": 5.8
+            },
+            {
+              "price": 13.0,
+              "size": 9.04
+            },
+            {
+              "price": 12.5,
+              "size": 10.66
+            },
+            {
+              "price": 12.0,
+              "size": 58.55
+            },
+            {
+              "price": 11.5,
+              "size": 47.34
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 14.5,
+              "size": 1.95
+            },
+            {
+              "price": 15.0,
+              "size": 12.44
+            },
+            {
+              "price": 15.5,
+              "size": 1.95
+            },
+            {
+              "price": 16.0,
+              "size": 7.12
+            },
+            {
+              "price": 16.5,
+              "size": 5.2
+            }
+          ],
+          "runner_matched_volume": 293.1,
+          "last_price_traded": 14.0,
+          "market_prob": 0.072103,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 93827291,
+          "name": "10. Our Justify",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 2.16,
+          "best_back_size": 77.15,
+          "best_lay": 2.2,
+          "best_lay_size": 73.95,
+          "spread": 0.04,
+          "back_ladder": [
+            {
+              "price": 2.16,
+              "size": 77.15
+            },
+            {
+              "price": 2.14,
+              "size": 232.06
+            },
+            {
+              "price": 2.12,
+              "size": 9.64
+            },
+            {
+              "price": 2.1,
+              "size": 39.29
+            },
+            {
+              "price": 2.08,
+              "size": 55.12
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.2,
+              "size": 73.95
+            },
+            {
+              "price": 2.22,
+              "size": 15.0
+            },
+            {
+              "price": 2.24,
+              "size": 17.32
+            },
+            {
+              "price": 2.26,
+              "size": 44.16
+            },
+            {
+              "price": 2.28,
+              "size": 120.83
+            }
+          ],
+          "runner_matched_volume": 14952.03,
+          "last_price_traded": 2.16,
+          "market_prob": 0.450646,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100721769,
+          "name": "12. Bardias Dream",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 18.0,
+          "best_back_size": 5.82,
+          "best_lay": 19.5,
+          "best_lay_size": 7.03,
+          "spread": 1.5,
+          "back_ladder": [
+            {
+              "price": 18.0,
+              "size": 5.82
+            },
+            {
+              "price": 17.5,
+              "size": 11.62
+            },
+            {
+              "price": 17.0,
+              "size": 2.44
+            },
+            {
+              "price": 16.5,
+              "size": 21.09
+            },
+            {
+              "price": 16.0,
+              "size": 30.87
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 19.5,
+              "size": 7.03
+            },
+            {
+              "price": 20.0,
+              "size": 3.98
+            },
+            {
+              "price": 21.0,
+              "size": 13.48
+            },
+            {
+              "price": 22.0,
+              "size": 11.27
+            },
+            {
+              "price": 23.0,
+              "size": 11.83
+            }
+          ],
+          "runner_matched_volume": 133.9,
+          "last_price_traded": 18.0,
+          "market_prob": 0.054078,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 94780225,
+          "name": "13. Acheter",
+          "saddle_cloth": 9,
+          "status": "ACTIVE",
+          "best_back": 30.0,
+          "best_back_size": 4.21,
+          "best_lay": 32.0,
+          "best_lay_size": 6.71,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 30.0,
+              "size": 4.21
+            },
+            {
+              "price": 29.0,
+              "size": 17.3
+            },
+            {
+              "price": 28.0,
+              "size": 16.51
+            },
+            {
+              "price": 27.0,
+              "size": 20.05
+            },
+            {
+              "price": 26.0,
+              "size": 20.02
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 32.0,
+              "size": 6.71
+            },
+            {
+              "price": 34.0,
+              "size": 18.43
+            },
+            {
+              "price": 36.0,
+              "size": 9.59
+            },
+            {
+              "price": 38.0,
+              "size": 20.45
+            },
+            {
+              "price": 40.0,
+              "size": 14.24
+            }
+          ],
+          "runner_matched_volume": 255.46,
+          "last_price_traded": 32.0,
+          "market_prob": 0.032447,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100721772,
+          "name": "18. True Prophet",
+          "saddle_cloth": 10,
+          "status": "ACTIVE",
+          "best_back": 14.0,
+          "best_back_size": 2.02,
+          "best_lay": 14.5,
+          "best_lay_size": 2.25,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 14.0,
+              "size": 2.02
+            },
+            {
+              "price": 13.5,
+              "size": 22.04
+            },
+            {
+              "price": 13.0,
+              "size": 4.99
+            },
+            {
+              "price": 12.5,
+              "size": 17.59
+            },
+            {
+              "price": 12.0,
+              "size": 21.37
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 14.5,
+              "size": 2.25
+            },
+            {
+              "price": 15.0,
+              "size": 3.29
+            },
+            {
+              "price": 15.5,
+              "size": 10.84
+            },
+            {
+              "price": 16.0,
+              "size": 22.56
+            },
+            {
+              "price": 16.5,
+              "size": 9.1
+            }
+          ],
+          "runner_matched_volume": 403.1,
+          "last_price_traded": 14.0,
+          "market_prob": 0.069528,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100721770,
+          "name": "14. Boulder Jack",
+          "saddle_cloth": 11,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 83378701,
+          "name": "4. Gunado",
+          "saddle_cloth": 12,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 42360888,
+          "name": "8. Gobbos Mate",
+          "saddle_cloth": 13,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100721768,
+          "name": "11. Homeward",
+          "saddle_cloth": 14,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 86620782,
+          "name": "15. Friendzoned",
+          "saddle_cloth": 15,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100721771,
+          "name": "17. Belmia",
+          "saddle_cloth": 16,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 98418547,
+          "name": "16. Naval Force",
+          "saddle_cloth": 17,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-19T06:37:30.332743Z",
+      "seconds_to_off": 450,
+      "market_matched_volume": 19498.33,
+      "overround_pct": 102.7,
+      "runners": [
+        {
+          "selection_id": 91807011,
+          "name": "1. Zourain",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 14.0,
+          "best_back_size": 47.24,
+          "best_lay": 15.0,
+          "best_lay_size": 22.43,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 14.0,
+              "size": 47.24
+            },
+            {
+              "price": 13.5,
+              "size": 32.25
+            },
+            {
+              "price": 13.0,
+              "size": 22.64
+            },
+            {
+              "price": 12.5,
+              "size": 60.51
+            },
+            {
+              "price": 12.0,
+              "size": 68.04
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 15.0,
+              "size": 22.43
+            },
+            {
+              "price": 15.5,
+              "size": 27.62
+            },
+            {
+              "price": 16.0,
+              "size": 10.7
+            },
+            {
+              "price": 16.5,
+              "size": 8.67
+            },
+            {
+              "price": 17.0,
+              "size": 11.18
+            }
+          ],
+          "runner_matched_volume": 579.84,
+          "last_price_traded": 14.5,
+          "market_prob": 0.069543,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 2863152,
+          "name": "2. Tijuana",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 180.0,
+          "best_back_size": 12.67,
+          "best_lay": 200.0,
+          "best_lay_size": 3.14,
+          "spread": 20.0,
+          "back_ladder": [
+            {
+              "price": 180.0,
+              "size": 12.67
+            },
+            {
+              "price": 170.0,
+              "size": 9.88
+            },
+            {
+              "price": 160.0,
+              "size": 2.68
+            },
+            {
+              "price": 150.0,
+              "size": 3.93
+            },
+            {
+              "price": 120.0,
+              "size": 3.6
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 200.0,
+              "size": 3.14
+            },
+            {
+              "price": 210.0,
+              "size": 10.09
+            },
+            {
+              "price": 280.0,
+              "size": 1.41
+            },
+            {
+              "price": 300.0,
+              "size": 10.0
+            },
+            {
+              "price": 310.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 62.64,
+          "last_price_traded": 180.0,
+          "market_prob": 0.005409,
+          "market_rank": 10
+        },
+        {
+          "selection_id": 100721766,
+          "name": "3. Capricorn Star",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 7.2,
+          "best_back_size": 22.46,
+          "best_lay": 7.6,
+          "best_lay_size": 11.7,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 7.2,
+              "size": 22.46
+            },
+            {
+              "price": 7.0,
+              "size": 38.36
+            },
+            {
+              "price": 6.8,
+              "size": 38.26
+            },
+            {
+              "price": 6.6,
+              "size": 38.93
+            },
+            {
+              "price": 6.4,
+              "size": 98.01
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.6,
+              "size": 11.7
+            },
+            {
+              "price": 7.8,
+              "size": 11.16
+            },
+            {
+              "price": 8.0,
+              "size": 41.29
+            },
+            {
+              "price": 8.2,
+              "size": 18.71
+            },
+            {
+              "price": 8.4,
+              "size": 39.91
+            }
+          ],
+          "runner_matched_volume": 961.06,
+          "last_price_traded": 7.2,
+          "market_prob": 0.135223,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 98482449,
+          "name": "5. Hawk Power",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 34.0,
+          "best_back_size": 7.73,
+          "best_lay": 38.0,
+          "best_lay_size": 3.55,
+          "spread": 4.0,
+          "back_ladder": [
+            {
+              "price": 34.0,
+              "size": 7.73
+            },
+            {
+              "price": 32.0,
+              "size": 14.1
+            },
+            {
+              "price": 30.0,
+              "size": 25.55
+            },
+            {
+              "price": 29.0,
+              "size": 25.29
+            },
+            {
+              "price": 28.0,
+              "size": 12.81
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 38.0,
+              "size": 3.55
+            },
+            {
+              "price": 40.0,
+              "size": 10.24
+            },
+            {
+              "price": 42.0,
+              "size": 8.74
+            },
+            {
+              "price": 44.0,
+              "size": 7.17
+            },
+            {
+              "price": 46.0,
+              "size": 5.76
+            }
+          ],
+          "runner_matched_volume": 169.85,
+          "last_price_traded": 36.0,
+          "market_prob": 0.028635,
+          "market_rank": 9
+        },
+        {
+          "selection_id": 100721767,
+          "name": "7. Best Of The Best",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 10.5,
+          "best_back_size": 24.07,
+          "best_lay": 11.5,
+          "best_lay_size": 23.52,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 10.5,
+              "size": 24.07
+            },
+            {
+              "price": 10.0,
+              "size": 64.35
+            },
+            {
+              "price": 9.8,
+              "size": 18.9
+            },
+            {
+              "price": 9.6,
+              "size": 19.21
+            },
+            {
+              "price": 9.4,
+              "size": 57.47
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 11.5,
+              "size": 23.52
+            },
+            {
+              "price": 12.0,
+              "size": 11.35
+            },
+            {
+              "price": 12.5,
+              "size": 20.77
+            },
+            {
+              "price": 13.0,
+              "size": 32.0
+            },
+            {
+              "price": 13.5,
+              "size": 31.0
+            }
+          ],
+          "runner_matched_volume": 1096.69,
+          "last_price_traded": 11.0,
+          "market_prob": 0.092724,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 927987,
+          "name": "9. Cashout",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 12.5,
+          "best_back_size": 14.59,
+          "best_lay": 14.0,
+          "best_lay_size": 2.29,
+          "spread": 1.5,
+          "back_ladder": [
+            {
+              "price": 12.5,
+              "size": 14.59
+            },
+            {
+              "price": 12.0,
+              "size": 36.22
+            },
+            {
+              "price": 11.5,
+              "size": 68.86
+            },
+            {
+              "price": 11.0,
+              "size": 62.27
+            },
+            {
+              "price": 10.5,
+              "size": 53.31
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 14.0,
+              "size": 2.29
+            },
+            {
+              "price": 14.5,
+              "size": 9.49
+            },
+            {
+              "price": 15.0,
+              "size": 5.0
+            },
+            {
+              "price": 15.5,
+              "size": 9.92
+            },
+            {
+              "price": 16.0,
+              "size": 10.48
+            }
+          ],
+          "runner_matched_volume": 337.2,
+          "last_price_traded": 13.0,
+          "market_prob": 0.077888,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 93827291,
+          "name": "10. Our Justify",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 2.26,
+          "best_back_size": 1.75,
+          "best_lay": 2.28,
+          "best_lay_size": 41.99,
+          "spread": 0.02,
+          "back_ladder": [
+            {
+              "price": 2.26,
+              "size": 1.75
+            },
+            {
+              "price": 2.24,
+              "size": 48.93
+            },
+            {
+              "price": 2.22,
+              "size": 17.25
+            },
+            {
+              "price": 2.2,
+              "size": 15.09
+            },
+            {
+              "price": 2.18,
+              "size": 42.41
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.28,
+              "size": 41.99
+            },
+            {
+              "price": 2.3,
+              "size": 8.76
+            },
+            {
+              "price": 2.32,
+              "size": 4.64
+            },
+            {
+              "price": 2.34,
+              "size": 5.76
+            },
+            {
+              "price": 2.36,
+              "size": 147.69
+            }
+          ],
+          "runner_matched_volume": 15431.88,
+          "last_price_traded": 2.26,
+          "market_prob": 0.430798,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100721769,
+          "name": "12. Bardias Dream",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 18.0,
+          "best_back_size": 5.98,
+          "best_lay": 20.0,
+          "best_lay_size": 4.83,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 18.0,
+              "size": 5.98
+            },
+            {
+              "price": 17.5,
+              "size": 11.62
+            },
+            {
+              "price": 17.0,
+              "size": 2.44
+            },
+            {
+              "price": 16.5,
+              "size": 20.51
+            },
+            {
+              "price": 16.0,
+              "size": 13.7
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 20.0,
+              "size": 4.83
+            },
+            {
+              "price": 21.0,
+              "size": 13.48
+            },
+            {
+              "price": 22.0,
+              "size": 11.27
+            },
+            {
+              "price": 23.0,
+              "size": 11.83
+            },
+            {
+              "price": 24.0,
+              "size": 10.37
+            }
+          ],
+          "runner_matched_volume": 133.9,
+          "last_price_traded": 18.0,
+          "market_prob": 0.054089,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 94780225,
+          "name": "13. Acheter",
+          "saddle_cloth": 9,
+          "status": "ACTIVE",
+          "best_back": 29.0,
+          "best_back_size": 17.51,
+          "best_lay": 32.0,
+          "best_lay_size": 4.26,
+          "spread": 3.0,
+          "back_ladder": [
+            {
+              "price": 29.0,
+              "size": 17.51
+            },
+            {
+              "price": 28.0,
+              "size": 23.83
+            },
+            {
+              "price": 27.0,
+              "size": 19.68
+            },
+            {
+              "price": 26.0,
+              "size": 20.38
+            },
+            {
+              "price": 25.0,
+              "size": 14.08
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 32.0,
+              "size": 4.26
+            },
+            {
+              "price": 34.0,
+              "size": 18.43
+            },
+            {
+              "price": 36.0,
+              "size": 9.59
+            },
+            {
+              "price": 38.0,
+              "size": 8.92
+            },
+            {
+              "price": 40.0,
+              "size": 8.76
+            }
+          ],
+          "runner_matched_volume": 281.71,
+          "last_price_traded": 30.0,
+          "market_prob": 0.033573,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100721772,
+          "name": "18. True Prophet",
+          "saddle_cloth": 10,
+          "status": "ACTIVE",
+          "best_back": 13.5,
+          "best_back_size": 17.71,
+          "best_lay": 15.0,
+          "best_lay_size": 1.31,
+          "spread": 1.5,
+          "back_ladder": [
+            {
+              "price": 13.5,
+              "size": 17.71
+            },
+            {
+              "price": 13.0,
+              "size": 20.21
+            },
+            {
+              "price": 12.5,
+              "size": 27.19
+            },
+            {
+              "price": 12.0,
+              "size": 31.16
+            },
+            {
+              "price": 11.5,
+              "size": 39.47
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 15.0,
+              "size": 1.31
+            },
+            {
+              "price": 15.5,
+              "size": 43.63
+            },
+            {
+              "price": 16.0,
+              "size": 10.14
+            },
+            {
+              "price": 16.5,
+              "size": 9.1
+            },
+            {
+              "price": 17.0,
+              "size": 7.02
+            }
+          ],
+          "runner_matched_volume": 443.52,
+          "last_price_traded": 13.5,
+          "market_prob": 0.072119,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100721770,
+          "name": "14. Boulder Jack",
+          "saddle_cloth": 11,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 83378701,
+          "name": "4. Gunado",
+          "saddle_cloth": 12,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 42360888,
+          "name": "8. Gobbos Mate",
+          "saddle_cloth": 13,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100721768,
+          "name": "11. Homeward",
+          "saddle_cloth": 14,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 86620782,
+          "name": "15. Friendzoned",
+          "saddle_cloth": 15,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100721771,
+          "name": "17. Belmia",
+          "saddle_cloth": 16,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 98418547,
+          "name": "16. Naval Force",
+          "saddle_cloth": 17,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-19T06:38:45.350998Z",
+      "seconds_to_off": 375,
+      "market_matched_volume": 21643.91,
+      "overround_pct": 103.0,
+      "runners": [
+        {
+          "selection_id": 91807011,
+          "name": "1. Zourain",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 14.5,
+          "best_back_size": 12.64,
+          "best_lay": 15.0,
+          "best_lay_size": 21.96,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 14.5,
+              "size": 12.64
+            },
+            {
+              "price": 14.0,
+              "size": 35.46
+            },
+            {
+              "price": 13.5,
+              "size": 37.4
+            },
+            {
+              "price": 13.0,
+              "size": 48.1
+            },
+            {
+              "price": 12.5,
+              "size": 75.1
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 15.0,
+              "size": 21.96
+            },
+            {
+              "price": 15.5,
+              "size": 27.62
+            },
+            {
+              "price": 16.0,
+              "size": 16.46
+            },
+            {
+              "price": 16.5,
+              "size": 14.43
+            },
+            {
+              "price": 17.0,
+              "size": 36.39
+            }
+          ],
+          "runner_matched_volume": 619.97,
+          "last_price_traded": 15.0,
+          "market_prob": 0.066978,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 2863152,
+          "name": "2. Tijuana",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 180.0,
+          "best_back_size": 11.4,
+          "best_lay": 200.0,
+          "best_lay_size": 2.18,
+          "spread": 20.0,
+          "back_ladder": [
+            {
+              "price": 180.0,
+              "size": 11.4
+            },
+            {
+              "price": 170.0,
+              "size": 8.73
+            },
+            {
+              "price": 160.0,
+              "size": 11.33
+            },
+            {
+              "price": 150.0,
+              "size": 3.93
+            },
+            {
+              "price": 120.0,
+              "size": 3.6
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 200.0,
+              "size": 2.18
+            },
+            {
+              "price": 210.0,
+              "size": 10.09
+            },
+            {
+              "price": 240.0,
+              "size": 2.45
+            },
+            {
+              "price": 300.0,
+              "size": 10.89
+            },
+            {
+              "price": 310.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 67.56,
+          "last_price_traded": 180.0,
+          "market_prob": 0.005395,
+          "market_rank": 10
+        },
+        {
+          "selection_id": 100721766,
+          "name": "3. Capricorn Star",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 7.0,
+          "best_back_size": 27.4,
+          "best_lay": 7.2,
+          "best_lay_size": 3.74,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 7.0,
+              "size": 27.4
+            },
+            {
+              "price": 6.8,
+              "size": 19.36
+            },
+            {
+              "price": 6.6,
+              "size": 39.43
+            },
+            {
+              "price": 6.4,
+              "size": 63.26
+            },
+            {
+              "price": 6.2,
+              "size": 118.62
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.2,
+              "size": 3.74
+            },
+            {
+              "price": 7.4,
+              "size": 15.14
+            },
+            {
+              "price": 7.6,
+              "size": 6.86
+            },
+            {
+              "price": 7.8,
+              "size": 21.14
+            },
+            {
+              "price": 8.0,
+              "size": 45.64
+            }
+          ],
+          "runner_matched_volume": 1122.41,
+          "last_price_traded": 7.0,
+          "market_prob": 0.13874,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 98482449,
+          "name": "5. Hawk Power",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 36.0,
+          "best_back_size": 5.83,
+          "best_lay": 40.0,
+          "best_lay_size": 8.31,
+          "spread": 4.0,
+          "back_ladder": [
+            {
+              "price": 36.0,
+              "size": 5.83
+            },
+            {
+              "price": 34.0,
+              "size": 15.31
+            },
+            {
+              "price": 32.0,
+              "size": 6.68
+            },
+            {
+              "price": 30.0,
+              "size": 25.55
+            },
+            {
+              "price": 29.0,
+              "size": 25.91
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 40.0,
+              "size": 8.31
+            },
+            {
+              "price": 42.0,
+              "size": 25.42
+            },
+            {
+              "price": 44.0,
+              "size": 14.63
+            },
+            {
+              "price": 46.0,
+              "size": 9.29
+            },
+            {
+              "price": 48.0,
+              "size": 8.0
+            }
+          ],
+          "runner_matched_volume": 185.14,
+          "last_price_traded": 36.0,
+          "market_prob": 0.026977,
+          "market_rank": 9
+        },
+        {
+          "selection_id": 100721767,
+          "name": "7. Best Of The Best",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 10.5,
+          "best_back_size": 1.64,
+          "best_lay": 11.0,
+          "best_lay_size": 20.1,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 10.5,
+              "size": 1.64
+            },
+            {
+              "price": 10.0,
+              "size": 59.1
+            },
+            {
+              "price": 9.6,
+              "size": 20.55
+            },
+            {
+              "price": 9.4,
+              "size": 32.54
+            },
+            {
+              "price": 9.2,
+              "size": 53.12
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 11.0,
+              "size": 20.1
+            },
+            {
+              "price": 11.5,
+              "size": 9.08
+            },
+            {
+              "price": 12.0,
+              "size": 17.11
+            },
+            {
+              "price": 12.5,
+              "size": 41.2
+            },
+            {
+              "price": 13.0,
+              "size": 52.12
+            }
+          ],
+          "runner_matched_volume": 1239.71,
+          "last_price_traded": 10.5,
+          "market_prob": 0.092494,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 927987,
+          "name": "9. Cashout",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 13.0,
+          "best_back_size": 22.74,
+          "best_lay": 14.0,
+          "best_lay_size": 7.01,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 13.0,
+              "size": 22.74
+            },
+            {
+              "price": 12.5,
+              "size": 6.8
+            },
+            {
+              "price": 12.0,
+              "size": 35.48
+            },
+            {
+              "price": 11.5,
+              "size": 74.65
+            },
+            {
+              "price": 11.0,
+              "size": 56.49
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 14.0,
+              "size": 7.01
+            },
+            {
+              "price": 14.5,
+              "size": 4.84
+            },
+            {
+              "price": 15.0,
+              "size": 5.0
+            },
+            {
+              "price": 15.5,
+              "size": 15.66
+            },
+            {
+              "price": 16.0,
+              "size": 16.24
+            }
+          ],
+          "runner_matched_volume": 441.71,
+          "last_price_traded": 13.0,
+          "market_prob": 0.074706,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 93827291,
+          "name": "10. Our Justify",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 2.22,
+          "best_back_size": 30.85,
+          "best_lay": 2.28,
+          "best_lay_size": 5.82,
+          "spread": 0.06,
+          "back_ladder": [
+            {
+              "price": 2.22,
+              "size": 30.85
+            },
+            {
+              "price": 2.2,
+              "size": 13.16
+            },
+            {
+              "price": 2.18,
+              "size": 66.96
+            },
+            {
+              "price": 2.16,
+              "size": 7.53
+            },
+            {
+              "price": 2.14,
+              "size": 118.76
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.28,
+              "size": 5.82
+            },
+            {
+              "price": 2.3,
+              "size": 23.48
+            },
+            {
+              "price": 2.32,
+              "size": 11.79
+            },
+            {
+              "price": 2.34,
+              "size": 49.21
+            },
+            {
+              "price": 2.36,
+              "size": 147.69
+            }
+          ],
+          "runner_matched_volume": 17037.49,
+          "last_price_traded": 2.26,
+          "market_prob": 0.43747,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100721769,
+          "name": "12. Bardias Dream",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 17.5,
+          "best_back_size": 1.7,
+          "best_lay": 18.5,
+          "best_lay_size": 2.42,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 17.5,
+              "size": 1.7
+            },
+            {
+              "price": 17.0,
+              "size": 3.89
+            },
+            {
+              "price": 16.5,
+              "size": 10.06
+            },
+            {
+              "price": 16.0,
+              "size": 19.04
+            },
+            {
+              "price": 15.5,
+              "size": 13.77
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 18.5,
+              "size": 2.42
+            },
+            {
+              "price": 20.0,
+              "size": 12.53
+            },
+            {
+              "price": 21.0,
+              "size": 11.86
+            },
+            {
+              "price": 22.0,
+              "size": 13.2
+            },
+            {
+              "price": 23.0,
+              "size": 13.76
+            }
+          ],
+          "runner_matched_volume": 186.08,
+          "last_price_traded": 18.5,
+          "market_prob": 0.055496,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 94780225,
+          "name": "13. Acheter",
+          "saddle_cloth": 9,
+          "status": "ACTIVE",
+          "best_back": 30.0,
+          "best_back_size": 1.27,
+          "best_lay": 32.0,
+          "best_lay_size": 9.31,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 30.0,
+              "size": 1.27
+            },
+            {
+              "price": 29.0,
+              "size": 15.59
+            },
+            {
+              "price": 28.0,
+              "size": 7.21
+            },
+            {
+              "price": 27.0,
+              "size": 27.65
+            },
+            {
+              "price": 26.0,
+              "size": 20.02
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 32.0,
+              "size": 9.31
+            },
+            {
+              "price": 34.0,
+              "size": 18.43
+            },
+            {
+              "price": 36.0,
+              "size": 11.52
+            },
+            {
+              "price": 38.0,
+              "size": 10.85
+            },
+            {
+              "price": 40.0,
+              "size": 8.76
+            }
+          ],
+          "runner_matched_volume": 297.7,
+          "last_price_traded": 30.0,
+          "market_prob": 0.032373,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100721772,
+          "name": "18. True Prophet",
+          "saddle_cloth": 10,
+          "status": "ACTIVE",
+          "best_back": 14.0,
+          "best_back_size": 11.49,
+          "best_lay": 15.0,
+          "best_lay_size": 7.45,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 14.0,
+              "size": 11.49
+            },
+            {
+              "price": 13.5,
+              "size": 30.31
+            },
+            {
+              "price": 13.0,
+              "size": 20.21
+            },
+            {
+              "price": 12.5,
+              "size": 46.76
+            },
+            {
+              "price": 12.0,
+              "size": 30.35
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 15.0,
+              "size": 7.45
+            },
+            {
+              "price": 15.5,
+              "size": 26.44
+            },
+            {
+              "price": 16.0,
+              "size": 15.31
+            },
+            {
+              "price": 16.5,
+              "size": 14.27
+            },
+            {
+              "price": 17.0,
+              "size": 7.02
+            }
+          ],
+          "runner_matched_volume": 446.09,
+          "last_price_traded": 14.5,
+          "market_prob": 0.06937,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100721770,
+          "name": "14. Boulder Jack",
+          "saddle_cloth": 11,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 83378701,
+          "name": "4. Gunado",
+          "saddle_cloth": 12,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 42360888,
+          "name": "8. Gobbos Mate",
+          "saddle_cloth": 13,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100721768,
+          "name": "11. Homeward",
+          "saddle_cloth": 14,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 86620782,
+          "name": "15. Friendzoned",
+          "saddle_cloth": 15,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100721771,
+          "name": "17. Belmia",
+          "saddle_cloth": 16,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 98418547,
+          "name": "16. Naval Force",
+          "saddle_cloth": 17,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-19T06:40:00.342925Z",
+      "seconds_to_off": 300,
+      "market_matched_volume": 22747.77,
+      "overround_pct": 103.0,
+      "runners": [
+        {
+          "selection_id": 91807011,
+          "name": "1. Zourain",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 14.0,
+          "best_back_size": 36.89,
+          "best_lay": 15.0,
+          "best_lay_size": 22.86,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 14.0,
+              "size": 36.89
+            },
+            {
+              "price": 13.5,
+              "size": 42.22
+            },
+            {
+              "price": 13.0,
+              "size": 27.65
+            },
+            {
+              "price": 12.5,
+              "size": 75.87
+            },
+            {
+              "price": 12.0,
+              "size": 73.8
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 15.0,
+              "size": 22.86
+            },
+            {
+              "price": 15.5,
+              "size": 32.83
+            },
+            {
+              "price": 16.0,
+              "size": 16.46
+            },
+            {
+              "price": 16.5,
+              "size": 14.43
+            },
+            {
+              "price": 17.0,
+              "size": 36.39
+            }
+          ],
+          "runner_matched_volume": 663.34,
+          "last_price_traded": 15.0,
+          "market_prob": 0.069358,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 2863152,
+          "name": "2. Tijuana",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 200.0,
+          "best_back_size": 4.07,
+          "best_lay": 250.0,
+          "best_lay_size": 1.06,
+          "spread": 50.0,
+          "back_ladder": [
+            {
+              "price": 200.0,
+              "size": 4.07
+            },
+            {
+              "price": 190.0,
+              "size": 2.55
+            },
+            {
+              "price": 180.0,
+              "size": 13.29
+            },
+            {
+              "price": 170.0,
+              "size": 8.73
+            },
+            {
+              "price": 160.0,
+              "size": 6.33
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 250.0,
+              "size": 1.06
+            },
+            {
+              "price": 260.0,
+              "size": 4.31
+            },
+            {
+              "price": 290.0,
+              "size": 2.36
+            },
+            {
+              "price": 300.0,
+              "size": 10.4
+            },
+            {
+              "price": 310.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 103.61,
+          "last_price_traded": 240.0,
+          "market_prob": 0.004855,
+          "market_rank": 10
+        },
+        {
+          "selection_id": 100721766,
+          "name": "3. Capricorn Star",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 7.0,
+          "best_back_size": 18.02,
+          "best_lay": 7.2,
+          "best_lay_size": 11.04,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 7.0,
+              "size": 18.02
+            },
+            {
+              "price": 6.8,
+              "size": 31.89
+            },
+            {
+              "price": 6.6,
+              "size": 42.46
+            },
+            {
+              "price": 6.4,
+              "size": 44.61
+            },
+            {
+              "price": 6.2,
+              "size": 120.96
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.2,
+              "size": 11.04
+            },
+            {
+              "price": 7.4,
+              "size": 11.26
+            },
+            {
+              "price": 7.6,
+              "size": 18.05
+            },
+            {
+              "price": 7.8,
+              "size": 24.15
+            },
+            {
+              "price": 8.0,
+              "size": 45.64
+            }
+          ],
+          "runner_matched_volume": 1212.02,
+          "last_price_traded": 7.0,
+          "market_prob": 0.138716,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 98482449,
+          "name": "5. Hawk Power",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 36.0,
+          "best_back_size": 5.83,
+          "best_lay": 40.0,
+          "best_lay_size": 7.02,
+          "spread": 4.0,
+          "back_ladder": [
+            {
+              "price": 36.0,
+              "size": 5.83
+            },
+            {
+              "price": 34.0,
+              "size": 15.9
+            },
+            {
+              "price": 32.0,
+              "size": 13.06
+            },
+            {
+              "price": 30.0,
+              "size": 37.09
+            },
+            {
+              "price": 29.0,
+              "size": 20.03
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 40.0,
+              "size": 7.02
+            },
+            {
+              "price": 42.0,
+              "size": 25.3
+            },
+            {
+              "price": 44.0,
+              "size": 25.63
+            },
+            {
+              "price": 46.0,
+              "size": 9.29
+            },
+            {
+              "price": 48.0,
+              "size": 8.0
+            }
+          ],
+          "runner_matched_volume": 192.8,
+          "last_price_traded": 40.0,
+          "market_prob": 0.026972,
+          "market_rank": 9
+        },
+        {
+          "selection_id": 100721767,
+          "name": "7. Best Of The Best",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 10.0,
+          "best_back_size": 21.77,
+          "best_lay": 10.5,
+          "best_lay_size": 22.02,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 10.0,
+              "size": 21.77
+            },
+            {
+              "price": 9.8,
+              "size": 27.79
+            },
+            {
+              "price": 9.6,
+              "size": 15.57
+            },
+            {
+              "price": 9.4,
+              "size": 32.54
+            },
+            {
+              "price": 9.2,
+              "size": 28.27
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 10.5,
+              "size": 22.02
+            },
+            {
+              "price": 11.0,
+              "size": 47.28
+            },
+            {
+              "price": 11.5,
+              "size": 14.85
+            },
+            {
+              "price": 12.0,
+              "size": 75.73
+            },
+            {
+              "price": 12.5,
+              "size": 74.58
+            }
+          ],
+          "runner_matched_volume": 1355.89,
+          "last_price_traded": 10.0,
+          "market_prob": 0.097101,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 927987,
+          "name": "9. Cashout",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 13.0,
+          "best_back_size": 7.01,
+          "best_lay": 14.0,
+          "best_lay_size": 7.24,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 13.0,
+              "size": 7.01
+            },
+            {
+              "price": 12.5,
+              "size": 14.8
+            },
+            {
+              "price": 12.0,
+              "size": 42.94
+            },
+            {
+              "price": 11.5,
+              "size": 75.48
+            },
+            {
+              "price": 11.0,
+              "size": 55.62
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 14.0,
+              "size": 7.24
+            },
+            {
+              "price": 14.5,
+              "size": 4.84
+            },
+            {
+              "price": 15.0,
+              "size": 13.48
+            },
+            {
+              "price": 15.5,
+              "size": 21.43
+            },
+            {
+              "price": 16.0,
+              "size": 26.24
+            }
+          ],
+          "runner_matched_volume": 541.18,
+          "last_price_traded": 13.0,
+          "market_prob": 0.074693,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 93827291,
+          "name": "10. Our Justify",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 2.24,
+          "best_back_size": 10.75,
+          "best_lay": 2.3,
+          "best_lay_size": 49.38,
+          "spread": 0.06,
+          "back_ladder": [
+            {
+              "price": 2.24,
+              "size": 10.75
+            },
+            {
+              "price": 2.22,
+              "size": 46.19
+            },
+            {
+              "price": 2.2,
+              "size": 33.64
+            },
+            {
+              "price": 2.18,
+              "size": 66.76
+            },
+            {
+              "price": 2.16,
+              "size": 17.17
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.3,
+              "size": 49.38
+            },
+            {
+              "price": 2.32,
+              "size": 11.79
+            },
+            {
+              "price": 2.34,
+              "size": 12.62
+            },
+            {
+              "price": 2.36,
+              "size": 155.72
+            },
+            {
+              "price": 2.38,
+              "size": 122.34
+            }
+          ],
+          "runner_matched_volume": 17625.35,
+          "last_price_traded": 2.28,
+          "market_prob": 0.433486,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100721769,
+          "name": "12. Bardias Dream",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 17.5,
+          "best_back_size": 4.88,
+          "best_lay": 19.5,
+          "best_lay_size": 3.86,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 17.5,
+              "size": 4.88
+            },
+            {
+              "price": 17.0,
+              "size": 3.67
+            },
+            {
+              "price": 16.5,
+              "size": 11.27
+            },
+            {
+              "price": 16.0,
+              "size": 16.78
+            },
+            {
+              "price": 15.5,
+              "size": 32.0
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 19.5,
+              "size": 3.86
+            },
+            {
+              "price": 20.0,
+              "size": 15.53
+            },
+            {
+              "price": 21.0,
+              "size": 17.62
+            },
+            {
+              "price": 22.0,
+              "size": 29.8
+            },
+            {
+              "price": 23.0,
+              "size": 19.52
+            }
+          ],
+          "runner_matched_volume": 233.97,
+          "last_price_traded": 17.5,
+          "market_prob": 0.055486,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 94780225,
+          "name": "13. Acheter",
+          "saddle_cloth": 9,
+          "status": "ACTIVE",
+          "best_back": 30.0,
+          "best_back_size": 4.65,
+          "best_lay": 34.0,
+          "best_lay_size": 3.87,
+          "spread": 4.0,
+          "back_ladder": [
+            {
+              "price": 30.0,
+              "size": 4.65
+            },
+            {
+              "price": 29.0,
+              "size": 24.96
+            },
+            {
+              "price": 28.0,
+              "size": 18.32
+            },
+            {
+              "price": 27.0,
+              "size": 19.68
+            },
+            {
+              "price": 26.0,
+              "size": 20.02
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 34.0,
+              "size": 3.87
+            },
+            {
+              "price": 36.0,
+              "size": 16.91
+            },
+            {
+              "price": 38.0,
+              "size": 10.85
+            },
+            {
+              "price": 40.0,
+              "size": 8.76
+            },
+            {
+              "price": 42.0,
+              "size": 8.62
+            }
+          ],
+          "runner_matched_volume": 337.35,
+          "last_price_traded": 32.0,
+          "market_prob": 0.032367,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100721772,
+          "name": "18. True Prophet",
+          "saddle_cloth": 10,
+          "status": "ACTIVE",
+          "best_back": 14.5,
+          "best_back_size": 11.12,
+          "best_lay": 15.5,
+          "best_lay_size": 17.88,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 14.5,
+              "size": 11.12
+            },
+            {
+              "price": 14.0,
+              "size": 10.73
+            },
+            {
+              "price": 13.5,
+              "size": 40.33
+            },
+            {
+              "price": 13.0,
+              "size": 33.68
+            },
+            {
+              "price": 12.5,
+              "size": 50.59
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 15.5,
+              "size": 17.88
+            },
+            {
+              "price": 16.0,
+              "size": 25.0
+            },
+            {
+              "price": 16.5,
+              "size": 18.11
+            },
+            {
+              "price": 17.0,
+              "size": 7.02
+            },
+            {
+              "price": 17.5,
+              "size": 8.56
+            }
+          ],
+          "runner_matched_volume": 482.2,
+          "last_price_traded": 15.0,
+          "market_prob": 0.066966,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 100721770,
+          "name": "14. Boulder Jack",
+          "saddle_cloth": 11,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 83378701,
+          "name": "4. Gunado",
+          "saddle_cloth": 12,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 42360888,
+          "name": "8. Gobbos Mate",
+          "saddle_cloth": 13,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100721768,
+          "name": "11. Homeward",
+          "saddle_cloth": 14,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 86620782,
+          "name": "15. Friendzoned",
+          "saddle_cloth": 15,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100721771,
+          "name": "17. Belmia",
+          "saddle_cloth": 16,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 98418547,
+          "name": "16. Naval Force",
+          "saddle_cloth": 17,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-19T06:41:15.337684Z",
+      "seconds_to_off": 225,
+      "market_matched_volume": 24686.37,
+      "overround_pct": 102.2,
+      "runners": [
+        {
+          "selection_id": 91807011,
+          "name": "1. Zourain",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 13.5,
+          "best_back_size": 37.84,
+          "best_lay": 14.0,
+          "best_lay_size": 57.89,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 13.5,
+              "size": 37.84
+            },
+            {
+              "price": 13.0,
+              "size": 31.86
+            },
+            {
+              "price": 12.5,
+              "size": 67.08
+            },
+            {
+              "price": 12.0,
+              "size": 104.04
+            },
+            {
+              "price": 11.5,
+              "size": 79.78
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 14.0,
+              "size": 57.89
+            },
+            {
+              "price": 14.5,
+              "size": 27.69
+            },
+            {
+              "price": 15.0,
+              "size": 30.19
+            },
+            {
+              "price": 15.5,
+              "size": 37.13
+            },
+            {
+              "price": 16.0,
+              "size": 41.98
+            }
+          ],
+          "runner_matched_volume": 783.97,
+          "last_price_traded": 14.0,
+          "market_prob": 0.07251,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 2863152,
+          "name": "2. Tijuana",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 190.0,
+          "best_back_size": 1.45,
+          "best_lay": 220.0,
+          "best_lay_size": 4.85,
+          "spread": 30.0,
+          "back_ladder": [
+            {
+              "price": 190.0,
+              "size": 1.45
+            },
+            {
+              "price": 180.0,
+              "size": 18.12
+            },
+            {
+              "price": 170.0,
+              "size": 5.47
+            },
+            {
+              "price": 160.0,
+              "size": 5.73
+            },
+            {
+              "price": 150.0,
+              "size": 3.93
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 220.0,
+              "size": 4.85
+            },
+            {
+              "price": 240.0,
+              "size": 3.36
+            },
+            {
+              "price": 250.0,
+              "size": 1.93
+            },
+            {
+              "price": 290.0,
+              "size": 2.82
+            },
+            {
+              "price": 300.0,
+              "size": 10.4
+            }
+          ],
+          "runner_matched_volume": 115.61,
+          "last_price_traded": 190.0,
+          "market_prob": 0.005152,
+          "market_rank": 10
+        },
+        {
+          "selection_id": 100721766,
+          "name": "3. Capricorn Star",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 6.8,
+          "best_back_size": 41.42,
+          "best_lay": 7.0,
+          "best_lay_size": 11.14,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 6.8,
+              "size": 41.42
+            },
+            {
+              "price": 6.6,
+              "size": 47.79
+            },
+            {
+              "price": 6.4,
+              "size": 58.36
+            },
+            {
+              "price": 6.2,
+              "size": 131.45
+            },
+            {
+              "price": 6.0,
+              "size": 105.86
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.0,
+              "size": 11.14
+            },
+            {
+              "price": 7.2,
+              "size": 14.62
+            },
+            {
+              "price": 7.4,
+              "size": 54.27
+            },
+            {
+              "price": 7.6,
+              "size": 47.36
+            },
+            {
+              "price": 7.8,
+              "size": 84.63
+            }
+          ],
+          "runner_matched_volume": 1427.18,
+          "last_price_traded": 7.0,
+          "market_prob": 0.143953,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 98482449,
+          "name": "5. Hawk Power",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 36.0,
+          "best_back_size": 10.01,
+          "best_lay": 38.0,
+          "best_lay_size": 15.45,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 36.0,
+              "size": 10.01
+            },
+            {
+              "price": 34.0,
+              "size": 21.34
+            },
+            {
+              "price": 32.0,
+              "size": 13.06
+            },
+            {
+              "price": 30.0,
+              "size": 31.06
+            },
+            {
+              "price": 29.0,
+              "size": 27.94
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 38.0,
+              "size": 15.45
+            },
+            {
+              "price": 40.0,
+              "size": 5.57
+            },
+            {
+              "price": 42.0,
+              "size": 22.18
+            },
+            {
+              "price": 44.0,
+              "size": 18.72
+            },
+            {
+              "price": 46.0,
+              "size": 9.72
+            }
+          ],
+          "runner_matched_volume": 219.96,
+          "last_price_traded": 34.0,
+          "market_prob": 0.027191,
+          "market_rank": 9
+        },
+        {
+          "selection_id": 100721767,
+          "name": "7. Best Of The Best",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 10.0,
+          "best_back_size": 33.86,
+          "best_lay": 10.5,
+          "best_lay_size": 83.85,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 10.0,
+              "size": 33.86
+            },
+            {
+              "price": 9.8,
+              "size": 41.39
+            },
+            {
+              "price": 9.6,
+              "size": 32.31
+            },
+            {
+              "price": 9.4,
+              "size": 44.19
+            },
+            {
+              "price": 9.2,
+              "size": 39.92
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 10.5,
+              "size": 83.85
+            },
+            {
+              "price": 11.0,
+              "size": 48.62
+            },
+            {
+              "price": 11.5,
+              "size": 36.55
+            },
+            {
+              "price": 12.0,
+              "size": 139.09
+            },
+            {
+              "price": 12.5,
+              "size": 81.76
+            }
+          ],
+          "runner_matched_volume": 1476.86,
+          "last_price_traded": 10.5,
+          "market_prob": 0.097888,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 927987,
+          "name": "9. Cashout",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 13.0,
+          "best_back_size": 10.04,
+          "best_lay": 13.5,
+          "best_lay_size": 2.46,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 13.0,
+              "size": 10.04
+            },
+            {
+              "price": 12.5,
+              "size": 14.14
+            },
+            {
+              "price": 12.0,
+              "size": 40.25
+            },
+            {
+              "price": 11.5,
+              "size": 86.22
+            },
+            {
+              "price": 11.0,
+              "size": 81.0
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 13.5,
+              "size": 2.46
+            },
+            {
+              "price": 14.0,
+              "size": 13.49
+            },
+            {
+              "price": 14.5,
+              "size": 18.87
+            },
+            {
+              "price": 15.0,
+              "size": 19.48
+            },
+            {
+              "price": 15.5,
+              "size": 37.0
+            }
+          ],
+          "runner_matched_volume": 706.13,
+          "last_price_traded": 13.5,
+          "market_prob": 0.075299,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 93827291,
+          "name": "10. Our Justify",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 2.32,
+          "best_back_size": 64.84,
+          "best_lay": 2.34,
+          "best_lay_size": 20.46,
+          "spread": 0.02,
+          "back_ladder": [
+            {
+              "price": 2.32,
+              "size": 64.84
+            },
+            {
+              "price": 2.3,
+              "size": 373.18
+            },
+            {
+              "price": 2.28,
+              "size": 55.3
+            },
+            {
+              "price": 2.26,
+              "size": 159.87
+            },
+            {
+              "price": 2.24,
+              "size": 170.71
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.34,
+              "size": 20.46
+            },
+            {
+              "price": 2.36,
+              "size": 176.29
+            },
+            {
+              "price": 2.38,
+              "size": 46.25
+            },
+            {
+              "price": 2.4,
+              "size": 329.11
+            },
+            {
+              "price": 2.42,
+              "size": 104.03
+            }
+          ],
+          "runner_matched_volume": 18749.03,
+          "last_price_traded": 2.3,
+          "market_prob": 0.421932,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100721769,
+          "name": "12. Bardias Dream",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 17.5,
+          "best_back_size": 3.95,
+          "best_lay": 18.5,
+          "best_lay_size": 12.01,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 17.5,
+              "size": 3.95
+            },
+            {
+              "price": 17.0,
+              "size": 10.83
+            },
+            {
+              "price": 16.5,
+              "size": 17.33
+            },
+            {
+              "price": 16.0,
+              "size": 26.52
+            },
+            {
+              "price": 15.5,
+              "size": 50.07
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 18.5,
+              "size": 12.01
+            },
+            {
+              "price": 19.0,
+              "size": 8.42
+            },
+            {
+              "price": 19.5,
+              "size": 17.2
+            },
+            {
+              "price": 20.0,
+              "size": 14.67
+            },
+            {
+              "price": 21.0,
+              "size": 33.09
+            }
+          ],
+          "runner_matched_volume": 297.47,
+          "last_price_traded": 17.5,
+          "market_prob": 0.055936,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 94780225,
+          "name": "13. Acheter",
+          "saddle_cloth": 9,
+          "status": "ACTIVE",
+          "best_back": 30.0,
+          "best_back_size": 8.38,
+          "best_lay": 32.0,
+          "best_lay_size": 17.54,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 30.0,
+              "size": 8.38
+            },
+            {
+              "price": 29.0,
+              "size": 30.46
+            },
+            {
+              "price": 28.0,
+              "size": 17.97
+            },
+            {
+              "price": 27.0,
+              "size": 19.68
+            },
+            {
+              "price": 26.0,
+              "size": 57.55
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 32.0,
+              "size": 17.54
+            },
+            {
+              "price": 34.0,
+              "size": 24.7
+            },
+            {
+              "price": 36.0,
+              "size": 22.26
+            },
+            {
+              "price": 38.0,
+              "size": 10.85
+            },
+            {
+              "price": 40.0,
+              "size": 17.12
+            }
+          ],
+          "runner_matched_volume": 391.53,
+          "last_price_traded": 29.0,
+          "market_prob": 0.032629,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100721772,
+          "name": "18. True Prophet",
+          "saddle_cloth": 10,
+          "status": "ACTIVE",
+          "best_back": 14.5,
+          "best_back_size": 52.2,
+          "best_lay": 15.5,
+          "best_lay_size": 31.52,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 14.5,
+              "size": 52.2
+            },
+            {
+              "price": 14.0,
+              "size": 16.5
+            },
+            {
+              "price": 13.5,
+              "size": 67.29
+            },
+            {
+              "price": 13.0,
+              "size": 65.18
+            },
+            {
+              "price": 12.5,
+              "size": 59.47
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 15.5,
+              "size": 31.52
+            },
+            {
+              "price": 16.0,
+              "size": 28.38
+            },
+            {
+              "price": 16.5,
+              "size": 23.4
+            },
+            {
+              "price": 17.0,
+              "size": 23.08
+            },
+            {
+              "price": 17.5,
+              "size": 24.44
+            }
+          ],
+          "runner_matched_volume": 518.59,
+          "last_price_traded": 15.5,
+          "market_prob": 0.067509,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 100721770,
+          "name": "14. Boulder Jack",
+          "saddle_cloth": 11,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 83378701,
+          "name": "4. Gunado",
+          "saddle_cloth": 12,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 42360888,
+          "name": "8. Gobbos Mate",
+          "saddle_cloth": 13,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100721768,
+          "name": "11. Homeward",
+          "saddle_cloth": 14,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 86620782,
+          "name": "15. Friendzoned",
+          "saddle_cloth": 15,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100721771,
+          "name": "17. Belmia",
+          "saddle_cloth": 16,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 98418547,
+          "name": "16. Naval Force",
+          "saddle_cloth": 17,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-19T06:42:30.348253Z",
+      "seconds_to_off": 150,
+      "market_matched_volume": 28722.03,
+      "overround_pct": 102.5,
+      "runners": [
+        {
+          "selection_id": 91807011,
+          "name": "1. Zourain",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 13.0,
+          "best_back_size": 29.12,
+          "best_lay": 13.5,
+          "best_lay_size": 3.71,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 13.0,
+              "size": 29.12
+            },
+            {
+              "price": 12.5,
+              "size": 107.18
+            },
+            {
+              "price": 12.0,
+              "size": 113.95
+            },
+            {
+              "price": 11.5,
+              "size": 106.57
+            },
+            {
+              "price": 11.0,
+              "size": 70.22
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 13.5,
+              "size": 3.71
+            },
+            {
+              "price": 14.0,
+              "size": 47.35
+            },
+            {
+              "price": 14.5,
+              "size": 58.61
+            },
+            {
+              "price": 15.0,
+              "size": 54.52
+            },
+            {
+              "price": 15.5,
+              "size": 51.64
+            }
+          ],
+          "runner_matched_volume": 1054.24,
+          "last_price_traded": 13.0,
+          "market_prob": 0.075051,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 2863152,
+          "name": "2. Tijuana",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 160.0,
+          "best_back_size": 2.06,
+          "best_lay": 200.0,
+          "best_lay_size": 2.74,
+          "spread": 40.0,
+          "back_ladder": [
+            {
+              "price": 160.0,
+              "size": 2.06
+            },
+            {
+              "price": 150.0,
+              "size": 5.53
+            },
+            {
+              "price": 130.0,
+              "size": 3.45
+            },
+            {
+              "price": 100.0,
+              "size": 44.03
+            },
+            {
+              "price": 80.0,
+              "size": 8.35
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 200.0,
+              "size": 2.74
+            },
+            {
+              "price": 210.0,
+              "size": 3.19
+            },
+            {
+              "price": 220.0,
+              "size": 13.55
+            },
+            {
+              "price": 230.0,
+              "size": 6.13
+            },
+            {
+              "price": 240.0,
+              "size": 2.43
+            }
+          ],
+          "runner_matched_volume": 161.21,
+          "last_price_traded": 160.0,
+          "market_prob": 0.006098,
+          "market_rank": 10
+        },
+        {
+          "selection_id": 100721766,
+          "name": "3. Capricorn Star",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 6.6,
+          "best_back_size": 19.93,
+          "best_lay": 6.8,
+          "best_lay_size": 30.26,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 6.6,
+              "size": 19.93
+            },
+            {
+              "price": 6.4,
+              "size": 82.75
+            },
+            {
+              "price": 6.2,
+              "size": 109.77
+            },
+            {
+              "price": 6.0,
+              "size": 172.77
+            },
+            {
+              "price": 5.9,
+              "size": 121.5
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.8,
+              "size": 30.26
+            },
+            {
+              "price": 7.0,
+              "size": 42.4
+            },
+            {
+              "price": 7.2,
+              "size": 61.73
+            },
+            {
+              "price": 7.4,
+              "size": 157.35
+            },
+            {
+              "price": 7.6,
+              "size": 59.88
+            }
+          ],
+          "runner_matched_volume": 1814.22,
+          "last_price_traded": 6.8,
+          "market_prob": 0.147827,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 98482449,
+          "name": "5. Hawk Power",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 34.0,
+          "best_back_size": 6.48,
+          "best_lay": 36.0,
+          "best_lay_size": 5.33,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 34.0,
+              "size": 6.48
+            },
+            {
+              "price": 32.0,
+              "size": 20.44
+            },
+            {
+              "price": 30.0,
+              "size": 29.15
+            },
+            {
+              "price": 29.0,
+              "size": 23.44
+            },
+            {
+              "price": 28.0,
+              "size": 22.47
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 36.0,
+              "size": 5.33
+            },
+            {
+              "price": 38.0,
+              "size": 8.31
+            },
+            {
+              "price": 40.0,
+              "size": 20.51
+            },
+            {
+              "price": 42.0,
+              "size": 22.11
+            },
+            {
+              "price": 44.0,
+              "size": 27.34
+            }
+          ],
+          "runner_matched_volume": 294.48,
+          "last_price_traded": 34.0,
+          "market_prob": 0.028696,
+          "market_rank": 9
+        },
+        {
+          "selection_id": 100721767,
+          "name": "7. Best Of The Best",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 11.0,
+          "best_back_size": 33.35,
+          "best_lay": 11.5,
+          "best_lay_size": 33.41,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 11.0,
+              "size": 33.35
+            },
+            {
+              "price": 10.5,
+              "size": 81.3
+            },
+            {
+              "price": 10.0,
+              "size": 99.46
+            },
+            {
+              "price": 9.8,
+              "size": 68.86
+            },
+            {
+              "price": 9.6,
+              "size": 47.09
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 11.5,
+              "size": 33.41
+            },
+            {
+              "price": 12.0,
+              "size": 109.38
+            },
+            {
+              "price": 12.5,
+              "size": 63.26
+            },
+            {
+              "price": 13.0,
+              "size": 50.57
+            },
+            {
+              "price": 13.5,
+              "size": 42.3
+            }
+          ],
+          "runner_matched_volume": 2106.41,
+          "last_price_traded": 11.0,
+          "market_prob": 0.088696,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 927987,
+          "name": "9. Cashout",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 13.0,
+          "best_back_size": 18.15,
+          "best_lay": 14.0,
+          "best_lay_size": 14.81,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 13.0,
+              "size": 18.15
+            },
+            {
+              "price": 12.5,
+              "size": 32.83
+            },
+            {
+              "price": 12.0,
+              "size": 66.97
+            },
+            {
+              "price": 11.5,
+              "size": 122.4
+            },
+            {
+              "price": 11.0,
+              "size": 93.01
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 14.0,
+              "size": 14.81
+            },
+            {
+              "price": 14.5,
+              "size": 22.99
+            },
+            {
+              "price": 15.0,
+              "size": 23.33
+            },
+            {
+              "price": 15.5,
+              "size": 38.93
+            },
+            {
+              "price": 16.0,
+              "size": 34.8
+            }
+          ],
+          "runner_matched_volume": 854.1,
+          "last_price_traded": 13.0,
+          "market_prob": 0.075051,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 93827291,
+          "name": "10. Our Justify",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 2.34,
+          "best_back_size": 103.75,
+          "best_lay": 2.36,
+          "best_lay_size": 40.56,
+          "spread": 0.02,
+          "back_ladder": [
+            {
+              "price": 2.34,
+              "size": 103.75
+            },
+            {
+              "price": 2.32,
+              "size": 365.57
+            },
+            {
+              "price": 2.3,
+              "size": 95.31
+            },
+            {
+              "price": 2.28,
+              "size": 114.9
+            },
+            {
+              "price": 2.26,
+              "size": 236.36
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.36,
+              "size": 40.56
+            },
+            {
+              "price": 2.38,
+              "size": 54.63
+            },
+            {
+              "price": 2.4,
+              "size": 360.64
+            },
+            {
+              "price": 2.42,
+              "size": 47.69
+            },
+            {
+              "price": 2.44,
+              "size": 40.81
+            }
+          ],
+          "runner_matched_volume": 20580.62,
+          "last_price_traded": 2.38,
+          "market_prob": 0.416948,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100721769,
+          "name": "12. Bardias Dream",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 15.5,
+          "best_back_size": 27.95,
+          "best_lay": 16.5,
+          "best_lay_size": 2.81,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 15.5,
+              "size": 27.95
+            },
+            {
+              "price": 15.0,
+              "size": 49.85
+            },
+            {
+              "price": 14.5,
+              "size": 66.56
+            },
+            {
+              "price": 14.0,
+              "size": 100.69
+            },
+            {
+              "price": 13.5,
+              "size": 68.14
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 16.5,
+              "size": 2.81
+            },
+            {
+              "price": 17.0,
+              "size": 16.89
+            },
+            {
+              "price": 17.5,
+              "size": 31.19
+            },
+            {
+              "price": 18.0,
+              "size": 21.66
+            },
+            {
+              "price": 18.5,
+              "size": 36.17
+            }
+          ],
+          "runner_matched_volume": 599.02,
+          "last_price_traded": 16.0,
+          "market_prob": 0.062946,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 94780225,
+          "name": "13. Acheter",
+          "saddle_cloth": 9,
+          "status": "ACTIVE",
+          "best_back": 29.0,
+          "best_back_size": 1.31,
+          "best_lay": 30.0,
+          "best_lay_size": 13.43,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 29.0,
+              "size": 1.31
+            },
+            {
+              "price": 28.0,
+              "size": 11.76
+            },
+            {
+              "price": 27.0,
+              "size": 21.79
+            },
+            {
+              "price": 26.0,
+              "size": 38.17
+            },
+            {
+              "price": 25.0,
+              "size": 24.81
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 30.0,
+              "size": 13.43
+            },
+            {
+              "price": 32.0,
+              "size": 24.77
+            },
+            {
+              "price": 34.0,
+              "size": 38.71
+            },
+            {
+              "price": 36.0,
+              "size": 23.39
+            },
+            {
+              "price": 38.0,
+              "size": 39.4
+            }
+          ],
+          "runner_matched_volume": 490.45,
+          "last_price_traded": 30.0,
+          "market_prob": 0.033643,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100721772,
+          "name": "18. True Prophet",
+          "saddle_cloth": 10,
+          "status": "ACTIVE",
+          "best_back": 15.0,
+          "best_back_size": 44.43,
+          "best_lay": 16.0,
+          "best_lay_size": 47.85,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 15.0,
+              "size": 44.43
+            },
+            {
+              "price": 14.5,
+              "size": 34.0
+            },
+            {
+              "price": 14.0,
+              "size": 28.82
+            },
+            {
+              "price": 13.5,
+              "size": 97.93
+            },
+            {
+              "price": 13.0,
+              "size": 65.03
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 16.0,
+              "size": 47.85
+            },
+            {
+              "price": 16.5,
+              "size": 41.94
+            },
+            {
+              "price": 17.0,
+              "size": 55.18
+            },
+            {
+              "price": 17.5,
+              "size": 31.3
+            },
+            {
+              "price": 18.0,
+              "size": 39.36
+            }
+          ],
+          "runner_matched_volume": 767.23,
+          "last_price_traded": 16.0,
+          "market_prob": 0.065044,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 100721770,
+          "name": "14. Boulder Jack",
+          "saddle_cloth": 11,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 83378701,
+          "name": "4. Gunado",
+          "saddle_cloth": 12,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 42360888,
+          "name": "8. Gobbos Mate",
+          "saddle_cloth": 13,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100721768,
+          "name": "11. Homeward",
+          "saddle_cloth": 14,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 86620782,
+          "name": "15. Friendzoned",
+          "saddle_cloth": 15,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100721771,
+          "name": "17. Belmia",
+          "saddle_cloth": 16,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 98418547,
+          "name": "16. Naval Force",
+          "saddle_cloth": 17,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-19T06:43:45.340822Z",
+      "seconds_to_off": 75,
+      "market_matched_volume": 37806.02,
+      "overround_pct": 101.8,
+      "runners": [
+        {
+          "selection_id": 91807011,
+          "name": "1. Zourain",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 12.5,
+          "best_back_size": 113.61,
+          "best_lay": 13.0,
+          "best_lay_size": 90.23,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 12.5,
+              "size": 113.61
+            },
+            {
+              "price": 12.0,
+              "size": 125.87
+            },
+            {
+              "price": 11.5,
+              "size": 96.86
+            },
+            {
+              "price": 11.0,
+              "size": 89.98
+            },
+            {
+              "price": 10.5,
+              "size": 82.83
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 13.0,
+              "size": 90.23
+            },
+            {
+              "price": 13.5,
+              "size": 62.47
+            },
+            {
+              "price": 14.0,
+              "size": 51.78
+            },
+            {
+              "price": 14.5,
+              "size": 57.13
+            },
+            {
+              "price": 15.0,
+              "size": 128.72
+            }
+          ],
+          "runner_matched_volume": 1367.35,
+          "last_price_traded": 13.0,
+          "market_prob": 0.078577,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 2863152,
+          "name": "2. Tijuana",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 160.0,
+          "best_back_size": 10.31,
+          "best_lay": 200.0,
+          "best_lay_size": 7.15,
+          "spread": 40.0,
+          "back_ladder": [
+            {
+              "price": 160.0,
+              "size": 10.31
+            },
+            {
+              "price": 150.0,
+              "size": 2.24
+            },
+            {
+              "price": 140.0,
+              "size": 1.45
+            },
+            {
+              "price": 130.0,
+              "size": 3.8
+            },
+            {
+              "price": 120.0,
+              "size": 2.96
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 200.0,
+              "size": 7.15
+            },
+            {
+              "price": 210.0,
+              "size": 1.95
+            },
+            {
+              "price": 220.0,
+              "size": 12.55
+            },
+            {
+              "price": 230.0,
+              "size": 1.93
+            },
+            {
+              "price": 240.0,
+              "size": 2.43
+            }
+          ],
+          "runner_matched_volume": 255.4,
+          "last_price_traded": 170.0,
+          "market_prob": 0.006139,
+          "market_rank": 10
+        },
+        {
+          "selection_id": 100721766,
+          "name": "3. Capricorn Star",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 6.8,
+          "best_back_size": 100.71,
+          "best_lay": 7.2,
+          "best_lay_size": 82.69,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 6.8,
+              "size": 100.71
+            },
+            {
+              "price": 6.6,
+              "size": 105.87
+            },
+            {
+              "price": 6.4,
+              "size": 182.21
+            },
+            {
+              "price": 6.2,
+              "size": 128.47
+            },
+            {
+              "price": 6.0,
+              "size": 260.67
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.2,
+              "size": 82.69
+            },
+            {
+              "price": 7.4,
+              "size": 104.21
+            },
+            {
+              "price": 7.6,
+              "size": 142.43
+            },
+            {
+              "price": 7.8,
+              "size": 56.12
+            },
+            {
+              "price": 8.0,
+              "size": 126.28
+            }
+          ],
+          "runner_matched_volume": 2562.64,
+          "last_price_traded": 7.2,
+          "market_prob": 0.144443,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 98482449,
+          "name": "5. Hawk Power",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 32.0,
+          "best_back_size": 26.92,
+          "best_lay": 34.0,
+          "best_lay_size": 31.64,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 32.0,
+              "size": 26.92
+            },
+            {
+              "price": 30.0,
+              "size": 31.63
+            },
+            {
+              "price": 29.0,
+              "size": 32.47
+            },
+            {
+              "price": 28.0,
+              "size": 30.26
+            },
+            {
+              "price": 27.0,
+              "size": 27.51
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 34.0,
+              "size": 31.64
+            },
+            {
+              "price": 36.0,
+              "size": 33.97
+            },
+            {
+              "price": 38.0,
+              "size": 22.15
+            },
+            {
+              "price": 40.0,
+              "size": 15.75
+            },
+            {
+              "price": 42.0,
+              "size": 35.62
+            }
+          ],
+          "runner_matched_volume": 347.69,
+          "last_price_traded": 32.0,
+          "market_prob": 0.030694,
+          "market_rank": 9
+        },
+        {
+          "selection_id": 100721767,
+          "name": "7. Best Of The Best",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 11.5,
+          "best_back_size": 3.8,
+          "best_lay": 12.0,
+          "best_lay_size": 51.07,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 11.5,
+              "size": 3.8
+            },
+            {
+              "price": 11.0,
+              "size": 53.21
+            },
+            {
+              "price": 10.5,
+              "size": 120.01
+            },
+            {
+              "price": 10.0,
+              "size": 124.27
+            },
+            {
+              "price": 9.8,
+              "size": 107.55
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 12.0,
+              "size": 51.07
+            },
+            {
+              "price": 12.5,
+              "size": 30.15
+            },
+            {
+              "price": 13.0,
+              "size": 61.42
+            },
+            {
+              "price": 13.5,
+              "size": 40.16
+            },
+            {
+              "price": 14.0,
+              "size": 51.49
+            }
+          ],
+          "runner_matched_volume": 2840.38,
+          "last_price_traded": 11.5,
+          "market_prob": 0.08541,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 927987,
+          "name": "9. Cashout",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 14.0,
+          "best_back_size": 30.78,
+          "best_lay": 15.0,
+          "best_lay_size": 25.87,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 14.0,
+              "size": 30.78
+            },
+            {
+              "price": 13.5,
+              "size": 46.2
+            },
+            {
+              "price": 13.0,
+              "size": 46.39
+            },
+            {
+              "price": 12.5,
+              "size": 106.91
+            },
+            {
+              "price": 12.0,
+              "size": 122.67
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 15.0,
+              "size": 25.87
+            },
+            {
+              "price": 15.5,
+              "size": 21.88
+            },
+            {
+              "price": 16.0,
+              "size": 50.97
+            },
+            {
+              "price": 16.5,
+              "size": 24.23
+            },
+            {
+              "price": 17.0,
+              "size": 18.14
+            }
+          ],
+          "runner_matched_volume": 1048.86,
+          "last_price_traded": 14.0,
+          "market_prob": 0.070158,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 93827291,
+          "name": "10. Our Justify",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 2.38,
+          "best_back_size": 56.0,
+          "best_lay": 2.4,
+          "best_lay_size": 148.51,
+          "spread": 0.02,
+          "back_ladder": [
+            {
+              "price": 2.38,
+              "size": 56.0
+            },
+            {
+              "price": 2.36,
+              "size": 424.0
+            },
+            {
+              "price": 2.34,
+              "size": 1099.01
+            },
+            {
+              "price": 2.32,
+              "size": 196.4
+            },
+            {
+              "price": 2.3,
+              "size": 265.88
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.4,
+              "size": 148.51
+            },
+            {
+              "price": 2.42,
+              "size": 82.37
+            },
+            {
+              "price": 2.44,
+              "size": 34.81
+            },
+            {
+              "price": 2.46,
+              "size": 91.45
+            },
+            {
+              "price": 2.48,
+              "size": 34.75
+            }
+          ],
+          "runner_matched_volume": 25590.6,
+          "last_price_traded": 2.4,
+          "market_prob": 0.412693,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100721769,
+          "name": "12. Bardias Dream",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 15.0,
+          "best_back_size": 35.42,
+          "best_lay": 16.0,
+          "best_lay_size": 20.3,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 15.0,
+              "size": 35.42
+            },
+            {
+              "price": 14.5,
+              "size": 61.08
+            },
+            {
+              "price": 14.0,
+              "size": 62.41
+            },
+            {
+              "price": 13.5,
+              "size": 133.78
+            },
+            {
+              "price": 13.0,
+              "size": 28.13
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 16.0,
+              "size": 20.3
+            },
+            {
+              "price": 16.5,
+              "size": 30.36
+            },
+            {
+              "price": 17.0,
+              "size": 17.58
+            },
+            {
+              "price": 17.5,
+              "size": 28.05
+            },
+            {
+              "price": 18.0,
+              "size": 19.23
+            }
+          ],
+          "runner_matched_volume": 1526.54,
+          "last_price_traded": 15.5,
+          "market_prob": 0.065481,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 94780225,
+          "name": "13. Acheter",
+          "saddle_cloth": 9,
+          "status": "ACTIVE",
+          "best_back": 24.0,
+          "best_back_size": 26.03,
+          "best_lay": 26.0,
+          "best_lay_size": 19.9,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 24.0,
+              "size": 26.03
+            },
+            {
+              "price": 23.0,
+              "size": 39.84
+            },
+            {
+              "price": 22.0,
+              "size": 154.52
+            },
+            {
+              "price": 21.0,
+              "size": 39.34
+            },
+            {
+              "price": 20.0,
+              "size": 38.9
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 26.0,
+              "size": 19.9
+            },
+            {
+              "price": 27.0,
+              "size": 56.52
+            },
+            {
+              "price": 28.0,
+              "size": 21.27
+            },
+            {
+              "price": 29.0,
+              "size": 24.55
+            },
+            {
+              "price": 30.0,
+              "size": 51.35
+            }
+          ],
+          "runner_matched_volume": 939.5,
+          "last_price_traded": 25.0,
+          "market_prob": 0.040925,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100721772,
+          "name": "18. True Prophet",
+          "saddle_cloth": 10,
+          "status": "ACTIVE",
+          "best_back": 15.0,
+          "best_back_size": 41.06,
+          "best_lay": 15.5,
+          "best_lay_size": 44.23,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 15.0,
+              "size": 41.06
+            },
+            {
+              "price": 14.5,
+              "size": 44.2
+            },
+            {
+              "price": 14.0,
+              "size": 50.47
+            },
+            {
+              "price": 13.5,
+              "size": 96.93
+            },
+            {
+              "price": 13.0,
+              "size": 105.5
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 15.5,
+              "size": 44.23
+            },
+            {
+              "price": 16.0,
+              "size": 48.9
+            },
+            {
+              "price": 16.5,
+              "size": 77.22
+            },
+            {
+              "price": 17.0,
+              "size": 53.59
+            },
+            {
+              "price": 17.5,
+              "size": 31.3
+            }
+          ],
+          "runner_matched_volume": 1327.01,
+          "last_price_traded": 15.0,
+          "market_prob": 0.065481,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 100721770,
+          "name": "14. Boulder Jack",
+          "saddle_cloth": 11,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 83378701,
+          "name": "4. Gunado",
+          "saddle_cloth": 12,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 42360888,
+          "name": "8. Gobbos Mate",
+          "saddle_cloth": 13,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100721768,
+          "name": "11. Homeward",
+          "saddle_cloth": 14,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 86620782,
+          "name": "15. Friendzoned",
+          "saddle_cloth": 15,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100721771,
+          "name": "17. Belmia",
+          "saddle_cloth": 16,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 98418547,
+          "name": "16. Naval Force",
+          "saddle_cloth": 17,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    }
+  ],
+  "place": {
+    "91807011": {
+      "place_entry": 3.2,
+      "place_bsp": 2.61,
+      "place_status": "WINNER",
+      "placed": true
+    },
+    "2863152": {
+      "place_entry": 24.0,
+      "place_bsp": 21.28,
+      "place_status": "LOSER",
+      "placed": false
+    },
+    "100721766": {
+      "place_entry": 2.1,
+      "place_bsp": 1.93,
+      "place_status": "LOSER",
+      "placed": false
+    },
+    "98482449": {
+      "place_entry": 6.8,
+      "place_bsp": 5.52,
+      "place_status": "LOSER",
+      "placed": false
+    },
+    "100721767": {
+      "place_entry": 3.25,
+      "place_bsp": 2.93,
+      "place_status": "LOSER",
+      "placed": false
+    },
+    "927987": {
+      "place_entry": 3.45,
+      "place_bsp": 4.2,
+      "place_status": "REMOVED",
+      "placed": false
+    },
+    "93827291": {
+      "place_entry": 1.35,
+      "place_bsp": 1.29,
+      "place_status": "WINNER",
+      "placed": true
+    },
+    "100721769": {
+      "place_entry": 4.0,
+      "place_bsp": 3.06,
+      "place_status": "LOSER",
+      "placed": false
+    },
+    "94780225": {
+      "place_entry": 5.4,
+      "place_bsp": 4.31,
+      "place_status": "LOSER",
+      "placed": false
+    },
+    "100721772": {
+      "place_entry": 3.15,
+      "place_bsp": 2.89,
+      "place_status": "WINNER",
+      "placed": true
+    },
+    "100721770": {
+      "place_bsp": NaN,
+      "place_status": "REMOVED",
+      "placed": false
+    },
+    "83378701": {
+      "place_bsp": NaN,
+      "place_status": "REMOVED",
+      "placed": false
+    },
+    "42360888": {
+      "place_bsp": NaN,
+      "place_status": "REMOVED",
+      "placed": false
+    },
+    "100721768": {
+      "place_bsp": NaN,
+      "place_status": "REMOVED",
+      "placed": false
+    },
+    "86620782": {
+      "place_bsp": NaN,
+      "place_status": "REMOVED",
+      "placed": false
+    },
+    "100721771": {
+      "place_bsp": NaN,
+      "place_status": "REMOVED",
+      "placed": false
+    },
+    "98418547": {
+      "place_bsp": NaN,
+      "place_status": "REMOVED",
+      "placed": false
+    }
+  },
+  "place_entry_at": "2026-07-19T06:41:04.909077Z",
+  "place_market_id": "1.260121071",
+  "place_terms": 3,
+  "place_terms_settled": 3,
+  "finalized_at": "2026-07-19T06:51:36.299913Z"
+}
