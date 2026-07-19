@@ -9,10 +9,10 @@
   "market_overround_pct": null,
   "track_condition": "Synthetic",
   "weather": {
-    "temperature_c": 11.1,
+    "temperature_c": 10.7,
     "precipitation_mm": 0.0,
-    "wind_speed_kmh": 1.8,
-    "wind_direction": "E",
+    "wind_speed_kmh": 2.0,
+    "wind_direction": "ENE",
     "condition": "Overcast"
   },
   "form_analysis": null,
@@ -1988,16 +1988,16 @@
       "trainer": "Matt Jenkins",
       "jockey": "Jake Noonan",
       "last5": "6455x0",
-      "career": "5:0-0-0",
+      "career": "7:0-0-0",
       "weight_kg": 59.5,
       "barrier": 10,
-      "prizemoney": 5060,
-      "first_up_record": "2:0-0-0",
-      "second_up_record": "1:0-0-0",
+      "prizemoney": 5920,
+      "first_up_record": "3:0-0-0",
+      "second_up_record": "2:0-0-0",
       "going_record": {
         "Firm": "0:0-0-0",
-        "Good": "2:0-0-0",
-        "Soft": "2:0-0-0",
+        "Good": "6:0-0-0",
+        "Soft": "0:0-0-0",
         "Heavy": "0:0-0-0",
         "Synthetic": "1:0-0-0"
       },
@@ -2017,23 +2017,6 @@
           "in_run": {
             "@800": 11,
             "@400": 11
-          }
-        },
-        {
-          "pos": 10,
-          "date": "2026-07-06",
-          "class": "MDN-SW",
-          "trial": false,
-          "distance_m": 1200,
-          "going": "Synthetic",
-          "winner_time": 71.18,
-          "beaten_margin": 6.0,
-          "runner_time": 72.03,
-          "runner_time_reduced": true,
-          "sectional_600": 33.61,
-          "in_run": {
-            "@800": 10,
-            "@400": 12
           }
         },
         {
@@ -2068,13 +2051,30 @@
           "in_run": null
         },
         {
-          "pos": 6,
-          "date": "2026-06-08",
+          "pos": 4,
+          "date": "2026-05-16",
+          "class": "MDN-SW",
+          "trial": false,
+          "distance_m": 1100,
+          "going": "Good4",
+          "winner_time": 65.09,
+          "beaten_margin": 1.65,
+          "runner_time": 65.32,
+          "runner_time_reduced": true,
+          "sectional_600": 35.54,
+          "in_run": {
+            "@800": 9,
+            "@400": 7
+          }
+        },
+        {
+          "pos": 4,
+          "date": "2026-05-08",
           "class": "Jump Out",
           "trial": true,
-          "distance_m": 1000,
-          "going": "JumpOut",
-          "winner_time": 59.67,
+          "distance_m": 790,
+          "going": "Jump",
+          "winner_time": 48.95,
           "beaten_margin": null,
           "runner_time": null,
           "runner_time_reduced": null,
@@ -2085,12 +2085,12 @@
       "recent_class": [
         "MDN-SW",
         "MDN-SW",
-        "MDN-SW",
         "Jump Out",
+        "MDN-SW",
         "Jump Out"
       ],
       "days_since_run": 14,
-      "runs_this_prep": 9,
+      "runs_this_prep": 6,
       "form_status": "confirmed",
       "warnings": [],
       "last5_parsed": [
@@ -2137,7 +2137,7 @@
         "call": "OK",
         "label": "OK",
         "confidence": "ok",
-        "reason": "confirmed form, 5 career starts",
+        "reason": "confirmed form, 7 career starts",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -2297,7 +2297,7 @@
       }
     }
   ],
-  "last_polled_at": "2026-07-19T07:27:52.209098Z",
+  "last_polled_at": "2026-07-19T07:43:09.675903Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
     "ok": 14,

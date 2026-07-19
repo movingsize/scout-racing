@@ -1168,73 +1168,30 @@
       "trainer": "Annabel & Rob Archibald",
       "jockey": "Heavelon Van Der Hoven",
       "last5": null,
-      "career": "0:0-0-0",
+      "career": null,
       "weight_kg": 56.5,
       "barrier": 6,
-      "prizemoney": 0,
-      "first_up_record": "0:0-0-0",
-      "second_up_record": "0:0-0-0",
-      "going_record": {
-        "Firm": "0:0-0-0",
-        "Good": "0:0-0-0",
-        "Soft": "0:0-0-0",
-        "Heavy": "0:0-0-0",
-        "Synthetic": "0:0-0-0"
-      },
-      "recent_runs": [
-        {
-          "pos": 1,
-          "date": "2026-07-01",
-          "class": "2Y-BT",
-          "trial": false,
-          "distance_m": 1000,
-          "going": "Heavy8",
-          "winner_time": 61.46,
-          "beaten_margin": 0.0,
-          "runner_time": 61.46,
-          "runner_time_reduced": false,
-          "sectional_600": 36.77,
-          "in_run": null
-        },
-        {
-          "pos": 3,
-          "date": "2026-06-10",
-          "class": "2Y-BT",
-          "trial": false,
-          "distance_m": 1000,
-          "going": "Soft6",
-          "winner_time": 60.96,
-          "beaten_margin": 1.93,
-          "runner_time": 61.24,
-          "runner_time_reduced": true,
-          "sectional_600": 35.65,
-          "in_run": null
-        }
+      "scratched": true,
+      "form_status": "unraced",
+      "warnings": [
+        "form source shows this runner SCRATCHED but Betfair still lists it ACTIVE \u2014 cross-source timing mismatch, treat the price as unreliable until one side updates"
       ],
-      "recent_class": [
-        "2Y-BT",
-        "2Y-BT"
-      ],
-      "days_since_run": 19,
-      "runs_this_prep": 2,
-      "form_status": "confirmed",
-      "warnings": [],
       "last5_parsed": [],
       "data_status": "unraced",
       "open_price": null,
       "call": {
-        "call": "OK",
-        "label": "OK",
-        "confidence": "thin",
-        "reason": "form present (0 career starts, ds=unraced)",
+        "call": "NO_CALL",
+        "label": "DATA BAD",
+        "confidence": null,
+        "reason": "data bad: data_status=unraced and no race form on record",
         "guard": "data_adequacy v1.0"
       }
     }
   ],
-  "last_polled_at": "2026-07-19T07:27:52.209098Z",
+  "last_polled_at": "2026-07-19T07:43:09.675903Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
-    "ok": 9,
-    "no_call": 1
+    "ok": 8,
+    "no_call": 2
   }
 }
