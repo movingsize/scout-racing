@@ -9,9 +9,9 @@
   "market_overround_pct": null,
   "track_condition": "Synthetic",
   "weather": {
-    "temperature_c": 14.1,
+    "temperature_c": 13.7,
     "precipitation_mm": 0.0,
-    "wind_speed_kmh": 5.1,
+    "wind_speed_kmh": 5.0,
     "wind_direction": "SE",
     "condition": "Overcast"
   },
@@ -1017,122 +1017,16 @@
       "trainer": "Rebecca Kelly",
       "jockey": "Will Gordon",
       "last5": "23602x4853",
-      "career": "21:3-3-3",
+      "career": "9:0-2-2",
       "weight_kg": 58.5,
       "barrier": 5,
       "official_rating": 59,
-      "prizemoney": 75050,
-      "first_up_record": "4:0-1-0",
-      "second_up_record": "4:0-0-1",
-      "track_record": "0:0-0-0",
-      "dist_record": "1:0-1-0",
-      "track_dist_record": "0:0-0-0",
-      "distances_won": "1400 (1), 1600 (2)",
-      "going_record": {
-        "Firm": "0:0-0-0",
-        "Good": "10:1-1-1",
-        "Soft": "7:2-2-1",
-        "Heavy": "4:0-0-1",
-        "Synthetic": "0:0-0-0"
-      },
-      "recent_runs": [
-        {
-          "pos": 3,
-          "date": "2026-06-23",
-          "class": "BM56",
-          "trial": false,
-          "distance_m": 2100,
-          "going": "Heavy10",
-          "winner_time": 142.05,
-          "beaten_margin": 7.0,
-          "runner_time": 143.19,
-          "runner_time_reduced": true,
-          "sectional_600": 39.08,
-          "in_run": {
-            "@800": 4,
-            "@400": 2
-          }
-        },
-        {
-          "pos": 5,
-          "date": "2026-06-10",
-          "class": "BM62",
-          "trial": false,
-          "distance_m": 1717,
-          "going": "Heavy8",
-          "winner_time": 108.63,
-          "beaten_margin": 2.16,
-          "runner_time": 108.96,
-          "runner_time_reduced": true,
-          "sectional_600": 38.26,
-          "in_run": {
-            "@800": 10,
-            "@400": 10
-          }
-        },
-        {
-          "pos": 8,
-          "date": "2026-06-01",
-          "class": "BM56",
-          "trial": false,
-          "distance_m": 1607,
-          "going": "Heavy9",
-          "winner_time": 108.44,
-          "beaten_margin": 5.41,
-          "runner_time": 109.32,
-          "runner_time_reduced": true,
-          "sectional_600": 40.39,
-          "in_run": {
-            "@800": 10,
-            "@400": 9
-          }
-        },
-        {
-          "pos": 4,
-          "date": "2026-05-17",
-          "class": "0-62",
-          "trial": false,
-          "distance_m": 1419,
-          "going": "Good4",
-          "winner_time": 85.51,
-          "beaten_margin": 4.9,
-          "runner_time": 86.22,
-          "runner_time_reduced": true,
-          "sectional_600": 35.8,
-          "in_run": {
-            "@800": 12,
-            "@400": 12
-          }
-        },
-        {
-          "pos": 2,
-          "date": "2026-02-01",
-          "class": "CUP BM66",
-          "trial": false,
-          "distance_m": 2200,
-          "going": "Soft6",
-          "winner_time": 138.9,
-          "beaten_margin": 1.05,
-          "runner_time": 139.06,
-          "runner_time_reduced": true,
-          "sectional_600": 35.82,
-          "in_run": {
-            "@800": 7,
-            "@400": 7
-          }
-        }
+      "scratched": true,
+      "form_status": "unraced",
+      "warnings": [
+        "runner scratched (per form source) \u2014 career reconstructed from last5 for reference only, not expected to start",
+        "form source shows this runner SCRATCHED but Betfair still lists it ACTIVE \u2014 cross-source timing mismatch, treat the price as unreliable until one side updates"
       ],
-      "recent_class": [
-        "BM56",
-        "BM62",
-        "BM56",
-        "0-62",
-        "CUP BM66"
-      ],
-      "days_since_run": 27,
-      "runs_this_prep": 4,
-      "form_status": "confirmed",
-      "warnings": [],
       "last5_parsed": [
         {
           "raw": "2",
@@ -1195,13 +1089,13 @@
           "spell": false
         }
       ],
-      "data_status": "confirmed",
+      "data_status": "reconstructed",
       "open_price": 23.0,
       "call": {
         "call": "OK",
         "label": "OK",
-        "confidence": "ok",
-        "reason": "confirmed form, 21 career starts",
+        "confidence": "thin",
+        "reason": "career reconstructed from last5 (9:0-2-2)",
         "guard": "data_adequacy v1.0"
       }
     },
@@ -2579,7 +2473,7 @@
       }
     }
   ],
-  "last_polled_at": "2026-07-19T05:58:12.379027Z",
+  "last_polled_at": "2026-07-19T06:13:02.431018Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
     "ok": 13,
