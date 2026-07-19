@@ -9,9 +9,9 @@
   "market_overround_pct": null,
   "track_condition": "Heavy 8",
   "weather": {
-    "temperature_c": 10.9,
+    "temperature_c": 10.2,
     "precipitation_mm": 0.0,
-    "wind_speed_kmh": 2.7,
+    "wind_speed_kmh": 3.4,
     "wind_direction": "S",
     "condition": "Clear sky"
   },
@@ -805,23 +805,6 @@
       },
       "recent_runs": [
         {
-          "pos": 8,
-          "date": "2026-07-06",
-          "class": "CTRY CL1",
-          "trial": false,
-          "distance_m": 1000,
-          "going": "Heavy9",
-          "winner_time": 60.73,
-          "beaten_margin": 3.69,
-          "runner_time": 61.27,
-          "runner_time_reduced": true,
-          "sectional_600": 37.13,
-          "in_run": {
-            "@800": 5,
-            "@400": 6
-          }
-        },
-        {
           "pos": 2,
           "date": "2026-07-06",
           "class": "0 - 56",
@@ -873,32 +856,48 @@
           }
         },
         {
-          "pos": 9,
+          "pos": 2,
           "date": "2026-06-16",
-          "class": "CL1",
+          "class": "MDN-SW",
           "trial": false,
-          "distance_m": 1000,
+          "distance_m": 900,
           "going": "Heavy9",
-          "winner_time": 60.29,
-          "beaten_margin": 9.78,
-          "runner_time": 61.71,
+          "winner_time": 53.9,
+          "beaten_margin": 0.99,
+          "runner_time": 54.04,
           "runner_time_reduced": true,
-          "sectional_600": 35.97,
+          "sectional_600": 35.36,
           "in_run": {
-            "@800": 1,
-            "@400": 3
+            "@400": 2
+          }
+        },
+        {
+          "pos": 7,
+          "date": "2026-06-13",
+          "class": "0 - 56",
+          "trial": false,
+          "distance_m": 1100,
+          "going": "Soft5",
+          "winner_time": 64.7,
+          "beaten_margin": 3.4,
+          "runner_time": 65.18,
+          "runner_time_reduced": true,
+          "sectional_600": 35.07,
+          "in_run": {
+            "@800": 4,
+            "@400": 5
           }
         }
       ],
       "recent_class": [
-        "CTRY CL1",
         "0 - 56",
         "MDN-SW",
         "BM50",
-        "CL1"
+        "MDN-SW",
+        "0 - 56"
       ],
       "days_since_run": 14,
-      "runs_this_prep": 14,
+      "runs_this_prep": 9,
       "form_status": "confirmed",
       "warnings": [],
       "last5_parsed": [
@@ -2603,7 +2602,7 @@
       }
     }
   ],
-  "last_polled_at": "2026-07-19T07:43:09.675903Z",
+  "last_polled_at": "2026-07-19T07:58:13.313400Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
     "ok": 13,
