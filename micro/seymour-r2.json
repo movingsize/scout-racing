@@ -1,0 +1,4065 @@
+{
+  "event_id": "seymour-2026-07-19-r2",
+  "market_id": "1.260121014",
+  "venue": "Seymour",
+  "race_name": "R2 1200m Mdn",
+  "start_time_utc": "2026-07-19T02:15:00.000Z",
+  "captured_by": "micro-series v1",
+  "field_size": 7,
+  "model_overlay": {
+    "100632352": {
+      "model_prob": 0.437846,
+      "model_rank": 1,
+      "model_version": "2026-07-08"
+    },
+    "100721709": {
+      "model_prob": 0.231168,
+      "model_rank": 3,
+      "model_version": "2026-07-08"
+    },
+    "100721708": {
+      "model_prob": 0.330986,
+      "model_rank": 2,
+      "model_version": "2026-07-08"
+    }
+  },
+  "bsp": {
+    "100721711": {
+      "bsp": NaN,
+      "status": "REMOVED"
+    },
+    "100721713": {
+      "bsp": NaN,
+      "status": "REMOVED"
+    },
+    "100721710": {
+      "bsp": NaN,
+      "status": "REMOVED"
+    },
+    "4193414": {
+      "bsp": NaN,
+      "status": "REMOVED"
+    },
+    "938657": {
+      "bsp": 28.0,
+      "status": "LOSER"
+    },
+    "922872": {
+      "bsp": 4.95,
+      "status": "LOSER"
+    },
+    "100721707": {
+      "bsp": 52.06,
+      "status": "LOSER"
+    },
+    "100721708": {
+      "bsp": 14.38,
+      "status": "WINNER"
+    },
+    "100721709": {
+      "bsp": 13.09,
+      "status": "LOSER"
+    },
+    "100632352": {
+      "bsp": 7.39,
+      "status": "LOSER"
+    },
+    "100721712": {
+      "bsp": 2.17,
+      "status": "LOSER"
+    }
+  },
+  "result": {
+    "winner": "4. Dustee",
+    "winner_bsp": 14.38,
+    "placings": [
+      "4. Dustee",
+      "8. Whimsy Smile",
+      "9. La Reina Vega"
+    ],
+    "settled_at": "2026-07-19T02:18:00.677269Z"
+  },
+  "frames": [
+    {
+      "at": "2026-07-19T02:05:01.079465Z",
+      "seconds_to_off": 599,
+      "market_matched_volume": 9587.48,
+      "overround_pct": 102.1,
+      "runners": [
+        {
+          "selection_id": 938657,
+          "name": "1. Blues Traveler",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 17.5,
+          "best_back_size": 20.34,
+          "best_lay": 19.0,
+          "best_lay_size": 6.4,
+          "spread": 1.5,
+          "back_ladder": [
+            {
+              "price": 17.5,
+              "size": 20.34
+            },
+            {
+              "price": 17.0,
+              "size": 28.63
+            },
+            {
+              "price": 16.5,
+              "size": 26.3
+            },
+            {
+              "price": 16.0,
+              "size": 24.94
+            },
+            {
+              "price": 15.5,
+              "size": 22.37
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 19.0,
+              "size": 6.4
+            },
+            {
+              "price": 19.5,
+              "size": 13.51
+            },
+            {
+              "price": 20.0,
+              "size": 92.89
+            },
+            {
+              "price": 21.0,
+              "size": 5.71
+            },
+            {
+              "price": 22.0,
+              "size": 7.36
+            }
+          ],
+          "runner_matched_volume": 116.82,
+          "last_price_traded": 17.5,
+          "market_prob": 0.055955,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 922872,
+          "name": "2. Caxton Street",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 3.5,
+          "best_back_size": 57.82,
+          "best_lay": 3.6,
+          "best_lay_size": 17.9,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 3.5,
+              "size": 57.82
+            },
+            {
+              "price": 3.45,
+              "size": 39.88
+            },
+            {
+              "price": 3.4,
+              "size": 361.1
+            },
+            {
+              "price": 3.35,
+              "size": 158.52
+            },
+            {
+              "price": 3.3,
+              "size": 203.43
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.6,
+              "size": 17.9
+            },
+            {
+              "price": 3.65,
+              "size": 504.59
+            },
+            {
+              "price": 3.7,
+              "size": 32.43
+            },
+            {
+              "price": 3.75,
+              "size": 101.75
+            },
+            {
+              "price": 3.8,
+              "size": 77.21
+            }
+          ],
+          "runner_matched_volume": 1516.29,
+          "last_price_traded": 3.6,
+          "market_prob": 0.279776,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 100721707,
+          "name": "3. Drink Me Pretty",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 46.0,
+          "best_back_size": 2.99,
+          "best_lay": 60.0,
+          "best_lay_size": 1.64,
+          "spread": 14.0,
+          "back_ladder": [
+            {
+              "price": 46.0,
+              "size": 2.99
+            },
+            {
+              "price": 44.0,
+              "size": 2.97
+            },
+            {
+              "price": 42.0,
+              "size": 5.83
+            },
+            {
+              "price": 40.0,
+              "size": 3.36
+            },
+            {
+              "price": 38.0,
+              "size": 2.6
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 60.0,
+              "size": 1.64
+            },
+            {
+              "price": 65.0,
+              "size": 4.43
+            },
+            {
+              "price": 75.0,
+              "size": 2.57
+            },
+            {
+              "price": 80.0,
+              "size": 2.46
+            },
+            {
+              "price": 95.0,
+              "size": 2.23
+            }
+          ],
+          "runner_matched_volume": 71.93,
+          "last_price_traded": 60.0,
+          "market_prob": 0.021287,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 100721708,
+          "name": "4. Dustee",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 10.0,
+          "best_back_size": 7.33,
+          "best_lay": 10.5,
+          "best_lay_size": 11.23,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 10.0,
+              "size": 7.33
+            },
+            {
+              "price": 9.8,
+              "size": 7.36
+            },
+            {
+              "price": 9.6,
+              "size": 7.9
+            },
+            {
+              "price": 9.4,
+              "size": 5.18
+            },
+            {
+              "price": 9.2,
+              "size": 24.05
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 10.5,
+              "size": 11.23
+            },
+            {
+              "price": 11.0,
+              "size": 18.58
+            },
+            {
+              "price": 11.5,
+              "size": 11.22
+            },
+            {
+              "price": 12.0,
+              "size": 31.27
+            },
+            {
+              "price": 12.5,
+              "size": 18.0
+            }
+          ],
+          "runner_matched_volume": 1176.08,
+          "last_price_traded": 10.0,
+          "market_prob": 0.097921,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 100721709,
+          "name": "5. Exploit",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 15.0,
+          "best_back_size": 4.95,
+          "best_lay": 16.5,
+          "best_lay_size": 4.58,
+          "spread": 1.5,
+          "back_ladder": [
+            {
+              "price": 15.0,
+              "size": 4.95
+            },
+            {
+              "price": 14.5,
+              "size": 5.82
+            },
+            {
+              "price": 14.0,
+              "size": 24.02
+            },
+            {
+              "price": 13.5,
+              "size": 15.26
+            },
+            {
+              "price": 13.0,
+              "size": 16.44
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 16.5,
+              "size": 4.58
+            },
+            {
+              "price": 17.0,
+              "size": 4.07
+            },
+            {
+              "price": 17.5,
+              "size": 6.08
+            },
+            {
+              "price": 18.0,
+              "size": 5.94
+            },
+            {
+              "price": 18.5,
+              "size": 11.17
+            }
+          ],
+          "runner_matched_volume": 109.01,
+          "last_price_traded": 16.5,
+          "market_prob": 0.065281,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100632352,
+          "name": "8. Whimsy Smile",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 8.0,
+          "best_back_size": 10.44,
+          "best_lay": 8.4,
+          "best_lay_size": 22.0,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 8.0,
+              "size": 10.44
+            },
+            {
+              "price": 7.8,
+              "size": 13.14
+            },
+            {
+              "price": 7.6,
+              "size": 33.01
+            },
+            {
+              "price": 7.4,
+              "size": 37.19
+            },
+            {
+              "price": 7.2,
+              "size": 63.11
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 8.4,
+              "size": 22.0
+            },
+            {
+              "price": 8.6,
+              "size": 13.09
+            },
+            {
+              "price": 8.8,
+              "size": 13.16
+            },
+            {
+              "price": 9.0,
+              "size": 13.43
+            },
+            {
+              "price": 9.2,
+              "size": 29.01
+            }
+          ],
+          "runner_matched_volume": 916.5,
+          "last_price_traded": 8.0,
+          "market_prob": 0.122402,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100721712,
+          "name": "9. La Reina Vega",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 2.74,
+          "best_back_size": 3.8,
+          "best_lay": 2.78,
+          "best_lay_size": 4.95,
+          "spread": 0.04,
+          "back_ladder": [
+            {
+              "price": 2.74,
+              "size": 3.8
+            },
+            {
+              "price": 2.72,
+              "size": 20.03
+            },
+            {
+              "price": 2.7,
+              "size": 15.51
+            },
+            {
+              "price": 2.68,
+              "size": 18.38
+            },
+            {
+              "price": 2.66,
+              "size": 8.75
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.78,
+              "size": 4.95
+            },
+            {
+              "price": 2.8,
+              "size": 10.79
+            },
+            {
+              "price": 2.82,
+              "size": 6.82
+            },
+            {
+              "price": 2.86,
+              "size": 2.93
+            },
+            {
+              "price": 2.88,
+              "size": 18.9
+            }
+          ],
+          "runner_matched_volume": 5680.81,
+          "last_price_traded": 2.78,
+          "market_prob": 0.357378,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100721711,
+          "name": "7. Keen Observer",
+          "saddle_cloth": 8,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100721713,
+          "name": "11. Mistressof Mayfair",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100721710,
+          "name": "6. Imperial Valley",
+          "saddle_cloth": 10,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 4193414,
+          "name": "10. Mirador",
+          "saddle_cloth": 11,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-19T02:06:15.435742Z",
+      "seconds_to_off": 525,
+      "market_matched_volume": 12709.57,
+      "overround_pct": 102.2,
+      "runners": [
+        {
+          "selection_id": 938657,
+          "name": "1. Blues Traveler",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 16.0,
+          "best_back_size": 22.41,
+          "best_lay": 18.0,
+          "best_lay_size": 2.68,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 16.0,
+              "size": 22.41
+            },
+            {
+              "price": 15.5,
+              "size": 9.07
+            },
+            {
+              "price": 15.0,
+              "size": 14.59
+            },
+            {
+              "price": 14.5,
+              "size": 24.06
+            },
+            {
+              "price": 14.0,
+              "size": 30.65
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 18.0,
+              "size": 2.68
+            },
+            {
+              "price": 18.5,
+              "size": 12.86
+            },
+            {
+              "price": 19.0,
+              "size": 12.16
+            },
+            {
+              "price": 19.5,
+              "size": 8.65
+            },
+            {
+              "price": 20.0,
+              "size": 13.69
+            }
+          ],
+          "runner_matched_volume": 423.86,
+          "last_price_traded": 17.0,
+          "market_prob": 0.061172,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 922872,
+          "name": "2. Caxton Street",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 3.6,
+          "best_back_size": 47.32,
+          "best_lay": 3.75,
+          "best_lay_size": 19.56,
+          "spread": 0.15,
+          "back_ladder": [
+            {
+              "price": 3.6,
+              "size": 47.32
+            },
+            {
+              "price": 3.55,
+              "size": 18.05
+            },
+            {
+              "price": 3.5,
+              "size": 36.15
+            },
+            {
+              "price": 3.45,
+              "size": 30.67
+            },
+            {
+              "price": 3.4,
+              "size": 64.03
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.75,
+              "size": 19.56
+            },
+            {
+              "price": 3.8,
+              "size": 60.03
+            },
+            {
+              "price": 3.85,
+              "size": 32.75
+            },
+            {
+              "price": 3.9,
+              "size": 45.44
+            },
+            {
+              "price": 3.95,
+              "size": 113.98
+            }
+          ],
+          "runner_matched_volume": 3289.41,
+          "last_price_traded": 3.6,
+          "market_prob": 0.271877,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 100721707,
+          "name": "3. Drink Me Pretty",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 50.0,
+          "best_back_size": 4.53,
+          "best_lay": 60.0,
+          "best_lay_size": 8.43,
+          "spread": 10.0,
+          "back_ladder": [
+            {
+              "price": 50.0,
+              "size": 4.53
+            },
+            {
+              "price": 48.0,
+              "size": 4.86
+            },
+            {
+              "price": 46.0,
+              "size": 2.99
+            },
+            {
+              "price": 44.0,
+              "size": 7.54
+            },
+            {
+              "price": 42.0,
+              "size": 2.86
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 60.0,
+              "size": 8.43
+            },
+            {
+              "price": 80.0,
+              "size": 1.17
+            },
+            {
+              "price": 95.0,
+              "size": 2.23
+            },
+            {
+              "price": 100.0,
+              "size": 2.18
+            },
+            {
+              "price": 110.0,
+              "size": 3.83
+            }
+          ],
+          "runner_matched_volume": 74.7,
+          "last_price_traded": 60.0,
+          "market_prob": 0.019575,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 100721708,
+          "name": "4. Dustee",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 10.5,
+          "best_back_size": 6.41,
+          "best_lay": 11.5,
+          "best_lay_size": 10.4,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 10.5,
+              "size": 6.41
+            },
+            {
+              "price": 10.0,
+              "size": 15.48
+            },
+            {
+              "price": 9.8,
+              "size": 20.83
+            },
+            {
+              "price": 9.6,
+              "size": 15.88
+            },
+            {
+              "price": 9.4,
+              "size": 16.01
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 11.5,
+              "size": 10.4
+            },
+            {
+              "price": 12.0,
+              "size": 20.8
+            },
+            {
+              "price": 12.5,
+              "size": 8.25
+            },
+            {
+              "price": 13.0,
+              "size": 10.39
+            },
+            {
+              "price": 13.5,
+              "size": 24.88
+            }
+          ],
+          "runner_matched_volume": 1420.81,
+          "last_price_traded": 11.0,
+          "market_prob": 0.093215,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 100721709,
+          "name": "5. Exploit",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 12.5,
+          "best_back_size": 5.86,
+          "best_lay": 14.0,
+          "best_lay_size": 14.05,
+          "spread": 1.5,
+          "back_ladder": [
+            {
+              "price": 12.5,
+              "size": 5.86
+            },
+            {
+              "price": 12.0,
+              "size": 31.82
+            },
+            {
+              "price": 11.5,
+              "size": 26.83
+            },
+            {
+              "price": 11.0,
+              "size": 22.47
+            },
+            {
+              "price": 10.5,
+              "size": 19.89
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 14.0,
+              "size": 14.05
+            },
+            {
+              "price": 14.5,
+              "size": 11.12
+            },
+            {
+              "price": 15.0,
+              "size": 11.16
+            },
+            {
+              "price": 15.5,
+              "size": 15.58
+            },
+            {
+              "price": 16.0,
+              "size": 14.92
+            }
+          ],
+          "runner_matched_volume": 261.73,
+          "last_price_traded": 12.5,
+          "market_prob": 0.078301,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100632352,
+          "name": "8. Whimsy Smile",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 7.6,
+          "best_back_size": 19.88,
+          "best_lay": 7.8,
+          "best_lay_size": 3.91,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 7.6,
+              "size": 19.88
+            },
+            {
+              "price": 7.4,
+              "size": 30.05
+            },
+            {
+              "price": 7.2,
+              "size": 35.32
+            },
+            {
+              "price": 7.0,
+              "size": 85.66
+            },
+            {
+              "price": 6.8,
+              "size": 75.33
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.8,
+              "size": 3.91
+            },
+            {
+              "price": 8.0,
+              "size": 31.03
+            },
+            {
+              "price": 8.2,
+              "size": 8.94
+            },
+            {
+              "price": 8.4,
+              "size": 14.7
+            },
+            {
+              "price": 8.6,
+              "size": 23.2
+            }
+          ],
+          "runner_matched_volume": 1182.39,
+          "last_price_traded": 7.8,
+          "market_prob": 0.128784,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100721712,
+          "name": "9. La Reina Vega",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 2.82,
+          "best_back_size": 3.43,
+          "best_lay": 2.9,
+          "best_lay_size": 3.82,
+          "spread": 0.08,
+          "back_ladder": [
+            {
+              "price": 2.82,
+              "size": 3.43
+            },
+            {
+              "price": 2.8,
+              "size": 18.63
+            },
+            {
+              "price": 2.78,
+              "size": 19.83
+            },
+            {
+              "price": 2.76,
+              "size": 16.65
+            },
+            {
+              "price": 2.74,
+              "size": 11.7
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.9,
+              "size": 3.82
+            },
+            {
+              "price": 2.92,
+              "size": 15.78
+            },
+            {
+              "price": 2.94,
+              "size": 5.76
+            },
+            {
+              "price": 2.96,
+              "size": 17.32
+            },
+            {
+              "price": 2.98,
+              "size": 5.76
+            }
+          ],
+          "runner_matched_volume": 6056.64,
+          "last_price_traded": 2.88,
+          "market_prob": 0.347077,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100721711,
+          "name": "7. Keen Observer",
+          "saddle_cloth": 8,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100721713,
+          "name": "11. Mistressof Mayfair",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100721710,
+          "name": "6. Imperial Valley",
+          "saddle_cloth": 10,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 4193414,
+          "name": "10. Mirador",
+          "saddle_cloth": 11,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-19T02:07:30.334678Z",
+      "seconds_to_off": 450,
+      "market_matched_volume": 14387.39,
+      "overround_pct": 103.7,
+      "runners": [
+        {
+          "selection_id": 938657,
+          "name": "1. Blues Traveler",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 16.0,
+          "best_back_size": 12.81,
+          "best_lay": 18.0,
+          "best_lay_size": 2.51,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 16.0,
+              "size": 12.81
+            },
+            {
+              "price": 15.5,
+              "size": 19.06
+            },
+            {
+              "price": 15.0,
+              "size": 18.42
+            },
+            {
+              "price": 14.5,
+              "size": 24.06
+            },
+            {
+              "price": 14.0,
+              "size": 47.21
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 18.0,
+              "size": 2.51
+            },
+            {
+              "price": 18.5,
+              "size": 8.85
+            },
+            {
+              "price": 19.0,
+              "size": 12.16
+            },
+            {
+              "price": 19.5,
+              "size": 8.65
+            },
+            {
+              "price": 20.0,
+              "size": 13.69
+            }
+          ],
+          "runner_matched_volume": 546.15,
+          "last_price_traded": 16.5,
+          "market_prob": 0.060298,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 922872,
+          "name": "2. Caxton Street",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 3.75,
+          "best_back_size": 21.38,
+          "best_lay": 3.8,
+          "best_lay_size": 14.05,
+          "spread": 0.05,
+          "back_ladder": [
+            {
+              "price": 3.75,
+              "size": 21.38
+            },
+            {
+              "price": 3.7,
+              "size": 46.45
+            },
+            {
+              "price": 3.65,
+              "size": 15.84
+            },
+            {
+              "price": 3.6,
+              "size": 46.53
+            },
+            {
+              "price": 3.55,
+              "size": 20.41
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.8,
+              "size": 14.05
+            },
+            {
+              "price": 3.85,
+              "size": 51.06
+            },
+            {
+              "price": 3.9,
+              "size": 52.99
+            },
+            {
+              "price": 3.95,
+              "size": 119.74
+            },
+            {
+              "price": 4.0,
+              "size": 52.91
+            }
+          ],
+          "runner_matched_volume": 3440.64,
+          "last_price_traded": 3.75,
+          "market_prob": 0.25727,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 100721707,
+          "name": "3. Drink Me Pretty",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 48.0,
+          "best_back_size": 7.8,
+          "best_lay": 85.0,
+          "best_lay_size": 3.21,
+          "spread": 37.0,
+          "back_ladder": [
+            {
+              "price": 48.0,
+              "size": 7.8
+            },
+            {
+              "price": 46.0,
+              "size": 8.42
+            },
+            {
+              "price": 44.0,
+              "size": 8.49
+            },
+            {
+              "price": 42.0,
+              "size": 8.62
+            },
+            {
+              "price": 40.0,
+              "size": 7.59
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 85.0,
+              "size": 3.21
+            },
+            {
+              "price": 95.0,
+              "size": 2.81
+            },
+            {
+              "price": 100.0,
+              "size": 4.11
+            },
+            {
+              "price": 110.0,
+              "size": 5.76
+            },
+            {
+              "price": 120.0,
+              "size": 7.76
+            }
+          ],
+          "runner_matched_volume": 134.11,
+          "last_price_traded": 50.0,
+          "market_prob": 0.020099,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 100721708,
+          "name": "4. Dustee",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 11.0,
+          "best_back_size": 5.84,
+          "best_lay": 12.0,
+          "best_lay_size": 27.78,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 11.0,
+              "size": 5.84
+            },
+            {
+              "price": 10.5,
+              "size": 20.65
+            },
+            {
+              "price": 10.0,
+              "size": 15.48
+            },
+            {
+              "price": 9.8,
+              "size": 35.07
+            },
+            {
+              "price": 9.6,
+              "size": 34.14
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 12.0,
+              "size": 27.78
+            },
+            {
+              "price": 12.5,
+              "size": 17.7
+            },
+            {
+              "price": 13.0,
+              "size": 16.15
+            },
+            {
+              "price": 13.5,
+              "size": 29.24
+            },
+            {
+              "price": 14.0,
+              "size": 31.46
+            }
+          ],
+          "runner_matched_volume": 1561.92,
+          "last_price_traded": 11.5,
+          "market_prob": 0.087706,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 100721709,
+          "name": "5. Exploit",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 11.5,
+          "best_back_size": 51.9,
+          "best_lay": 12.5,
+          "best_lay_size": 25.45,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 11.5,
+              "size": 51.9
+            },
+            {
+              "price": 11.0,
+              "size": 33.86
+            },
+            {
+              "price": 10.5,
+              "size": 25.65
+            },
+            {
+              "price": 10.0,
+              "size": 47.9
+            },
+            {
+              "price": 9.8,
+              "size": 47.21
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 12.5,
+              "size": 25.45
+            },
+            {
+              "price": 13.0,
+              "size": 7.0
+            },
+            {
+              "price": 13.5,
+              "size": 14.36
+            },
+            {
+              "price": 14.0,
+              "size": 15.05
+            },
+            {
+              "price": 14.5,
+              "size": 16.88
+            }
+          ],
+          "runner_matched_volume": 351.57,
+          "last_price_traded": 12.0,
+          "market_prob": 0.083892,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100632352,
+          "name": "8. Whimsy Smile",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 6.6,
+          "best_back_size": 12.91,
+          "best_lay": 7.0,
+          "best_lay_size": 12.05,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 6.6,
+              "size": 12.91
+            },
+            {
+              "price": 6.4,
+              "size": 20.9
+            },
+            {
+              "price": 6.2,
+              "size": 27.81
+            },
+            {
+              "price": 6.0,
+              "size": 42.63
+            },
+            {
+              "price": 5.9,
+              "size": 37.86
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.0,
+              "size": 12.05
+            },
+            {
+              "price": 7.2,
+              "size": 84.11
+            },
+            {
+              "price": 7.4,
+              "size": 25.84
+            },
+            {
+              "price": 7.6,
+              "size": 14.24
+            },
+            {
+              "price": 7.8,
+              "size": 22.78
+            }
+          ],
+          "runner_matched_volume": 1715.81,
+          "last_price_traded": 7.0,
+          "market_prob": 0.146176,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100721712,
+          "name": "9. La Reina Vega",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 2.8,
+          "best_back_size": 14.26,
+          "best_lay": 2.88,
+          "best_lay_size": 4.95,
+          "spread": 0.08,
+          "back_ladder": [
+            {
+              "price": 2.8,
+              "size": 14.26
+            },
+            {
+              "price": 2.78,
+              "size": 10.42
+            },
+            {
+              "price": 2.76,
+              "size": 8.3
+            },
+            {
+              "price": 2.74,
+              "size": 17.94
+            },
+            {
+              "price": 2.72,
+              "size": 28.25
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.88,
+              "size": 4.95
+            },
+            {
+              "price": 2.9,
+              "size": 43.51
+            },
+            {
+              "price": 2.92,
+              "size": 6.59
+            },
+            {
+              "price": 2.94,
+              "size": 6.38
+            },
+            {
+              "price": 2.96,
+              "size": 26.32
+            }
+          ],
+          "runner_matched_volume": 6637.15,
+          "last_price_traded": 2.88,
+          "market_prob": 0.344558,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100721711,
+          "name": "7. Keen Observer",
+          "saddle_cloth": 8,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100721713,
+          "name": "11. Mistressof Mayfair",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100721710,
+          "name": "6. Imperial Valley",
+          "saddle_cloth": 10,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 4193414,
+          "name": "10. Mirador",
+          "saddle_cloth": 11,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-19T02:08:45.330128Z",
+      "seconds_to_off": 375,
+      "market_matched_volume": 17673.16,
+      "overround_pct": 103.0,
+      "runners": [
+        {
+          "selection_id": 938657,
+          "name": "1. Blues Traveler",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 17.0,
+          "best_back_size": 13.81,
+          "best_lay": 18.5,
+          "best_lay_size": 2.29,
+          "spread": 1.5,
+          "back_ladder": [
+            {
+              "price": 17.0,
+              "size": 13.81
+            },
+            {
+              "price": 16.5,
+              "size": 4.05
+            },
+            {
+              "price": 16.0,
+              "size": 6.15
+            },
+            {
+              "price": 15.5,
+              "size": 15.99
+            },
+            {
+              "price": 15.0,
+              "size": 20.56
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 18.5,
+              "size": 2.29
+            },
+            {
+              "price": 19.0,
+              "size": 15.87
+            },
+            {
+              "price": 19.5,
+              "size": 8.65
+            },
+            {
+              "price": 20.0,
+              "size": 13.69
+            },
+            {
+              "price": 21.0,
+              "size": 13.4
+            }
+          ],
+          "runner_matched_volume": 557.97,
+          "last_price_traded": 18.5,
+          "market_prob": 0.057115,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 922872,
+          "name": "2. Caxton Street",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 3.9,
+          "best_back_size": 5.24,
+          "best_lay": 3.95,
+          "best_lay_size": 12.44,
+          "spread": 0.05,
+          "back_ladder": [
+            {
+              "price": 3.9,
+              "size": 5.24
+            },
+            {
+              "price": 3.85,
+              "size": 22.78
+            },
+            {
+              "price": 3.8,
+              "size": 20.43
+            },
+            {
+              "price": 3.75,
+              "size": 27.98
+            },
+            {
+              "price": 3.7,
+              "size": 49.29
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.95,
+              "size": 12.44
+            },
+            {
+              "price": 4.0,
+              "size": 28.71
+            },
+            {
+              "price": 4.1,
+              "size": 45.63
+            },
+            {
+              "price": 4.2,
+              "size": 43.77
+            },
+            {
+              "price": 4.3,
+              "size": 90.78
+            }
+          ],
+          "runner_matched_volume": 4856.91,
+          "last_price_traded": 3.9,
+          "market_prob": 0.248963,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 100721707,
+          "name": "3. Drink Me Pretty",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 50.0,
+          "best_back_size": 6.62,
+          "best_lay": 70.0,
+          "best_lay_size": 8.35,
+          "spread": 20.0,
+          "back_ladder": [
+            {
+              "price": 50.0,
+              "size": 6.62
+            },
+            {
+              "price": 48.0,
+              "size": 6.84
+            },
+            {
+              "price": 46.0,
+              "size": 5.76
+            },
+            {
+              "price": 44.0,
+              "size": 8.49
+            },
+            {
+              "price": 42.0,
+              "size": 8.62
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 70.0,
+              "size": 8.35
+            },
+            {
+              "price": 95.0,
+              "size": 2.76
+            },
+            {
+              "price": 100.0,
+              "size": 2.18
+            },
+            {
+              "price": 110.0,
+              "size": 7.69
+            },
+            {
+              "price": 120.0,
+              "size": 11.62
+            }
+          ],
+          "runner_matched_volume": 134.53,
+          "last_price_traded": 65.0,
+          "market_prob": 0.019419,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 100721708,
+          "name": "4. Dustee",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 10.5,
+          "best_back_size": 9.13,
+          "best_lay": 11.5,
+          "best_lay_size": 13.76,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 10.5,
+              "size": 9.13
+            },
+            {
+              "price": 10.0,
+              "size": 27.17
+            },
+            {
+              "price": 9.8,
+              "size": 39.45
+            },
+            {
+              "price": 9.6,
+              "size": 20.69
+            },
+            {
+              "price": 9.4,
+              "size": 33.06
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 11.5,
+              "size": 13.76
+            },
+            {
+              "price": 12.0,
+              "size": 18.14
+            },
+            {
+              "price": 12.5,
+              "size": 18.41
+            },
+            {
+              "price": 13.0,
+              "size": 20.82
+            },
+            {
+              "price": 13.5,
+              "size": 29.24
+            }
+          ],
+          "runner_matched_volume": 1859.21,
+          "last_price_traded": 11.0,
+          "market_prob": 0.092472,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 100721709,
+          "name": "5. Exploit",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 10.5,
+          "best_back_size": 23.19,
+          "best_lay": 11.0,
+          "best_lay_size": 12.01,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 10.5,
+              "size": 23.19
+            },
+            {
+              "price": 10.0,
+              "size": 53.2
+            },
+            {
+              "price": 9.8,
+              "size": 51.07
+            },
+            {
+              "price": 9.6,
+              "size": 50.16
+            },
+            {
+              "price": 9.4,
+              "size": 53.31
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 11.0,
+              "size": 12.01
+            },
+            {
+              "price": 11.5,
+              "size": 88.01
+            },
+            {
+              "price": 12.0,
+              "size": 33.78
+            },
+            {
+              "price": 12.5,
+              "size": 16.93
+            },
+            {
+              "price": 13.0,
+              "size": 21.99
+            }
+          ],
+          "runner_matched_volume": 542.53,
+          "last_price_traded": 10.5,
+          "market_prob": 0.092472,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100632352,
+          "name": "8. Whimsy Smile",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 6.8,
+          "best_back_size": 17.96,
+          "best_lay": 7.0,
+          "best_lay_size": 24.67,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 6.8,
+              "size": 17.96
+            },
+            {
+              "price": 6.6,
+              "size": 45.8
+            },
+            {
+              "price": 6.4,
+              "size": 26.8
+            },
+            {
+              "price": 6.2,
+              "size": 54.22
+            },
+            {
+              "price": 6.0,
+              "size": 91.32
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.0,
+              "size": 24.67
+            },
+            {
+              "price": 7.2,
+              "size": 103.27
+            },
+            {
+              "price": 7.4,
+              "size": 18.11
+            },
+            {
+              "price": 7.6,
+              "size": 20.0
+            },
+            {
+              "price": 7.8,
+              "size": 43.92
+            }
+          ],
+          "runner_matched_volume": 2125.99,
+          "last_price_traded": 6.8,
+          "market_prob": 0.142788,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100721712,
+          "name": "9. La Reina Vega",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 2.8,
+          "best_back_size": 16.43,
+          "best_lay": 2.84,
+          "best_lay_size": 25.9,
+          "spread": 0.04,
+          "back_ladder": [
+            {
+              "price": 2.8,
+              "size": 16.43
+            },
+            {
+              "price": 2.78,
+              "size": 5.16
+            },
+            {
+              "price": 2.74,
+              "size": 14.91
+            },
+            {
+              "price": 2.72,
+              "size": 30.96
+            },
+            {
+              "price": 2.7,
+              "size": 16.91
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.84,
+              "size": 25.9
+            },
+            {
+              "price": 2.86,
+              "size": 8.19
+            },
+            {
+              "price": 2.88,
+              "size": 11.69
+            },
+            {
+              "price": 2.9,
+              "size": 117.89
+            },
+            {
+              "price": 2.92,
+              "size": 11.72
+            }
+          ],
+          "runner_matched_volume": 7596.0,
+          "last_price_traded": 2.82,
+          "market_prob": 0.34677,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100721711,
+          "name": "7. Keen Observer",
+          "saddle_cloth": 8,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100721713,
+          "name": "11. Mistressof Mayfair",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100721710,
+          "name": "6. Imperial Valley",
+          "saddle_cloth": 10,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 4193414,
+          "name": "10. Mirador",
+          "saddle_cloth": 11,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-19T02:10:00.591598Z",
+      "seconds_to_off": 300,
+      "market_matched_volume": 20122.03,
+      "overround_pct": 102.2,
+      "runners": [
+        {
+          "selection_id": 938657,
+          "name": "1. Blues Traveler",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 17.5,
+          "best_back_size": 8.59,
+          "best_lay": 18.5,
+          "best_lay_size": 5.25,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 17.5,
+              "size": 8.59
+            },
+            {
+              "price": 17.0,
+              "size": 10.56
+            },
+            {
+              "price": 16.5,
+              "size": 4.7
+            },
+            {
+              "price": 16.0,
+              "size": 39.1
+            },
+            {
+              "price": 15.5,
+              "size": 15.99
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 18.5,
+              "size": 5.25
+            },
+            {
+              "price": 19.0,
+              "size": 6.4
+            },
+            {
+              "price": 19.5,
+              "size": 12.36
+            },
+            {
+              "price": 20.0,
+              "size": 13.69
+            },
+            {
+              "price": 21.0,
+              "size": 13.4
+            }
+          ],
+          "runner_matched_volume": 644.68,
+          "last_price_traded": 17.5,
+          "market_prob": 0.055902,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 922872,
+          "name": "2. Caxton Street",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 4.2,
+          "best_back_size": 29.22,
+          "best_lay": 4.3,
+          "best_lay_size": 58.15,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 4.2,
+              "size": 29.22
+            },
+            {
+              "price": 4.1,
+              "size": 82.43
+            },
+            {
+              "price": 4.0,
+              "size": 65.27
+            },
+            {
+              "price": 3.95,
+              "size": 51.49
+            },
+            {
+              "price": 3.9,
+              "size": 162.78
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.3,
+              "size": 58.15
+            },
+            {
+              "price": 4.4,
+              "size": 23.4
+            },
+            {
+              "price": 4.5,
+              "size": 28.42
+            },
+            {
+              "price": 4.6,
+              "size": 41.44
+            },
+            {
+              "price": 4.7,
+              "size": 84.47
+            }
+          ],
+          "runner_matched_volume": 5686.57,
+          "last_price_traded": 4.3,
+          "market_prob": 0.232926,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 100721707,
+          "name": "3. Drink Me Pretty",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 50.0,
+          "best_back_size": 7.16,
+          "best_lay": 65.0,
+          "best_lay_size": 1.95,
+          "spread": 15.0,
+          "back_ladder": [
+            {
+              "price": 50.0,
+              "size": 7.16
+            },
+            {
+              "price": 48.0,
+              "size": 7.26
+            },
+            {
+              "price": 46.0,
+              "size": 10.35
+            },
+            {
+              "price": 44.0,
+              "size": 8.49
+            },
+            {
+              "price": 42.0,
+              "size": 8.62
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 65.0,
+              "size": 1.95
+            },
+            {
+              "price": 70.0,
+              "size": 2.94
+            },
+            {
+              "price": 85.0,
+              "size": 2.96
+            },
+            {
+              "price": 95.0,
+              "size": 2.23
+            },
+            {
+              "price": 100.0,
+              "size": 2.18
+            }
+          ],
+          "runner_matched_volume": 144.13,
+          "last_price_traded": 50.0,
+          "market_prob": 0.019566,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 100721708,
+          "name": "4. Dustee",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 10.5,
+          "best_back_size": 33.05,
+          "best_lay": 11.5,
+          "best_lay_size": 25.4,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 10.5,
+              "size": 33.05
+            },
+            {
+              "price": 10.0,
+              "size": 30.57
+            },
+            {
+              "price": 9.8,
+              "size": 39.18
+            },
+            {
+              "price": 9.6,
+              "size": 25.17
+            },
+            {
+              "price": 9.4,
+              "size": 31.3
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 11.5,
+              "size": 25.4
+            },
+            {
+              "price": 12.0,
+              "size": 53.54
+            },
+            {
+              "price": 12.5,
+              "size": 22.54
+            },
+            {
+              "price": 13.0,
+              "size": 18.08
+            },
+            {
+              "price": 13.5,
+              "size": 30.33
+            }
+          ],
+          "runner_matched_volume": 2130.04,
+          "last_price_traded": 11.0,
+          "market_prob": 0.09317,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 100721709,
+          "name": "5. Exploit",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 10.5,
+          "best_back_size": 45.87,
+          "best_lay": 11.0,
+          "best_lay_size": 38.04,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 10.5,
+              "size": 45.87
+            },
+            {
+              "price": 10.0,
+              "size": 74.36
+            },
+            {
+              "price": 9.8,
+              "size": 35.89
+            },
+            {
+              "price": 9.6,
+              "size": 36.71
+            },
+            {
+              "price": 9.4,
+              "size": 54.48
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 11.0,
+              "size": 38.04
+            },
+            {
+              "price": 11.5,
+              "size": 93.25
+            },
+            {
+              "price": 12.0,
+              "size": 14.39
+            },
+            {
+              "price": 12.5,
+              "size": 17.3
+            },
+            {
+              "price": 13.0,
+              "size": 21.99
+            }
+          ],
+          "runner_matched_volume": 723.72,
+          "last_price_traded": 11.0,
+          "market_prob": 0.09317,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100632352,
+          "name": "8. Whimsy Smile",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 6.6,
+          "best_back_size": 13.16,
+          "best_lay": 6.8,
+          "best_lay_size": 70.48,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 6.6,
+              "size": 13.16
+            },
+            {
+              "price": 6.4,
+              "size": 89.08
+            },
+            {
+              "price": 6.2,
+              "size": 96.51
+            },
+            {
+              "price": 6.0,
+              "size": 66.79
+            },
+            {
+              "price": 5.9,
+              "size": 63.93
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.8,
+              "size": 70.48
+            },
+            {
+              "price": 7.0,
+              "size": 14.8
+            },
+            {
+              "price": 7.2,
+              "size": 78.19
+            },
+            {
+              "price": 7.4,
+              "size": 36.25
+            },
+            {
+              "price": 7.6,
+              "size": 59.28
+            }
+          ],
+          "runner_matched_volume": 2402.36,
+          "last_price_traded": 6.4,
+          "market_prob": 0.148226,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100721712,
+          "name": "9. La Reina Vega",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 2.74,
+          "best_back_size": 14.93,
+          "best_lay": 2.76,
+          "best_lay_size": 6.07,
+          "spread": 0.02,
+          "back_ladder": [
+            {
+              "price": 2.74,
+              "size": 14.93
+            },
+            {
+              "price": 2.72,
+              "size": 25.6
+            },
+            {
+              "price": 2.7,
+              "size": 54.84
+            },
+            {
+              "price": 2.68,
+              "size": 38.57
+            },
+            {
+              "price": 2.66,
+              "size": 53.14
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.76,
+              "size": 6.07
+            },
+            {
+              "price": 2.78,
+              "size": 9.37
+            },
+            {
+              "price": 2.8,
+              "size": 21.78
+            },
+            {
+              "price": 2.82,
+              "size": 5.76
+            },
+            {
+              "price": 2.84,
+              "size": 5.76
+            }
+          ],
+          "runner_matched_volume": 8390.51,
+          "last_price_traded": 2.72,
+          "market_prob": 0.35704,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100721711,
+          "name": "7. Keen Observer",
+          "saddle_cloth": 8,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100721713,
+          "name": "11. Mistressof Mayfair",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100721710,
+          "name": "6. Imperial Valley",
+          "saddle_cloth": 10,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 4193414,
+          "name": "10. Mirador",
+          "saddle_cloth": 11,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-19T02:11:15.332577Z",
+      "seconds_to_off": 225,
+      "market_matched_volume": 22238.21,
+      "overround_pct": 102.2,
+      "runners": [
+        {
+          "selection_id": 938657,
+          "name": "1. Blues Traveler",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 20.0,
+          "best_back_size": 13.25,
+          "best_lay": 21.0,
+          "best_lay_size": 5.76,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 20.0,
+              "size": 13.25
+            },
+            {
+              "price": 19.5,
+              "size": 8.4
+            },
+            {
+              "price": 19.0,
+              "size": 15.47
+            },
+            {
+              "price": 18.5,
+              "size": 14.25
+            },
+            {
+              "price": 18.0,
+              "size": 22.22
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 21.0,
+              "size": 5.76
+            },
+            {
+              "price": 22.0,
+              "size": 19.05
+            },
+            {
+              "price": 23.0,
+              "size": 24.13
+            },
+            {
+              "price": 24.0,
+              "size": 30.67
+            },
+            {
+              "price": 25.0,
+              "size": 30.46
+            }
+          ],
+          "runner_matched_volume": 680.52,
+          "last_price_traded": 20.0,
+          "market_prob": 0.048944,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 922872,
+          "name": "2. Caxton Street",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 4.2,
+          "best_back_size": 47.18,
+          "best_lay": 4.3,
+          "best_lay_size": 70.37,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 4.2,
+              "size": 47.18
+            },
+            {
+              "price": 4.1,
+              "size": 107.02
+            },
+            {
+              "price": 4.0,
+              "size": 128.29
+            },
+            {
+              "price": 3.95,
+              "size": 84.19
+            },
+            {
+              "price": 3.9,
+              "size": 172.17
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.3,
+              "size": 70.37
+            },
+            {
+              "price": 4.4,
+              "size": 14.03
+            },
+            {
+              "price": 4.5,
+              "size": 39.85
+            },
+            {
+              "price": 4.6,
+              "size": 72.22
+            },
+            {
+              "price": 4.7,
+              "size": 139.4
+            }
+          ],
+          "runner_matched_volume": 6508.4,
+          "last_price_traded": 4.3,
+          "market_prob": 0.233067,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 100721707,
+          "name": "3. Drink Me Pretty",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 50.0,
+          "best_back_size": 6.05,
+          "best_lay": 60.0,
+          "best_lay_size": 13.09,
+          "spread": 10.0,
+          "back_ladder": [
+            {
+              "price": 50.0,
+              "size": 6.05
+            },
+            {
+              "price": 48.0,
+              "size": 7.43
+            },
+            {
+              "price": 46.0,
+              "size": 17.98
+            },
+            {
+              "price": 44.0,
+              "size": 17.58
+            },
+            {
+              "price": 42.0,
+              "size": 8.62
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 60.0,
+              "size": 13.09
+            },
+            {
+              "price": 65.0,
+              "size": 2.54
+            },
+            {
+              "price": 70.0,
+              "size": 3.31
+            },
+            {
+              "price": 75.0,
+              "size": 1.95
+            },
+            {
+              "price": 80.0,
+              "size": 2.46
+            }
+          ],
+          "runner_matched_volume": 171.68,
+          "last_price_traded": 50.0,
+          "market_prob": 0.019578,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 100721708,
+          "name": "4. Dustee",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 11.0,
+          "best_back_size": 19.62,
+          "best_lay": 11.5,
+          "best_lay_size": 34.65,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 11.0,
+              "size": 19.62
+            },
+            {
+              "price": 10.5,
+              "size": 44.94
+            },
+            {
+              "price": 10.0,
+              "size": 111.17
+            },
+            {
+              "price": 9.8,
+              "size": 55.48
+            },
+            {
+              "price": 9.6,
+              "size": 33.09
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 11.5,
+              "size": 34.65
+            },
+            {
+              "price": 12.0,
+              "size": 48.45
+            },
+            {
+              "price": 12.5,
+              "size": 23.42
+            },
+            {
+              "price": 13.0,
+              "size": 34.96
+            },
+            {
+              "price": 13.5,
+              "size": 42.55
+            }
+          ],
+          "runner_matched_volume": 2233.32,
+          "last_price_traded": 11.5,
+          "market_prob": 0.088989,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 100721709,
+          "name": "5. Exploit",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 11.0,
+          "best_back_size": 15.94,
+          "best_lay": 11.5,
+          "best_lay_size": 97.69,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 11.0,
+              "size": 15.94
+            },
+            {
+              "price": 10.5,
+              "size": 92.8
+            },
+            {
+              "price": 10.0,
+              "size": 139.76
+            },
+            {
+              "price": 9.8,
+              "size": 48.29
+            },
+            {
+              "price": 9.6,
+              "size": 49.09
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 11.5,
+              "size": 97.69
+            },
+            {
+              "price": 12.0,
+              "size": 23.52
+            },
+            {
+              "price": 12.5,
+              "size": 24.75
+            },
+            {
+              "price": 13.0,
+              "size": 38.92
+            },
+            {
+              "price": 13.5,
+              "size": 34.68
+            }
+          ],
+          "runner_matched_volume": 826.38,
+          "last_price_traded": 11.0,
+          "market_prob": 0.088989,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100632352,
+          "name": "8. Whimsy Smile",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 6.2,
+          "best_back_size": 85.55,
+          "best_lay": 6.4,
+          "best_lay_size": 91.91,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 6.2,
+              "size": 85.55
+            },
+            {
+              "price": 6.0,
+              "size": 148.95
+            },
+            {
+              "price": 5.9,
+              "size": 58.83
+            },
+            {
+              "price": 5.8,
+              "size": 117.23
+            },
+            {
+              "price": 5.7,
+              "size": 88.36
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.4,
+              "size": 91.91
+            },
+            {
+              "price": 6.6,
+              "size": 154.41
+            },
+            {
+              "price": 6.8,
+              "size": 81.14
+            },
+            {
+              "price": 7.0,
+              "size": 57.6
+            },
+            {
+              "price": 7.2,
+              "size": 108.99
+            }
+          ],
+          "runner_matched_volume": 2855.1,
+          "last_price_traded": 6.2,
+          "market_prob": 0.157884,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100721712,
+          "name": "9. La Reina Vega",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 2.7,
+          "best_back_size": 45.76,
+          "best_lay": 2.72,
+          "best_lay_size": 18.08,
+          "spread": 0.02,
+          "back_ladder": [
+            {
+              "price": 2.7,
+              "size": 45.76
+            },
+            {
+              "price": 2.68,
+              "size": 48.47
+            },
+            {
+              "price": 2.66,
+              "size": 88.32
+            },
+            {
+              "price": 2.64,
+              "size": 79.31
+            },
+            {
+              "price": 2.62,
+              "size": 114.6
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.72,
+              "size": 18.08
+            },
+            {
+              "price": 2.74,
+              "size": 13.91
+            },
+            {
+              "price": 2.76,
+              "size": 18.42
+            },
+            {
+              "price": 2.78,
+              "size": 49.94
+            },
+            {
+              "price": 2.8,
+              "size": 47.57
+            }
+          ],
+          "runner_matched_volume": 8962.76,
+          "last_price_traded": 2.7,
+          "market_prob": 0.362549,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100721711,
+          "name": "7. Keen Observer",
+          "saddle_cloth": 8,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100721713,
+          "name": "11. Mistressof Mayfair",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100721710,
+          "name": "6. Imperial Valley",
+          "saddle_cloth": 10,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 4193414,
+          "name": "10. Mirador",
+          "saddle_cloth": 11,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-19T02:12:30.334520Z",
+      "seconds_to_off": 150,
+      "market_matched_volume": 26468.55,
+      "overround_pct": 101.8,
+      "runners": [
+        {
+          "selection_id": 938657,
+          "name": "1. Blues Traveler",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 26.0,
+          "best_back_size": 8.86,
+          "best_lay": 27.0,
+          "best_lay_size": 2.64,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 26.0,
+              "size": 8.86
+            },
+            {
+              "price": 25.0,
+              "size": 16.57
+            },
+            {
+              "price": 24.0,
+              "size": 36.78
+            },
+            {
+              "price": 23.0,
+              "size": 27.81
+            },
+            {
+              "price": 22.0,
+              "size": 27.62
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 27.0,
+              "size": 2.64
+            },
+            {
+              "price": 28.0,
+              "size": 10.69
+            },
+            {
+              "price": 29.0,
+              "size": 24.4
+            },
+            {
+              "price": 30.0,
+              "size": 30.12
+            },
+            {
+              "price": 32.0,
+              "size": 31.9
+            }
+          ],
+          "runner_matched_volume": 740.33,
+          "last_price_traded": 26.0,
+          "market_prob": 0.037781,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 922872,
+          "name": "2. Caxton Street",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 4.4,
+          "best_back_size": 24.3,
+          "best_lay": 4.5,
+          "best_lay_size": 72.4,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 4.4,
+              "size": 24.3
+            },
+            {
+              "price": 4.3,
+              "size": 35.1
+            },
+            {
+              "price": 4.2,
+              "size": 58.18
+            },
+            {
+              "price": 4.1,
+              "size": 67.63
+            },
+            {
+              "price": 4.0,
+              "size": 174.75
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.5,
+              "size": 72.4
+            },
+            {
+              "price": 4.6,
+              "size": 91.87
+            },
+            {
+              "price": 4.7,
+              "size": 110.7
+            },
+            {
+              "price": 4.8,
+              "size": 81.76
+            },
+            {
+              "price": 4.9,
+              "size": 97.6
+            }
+          ],
+          "runner_matched_volume": 7239.25,
+          "last_price_traded": 4.4,
+          "market_prob": 0.223248,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 100721707,
+          "name": "3. Drink Me Pretty",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 55.0,
+          "best_back_size": 13.67,
+          "best_lay": 60.0,
+          "best_lay_size": 17.28,
+          "spread": 5.0,
+          "back_ladder": [
+            {
+              "price": 55.0,
+              "size": 13.67
+            },
+            {
+              "price": 50.0,
+              "size": 12.28
+            },
+            {
+              "price": 48.0,
+              "size": 15.67
+            },
+            {
+              "price": 46.0,
+              "size": 15.55
+            },
+            {
+              "price": 44.0,
+              "size": 10.5
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 60.0,
+              "size": 17.28
+            },
+            {
+              "price": 65.0,
+              "size": 8.39
+            },
+            {
+              "price": 70.0,
+              "size": 11.87
+            },
+            {
+              "price": 75.0,
+              "size": 7.71
+            },
+            {
+              "price": 80.0,
+              "size": 8.22
+            }
+          ],
+          "runner_matched_volume": 174.65,
+          "last_price_traded": 60.0,
+          "market_prob": 0.01786,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 100721708,
+          "name": "4. Dustee",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 11.5,
+          "best_back_size": 23.36,
+          "best_lay": 12.0,
+          "best_lay_size": 64.5,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 11.5,
+              "size": 23.36
+            },
+            {
+              "price": 11.0,
+              "size": 70.08
+            },
+            {
+              "price": 10.5,
+              "size": 75.03
+            },
+            {
+              "price": 10.0,
+              "size": 96.55
+            },
+            {
+              "price": 9.8,
+              "size": 54.5
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 12.0,
+              "size": 64.5
+            },
+            {
+              "price": 12.5,
+              "size": 28.6
+            },
+            {
+              "price": 13.0,
+              "size": 28.77
+            },
+            {
+              "price": 13.5,
+              "size": 47.03
+            },
+            {
+              "price": 14.0,
+              "size": 42.2
+            }
+          ],
+          "runner_matched_volume": 2377.18,
+          "last_price_traded": 11.5,
+          "market_prob": 0.085417,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100721709,
+          "name": "5. Exploit",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 10.5,
+          "best_back_size": 118.18,
+          "best_lay": 11.0,
+          "best_lay_size": 53.39,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 10.5,
+              "size": 118.18
+            },
+            {
+              "price": 10.0,
+              "size": 138.95
+            },
+            {
+              "price": 9.8,
+              "size": 57.76
+            },
+            {
+              "price": 9.6,
+              "size": 51.68
+            },
+            {
+              "price": 9.4,
+              "size": 105.96
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 11.0,
+              "size": 53.39
+            },
+            {
+              "price": 11.5,
+              "size": 107.84
+            },
+            {
+              "price": 12.0,
+              "size": 25.44
+            },
+            {
+              "price": 12.5,
+              "size": 29.58
+            },
+            {
+              "price": 13.0,
+              "size": 34.89
+            }
+          ],
+          "runner_matched_volume": 1027.26,
+          "last_price_traded": 11.0,
+          "market_prob": 0.093552,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 100632352,
+          "name": "8. Whimsy Smile",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 6.2,
+          "best_back_size": 48.73,
+          "best_lay": 6.4,
+          "best_lay_size": 216.22,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 6.2,
+              "size": 48.73
+            },
+            {
+              "price": 6.0,
+              "size": 79.81
+            },
+            {
+              "price": 5.9,
+              "size": 92.36
+            },
+            {
+              "price": 5.8,
+              "size": 86.99
+            },
+            {
+              "price": 5.7,
+              "size": 105.83
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.4,
+              "size": 216.22
+            },
+            {
+              "price": 6.6,
+              "size": 120.01
+            },
+            {
+              "price": 6.8,
+              "size": 42.1
+            },
+            {
+              "price": 7.0,
+              "size": 122.02
+            },
+            {
+              "price": 7.2,
+              "size": 139.26
+            }
+          ],
+          "runner_matched_volume": 3600.84,
+          "last_price_traded": 6.2,
+          "market_prob": 0.158434,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100721712,
+          "name": "9. La Reina Vega",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 2.56,
+          "best_back_size": 221.27,
+          "best_lay": 2.58,
+          "best_lay_size": 45.4,
+          "spread": 0.02,
+          "back_ladder": [
+            {
+              "price": 2.56,
+              "size": 221.27
+            },
+            {
+              "price": 2.54,
+              "size": 175.17
+            },
+            {
+              "price": 2.52,
+              "size": 66.46
+            },
+            {
+              "price": 2.5,
+              "size": 185.21
+            },
+            {
+              "price": 2.48,
+              "size": 201.78
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.58,
+              "size": 45.4
+            },
+            {
+              "price": 2.6,
+              "size": 672.59
+            },
+            {
+              "price": 2.62,
+              "size": 34.94
+            },
+            {
+              "price": 2.64,
+              "size": 16.62
+            },
+            {
+              "price": 2.66,
+              "size": 99.99
+            }
+          ],
+          "runner_matched_volume": 11309.02,
+          "last_price_traded": 2.56,
+          "market_prob": 0.383708,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100721711,
+          "name": "7. Keen Observer",
+          "saddle_cloth": 8,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100721713,
+          "name": "11. Mistressof Mayfair",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100721710,
+          "name": "6. Imperial Valley",
+          "saddle_cloth": 10,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 4193414,
+          "name": "10. Mirador",
+          "saddle_cloth": 11,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    },
+    {
+      "at": "2026-07-19T02:13:45.377136Z",
+      "seconds_to_off": 75,
+      "market_matched_volume": 39634.51,
+      "overround_pct": 101.8,
+      "runners": [
+        {
+          "selection_id": 938657,
+          "name": "1. Blues Traveler",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 25.0,
+          "best_back_size": 34.94,
+          "best_lay": 26.0,
+          "best_lay_size": 53.41,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 25.0,
+              "size": 34.94
+            },
+            {
+              "price": 24.0,
+              "size": 56.09
+            },
+            {
+              "price": 23.0,
+              "size": 28.74
+            },
+            {
+              "price": 22.0,
+              "size": 28.01
+            },
+            {
+              "price": 21.0,
+              "size": 20.69
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 26.0,
+              "size": 53.41
+            },
+            {
+              "price": 27.0,
+              "size": 8.59
+            },
+            {
+              "price": 28.0,
+              "size": 25.37
+            },
+            {
+              "price": 29.0,
+              "size": 25.0
+            },
+            {
+              "price": 30.0,
+              "size": 34.07
+            }
+          ],
+          "runner_matched_volume": 932.43,
+          "last_price_traded": 26.0,
+          "market_prob": 0.039305,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 922872,
+          "name": "2. Caxton Street",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 4.6,
+          "best_back_size": 85.46,
+          "best_lay": 4.7,
+          "best_lay_size": 41.5,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 4.6,
+              "size": 85.46
+            },
+            {
+              "price": 4.5,
+              "size": 81.17
+            },
+            {
+              "price": 4.4,
+              "size": 148.96
+            },
+            {
+              "price": 4.3,
+              "size": 147.65
+            },
+            {
+              "price": 4.2,
+              "size": 194.12
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.7,
+              "size": 41.5
+            },
+            {
+              "price": 4.8,
+              "size": 92.9
+            },
+            {
+              "price": 4.9,
+              "size": 109.86
+            },
+            {
+              "price": 5.0,
+              "size": 74.54
+            },
+            {
+              "price": 5.1,
+              "size": 54.32
+            }
+          ],
+          "runner_matched_volume": 8875.75,
+          "last_price_traded": 4.7,
+          "market_prob": 0.213616,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 100721707,
+          "name": "3. Drink Me Pretty",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 55.0,
+          "best_back_size": 19.43,
+          "best_lay": 60.0,
+          "best_lay_size": 8.64,
+          "spread": 5.0,
+          "back_ladder": [
+            {
+              "price": 55.0,
+              "size": 19.43
+            },
+            {
+              "price": 50.0,
+              "size": 18.72
+            },
+            {
+              "price": 48.0,
+              "size": 19.14
+            },
+            {
+              "price": 46.0,
+              "size": 23.43
+            },
+            {
+              "price": 44.0,
+              "size": 16.05
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 60.0,
+              "size": 8.64
+            },
+            {
+              "price": 65.0,
+              "size": 18.25
+            },
+            {
+              "price": 70.0,
+              "size": 11.48
+            },
+            {
+              "price": 75.0,
+              "size": 7.05
+            },
+            {
+              "price": 80.0,
+              "size": 4.38
+            }
+          ],
+          "runner_matched_volume": 259.29,
+          "last_price_traded": 60.0,
+          "market_prob": 0.017866,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 100721708,
+          "name": "4. Dustee",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 11.0,
+          "best_back_size": 153.89,
+          "best_lay": 11.5,
+          "best_lay_size": 85.16,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 11.0,
+              "size": 153.89
+            },
+            {
+              "price": 10.5,
+              "size": 113.78
+            },
+            {
+              "price": 10.0,
+              "size": 112.54
+            },
+            {
+              "price": 9.8,
+              "size": 49.35
+            },
+            {
+              "price": 9.6,
+              "size": 43.16
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 11.5,
+              "size": 85.16
+            },
+            {
+              "price": 12.0,
+              "size": 35.06
+            },
+            {
+              "price": 12.5,
+              "size": 25.22
+            },
+            {
+              "price": 13.0,
+              "size": 38.25
+            },
+            {
+              "price": 13.5,
+              "size": 35.92
+            }
+          ],
+          "runner_matched_volume": 2958.51,
+          "last_price_traded": 11.5,
+          "market_prob": 0.08933,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 100721709,
+          "name": "5. Exploit",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 11.0,
+          "best_back_size": 7.01,
+          "best_lay": 11.5,
+          "best_lay_size": 98.54,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 11.0,
+              "size": 7.01
+            },
+            {
+              "price": 10.5,
+              "size": 145.83
+            },
+            {
+              "price": 10.0,
+              "size": 175.88
+            },
+            {
+              "price": 9.8,
+              "size": 104.05
+            },
+            {
+              "price": 9.6,
+              "size": 53.76
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 11.5,
+              "size": 98.54
+            },
+            {
+              "price": 12.0,
+              "size": 28.6
+            },
+            {
+              "price": 12.5,
+              "size": 107.9
+            },
+            {
+              "price": 13.0,
+              "size": 30.38
+            },
+            {
+              "price": 13.5,
+              "size": 45.5
+            }
+          ],
+          "runner_matched_volume": 1633.22,
+          "last_price_traded": 11.0,
+          "market_prob": 0.08933,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 100632352,
+          "name": "8. Whimsy Smile",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 6.8,
+          "best_back_size": 39.52,
+          "best_lay": 7.0,
+          "best_lay_size": 34.56,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 6.8,
+              "size": 39.52
+            },
+            {
+              "price": 6.6,
+              "size": 138.49
+            },
+            {
+              "price": 6.4,
+              "size": 116.71
+            },
+            {
+              "price": 6.2,
+              "size": 70.06
+            },
+            {
+              "price": 6.0,
+              "size": 115.56
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 7.0,
+              "size": 34.56
+            },
+            {
+              "price": 7.2,
+              "size": 103.65
+            },
+            {
+              "price": 7.4,
+              "size": 56.91
+            },
+            {
+              "price": 7.6,
+              "size": 80.97
+            },
+            {
+              "price": 7.8,
+              "size": 171.13
+            }
+          ],
+          "runner_matched_volume": 5623.59,
+          "last_price_traded": 6.8,
+          "market_prob": 0.144505,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 100721712,
+          "name": "9. La Reina Vega",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 2.42,
+          "best_back_size": 163.13,
+          "best_lay": 2.44,
+          "best_lay_size": 153.72,
+          "spread": 0.02,
+          "back_ladder": [
+            {
+              "price": 2.42,
+              "size": 163.13
+            },
+            {
+              "price": 2.4,
+              "size": 86.44
+            },
+            {
+              "price": 2.38,
+              "size": 31.81
+            },
+            {
+              "price": 2.36,
+              "size": 162.57
+            },
+            {
+              "price": 2.34,
+              "size": 80.1
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 2.44,
+              "size": 153.72
+            },
+            {
+              "price": 2.46,
+              "size": 70.77
+            },
+            {
+              "price": 2.48,
+              "size": 161.09
+            },
+            {
+              "price": 2.5,
+              "size": 30.41
+            },
+            {
+              "price": 2.52,
+              "size": 101.39
+            }
+          ],
+          "runner_matched_volume": 19351.69,
+          "last_price_traded": 2.44,
+          "market_prob": 0.406047,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100721711,
+          "name": "7. Keen Observer",
+          "saddle_cloth": 8,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100721713,
+          "name": "11. Mistressof Mayfair",
+          "saddle_cloth": 9,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 100721710,
+          "name": "6. Imperial Valley",
+          "saddle_cloth": 10,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        },
+        {
+          "selection_id": 4193414,
+          "name": "10. Mirador",
+          "saddle_cloth": 11,
+          "status": "REMOVED",
+          "best_back": null,
+          "best_back_size": null,
+          "best_lay": null,
+          "best_lay_size": null,
+          "spread": null,
+          "back_ladder": [],
+          "lay_ladder": [],
+          "runner_matched_volume": 0,
+          "last_price_traded": null,
+          "market_prob": null,
+          "market_rank": null
+        }
+      ]
+    }
+  ],
+  "place": {
+    "938657": {
+      "place_entry": 3.6,
+      "place_bsp": 4.5,
+      "place_status": "LOSER",
+      "placed": false
+    },
+    "922872": {
+      "place_entry": 1.63,
+      "place_bsp": 1.8,
+      "place_status": "LOSER",
+      "placed": false
+    },
+    "100721707": {
+      "place_entry": 7.2,
+      "place_bsp": 8.0,
+      "place_status": "LOSER",
+      "placed": false
+    },
+    "100721708": {
+      "place_entry": 2.62,
+      "place_bsp": 2.58,
+      "place_status": "WINNER",
+      "placed": true
+    },
+    "100721709": {
+      "place_entry": 2.5,
+      "place_bsp": 2.42,
+      "place_status": "LOSER",
+      "placed": false
+    },
+    "100632352": {
+      "place_entry": 1.91,
+      "place_bsp": 2.04,
+      "place_status": "WINNER",
+      "placed": true
+    },
+    "100721712": {
+      "place_entry": 1.31,
+      "place_bsp": 1.29,
+      "place_status": "WINNER",
+      "placed": true
+    },
+    "100721711": {
+      "place_bsp": NaN,
+      "place_status": "REMOVED",
+      "placed": false
+    },
+    "100721713": {
+      "place_bsp": NaN,
+      "place_status": "REMOVED",
+      "placed": false
+    },
+    "100721710": {
+      "place_bsp": NaN,
+      "place_status": "REMOVED",
+      "placed": false
+    },
+    "4193414": {
+      "place_bsp": NaN,
+      "place_status": "REMOVED",
+      "placed": false
+    }
+  },
+  "place_entry_at": "2026-07-19T02:11:04.573668Z",
+  "place_market_id": "1.260121015",
+  "place_terms": 3,
+  "place_terms_settled": 3,
+  "finalized_at": "2026-07-19T02:18:04.148357Z"
+}
