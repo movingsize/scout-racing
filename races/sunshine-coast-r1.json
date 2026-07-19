@@ -767,99 +767,15 @@
       "trainer": "Adam & Dallas Simpson",
       "jockey": "Ashley Butler",
       "last5": "766346735x",
-      "career": "29:0-0-10",
+      "career": "9:0-0-2",
       "weight_kg": 58.0,
       "barrier": 3,
-      "prizemoney": 24600,
-      "first_up_record": "6:0-0-1",
-      "second_up_record": "5:0-0-1",
-      "going_record": {
-        "Firm": "0:0-0-0",
-        "Good": "10:0-0-3",
-        "Soft": "11:0-0-4",
-        "Heavy": "8:0-0-3",
-        "Synthetic": "0:0-0-0"
-      },
-      "recent_runs": [
-        {
-          "pos": 5,
-          "date": "2025-07-28",
-          "class": "MDN",
-          "trial": false,
-          "distance_m": 1450,
-          "going": "Heavy9",
-          "winner_time": 93.14,
-          "beaten_margin": 5.84,
-          "runner_time": 94.04,
-          "runner_time_reduced": true,
-          "sectional_600": 39.78,
-          "in_run": {
-            "@800": 4,
-            "@400": 3
-          }
-        },
-        {
-          "pos": 7,
-          "date": "2025-06-30",
-          "class": "CL1-SW",
-          "trial": false,
-          "distance_m": 1600,
-          "going": "Soft6",
-          "winner_time": 99.35,
-          "beaten_margin": 9.34,
-          "runner_time": 100.74,
-          "runner_time_reduced": true,
-          "sectional_600": 35.8,
-          "in_run": {
-            "@800": 6,
-            "@400": 5
-          }
-        },
-        {
-          "pos": 6,
-          "date": "2025-05-31",
-          "class": "MDN-SW",
-          "trial": false,
-          "distance_m": 1400,
-          "going": "Soft6",
-          "winner_time": 88.39,
-          "beaten_margin": 3.12,
-          "runner_time": 88.86,
-          "runner_time_reduced": true,
-          "sectional_600": 36.66,
-          "in_run": {
-            "@800": 6,
-            "@400": 5
-          }
-        },
-        {
-          "pos": 4,
-          "date": "2025-05-13",
-          "class": "MDN",
-          "trial": false,
-          "distance_m": 1400,
-          "going": "Heavy10",
-          "winner_time": 87.34,
-          "beaten_margin": 2.92,
-          "runner_time": 87.78,
-          "runner_time_reduced": true,
-          "sectional_600": 37.71,
-          "in_run": {
-            "@800": 9,
-            "@400": 8
-          }
-        }
+      "scratched": true,
+      "form_status": "unraced",
+      "warnings": [
+        "runner scratched (per form source) \u2014 career reconstructed from last5 for reference only, not expected to start",
+        "form source shows this runner SCRATCHED but Betfair still lists it ACTIVE \u2014 cross-source timing mismatch, treat the price as unreliable until one side updates"
       ],
-      "recent_class": [
-        "MDN",
-        "CL1-SW",
-        "MDN-SW",
-        "MDN"
-      ],
-      "days_since_run": 356,
-      "runs_this_prep": 4,
-      "form_status": "confirmed",
-      "warnings": [],
       "last5_parsed": [
         {
           "raw": "7",
@@ -922,18 +838,18 @@
           "spell": true
         }
       ],
-      "data_status": "confirmed",
+      "data_status": "reconstructed",
       "open_price": null,
       "call": {
         "call": "OK",
         "label": "OK",
-        "confidence": "ok",
-        "reason": "confirmed form, 29 career starts",
+        "confidence": "thin",
+        "reason": "career reconstructed from last5 (9:0-0-2)",
         "guard": "data_adequacy v1.0"
       }
     }
   ],
-  "last_polled_at": "2026-07-19T01:45:11.132613Z",
+  "last_polled_at": "2026-07-19T02:00:08.368488Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
     "ok": 7,
