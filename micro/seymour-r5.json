@@ -1,0 +1,5773 @@
+{
+  "event_id": "seymour-2026-07-19-r5",
+  "market_id": "1.260121038",
+  "venue": "Seymour",
+  "race_name": "R5 1600m Mdn",
+  "start_time_utc": "2026-07-19T04:10:00.000Z",
+  "captured_by": "micro-series v1",
+  "field_size": 12,
+  "model_overlay": {
+    "80973563": {
+      "model_prob": 0.207837,
+      "model_rank": 1,
+      "model_version": "2026-07-08"
+    },
+    "98925325": {
+      "model_prob": 0.174547,
+      "model_rank": 2,
+      "model_version": "2026-07-08"
+    },
+    "100721743": {
+      "model_prob": 0.136505,
+      "model_rank": 3,
+      "model_version": "2026-07-08"
+    },
+    "100721744": {
+      "model_prob": 0.084187,
+      "model_rank": 4,
+      "model_version": "2026-07-08"
+    },
+    "93168006": {
+      "model_prob": 0.078575,
+      "model_rank": 5,
+      "model_version": "2026-07-08"
+    },
+    "82079438": {
+      "model_prob": 0.057859,
+      "model_rank": 7,
+      "model_version": "2026-07-08"
+    },
+    "100721742": {
+      "model_prob": 0.052922,
+      "model_rank": 8,
+      "model_version": "2026-07-08"
+    },
+    "11156588": {
+      "model_prob": 0.058748,
+      "model_rank": 6,
+      "model_version": "2026-07-08"
+    },
+    "100200686": {
+      "model_prob": 0.04283,
+      "model_rank": 10,
+      "model_version": "2026-07-08"
+    },
+    "85319950": {
+      "model_prob": 0.045133,
+      "model_rank": 9,
+      "model_version": "2026-07-08"
+    },
+    "75717294": {
+      "model_prob": 0.037907,
+      "model_rank": 11,
+      "model_version": "2026-07-08"
+    },
+    "100721745": {
+      "model_prob": 0.022948,
+      "model_rank": 12,
+      "model_version": "2026-07-08"
+    }
+  },
+  "bsp": {
+    "98925325": {
+      "bsp": 4.7,
+      "status": "WINNER"
+    },
+    "80973563": {
+      "bsp": 3.25,
+      "status": "LOSER"
+    },
+    "100200686": {
+      "bsp": 49.42,
+      "status": "LOSER"
+    },
+    "82079438": {
+      "bsp": 25.14,
+      "status": "LOSER"
+    },
+    "11156588": {
+      "bsp": 27.67,
+      "status": "LOSER"
+    },
+    "100721742": {
+      "bsp": 28.63,
+      "status": "LOSER"
+    },
+    "100721743": {
+      "bsp": 6.59,
+      "status": "LOSER"
+    },
+    "93168006": {
+      "bsp": 12.47,
+      "status": "LOSER"
+    },
+    "85319950": {
+      "bsp": 38.0,
+      "status": "LOSER"
+    },
+    "75717294": {
+      "bsp": 120.0,
+      "status": "LOSER"
+    },
+    "100721744": {
+      "bsp": 13.25,
+      "status": "LOSER"
+    },
+    "100721745": {
+      "bsp": 710.38,
+      "status": "LOSER"
+    }
+  },
+  "result": {
+    "winner": "1. A Long Story Short",
+    "winner_bsp": 4.7,
+    "placings": [
+      "1. A Long Story Short"
+    ],
+    "settled_at": "2026-07-19T04:15:33.557135Z"
+  },
+  "frames": [
+    {
+      "at": "2026-07-19T04:00:01.009780Z",
+      "seconds_to_off": 599,
+      "market_matched_volume": 4137.24,
+      "overround_pct": 105.0,
+      "runners": [
+        {
+          "selection_id": 98925325,
+          "name": "1. A Long Story Short",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 5.9,
+          "best_back_size": 15.01,
+          "best_lay": 6.2,
+          "best_lay_size": 11.02,
+          "spread": 0.3,
+          "back_ladder": [
+            {
+              "price": 5.9,
+              "size": 15.01
+            },
+            {
+              "price": 5.8,
+              "size": 72.19
+            },
+            {
+              "price": 5.7,
+              "size": 59.87
+            },
+            {
+              "price": 5.5,
+              "size": 74.75
+            },
+            {
+              "price": 5.4,
+              "size": 47.8
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.2,
+              "size": 11.02
+            },
+            {
+              "price": 6.4,
+              "size": 14.9
+            },
+            {
+              "price": 6.6,
+              "size": 110.93
+            },
+            {
+              "price": 6.8,
+              "size": 12.95
+            },
+            {
+              "price": 7.0,
+              "size": 12.99
+            }
+          ],
+          "runner_matched_volume": 298.33,
+          "last_price_traded": 5.9,
+          "market_prob": 0.161459,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 80973563,
+          "name": "2. Boss Boy",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 3.45,
+          "best_back_size": 8.54,
+          "best_lay": 3.7,
+          "best_lay_size": 3.64,
+          "spread": 0.25,
+          "back_ladder": [
+            {
+              "price": 3.45,
+              "size": 8.54
+            },
+            {
+              "price": 3.4,
+              "size": 9.64
+            },
+            {
+              "price": 3.35,
+              "size": 46.15
+            },
+            {
+              "price": 3.3,
+              "size": 153.4
+            },
+            {
+              "price": 3.25,
+              "size": 82.1
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.7,
+              "size": 3.64
+            },
+            {
+              "price": 3.75,
+              "size": 31.52
+            },
+            {
+              "price": 3.8,
+              "size": 122.0
+            },
+            {
+              "price": 3.85,
+              "size": 24.6
+            },
+            {
+              "price": 3.9,
+              "size": 32.41
+            }
+          ],
+          "runner_matched_volume": 1126.23,
+          "last_price_traded": 3.6,
+          "market_prob": 0.276118,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100200686,
+          "name": "4. Gottacookacurry",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 38.0,
+          "best_back_size": 1.48,
+          "best_lay": 46.0,
+          "best_lay_size": 2.49,
+          "spread": 8.0,
+          "back_ladder": [
+            {
+              "price": 38.0,
+              "size": 1.48
+            },
+            {
+              "price": 34.0,
+              "size": 5.29
+            },
+            {
+              "price": 32.0,
+              "size": 8.94
+            },
+            {
+              "price": 30.0,
+              "size": 11.36
+            },
+            {
+              "price": 29.0,
+              "size": 4.14
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 46.0,
+              "size": 2.49
+            },
+            {
+              "price": 48.0,
+              "size": 3.46
+            },
+            {
+              "price": 55.0,
+              "size": 4.25
+            },
+            {
+              "price": 250.0,
+              "size": 2.89
+            },
+            {
+              "price": 280.0,
+              "size": 3.85
+            }
+          ],
+          "runner_matched_volume": 21.88,
+          "last_price_traded": 40.0,
+          "market_prob": 0.025069,
+          "market_rank": 9
+        },
+        {
+          "selection_id": 82079438,
+          "name": "5. King Tagaloa",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 16.5,
+          "best_back_size": 6.17,
+          "best_lay": 19.0,
+          "best_lay_size": 2.0,
+          "spread": 2.5,
+          "back_ladder": [
+            {
+              "price": 16.5,
+              "size": 6.17
+            },
+            {
+              "price": 16.0,
+              "size": 2.89
+            },
+            {
+              "price": 15.5,
+              "size": 7.71
+            },
+            {
+              "price": 15.0,
+              "size": 58.11
+            },
+            {
+              "price": 14.5,
+              "size": 38.46
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 19.0,
+              "size": 2.0
+            },
+            {
+              "price": 19.5,
+              "size": 3.43
+            },
+            {
+              "price": 20.0,
+              "size": 8.53
+            },
+            {
+              "price": 21.0,
+              "size": 9.54
+            },
+            {
+              "price": 22.0,
+              "size": 12.54
+            }
+          ],
+          "runner_matched_volume": 112.56,
+          "last_price_traded": 18.0,
+          "market_prob": 0.057734,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 11156588,
+          "name": "6. Long Shot",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 30.0,
+          "best_back_size": 1.29,
+          "best_lay": 50.0,
+          "best_lay_size": 1.27,
+          "spread": 20.0,
+          "back_ladder": [
+            {
+              "price": 30.0,
+              "size": 1.29
+            },
+            {
+              "price": 29.0,
+              "size": 5.33
+            },
+            {
+              "price": 28.0,
+              "size": 15.16
+            },
+            {
+              "price": 27.0,
+              "size": 11.96
+            },
+            {
+              "price": 26.0,
+              "size": 13.79
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 50.0,
+              "size": 1.27
+            },
+            {
+              "price": 55.0,
+              "size": 2.18
+            },
+            {
+              "price": 80.0,
+              "size": 1.01
+            },
+            {
+              "price": 210.0,
+              "size": 2.7
+            },
+            {
+              "price": 250.0,
+              "size": 19.93
+            }
+          ],
+          "runner_matched_volume": 56.23,
+          "last_price_traded": 34.0,
+          "market_prob": 0.031754,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100721742,
+          "name": "7. Maranoa Boy",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 20.0,
+          "best_back_size": 11.07,
+          "best_lay": 25.0,
+          "best_lay_size": 2.6,
+          "spread": 5.0,
+          "back_ladder": [
+            {
+              "price": 20.0,
+              "size": 11.07
+            },
+            {
+              "price": 19.5,
+              "size": 5.2
+            },
+            {
+              "price": 19.0,
+              "size": 42.86
+            },
+            {
+              "price": 18.5,
+              "size": 17.76
+            },
+            {
+              "price": 18.0,
+              "size": 11.43
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 25.0,
+              "size": 2.6
+            },
+            {
+              "price": 26.0,
+              "size": 12.77
+            },
+            {
+              "price": 27.0,
+              "size": 3.81
+            },
+            {
+              "price": 28.0,
+              "size": 8.65
+            },
+            {
+              "price": 29.0,
+              "size": 8.23
+            }
+          ],
+          "runner_matched_volume": 189.54,
+          "last_price_traded": 22.0,
+          "market_prob": 0.04763,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 100721743,
+          "name": "8. Rainy Night",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 5.2,
+          "best_back_size": 15.71,
+          "best_lay": 5.4,
+          "best_lay_size": 9.77,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 5.2,
+              "size": 15.71
+            },
+            {
+              "price": 5.1,
+              "size": 23.89
+            },
+            {
+              "price": 5.0,
+              "size": 41.26
+            },
+            {
+              "price": 4.9,
+              "size": 6.75
+            },
+            {
+              "price": 4.8,
+              "size": 32.23
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.4,
+              "size": 9.77
+            },
+            {
+              "price": 5.5,
+              "size": 17.32
+            },
+            {
+              "price": 5.6,
+              "size": 18.31
+            },
+            {
+              "price": 5.7,
+              "size": 30.46
+            },
+            {
+              "price": 5.8,
+              "size": 28.01
+            }
+          ],
+          "runner_matched_volume": 1336.07,
+          "last_price_traded": 5.3,
+          "market_prob": 0.183194,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 93168006,
+          "name": "9. Where Eagles Dare",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 11.0,
+          "best_back_size": 24.71,
+          "best_lay": 12.0,
+          "best_lay_size": 3.03,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 11.0,
+              "size": 24.71
+            },
+            {
+              "price": 10.5,
+              "size": 36.11
+            },
+            {
+              "price": 10.0,
+              "size": 85.46
+            },
+            {
+              "price": 9.8,
+              "size": 23.15
+            },
+            {
+              "price": 9.6,
+              "size": 32.8
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 12.0,
+              "size": 3.03
+            },
+            {
+              "price": 12.5,
+              "size": 8.17
+            },
+            {
+              "price": 13.0,
+              "size": 27.15
+            },
+            {
+              "price": 13.5,
+              "size": 13.28
+            },
+            {
+              "price": 14.0,
+              "size": 8.86
+            }
+          ],
+          "runner_matched_volume": 631.88,
+          "last_price_traded": 11.5,
+          "market_prob": 0.086601,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 85319950,
+          "name": "10. Elegant Force",
+          "saddle_cloth": 9,
+          "status": "ACTIVE",
+          "best_back": 50.0,
+          "best_back_size": 2.1,
+          "best_lay": 75.0,
+          "best_lay_size": 11.9,
+          "spread": 25.0,
+          "back_ladder": [
+            {
+              "price": 50.0,
+              "size": 2.1
+            },
+            {
+              "price": 48.0,
+              "size": 2.08
+            },
+            {
+              "price": 44.0,
+              "size": 9.31
+            },
+            {
+              "price": 42.0,
+              "size": 8.82
+            },
+            {
+              "price": 40.0,
+              "size": 8.74
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 75.0,
+              "size": 11.9
+            },
+            {
+              "price": 90.0,
+              "size": 2.4
+            },
+            {
+              "price": 95.0,
+              "size": 1.93
+            },
+            {
+              "price": 100.0,
+              "size": 7.91
+            },
+            {
+              "price": 110.0,
+              "size": 7.69
+            }
+          ],
+          "runner_matched_volume": 12.09,
+          "last_price_traded": 55.0,
+          "market_prob": 0.019052,
+          "market_rank": 10
+        },
+        {
+          "selection_id": 75717294,
+          "name": "11. Tornado Anwa",
+          "saddle_cloth": 10,
+          "status": "ACTIVE",
+          "best_back": 130.0,
+          "best_back_size": 2.45,
+          "best_lay": 250.0,
+          "best_lay_size": 2.95,
+          "spread": 120.0,
+          "back_ladder": [
+            {
+              "price": 130.0,
+              "size": 2.45
+            },
+            {
+              "price": 120.0,
+              "size": 3.21
+            },
+            {
+              "price": 110.0,
+              "size": 2.58
+            },
+            {
+              "price": 100.0,
+              "size": 3.9
+            },
+            {
+              "price": 95.0,
+              "size": 4.32
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 250.0,
+              "size": 2.95
+            },
+            {
+              "price": 530.0,
+              "size": 1.6
+            },
+            {
+              "price": 940.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 4.0,
+          "last_price_traded": 100.0,
+          "market_prob": 0.007328,
+          "market_rank": 11
+        },
+        {
+          "selection_id": 100721744,
+          "name": "12. Venus Shock",
+          "saddle_cloth": 11,
+          "status": "ACTIVE",
+          "best_back": 9.4,
+          "best_back_size": 1.14,
+          "best_lay": 10.0,
+          "best_lay_size": 1.03,
+          "spread": 0.6,
+          "back_ladder": [
+            {
+              "price": 9.4,
+              "size": 1.14
+            },
+            {
+              "price": 9.2,
+              "size": 2.09
+            },
+            {
+              "price": 8.8,
+              "size": 21.56
+            },
+            {
+              "price": 8.6,
+              "size": 31.56
+            },
+            {
+              "price": 8.4,
+              "size": 138.86
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 10.0,
+              "size": 1.03
+            },
+            {
+              "price": 10.5,
+              "size": 9.89
+            },
+            {
+              "price": 11.0,
+              "size": 46.75
+            },
+            {
+              "price": 11.5,
+              "size": 19.34
+            },
+            {
+              "price": 12.0,
+              "size": 12.64
+            }
+          ],
+          "runner_matched_volume": 347.34,
+          "last_price_traded": 10.0,
+          "market_prob": 0.101341,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 100721745,
+          "name": "13. Dandynomite",
+          "saddle_cloth": 12,
+          "status": "ACTIVE",
+          "best_back": 350.0,
+          "best_back_size": 1.37,
+          "best_lay": 600.0,
+          "best_lay_size": 1.07,
+          "spread": 250.0,
+          "back_ladder": [
+            {
+              "price": 350.0,
+              "size": 1.37
+            },
+            {
+              "price": 340.0,
+              "size": 2.57
+            },
+            {
+              "price": 330.0,
+              "size": 6.19
+            },
+            {
+              "price": 280.0,
+              "size": 35.75
+            },
+            {
+              "price": 240.0,
+              "size": 1.3
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 600.0,
+              "size": 1.07
+            },
+            {
+              "price": 660.0,
+              "size": 3.85
+            }
+          ],
+          "runner_matched_volume": 1.02,
+          "last_price_traded": 500.0,
+          "market_prob": 0.002722,
+          "market_rank": 12
+        }
+      ]
+    },
+    {
+      "at": "2026-07-19T04:01:15.340474Z",
+      "seconds_to_off": 525,
+      "market_matched_volume": 4634.06,
+      "overround_pct": 103.3,
+      "runners": [
+        {
+          "selection_id": 98925325,
+          "name": "1. A Long Story Short",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 5.8,
+          "best_back_size": 1.98,
+          "best_lay": 6.0,
+          "best_lay_size": 15.08,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 5.8,
+              "size": 1.98
+            },
+            {
+              "price": 5.7,
+              "size": 15.21
+            },
+            {
+              "price": 5.6,
+              "size": 5.03
+            },
+            {
+              "price": 5.5,
+              "size": 69.39
+            },
+            {
+              "price": 5.4,
+              "size": 47.08
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.0,
+              "size": 15.08
+            },
+            {
+              "price": 6.2,
+              "size": 11.02
+            },
+            {
+              "price": 6.4,
+              "size": 21.25
+            },
+            {
+              "price": 6.6,
+              "size": 130.75
+            },
+            {
+              "price": 6.8,
+              "size": 18.71
+            }
+          ],
+          "runner_matched_volume": 380.16,
+          "last_price_traded": 5.9,
+          "market_prob": 0.16689,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 80973563,
+          "name": "2. Boss Boy",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 3.5,
+          "best_back_size": 15.29,
+          "best_lay": 3.65,
+          "best_lay_size": 22.55,
+          "spread": 0.15,
+          "back_ladder": [
+            {
+              "price": 3.5,
+              "size": 15.29
+            },
+            {
+              "price": 3.45,
+              "size": 13.39
+            },
+            {
+              "price": 3.4,
+              "size": 9.64
+            },
+            {
+              "price": 3.35,
+              "size": 95.35
+            },
+            {
+              "price": 3.3,
+              "size": 60.33
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.65,
+              "size": 22.55
+            },
+            {
+              "price": 3.7,
+              "size": 3.64
+            },
+            {
+              "price": 3.75,
+              "size": 31.52
+            },
+            {
+              "price": 3.8,
+              "size": 123.02
+            },
+            {
+              "price": 3.85,
+              "size": 24.6
+            }
+          ],
+          "runner_matched_volume": 1295.01,
+          "last_price_traded": 3.6,
+          "market_prob": 0.27656,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100200686,
+          "name": "4. Gottacookacurry",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 40.0,
+          "best_back_size": 1.96,
+          "best_lay": 46.0,
+          "best_lay_size": 2.73,
+          "spread": 6.0,
+          "back_ladder": [
+            {
+              "price": 40.0,
+              "size": 1.96
+            },
+            {
+              "price": 38.0,
+              "size": 3.93
+            },
+            {
+              "price": 34.0,
+              "size": 5.29
+            },
+            {
+              "price": 32.0,
+              "size": 8.94
+            },
+            {
+              "price": 30.0,
+              "size": 11.36
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 46.0,
+              "size": 2.73
+            },
+            {
+              "price": 48.0,
+              "size": 3.46
+            },
+            {
+              "price": 55.0,
+              "size": 4.33
+            },
+            {
+              "price": 250.0,
+              "size": 2.89
+            },
+            {
+              "price": 280.0,
+              "size": 3.85
+            }
+          ],
+          "runner_matched_volume": 21.88,
+          "last_price_traded": 40.0,
+          "market_prob": 0.024199,
+          "market_rank": 9
+        },
+        {
+          "selection_id": 82079438,
+          "name": "5. King Tagaloa",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 17.0,
+          "best_back_size": 8.75,
+          "best_lay": 19.5,
+          "best_lay_size": 1.76,
+          "spread": 2.5,
+          "back_ladder": [
+            {
+              "price": 17.0,
+              "size": 8.75
+            },
+            {
+              "price": 16.5,
+              "size": 6.17
+            },
+            {
+              "price": 16.0,
+              "size": 2.89
+            },
+            {
+              "price": 15.5,
+              "size": 27.28
+            },
+            {
+              "price": 15.0,
+              "size": 38.54
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 19.5,
+              "size": 1.76
+            },
+            {
+              "price": 20.0,
+              "size": 3.71
+            },
+            {
+              "price": 21.0,
+              "size": 9.73
+            },
+            {
+              "price": 22.0,
+              "size": 12.54
+            },
+            {
+              "price": 23.0,
+              "size": 11.44
+            }
+          ],
+          "runner_matched_volume": 112.56,
+          "last_price_traded": 18.0,
+          "market_prob": 0.056939,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 11156588,
+          "name": "6. Long Shot",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 34.0,
+          "best_back_size": 4.31,
+          "best_lay": 44.0,
+          "best_lay_size": 1.33,
+          "spread": 10.0,
+          "back_ladder": [
+            {
+              "price": 34.0,
+              "size": 4.31
+            },
+            {
+              "price": 30.0,
+              "size": 2.25
+            },
+            {
+              "price": 29.0,
+              "size": 5.33
+            },
+            {
+              "price": 28.0,
+              "size": 15.16
+            },
+            {
+              "price": 27.0,
+              "size": 11.96
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 44.0,
+              "size": 1.33
+            },
+            {
+              "price": 55.0,
+              "size": 3.0
+            },
+            {
+              "price": 80.0,
+              "size": 1.07
+            },
+            {
+              "price": 210.0,
+              "size": 2.7
+            },
+            {
+              "price": 240.0,
+              "size": 2.56
+            }
+          ],
+          "runner_matched_volume": 56.23,
+          "last_price_traded": 34.0,
+          "market_prob": 0.028469,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100721742,
+          "name": "7. Maranoa Boy",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 19.0,
+          "best_back_size": 1.85,
+          "best_lay": 21.0,
+          "best_lay_size": 6.43,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 19.0,
+              "size": 1.85
+            },
+            {
+              "price": 18.5,
+              "size": 5.51
+            },
+            {
+              "price": 18.0,
+              "size": 25.73
+            },
+            {
+              "price": 17.5,
+              "size": 18.46
+            },
+            {
+              "price": 17.0,
+              "size": 19.39
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 21.0,
+              "size": 6.43
+            },
+            {
+              "price": 22.0,
+              "size": 5.24
+            },
+            {
+              "price": 23.0,
+              "size": 2.18
+            },
+            {
+              "price": 24.0,
+              "size": 11.43
+            },
+            {
+              "price": 25.0,
+              "size": 8.36
+            }
+          ],
+          "runner_matched_volume": 237.66,
+          "last_price_traded": 19.5,
+          "market_prob": 0.050945,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 100721743,
+          "name": "8. Rainy Night",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 5.1,
+          "best_back_size": 25.44,
+          "best_lay": 5.3,
+          "best_lay_size": 18.09,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 5.1,
+              "size": 25.44
+            },
+            {
+              "price": 5.0,
+              "size": 41.26
+            },
+            {
+              "price": 4.9,
+              "size": 6.75
+            },
+            {
+              "price": 4.8,
+              "size": 32.23
+            },
+            {
+              "price": 4.7,
+              "size": 36.61
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.3,
+              "size": 18.09
+            },
+            {
+              "price": 5.4,
+              "size": 25.35
+            },
+            {
+              "price": 5.5,
+              "size": 9.77
+            },
+            {
+              "price": 5.6,
+              "size": 18.31
+            },
+            {
+              "price": 5.7,
+              "size": 30.46
+            }
+          ],
+          "runner_matched_volume": 1425.58,
+          "last_price_traded": 5.1,
+          "market_prob": 0.189796,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 93168006,
+          "name": "9. Where Eagles Dare",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 11.5,
+          "best_back_size": 3.84,
+          "best_lay": 12.0,
+          "best_lay_size": 4.39,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 11.5,
+              "size": 3.84
+            },
+            {
+              "price": 11.0,
+              "size": 11.27
+            },
+            {
+              "price": 10.5,
+              "size": 36.11
+            },
+            {
+              "price": 10.0,
+              "size": 85.46
+            },
+            {
+              "price": 9.8,
+              "size": 23.15
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 12.0,
+              "size": 4.39
+            },
+            {
+              "price": 12.5,
+              "size": 8.17
+            },
+            {
+              "price": 13.0,
+              "size": 27.44
+            },
+            {
+              "price": 13.5,
+              "size": 13.28
+            },
+            {
+              "price": 14.0,
+              "size": 8.86
+            }
+          ],
+          "runner_matched_volume": 672.36,
+          "last_price_traded": 11.0,
+          "market_prob": 0.08417,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 85319950,
+          "name": "10. Elegant Force",
+          "saddle_cloth": 9,
+          "status": "ACTIVE",
+          "best_back": 48.0,
+          "best_back_size": 5.24,
+          "best_lay": 55.0,
+          "best_lay_size": 5.44,
+          "spread": 7.0,
+          "back_ladder": [
+            {
+              "price": 48.0,
+              "size": 5.24
+            },
+            {
+              "price": 44.0,
+              "size": 9.31
+            },
+            {
+              "price": 42.0,
+              "size": 8.82
+            },
+            {
+              "price": 40.0,
+              "size": 8.74
+            },
+            {
+              "price": 38.0,
+              "size": 15.34
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 55.0,
+              "size": 5.44
+            },
+            {
+              "price": 60.0,
+              "size": 1.32
+            },
+            {
+              "price": 75.0,
+              "size": 11.9
+            },
+            {
+              "price": 80.0,
+              "size": 2.23
+            },
+            {
+              "price": 85.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 19.57,
+          "last_price_traded": 50.0,
+          "market_prob": 0.020166,
+          "market_rank": 10
+        },
+        {
+          "selection_id": 75717294,
+          "name": "11. Tornado Anwa",
+          "saddle_cloth": 10,
+          "status": "ACTIVE",
+          "best_back": 140.0,
+          "best_back_size": 1.09,
+          "best_lay": 180.0,
+          "best_lay_size": 3.17,
+          "spread": 40.0,
+          "back_ladder": [
+            {
+              "price": 140.0,
+              "size": 1.09
+            },
+            {
+              "price": 130.0,
+              "size": 2.45
+            },
+            {
+              "price": 120.0,
+              "size": 3.21
+            },
+            {
+              "price": 110.0,
+              "size": 2.58
+            },
+            {
+              "price": 100.0,
+              "size": 3.9
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 180.0,
+              "size": 3.17
+            },
+            {
+              "price": 280.0,
+              "size": 1.11
+            },
+            {
+              "price": 480.0,
+              "size": 1.27
+            },
+            {
+              "price": 940.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 4.0,
+          "last_price_traded": 100.0,
+          "market_prob": 0.006914,
+          "market_rank": 11
+        },
+        {
+          "selection_id": 100721744,
+          "name": "12. Venus Shock",
+          "saddle_cloth": 11,
+          "status": "ACTIVE",
+          "best_back": 10.5,
+          "best_back_size": 2.49,
+          "best_lay": 11.5,
+          "best_lay_size": 19.69,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 10.5,
+              "size": 2.49
+            },
+            {
+              "price": 10.0,
+              "size": 4.89
+            },
+            {
+              "price": 9.8,
+              "size": 6.53
+            },
+            {
+              "price": 9.6,
+              "size": 18.31
+            },
+            {
+              "price": 9.4,
+              "size": 14.9
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 11.5,
+              "size": 19.69
+            },
+            {
+              "price": 12.0,
+              "size": 12.64
+            },
+            {
+              "price": 12.5,
+              "size": 21.56
+            },
+            {
+              "price": 13.0,
+              "size": 11.56
+            },
+            {
+              "price": 13.5,
+              "size": 7.29
+            }
+          ],
+          "runner_matched_volume": 407.97,
+          "last_price_traded": 10.5,
+          "market_prob": 0.092187,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 100721745,
+          "name": "13. Dandynomite",
+          "saddle_cloth": 12,
+          "status": "ACTIVE",
+          "best_back": 350.0,
+          "best_back_size": 1.55,
+          "best_lay": 580.0,
+          "best_lay_size": 2.57,
+          "spread": 230.0,
+          "back_ladder": [
+            {
+              "price": 350.0,
+              "size": 1.55
+            },
+            {
+              "price": 340.0,
+              "size": 2.68
+            },
+            {
+              "price": 330.0,
+              "size": 6.19
+            },
+            {
+              "price": 280.0,
+              "size": 35.75
+            },
+            {
+              "price": 240.0,
+              "size": 1.3
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 580.0,
+              "size": 2.57
+            },
+            {
+              "price": 590.0,
+              "size": 3.85
+            }
+          ],
+          "runner_matched_volume": 1.02,
+          "last_price_traded": 500.0,
+          "market_prob": 0.002766,
+          "market_rank": 12
+        }
+      ]
+    },
+    {
+      "at": "2026-07-19T04:02:30.353524Z",
+      "seconds_to_off": 450,
+      "market_matched_volume": 5025.82,
+      "overround_pct": 102.9,
+      "runners": [
+        {
+          "selection_id": 98925325,
+          "name": "1. A Long Story Short",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 5.3,
+          "best_back_size": 13.64,
+          "best_lay": 5.7,
+          "best_lay_size": 4.44,
+          "spread": 0.4,
+          "back_ladder": [
+            {
+              "price": 5.3,
+              "size": 13.64
+            },
+            {
+              "price": 5.2,
+              "size": 65.57
+            },
+            {
+              "price": 5.1,
+              "size": 41.82
+            },
+            {
+              "price": 5.0,
+              "size": 50.04
+            },
+            {
+              "price": 4.9,
+              "size": 39.25
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.7,
+              "size": 4.44
+            },
+            {
+              "price": 5.8,
+              "size": 5.75
+            },
+            {
+              "price": 5.9,
+              "size": 2.76
+            },
+            {
+              "price": 6.0,
+              "size": 11.7
+            },
+            {
+              "price": 6.2,
+              "size": 39.02
+            }
+          ],
+          "runner_matched_volume": 420.16,
+          "last_price_traded": 5.7,
+          "market_prob": 0.183325,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 80973563,
+          "name": "2. Boss Boy",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 3.65,
+          "best_back_size": 20.66,
+          "best_lay": 3.75,
+          "best_lay_size": 4.34,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 3.65,
+              "size": 20.66
+            },
+            {
+              "price": 3.6,
+              "size": 8.9
+            },
+            {
+              "price": 3.55,
+              "size": 4.93
+            },
+            {
+              "price": 3.5,
+              "size": 23.43
+            },
+            {
+              "price": 3.45,
+              "size": 29.89
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.75,
+              "size": 4.34
+            },
+            {
+              "price": 3.8,
+              "size": 131.76
+            },
+            {
+              "price": 3.85,
+              "size": 29.73
+            },
+            {
+              "price": 3.9,
+              "size": 32.41
+            },
+            {
+              "price": 3.95,
+              "size": 25.15
+            }
+          ],
+          "runner_matched_volume": 1496.74,
+          "last_price_traded": 3.75,
+          "market_prob": 0.266198,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100200686,
+          "name": "4. Gottacookacurry",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 36.0,
+          "best_back_size": 3.5,
+          "best_lay": 44.0,
+          "best_lay_size": 1.04,
+          "spread": 8.0,
+          "back_ladder": [
+            {
+              "price": 36.0,
+              "size": 3.5
+            },
+            {
+              "price": 34.0,
+              "size": 7.66
+            },
+            {
+              "price": 32.0,
+              "size": 12.0
+            },
+            {
+              "price": 30.0,
+              "size": 11.36
+            },
+            {
+              "price": 29.0,
+              "size": 4.14
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 44.0,
+              "size": 1.04
+            },
+            {
+              "price": 46.0,
+              "size": 2.65
+            },
+            {
+              "price": 48.0,
+              "size": 3.46
+            },
+            {
+              "price": 55.0,
+              "size": 5.28
+            },
+            {
+              "price": 250.0,
+              "size": 2.89
+            }
+          ],
+          "runner_matched_volume": 51.88,
+          "last_price_traded": 38.0,
+          "market_prob": 0.026989,
+          "market_rank": 9
+        },
+        {
+          "selection_id": 82079438,
+          "name": "5. King Tagaloa",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 18.0,
+          "best_back_size": 1.97,
+          "best_lay": 19.5,
+          "best_lay_size": 1.76,
+          "spread": 1.5,
+          "back_ladder": [
+            {
+              "price": 18.0,
+              "size": 1.97
+            },
+            {
+              "price": 17.5,
+              "size": 4.09
+            },
+            {
+              "price": 17.0,
+              "size": 5.48
+            },
+            {
+              "price": 16.5,
+              "size": 6.17
+            },
+            {
+              "price": 16.0,
+              "size": 18.1
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 19.5,
+              "size": 1.76
+            },
+            {
+              "price": 20.0,
+              "size": 3.71
+            },
+            {
+              "price": 21.0,
+              "size": 9.73
+            },
+            {
+              "price": 22.0,
+              "size": 12.54
+            },
+            {
+              "price": 23.0,
+              "size": 11.44
+            }
+          ],
+          "runner_matched_volume": 112.56,
+          "last_price_traded": 18.0,
+          "market_prob": 0.053979,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 11156588,
+          "name": "6. Long Shot",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 34.0,
+          "best_back_size": 4.31,
+          "best_lay": 44.0,
+          "best_lay_size": 1.42,
+          "spread": 10.0,
+          "back_ladder": [
+            {
+              "price": 34.0,
+              "size": 4.31
+            },
+            {
+              "price": 29.0,
+              "size": 6.3
+            },
+            {
+              "price": 28.0,
+              "size": 15.51
+            },
+            {
+              "price": 27.0,
+              "size": 11.96
+            },
+            {
+              "price": 26.0,
+              "size": 22.35
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 44.0,
+              "size": 1.42
+            },
+            {
+              "price": 55.0,
+              "size": 3.0
+            },
+            {
+              "price": 80.0,
+              "size": 1.07
+            },
+            {
+              "price": 210.0,
+              "size": 2.7
+            },
+            {
+              "price": 240.0,
+              "size": 2.56
+            }
+          ],
+          "runner_matched_volume": 56.23,
+          "last_price_traded": 34.0,
+          "market_prob": 0.028577,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100721742,
+          "name": "7. Maranoa Boy",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 18.0,
+          "best_back_size": 6.57,
+          "best_lay": 21.0,
+          "best_lay_size": 3.81,
+          "spread": 3.0,
+          "back_ladder": [
+            {
+              "price": 18.0,
+              "size": 6.57
+            },
+            {
+              "price": 17.5,
+              "size": 18.02
+            },
+            {
+              "price": 17.0,
+              "size": 32.21
+            },
+            {
+              "price": 16.5,
+              "size": 19.26
+            },
+            {
+              "price": 16.0,
+              "size": 12.78
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 21.0,
+              "size": 3.81
+            },
+            {
+              "price": 22.0,
+              "size": 5.24
+            },
+            {
+              "price": 23.0,
+              "size": 10.72
+            },
+            {
+              "price": 24.0,
+              "size": 10.58
+            },
+            {
+              "price": 25.0,
+              "size": 8.36
+            }
+          ],
+          "runner_matched_volume": 240.43,
+          "last_price_traded": 19.0,
+          "market_prob": 0.053979,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 100721743,
+          "name": "8. Rainy Night",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 5.6,
+          "best_back_size": 12.43,
+          "best_lay": 5.7,
+          "best_lay_size": 12.85,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.6,
+              "size": 12.43
+            },
+            {
+              "price": 5.5,
+              "size": 12.52
+            },
+            {
+              "price": 5.4,
+              "size": 9.68
+            },
+            {
+              "price": 5.3,
+              "size": 17.76
+            },
+            {
+              "price": 5.2,
+              "size": 46.64
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.7,
+              "size": 12.85
+            },
+            {
+              "price": 5.8,
+              "size": 12.34
+            },
+            {
+              "price": 5.9,
+              "size": 16.14
+            },
+            {
+              "price": 6.0,
+              "size": 25.79
+            },
+            {
+              "price": 6.2,
+              "size": 57.21
+            }
+          ],
+          "runner_matched_volume": 1525.33,
+          "last_price_traded": 5.7,
+          "market_prob": 0.173504,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 93168006,
+          "name": "9. Where Eagles Dare",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 11.5,
+          "best_back_size": 3.84,
+          "best_lay": 12.0,
+          "best_lay_size": 5.08,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 11.5,
+              "size": 3.84
+            },
+            {
+              "price": 11.0,
+              "size": 11.27
+            },
+            {
+              "price": 10.5,
+              "size": 36.11
+            },
+            {
+              "price": 10.0,
+              "size": 63.99
+            },
+            {
+              "price": 9.8,
+              "size": 24.13
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 12.0,
+              "size": 5.08
+            },
+            {
+              "price": 12.5,
+              "size": 16.17
+            },
+            {
+              "price": 13.0,
+              "size": 28.44
+            },
+            {
+              "price": 13.5,
+              "size": 14.28
+            },
+            {
+              "price": 14.0,
+              "size": 9.86
+            }
+          ],
+          "runner_matched_volume": 672.36,
+          "last_price_traded": 11.0,
+          "market_prob": 0.084489,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 85319950,
+          "name": "10. Elegant Force",
+          "saddle_cloth": 9,
+          "status": "ACTIVE",
+          "best_back": 44.0,
+          "best_back_size": 4.85,
+          "best_lay": 55.0,
+          "best_lay_size": 1.74,
+          "spread": 11.0,
+          "back_ladder": [
+            {
+              "price": 44.0,
+              "size": 4.85
+            },
+            {
+              "price": 42.0,
+              "size": 8.82
+            },
+            {
+              "price": 40.0,
+              "size": 13.99
+            },
+            {
+              "price": 38.0,
+              "size": 15.34
+            },
+            {
+              "price": 36.0,
+              "size": 9.71
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 55.0,
+              "size": 1.74
+            },
+            {
+              "price": 60.0,
+              "size": 5.17
+            },
+            {
+              "price": 75.0,
+              "size": 11.9
+            },
+            {
+              "price": 80.0,
+              "size": 2.23
+            },
+            {
+              "price": 85.0,
+              "size": 3.85
+            }
+          ],
+          "runner_matched_volume": 24.31,
+          "last_price_traded": 48.0,
+          "market_prob": 0.022082,
+          "market_rank": 10
+        },
+        {
+          "selection_id": 75717294,
+          "name": "11. Tornado Anwa",
+          "saddle_cloth": 10,
+          "status": "ACTIVE",
+          "best_back": 140.0,
+          "best_back_size": 1.09,
+          "best_lay": 180.0,
+          "best_lay_size": 3.17,
+          "spread": 40.0,
+          "back_ladder": [
+            {
+              "price": 140.0,
+              "size": 1.09
+            },
+            {
+              "price": 130.0,
+              "size": 2.45
+            },
+            {
+              "price": 120.0,
+              "size": 3.21
+            },
+            {
+              "price": 110.0,
+              "size": 2.58
+            },
+            {
+              "price": 100.0,
+              "size": 3.9
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 180.0,
+              "size": 3.17
+            },
+            {
+              "price": 280.0,
+              "size": 1.11
+            },
+            {
+              "price": 480.0,
+              "size": 1.27
+            },
+            {
+              "price": 940.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 4.0,
+          "last_price_traded": 100.0,
+          "market_prob": 0.00694,
+          "market_rank": 11
+        },
+        {
+          "selection_id": 100721744,
+          "name": "12. Venus Shock",
+          "saddle_cloth": 11,
+          "status": "ACTIVE",
+          "best_back": 10.0,
+          "best_back_size": 6.25,
+          "best_lay": 11.0,
+          "best_lay_size": 2.74,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 10.0,
+              "size": 6.25
+            },
+            {
+              "price": 9.8,
+              "size": 6.53
+            },
+            {
+              "price": 9.6,
+              "size": 4.86
+            },
+            {
+              "price": 9.4,
+              "size": 14.9
+            },
+            {
+              "price": 9.2,
+              "size": 14.11
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 11.0,
+              "size": 2.74
+            },
+            {
+              "price": 11.5,
+              "size": 21.42
+            },
+            {
+              "price": 12.0,
+              "size": 12.64
+            },
+            {
+              "price": 12.5,
+              "size": 19.63
+            },
+            {
+              "price": 13.0,
+              "size": 11.56
+            }
+          ],
+          "runner_matched_volume": 420.74,
+          "last_price_traded": 10.5,
+          "market_prob": 0.097162,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 100721745,
+          "name": "13. Dandynomite",
+          "saddle_cloth": 12,
+          "status": "ACTIVE",
+          "best_back": 350.0,
+          "best_back_size": 1.55,
+          "best_lay": 620.0,
+          "best_lay_size": 1.03,
+          "spread": 270.0,
+          "back_ladder": [
+            {
+              "price": 350.0,
+              "size": 1.55
+            },
+            {
+              "price": 340.0,
+              "size": 2.68
+            },
+            {
+              "price": 330.0,
+              "size": 6.19
+            },
+            {
+              "price": 280.0,
+              "size": 35.75
+            },
+            {
+              "price": 240.0,
+              "size": 1.3
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 620.0,
+              "size": 1.03
+            },
+            {
+              "price": 640.0,
+              "size": 3.85
+            }
+          ],
+          "runner_matched_volume": 1.02,
+          "last_price_traded": 500.0,
+          "market_prob": 0.002776,
+          "market_rank": 12
+        }
+      ]
+    },
+    {
+      "at": "2026-07-19T04:03:45.352515Z",
+      "seconds_to_off": 375,
+      "market_matched_volume": 6534.31,
+      "overround_pct": 103.4,
+      "runners": [
+        {
+          "selection_id": 98925325,
+          "name": "1. A Long Story Short",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 4.9,
+          "best_back_size": 14.98,
+          "best_lay": 5.1,
+          "best_lay_size": 11.07,
+          "spread": 0.2,
+          "back_ladder": [
+            {
+              "price": 4.9,
+              "size": 14.98
+            },
+            {
+              "price": 4.8,
+              "size": 28.85
+            },
+            {
+              "price": 4.7,
+              "size": 64.48
+            },
+            {
+              "price": 4.6,
+              "size": 61.49
+            },
+            {
+              "price": 4.5,
+              "size": 62.38
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.1,
+              "size": 11.07
+            },
+            {
+              "price": 5.2,
+              "size": 19.61
+            },
+            {
+              "price": 5.3,
+              "size": 10.35
+            },
+            {
+              "price": 5.4,
+              "size": 18.46
+            },
+            {
+              "price": 5.5,
+              "size": 40.71
+            }
+          ],
+          "runner_matched_volume": 819.44,
+          "last_price_traded": 5.1,
+          "market_prob": 0.197311,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 80973563,
+          "name": "2. Boss Boy",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 3.85,
+          "best_back_size": 11.14,
+          "best_lay": 3.95,
+          "best_lay_size": 7.36,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 3.85,
+              "size": 11.14
+            },
+            {
+              "price": 3.8,
+              "size": 8.27
+            },
+            {
+              "price": 3.75,
+              "size": 9.82
+            },
+            {
+              "price": 3.7,
+              "size": 23.31
+            },
+            {
+              "price": 3.65,
+              "size": 14.85
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.95,
+              "size": 7.36
+            },
+            {
+              "price": 4.0,
+              "size": 16.82
+            },
+            {
+              "price": 4.1,
+              "size": 39.21
+            },
+            {
+              "price": 4.2,
+              "size": 54.8
+            },
+            {
+              "price": 4.3,
+              "size": 53.35
+            }
+          ],
+          "runner_matched_volume": 1864.48,
+          "last_price_traded": 3.9,
+          "market_prob": 0.251124,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100200686,
+          "name": "4. Gottacookacurry",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 36.0,
+          "best_back_size": 6.63,
+          "best_lay": 46.0,
+          "best_lay_size": 2.65,
+          "spread": 10.0,
+          "back_ladder": [
+            {
+              "price": 36.0,
+              "size": 6.63
+            },
+            {
+              "price": 34.0,
+              "size": 11.23
+            },
+            {
+              "price": 32.0,
+              "size": 10.18
+            },
+            {
+              "price": 30.0,
+              "size": 12.27
+            },
+            {
+              "price": 29.0,
+              "size": 4.14
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 46.0,
+              "size": 2.65
+            },
+            {
+              "price": 48.0,
+              "size": 3.46
+            },
+            {
+              "price": 55.0,
+              "size": 4.95
+            },
+            {
+              "price": 250.0,
+              "size": 2.54
+            },
+            {
+              "price": 280.0,
+              "size": 3.85
+            }
+          ],
+          "runner_matched_volume": 51.88,
+          "last_price_traded": 38.0,
+          "market_prob": 0.026856,
+          "market_rank": 9
+        },
+        {
+          "selection_id": 82079438,
+          "name": "5. King Tagaloa",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 18.0,
+          "best_back_size": 2.81,
+          "best_lay": 20.0,
+          "best_lay_size": 4.55,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 18.0,
+              "size": 2.81
+            },
+            {
+              "price": 17.5,
+              "size": 2.25
+            },
+            {
+              "price": 17.0,
+              "size": 7.41
+            },
+            {
+              "price": 16.5,
+              "size": 12.39
+            },
+            {
+              "price": 16.0,
+              "size": 18.7
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 20.0,
+              "size": 4.55
+            },
+            {
+              "price": 21.0,
+              "size": 12.62
+            },
+            {
+              "price": 22.0,
+              "size": 12.54
+            },
+            {
+              "price": 23.0,
+              "size": 21.23
+            },
+            {
+              "price": 24.0,
+              "size": 42.13
+            }
+          ],
+          "runner_matched_volume": 112.56,
+          "last_price_traded": 18.0,
+          "market_prob": 0.053713,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 11156588,
+          "name": "6. Long Shot",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 32.0,
+          "best_back_size": 2.16,
+          "best_lay": 42.0,
+          "best_lay_size": 7.04,
+          "spread": 10.0,
+          "back_ladder": [
+            {
+              "price": 32.0,
+              "size": 2.16
+            },
+            {
+              "price": 30.0,
+              "size": 4.0
+            },
+            {
+              "price": 29.0,
+              "size": 14.45
+            },
+            {
+              "price": 28.0,
+              "size": 5.49
+            },
+            {
+              "price": 27.0,
+              "size": 23.67
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 42.0,
+              "size": 7.04
+            },
+            {
+              "price": 44.0,
+              "size": 5.01
+            },
+            {
+              "price": 55.0,
+              "size": 3.0
+            },
+            {
+              "price": 110.0,
+              "size": 22.22
+            },
+            {
+              "price": 120.0,
+              "size": 5.76
+            }
+          ],
+          "runner_matched_volume": 96.23,
+          "last_price_traded": 30.0,
+          "market_prob": 0.030213,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100721742,
+          "name": "7. Maranoa Boy",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 19.5,
+          "best_back_size": 4.52,
+          "best_lay": 21.0,
+          "best_lay_size": 5.24,
+          "spread": 1.5,
+          "back_ladder": [
+            {
+              "price": 19.5,
+              "size": 4.52
+            },
+            {
+              "price": 19.0,
+              "size": 13.12
+            },
+            {
+              "price": 18.5,
+              "size": 5.31
+            },
+            {
+              "price": 18.0,
+              "size": 28.79
+            },
+            {
+              "price": 17.5,
+              "size": 12.85
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 21.0,
+              "size": 5.24
+            },
+            {
+              "price": 22.0,
+              "size": 24.2
+            },
+            {
+              "price": 23.0,
+              "size": 12.6
+            },
+            {
+              "price": 24.0,
+              "size": 15.24
+            },
+            {
+              "price": 25.0,
+              "size": 8.36
+            }
+          ],
+          "runner_matched_volume": 293.92,
+          "last_price_traded": 20.0,
+          "market_prob": 0.049581,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 100721743,
+          "name": "8. Rainy Night",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 5.5,
+          "best_back_size": 19.49,
+          "best_lay": 5.6,
+          "best_lay_size": 3.72,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.5,
+              "size": 19.49
+            },
+            {
+              "price": 5.4,
+              "size": 10.02
+            },
+            {
+              "price": 5.3,
+              "size": 28.63
+            },
+            {
+              "price": 5.2,
+              "size": 35.51
+            },
+            {
+              "price": 5.1,
+              "size": 42.23
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.6,
+              "size": 3.72
+            },
+            {
+              "price": 5.7,
+              "size": 17.02
+            },
+            {
+              "price": 5.8,
+              "size": 6.55
+            },
+            {
+              "price": 5.9,
+              "size": 19.15
+            },
+            {
+              "price": 6.0,
+              "size": 23.27
+            }
+          ],
+          "runner_matched_volume": 2031.04,
+          "last_price_traded": 5.6,
+          "market_prob": 0.175787,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 93168006,
+          "name": "9. Where Eagles Dare",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 11.5,
+          "best_back_size": 5.28,
+          "best_lay": 12.5,
+          "best_lay_size": 22.31,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 11.5,
+              "size": 5.28
+            },
+            {
+              "price": 11.0,
+              "size": 14.24
+            },
+            {
+              "price": 10.5,
+              "size": 67.54
+            },
+            {
+              "price": 10.0,
+              "size": 73.99
+            },
+            {
+              "price": 9.8,
+              "size": 35.39
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 12.5,
+              "size": 22.31
+            },
+            {
+              "price": 13.0,
+              "size": 11.79
+            },
+            {
+              "price": 13.5,
+              "size": 34.73
+            },
+            {
+              "price": 14.0,
+              "size": 17.16
+            },
+            {
+              "price": 14.5,
+              "size": 15.98
+            }
+          ],
+          "runner_matched_volume": 683.99,
+          "last_price_traded": 12.0,
+          "market_prob": 0.084072,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 85319950,
+          "name": "10. Elegant Force",
+          "saddle_cloth": 9,
+          "status": "ACTIVE",
+          "best_back": 42.0,
+          "best_back_size": 2.79,
+          "best_lay": 50.0,
+          "best_lay_size": 9.64,
+          "spread": 8.0,
+          "back_ladder": [
+            {
+              "price": 42.0,
+              "size": 2.79
+            },
+            {
+              "price": 40.0,
+              "size": 11.02
+            },
+            {
+              "price": 38.0,
+              "size": 15.35
+            },
+            {
+              "price": 36.0,
+              "size": 9.71
+            },
+            {
+              "price": 34.0,
+              "size": 17.16
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 50.0,
+              "size": 9.64
+            },
+            {
+              "price": 55.0,
+              "size": 1.93
+            },
+            {
+              "price": 60.0,
+              "size": 5.17
+            },
+            {
+              "price": 65.0,
+              "size": 1.93
+            },
+            {
+              "price": 70.0,
+              "size": 2.27
+            }
+          ],
+          "runner_matched_volume": 55.88,
+          "last_price_traded": 42.0,
+          "market_prob": 0.02302,
+          "market_rank": 10
+        },
+        {
+          "selection_id": 75717294,
+          "name": "11. Tornado Anwa",
+          "saddle_cloth": 10,
+          "status": "ACTIVE",
+          "best_back": 140.0,
+          "best_back_size": 1.23,
+          "best_lay": 180.0,
+          "best_lay_size": 3.02,
+          "spread": 40.0,
+          "back_ladder": [
+            {
+              "price": 140.0,
+              "size": 1.23
+            },
+            {
+              "price": 130.0,
+              "size": 7.45
+            },
+            {
+              "price": 120.0,
+              "size": 3.21
+            },
+            {
+              "price": 110.0,
+              "size": 2.58
+            },
+            {
+              "price": 100.0,
+              "size": 3.9
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 180.0,
+              "size": 3.02
+            },
+            {
+              "price": 280.0,
+              "size": 1.11
+            },
+            {
+              "price": 940.0,
+              "size": 2.93
+            }
+          ],
+          "runner_matched_volume": 4.0,
+          "last_price_traded": 100.0,
+          "market_prob": 0.006906,
+          "market_rank": 11
+        },
+        {
+          "selection_id": 100721744,
+          "name": "12. Venus Shock",
+          "saddle_cloth": 11,
+          "status": "ACTIVE",
+          "best_back": 9.8,
+          "best_back_size": 6.88,
+          "best_lay": 10.5,
+          "best_lay_size": 13.66,
+          "spread": 0.7,
+          "back_ladder": [
+            {
+              "price": 9.8,
+              "size": 6.88
+            },
+            {
+              "price": 9.6,
+              "size": 4.86
+            },
+            {
+              "price": 9.4,
+              "size": 1.14
+            },
+            {
+              "price": 9.2,
+              "size": 16.03
+            },
+            {
+              "price": 9.0,
+              "size": 16.36
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 10.5,
+              "size": 13.66
+            },
+            {
+              "price": 11.0,
+              "size": 2.74
+            },
+            {
+              "price": 11.5,
+              "size": 25.26
+            },
+            {
+              "price": 12.0,
+              "size": 18.4
+            },
+            {
+              "price": 12.5,
+              "size": 25.39
+            }
+          ],
+          "runner_matched_volume": 519.8,
+          "last_price_traded": 10.5,
+          "market_prob": 0.098656,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 100721745,
+          "name": "13. Dandynomite",
+          "saddle_cloth": 12,
+          "status": "ACTIVE",
+          "best_back": 350.0,
+          "best_back_size": 6.42,
+          "best_lay": 660.0,
+          "best_lay_size": 5.03,
+          "spread": 310.0,
+          "back_ladder": [
+            {
+              "price": 350.0,
+              "size": 6.42
+            },
+            {
+              "price": 340.0,
+              "size": 2.68
+            },
+            {
+              "price": 330.0,
+              "size": 22.33
+            },
+            {
+              "price": 280.0,
+              "size": 35.75
+            },
+            {
+              "price": 240.0,
+              "size": 1.41
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 660.0,
+              "size": 5.03
+            }
+          ],
+          "runner_matched_volume": 1.02,
+          "last_price_traded": 500.0,
+          "market_prob": 0.002762,
+          "market_rank": 12
+        }
+      ]
+    },
+    {
+      "at": "2026-07-19T04:05:00.342606Z",
+      "seconds_to_off": 300,
+      "market_matched_volume": 8834.72,
+      "overround_pct": 103.7,
+      "runners": [
+        {
+          "selection_id": 98925325,
+          "name": "1. A Long Story Short",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 4.9,
+          "best_back_size": 7.63,
+          "best_lay": 5.0,
+          "best_lay_size": 6.86,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 4.9,
+              "size": 7.63
+            },
+            {
+              "price": 4.8,
+              "size": 36.0
+            },
+            {
+              "price": 4.7,
+              "size": 68.84
+            },
+            {
+              "price": 4.6,
+              "size": 61.49
+            },
+            {
+              "price": 4.5,
+              "size": 83.39
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.0,
+              "size": 6.86
+            },
+            {
+              "price": 5.1,
+              "size": 34.05
+            },
+            {
+              "price": 5.2,
+              "size": 104.26
+            },
+            {
+              "price": 5.3,
+              "size": 34.85
+            },
+            {
+              "price": 5.4,
+              "size": 39.78
+            }
+          ],
+          "runner_matched_volume": 1480.55,
+          "last_price_traded": 4.9,
+          "market_prob": 0.196756,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 80973563,
+          "name": "2. Boss Boy",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 3.7,
+          "best_back_size": 7.07,
+          "best_lay": 3.75,
+          "best_lay_size": 16.67,
+          "spread": 0.05,
+          "back_ladder": [
+            {
+              "price": 3.7,
+              "size": 7.07
+            },
+            {
+              "price": 3.65,
+              "size": 20.91
+            },
+            {
+              "price": 3.6,
+              "size": 16.94
+            },
+            {
+              "price": 3.55,
+              "size": 22.01
+            },
+            {
+              "price": 3.5,
+              "size": 49.62
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.75,
+              "size": 16.67
+            },
+            {
+              "price": 3.8,
+              "size": 186.55
+            },
+            {
+              "price": 3.85,
+              "size": 42.48
+            },
+            {
+              "price": 3.9,
+              "size": 43.15
+            },
+            {
+              "price": 3.95,
+              "size": 60.86
+            }
+          ],
+          "runner_matched_volume": 2915.48,
+          "last_price_traded": 3.7,
+          "market_prob": 0.260568,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100200686,
+          "name": "4. Gottacookacurry",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 40.0,
+          "best_back_size": 1.3,
+          "best_lay": 44.0,
+          "best_lay_size": 3.71,
+          "spread": 4.0,
+          "back_ladder": [
+            {
+              "price": 40.0,
+              "size": 1.3
+            },
+            {
+              "price": 38.0,
+              "size": 5.75
+            },
+            {
+              "price": 36.0,
+              "size": 10.83
+            },
+            {
+              "price": 34.0,
+              "size": 5.03
+            },
+            {
+              "price": 32.0,
+              "size": 9.48
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 44.0,
+              "size": 3.71
+            },
+            {
+              "price": 46.0,
+              "size": 2.49
+            },
+            {
+              "price": 48.0,
+              "size": 3.46
+            },
+            {
+              "price": 60.0,
+              "size": 4.64
+            },
+            {
+              "price": 65.0,
+              "size": 5.76
+            }
+          ],
+          "runner_matched_volume": 135.38,
+          "last_price_traded": 44.0,
+          "market_prob": 0.024103,
+          "market_rank": 9
+        },
+        {
+          "selection_id": 82079438,
+          "name": "5. King Tagaloa",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 17.5,
+          "best_back_size": 4.72,
+          "best_lay": 20.0,
+          "best_lay_size": 6.18,
+          "spread": 2.5,
+          "back_ladder": [
+            {
+              "price": 17.5,
+              "size": 4.72
+            },
+            {
+              "price": 17.0,
+              "size": 6.66
+            },
+            {
+              "price": 16.5,
+              "size": 12.39
+            },
+            {
+              "price": 16.0,
+              "size": 27.0
+            },
+            {
+              "price": 15.5,
+              "size": 38.29
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 20.0,
+              "size": 6.18
+            },
+            {
+              "price": 21.0,
+              "size": 5.95
+            },
+            {
+              "price": 22.0,
+              "size": 10.62
+            },
+            {
+              "price": 23.0,
+              "size": 25.08
+            },
+            {
+              "price": 24.0,
+              "size": 18.68
+            }
+          ],
+          "runner_matched_volume": 189.55,
+          "last_price_traded": 18.5,
+          "market_prob": 0.055092,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 11156588,
+          "name": "6. Long Shot",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 27.0,
+          "best_back_size": 5.38,
+          "best_lay": 30.0,
+          "best_lay_size": 12.14,
+          "spread": 3.0,
+          "back_ladder": [
+            {
+              "price": 27.0,
+              "size": 5.38
+            },
+            {
+              "price": 26.0,
+              "size": 14.56
+            },
+            {
+              "price": 25.0,
+              "size": 24.9
+            },
+            {
+              "price": 24.0,
+              "size": 22.36
+            },
+            {
+              "price": 23.0,
+              "size": 15.36
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 30.0,
+              "size": 12.14
+            },
+            {
+              "price": 32.0,
+              "size": 5.0
+            },
+            {
+              "price": 34.0,
+              "size": 12.37
+            },
+            {
+              "price": 36.0,
+              "size": 8.58
+            },
+            {
+              "price": 38.0,
+              "size": 11.07
+            }
+          ],
+          "runner_matched_volume": 108.33,
+          "last_price_traded": 29.0,
+          "market_prob": 0.035707,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100721742,
+          "name": "7. Maranoa Boy",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 19.0,
+          "best_back_size": 4.1,
+          "best_lay": 19.5,
+          "best_lay_size": 2.81,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 19.0,
+              "size": 4.1
+            },
+            {
+              "price": 18.5,
+              "size": 15.26
+            },
+            {
+              "price": 18.0,
+              "size": 29.33
+            },
+            {
+              "price": 17.5,
+              "size": 19.71
+            },
+            {
+              "price": 17.0,
+              "size": 40.24
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 19.5,
+              "size": 2.81
+            },
+            {
+              "price": 21.0,
+              "size": 4.29
+            },
+            {
+              "price": 22.0,
+              "size": 15.66
+            },
+            {
+              "price": 23.0,
+              "size": 21.14
+            },
+            {
+              "price": 24.0,
+              "size": 18.24
+            }
+          ],
+          "runner_matched_volume": 338.1,
+          "last_price_traded": 19.0,
+          "market_prob": 0.050742,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 100721743,
+          "name": "8. Rainy Night",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 5.8,
+          "best_back_size": 61.71,
+          "best_lay": 5.9,
+          "best_lay_size": 123.4,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.8,
+              "size": 61.71
+            },
+            {
+              "price": 5.7,
+              "size": 32.97
+            },
+            {
+              "price": 5.6,
+              "size": 66.39
+            },
+            {
+              "price": 5.5,
+              "size": 19.49
+            },
+            {
+              "price": 5.4,
+              "size": 40.29
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.9,
+              "size": 123.4
+            },
+            {
+              "price": 6.0,
+              "size": 28.85
+            },
+            {
+              "price": 6.2,
+              "size": 69.8
+            },
+            {
+              "price": 6.4,
+              "size": 63.35
+            },
+            {
+              "price": 6.6,
+              "size": 50.51
+            }
+          ],
+          "runner_matched_volume": 2234.97,
+          "last_price_traded": 5.8,
+          "market_prob": 0.166225,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 93168006,
+          "name": "9. Where Eagles Dare",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 12.0,
+          "best_back_size": 10.79,
+          "best_lay": 13.0,
+          "best_lay_size": 20.09,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 12.0,
+              "size": 10.79
+            },
+            {
+              "price": 11.5,
+              "size": 4.59
+            },
+            {
+              "price": 11.0,
+              "size": 24.65
+            },
+            {
+              "price": 10.5,
+              "size": 68.46
+            },
+            {
+              "price": 10.0,
+              "size": 84.18
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 13.0,
+              "size": 20.09
+            },
+            {
+              "price": 13.5,
+              "size": 34.73
+            },
+            {
+              "price": 14.0,
+              "size": 17.16
+            },
+            {
+              "price": 14.5,
+              "size": 17.91
+            },
+            {
+              "price": 15.0,
+              "size": 16.52
+            }
+          ],
+          "runner_matched_volume": 752.0,
+          "last_price_traded": 12.0,
+          "market_prob": 0.080342,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 85319950,
+          "name": "10. Elegant Force",
+          "saddle_cloth": 9,
+          "status": "ACTIVE",
+          "best_back": 40.0,
+          "best_back_size": 9.72,
+          "best_lay": 46.0,
+          "best_lay_size": 2.62,
+          "spread": 6.0,
+          "back_ladder": [
+            {
+              "price": 40.0,
+              "size": 9.72
+            },
+            {
+              "price": 38.0,
+              "size": 13.28
+            },
+            {
+              "price": 36.0,
+              "size": 9.71
+            },
+            {
+              "price": 34.0,
+              "size": 9.88
+            },
+            {
+              "price": 32.0,
+              "size": 19.0
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 46.0,
+              "size": 2.62
+            },
+            {
+              "price": 48.0,
+              "size": 5.52
+            },
+            {
+              "price": 50.0,
+              "size": 7.58
+            },
+            {
+              "price": 55.0,
+              "size": 5.43
+            },
+            {
+              "price": 60.0,
+              "size": 1.32
+            }
+          ],
+          "runner_matched_volume": 67.22,
+          "last_price_traded": 42.0,
+          "market_prob": 0.024103,
+          "market_rank": 10
+        },
+        {
+          "selection_id": 75717294,
+          "name": "11. Tornado Anwa",
+          "saddle_cloth": 10,
+          "status": "ACTIVE",
+          "best_back": 130.0,
+          "best_back_size": 7.45,
+          "best_lay": 150.0,
+          "best_lay_size": 1.0,
+          "spread": 20.0,
+          "back_ladder": [
+            {
+              "price": 130.0,
+              "size": 7.45
+            },
+            {
+              "price": 120.0,
+              "size": 3.38
+            },
+            {
+              "price": 110.0,
+              "size": 2.76
+            },
+            {
+              "price": 100.0,
+              "size": 3.9
+            },
+            {
+              "price": 95.0,
+              "size": 2.04
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 150.0,
+              "size": 1.0
+            },
+            {
+              "price": 160.0,
+              "size": 4.86
+            },
+            {
+              "price": 260.0,
+              "size": 1.19
+            },
+            {
+              "price": 300.0,
+              "size": 5.46
+            }
+          ],
+          "runner_matched_volume": 8.2,
+          "last_price_traded": 160.0,
+          "market_prob": 0.007416,
+          "market_rank": 11
+        },
+        {
+          "selection_id": 100721744,
+          "name": "12. Venus Shock",
+          "saddle_cloth": 11,
+          "status": "ACTIVE",
+          "best_back": 10.0,
+          "best_back_size": 3.29,
+          "best_lay": 10.5,
+          "best_lay_size": 12.06,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 10.0,
+              "size": 3.29
+            },
+            {
+              "price": 9.8,
+              "size": 9.96
+            },
+            {
+              "price": 9.6,
+              "size": 6.94
+            },
+            {
+              "price": 9.4,
+              "size": 1.14
+            },
+            {
+              "price": 9.2,
+              "size": 19.45
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 10.5,
+              "size": 12.06
+            },
+            {
+              "price": 11.0,
+              "size": 14.3
+            },
+            {
+              "price": 11.5,
+              "size": 25.26
+            },
+            {
+              "price": 12.0,
+              "size": 20.33
+            },
+            {
+              "price": 12.5,
+              "size": 25.39
+            }
+          ],
+          "runner_matched_volume": 603.78,
+          "last_price_traded": 10.0,
+          "market_prob": 0.09641,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 100721745,
+          "name": "13. Dandynomite",
+          "saddle_cloth": 12,
+          "status": "ACTIVE",
+          "best_back": 380.0,
+          "best_back_size": 1.25,
+          "best_lay": 610.0,
+          "best_lay_size": 3.85,
+          "spread": 230.0,
+          "back_ladder": [
+            {
+              "price": 380.0,
+              "size": 1.25
+            },
+            {
+              "price": 370.0,
+              "size": 1.43
+            },
+            {
+              "price": 350.0,
+              "size": 4.24
+            },
+            {
+              "price": 340.0,
+              "size": 2.74
+            },
+            {
+              "price": 330.0,
+              "size": 22.33
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 610.0,
+              "size": 3.85
+            }
+          ],
+          "runner_matched_volume": 1.09,
+          "last_price_traded": 600.0,
+          "market_prob": 0.002537,
+          "market_rank": 12
+        }
+      ]
+    },
+    {
+      "at": "2026-07-19T04:06:15.351286Z",
+      "seconds_to_off": 225,
+      "market_matched_volume": 10176.33,
+      "overround_pct": 103.3,
+      "runners": [
+        {
+          "selection_id": 98925325,
+          "name": "1. A Long Story Short",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 4.8,
+          "best_back_size": 19.09,
+          "best_lay": 4.9,
+          "best_lay_size": 8.58,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 4.8,
+              "size": 19.09
+            },
+            {
+              "price": 4.7,
+              "size": 90.11
+            },
+            {
+              "price": 4.6,
+              "size": 44.65
+            },
+            {
+              "price": 4.5,
+              "size": 77.67
+            },
+            {
+              "price": 4.4,
+              "size": 104.26
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 4.9,
+              "size": 8.58
+            },
+            {
+              "price": 5.0,
+              "size": 145.92
+            },
+            {
+              "price": 5.1,
+              "size": 21.24
+            },
+            {
+              "price": 5.2,
+              "size": 25.22
+            },
+            {
+              "price": 5.3,
+              "size": 63.53
+            }
+          ],
+          "runner_matched_volume": 2021.93,
+          "last_price_traded": 4.9,
+          "market_prob": 0.201585,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 80973563,
+          "name": "2. Boss Boy",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 3.65,
+          "best_back_size": 27.65,
+          "best_lay": 3.7,
+          "best_lay_size": 1.93,
+          "spread": 0.05,
+          "back_ladder": [
+            {
+              "price": 3.65,
+              "size": 27.65
+            },
+            {
+              "price": 3.6,
+              "size": 36.85
+            },
+            {
+              "price": 3.55,
+              "size": 39.97
+            },
+            {
+              "price": 3.5,
+              "size": 112.52
+            },
+            {
+              "price": 3.45,
+              "size": 115.44
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.7,
+              "size": 1.93
+            },
+            {
+              "price": 3.75,
+              "size": 24.53
+            },
+            {
+              "price": 3.8,
+              "size": 195.47
+            },
+            {
+              "price": 3.85,
+              "size": 20.91
+            },
+            {
+              "price": 3.9,
+              "size": 135.27
+            }
+          ],
+          "runner_matched_volume": 3088.06,
+          "last_price_traded": 3.75,
+          "market_prob": 0.265098,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100200686,
+          "name": "4. Gottacookacurry",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 40.0,
+          "best_back_size": 4.64,
+          "best_lay": 44.0,
+          "best_lay_size": 6.12,
+          "spread": 4.0,
+          "back_ladder": [
+            {
+              "price": 40.0,
+              "size": 4.64
+            },
+            {
+              "price": 36.0,
+              "size": 19.37
+            },
+            {
+              "price": 34.0,
+              "size": 17.43
+            },
+            {
+              "price": 32.0,
+              "size": 16.71
+            },
+            {
+              "price": 30.0,
+              "size": 28.28
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 44.0,
+              "size": 6.12
+            },
+            {
+              "price": 46.0,
+              "size": 2.49
+            },
+            {
+              "price": 48.0,
+              "size": 3.46
+            },
+            {
+              "price": 55.0,
+              "size": 4.33
+            },
+            {
+              "price": 60.0,
+              "size": 4.16
+            }
+          ],
+          "runner_matched_volume": 146.58,
+          "last_price_traded": 42.0,
+          "market_prob": 0.02419,
+          "market_rank": 10
+        },
+        {
+          "selection_id": 82079438,
+          "name": "5. King Tagaloa",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 20.0,
+          "best_back_size": 1.12,
+          "best_lay": 21.0,
+          "best_lay_size": 15.73,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 20.0,
+              "size": 1.12
+            },
+            {
+              "price": 19.5,
+              "size": 26.48
+            },
+            {
+              "price": 19.0,
+              "size": 4.97
+            },
+            {
+              "price": 18.5,
+              "size": 12.72
+            },
+            {
+              "price": 18.0,
+              "size": 26.99
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 21.0,
+              "size": 15.73
+            },
+            {
+              "price": 22.0,
+              "size": 10.82
+            },
+            {
+              "price": 23.0,
+              "size": 21.23
+            },
+            {
+              "price": 24.0,
+              "size": 25.81
+            },
+            {
+              "price": 25.0,
+              "size": 28.5
+            }
+          ],
+          "runner_matched_volume": 205.87,
+          "last_price_traded": 20.0,
+          "market_prob": 0.04838,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 11156588,
+          "name": "6. Long Shot",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 28.0,
+          "best_back_size": 2.73,
+          "best_lay": 29.0,
+          "best_lay_size": 3.27,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 28.0,
+              "size": 2.73
+            },
+            {
+              "price": 27.0,
+              "size": 8.89
+            },
+            {
+              "price": 26.0,
+              "size": 24.84
+            },
+            {
+              "price": 25.0,
+              "size": 17.32
+            },
+            {
+              "price": 24.0,
+              "size": 23.16
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 29.0,
+              "size": 3.27
+            },
+            {
+              "price": 30.0,
+              "size": 2.14
+            },
+            {
+              "price": 32.0,
+              "size": 29.69
+            },
+            {
+              "price": 34.0,
+              "size": 15.63
+            },
+            {
+              "price": 36.0,
+              "size": 15.77
+            }
+          ],
+          "runner_matched_volume": 159.98,
+          "last_price_traded": 28.0,
+          "market_prob": 0.034557,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100721742,
+          "name": "7. Maranoa Boy",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 21.0,
+          "best_back_size": 49.83,
+          "best_lay": 23.0,
+          "best_lay_size": 15.09,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 21.0,
+              "size": 49.83
+            },
+            {
+              "price": 20.0,
+              "size": 13.87
+            },
+            {
+              "price": 19.5,
+              "size": 12.73
+            },
+            {
+              "price": 19.0,
+              "size": 26.32
+            },
+            {
+              "price": 18.5,
+              "size": 47.21
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 23.0,
+              "size": 15.09
+            },
+            {
+              "price": 24.0,
+              "size": 34.68
+            },
+            {
+              "price": 25.0,
+              "size": 8.36
+            },
+            {
+              "price": 26.0,
+              "size": 17.89
+            },
+            {
+              "price": 27.0,
+              "size": 35.81
+            }
+          ],
+          "runner_matched_volume": 375.76,
+          "last_price_traded": 22.0,
+          "market_prob": 0.046077,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 100721743,
+          "name": "8. Rainy Night",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 5.9,
+          "best_back_size": 23.76,
+          "best_lay": 6.0,
+          "best_lay_size": 20.29,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.9,
+              "size": 23.76
+            },
+            {
+              "price": 5.8,
+              "size": 82.74
+            },
+            {
+              "price": 5.7,
+              "size": 48.88
+            },
+            {
+              "price": 5.6,
+              "size": 82.32
+            },
+            {
+              "price": 5.5,
+              "size": 80.28
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 6.0,
+              "size": 20.29
+            },
+            {
+              "price": 6.2,
+              "size": 174.67
+            },
+            {
+              "price": 6.4,
+              "size": 96.0
+            },
+            {
+              "price": 6.6,
+              "size": 76.87
+            },
+            {
+              "price": 6.8,
+              "size": 103.69
+            }
+          ],
+          "runner_matched_volume": 2566.97,
+          "last_price_traded": 6.0,
+          "market_prob": 0.164001,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 93168006,
+          "name": "9. Where Eagles Dare",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 12.0,
+          "best_back_size": 24.02,
+          "best_lay": 13.0,
+          "best_lay_size": 17.48,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 12.0,
+              "size": 24.02
+            },
+            {
+              "price": 11.5,
+              "size": 27.97
+            },
+            {
+              "price": 11.0,
+              "size": 71.83
+            },
+            {
+              "price": 10.5,
+              "size": 96.18
+            },
+            {
+              "price": 10.0,
+              "size": 100.44
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 13.0,
+              "size": 17.48
+            },
+            {
+              "price": 13.5,
+              "size": 17.75
+            },
+            {
+              "price": 14.0,
+              "size": 30.44
+            },
+            {
+              "price": 14.5,
+              "size": 28.31
+            },
+            {
+              "price": 15.0,
+              "size": 21.72
+            }
+          ],
+          "runner_matched_volume": 787.83,
+          "last_price_traded": 12.0,
+          "market_prob": 0.080634,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 85319950,
+          "name": "10. Elegant Force",
+          "saddle_cloth": 9,
+          "status": "ACTIVE",
+          "best_back": 38.0,
+          "best_back_size": 8.27,
+          "best_lay": 42.0,
+          "best_lay_size": 1.93,
+          "spread": 4.0,
+          "back_ladder": [
+            {
+              "price": 38.0,
+              "size": 8.27
+            },
+            {
+              "price": 36.0,
+              "size": 18.01
+            },
+            {
+              "price": 34.0,
+              "size": 17.39
+            },
+            {
+              "price": 32.0,
+              "size": 18.42
+            },
+            {
+              "price": 30.0,
+              "size": 23.26
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 42.0,
+              "size": 1.93
+            },
+            {
+              "price": 44.0,
+              "size": 6.98
+            },
+            {
+              "price": 46.0,
+              "size": 6.38
+            },
+            {
+              "price": 48.0,
+              "size": 4.43
+            },
+            {
+              "price": 50.0,
+              "size": 6.25
+            }
+          ],
+          "runner_matched_volume": 101.16,
+          "last_price_traded": 42.0,
+          "market_prob": 0.025463,
+          "market_rank": 9
+        },
+        {
+          "selection_id": 75717294,
+          "name": "11. Tornado Anwa",
+          "saddle_cloth": 10,
+          "status": "ACTIVE",
+          "best_back": 110.0,
+          "best_back_size": 4.43,
+          "best_lay": 150.0,
+          "best_lay_size": 1.03,
+          "spread": 40.0,
+          "back_ladder": [
+            {
+              "price": 110.0,
+              "size": 4.43
+            },
+            {
+              "price": 100.0,
+              "size": 4.01
+            },
+            {
+              "price": 95.0,
+              "size": 2.13
+            },
+            {
+              "price": 90.0,
+              "size": 3.85
+            },
+            {
+              "price": 80.0,
+              "size": 2.01
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 150.0,
+              "size": 1.03
+            },
+            {
+              "price": 210.0,
+              "size": 4.65
+            },
+            {
+              "price": 230.0,
+              "size": 1.25
+            },
+            {
+              "price": 290.0,
+              "size": 2.33
+            },
+            {
+              "price": 300.0,
+              "size": 5.0
+            }
+          ],
+          "runner_matched_volume": 40.59,
+          "last_price_traded": 120.0,
+          "market_prob": 0.008796,
+          "market_rank": 11
+        },
+        {
+          "selection_id": 100721744,
+          "name": "12. Venus Shock",
+          "saddle_cloth": 11,
+          "status": "ACTIVE",
+          "best_back": 9.8,
+          "best_back_size": 20.88,
+          "best_lay": 10.5,
+          "best_lay_size": 10.12,
+          "spread": 0.7,
+          "back_ladder": [
+            {
+              "price": 9.8,
+              "size": 20.88
+            },
+            {
+              "price": 9.6,
+              "size": 18.06
+            },
+            {
+              "price": 9.4,
+              "size": 18.02
+            },
+            {
+              "price": 9.2,
+              "size": 47.53
+            },
+            {
+              "price": 9.0,
+              "size": 54.3
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 10.5,
+              "size": 10.12
+            },
+            {
+              "price": 11.0,
+              "size": 20.55
+            },
+            {
+              "price": 11.5,
+              "size": 50.82
+            },
+            {
+              "price": 12.0,
+              "size": 39.67
+            },
+            {
+              "price": 12.5,
+              "size": 46.29
+            }
+          ],
+          "runner_matched_volume": 680.34,
+          "last_price_traded": 10.0,
+          "market_prob": 0.098736,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 100721745,
+          "name": "13. Dandynomite",
+          "saddle_cloth": 12,
+          "status": "ACTIVE",
+          "best_back": 390.0,
+          "best_back_size": 1.73,
+          "best_lay": 530.0,
+          "best_lay_size": 1.91,
+          "spread": 140.0,
+          "back_ladder": [
+            {
+              "price": 390.0,
+              "size": 1.73
+            },
+            {
+              "price": 380.0,
+              "size": 1.25
+            },
+            {
+              "price": 350.0,
+              "size": 4.28
+            },
+            {
+              "price": 340.0,
+              "size": 2.92
+            },
+            {
+              "price": 330.0,
+              "size": 22.33
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 530.0,
+              "size": 1.91
+            },
+            {
+              "price": 540.0,
+              "size": 3.85
+            },
+            {
+              "price": 560.0,
+              "size": 3.85
+            }
+          ],
+          "runner_matched_volume": 1.19,
+          "last_price_traded": 570.0,
+          "market_prob": 0.002481,
+          "market_rank": 12
+        }
+      ]
+    },
+    {
+      "at": "2026-07-19T04:07:30.345474Z",
+      "seconds_to_off": 150,
+      "market_matched_volume": 13209.06,
+      "overround_pct": 102.9,
+      "runners": [
+        {
+          "selection_id": 98925325,
+          "name": "1. A Long Story Short",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 5.1,
+          "best_back_size": 33.21,
+          "best_lay": 5.2,
+          "best_lay_size": 26.37,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.1,
+              "size": 33.21
+            },
+            {
+              "price": 5.0,
+              "size": 124.18
+            },
+            {
+              "price": 4.9,
+              "size": 55.39
+            },
+            {
+              "price": 4.8,
+              "size": 43.38
+            },
+            {
+              "price": 4.7,
+              "size": 87.22
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.2,
+              "size": 26.37
+            },
+            {
+              "price": 5.3,
+              "size": 55.34
+            },
+            {
+              "price": 5.4,
+              "size": 76.04
+            },
+            {
+              "price": 5.5,
+              "size": 52.18
+            },
+            {
+              "price": 5.6,
+              "size": 86.17
+            }
+          ],
+          "runner_matched_volume": 3088.26,
+          "last_price_traded": 5.1,
+          "market_prob": 0.190593,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 80973563,
+          "name": "2. Boss Boy",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 3.45,
+          "best_back_size": 205.12,
+          "best_lay": 3.5,
+          "best_lay_size": 2.38,
+          "spread": 0.05,
+          "back_ladder": [
+            {
+              "price": 3.45,
+              "size": 205.12
+            },
+            {
+              "price": 3.4,
+              "size": 224.11
+            },
+            {
+              "price": 3.35,
+              "size": 109.65
+            },
+            {
+              "price": 3.3,
+              "size": 189.55
+            },
+            {
+              "price": 3.25,
+              "size": 109.74
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.5,
+              "size": 2.38
+            },
+            {
+              "price": 3.55,
+              "size": 41.03
+            },
+            {
+              "price": 3.6,
+              "size": 95.4
+            },
+            {
+              "price": 3.65,
+              "size": 4987.68
+            },
+            {
+              "price": 3.7,
+              "size": 50.66
+            }
+          ],
+          "runner_matched_volume": 4092.0,
+          "last_price_traded": 3.5,
+          "market_prob": 0.281746,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100200686,
+          "name": "4. Gottacookacurry",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 50.0,
+          "best_back_size": 4.34,
+          "best_lay": 60.0,
+          "best_lay_size": 4.15,
+          "spread": 10.0,
+          "back_ladder": [
+            {
+              "price": 50.0,
+              "size": 4.34
+            },
+            {
+              "price": 48.0,
+              "size": 5.84
+            },
+            {
+              "price": 46.0,
+              "size": 9.08
+            },
+            {
+              "price": 44.0,
+              "size": 34.08
+            },
+            {
+              "price": 42.0,
+              "size": 15.87
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 60.0,
+              "size": 4.15
+            },
+            {
+              "price": 65.0,
+              "size": 5.78
+            },
+            {
+              "price": 70.0,
+              "size": 13.15
+            },
+            {
+              "price": 75.0,
+              "size": 9.62
+            },
+            {
+              "price": 80.0,
+              "size": 9.9
+            }
+          ],
+          "runner_matched_volume": 175.13,
+          "last_price_traded": 55.0,
+          "market_prob": 0.01944,
+          "market_rank": 10
+        },
+        {
+          "selection_id": 82079438,
+          "name": "5. King Tagaloa",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 19.5,
+          "best_back_size": 5.65,
+          "best_lay": 21.0,
+          "best_lay_size": 26.93,
+          "spread": 1.5,
+          "back_ladder": [
+            {
+              "price": 19.5,
+              "size": 5.65
+            },
+            {
+              "price": 19.0,
+              "size": 10.37
+            },
+            {
+              "price": 18.5,
+              "size": 20.51
+            },
+            {
+              "price": 18.0,
+              "size": 32.1
+            },
+            {
+              "price": 17.5,
+              "size": 33.4
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 21.0,
+              "size": 26.93
+            },
+            {
+              "price": 22.0,
+              "size": 17.46
+            },
+            {
+              "price": 23.0,
+              "size": 32.8
+            },
+            {
+              "price": 24.0,
+              "size": 40.92
+            },
+            {
+              "price": 25.0,
+              "size": 28.5
+            }
+          ],
+          "runner_matched_volume": 288.04,
+          "last_price_traded": 19.5,
+          "market_prob": 0.049847,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 11156588,
+          "name": "6. Long Shot",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 30.0,
+          "best_back_size": 4.1,
+          "best_lay": 32.0,
+          "best_lay_size": 26.23,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 30.0,
+              "size": 4.1
+            },
+            {
+              "price": 29.0,
+              "size": 20.12
+            },
+            {
+              "price": 28.0,
+              "size": 6.82
+            },
+            {
+              "price": 27.0,
+              "size": 22.21
+            },
+            {
+              "price": 26.0,
+              "size": 22.46
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 32.0,
+              "size": 26.23
+            },
+            {
+              "price": 34.0,
+              "size": 27.84
+            },
+            {
+              "price": 36.0,
+              "size": 24.03
+            },
+            {
+              "price": 38.0,
+              "size": 21.44
+            },
+            {
+              "price": 40.0,
+              "size": 22.71
+            }
+          ],
+          "runner_matched_volume": 187.22,
+          "last_price_traded": 30.0,
+          "market_prob": 0.032401,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100721742,
+          "name": "7. Maranoa Boy",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 22.0,
+          "best_back_size": 13.4,
+          "best_lay": 23.0,
+          "best_lay_size": 11.76,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 22.0,
+              "size": 13.4
+            },
+            {
+              "price": 21.0,
+              "size": 32.18
+            },
+            {
+              "price": 20.0,
+              "size": 12.2
+            },
+            {
+              "price": 19.5,
+              "size": 21.27
+            },
+            {
+              "price": 19.0,
+              "size": 34.27
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 23.0,
+              "size": 11.76
+            },
+            {
+              "price": 24.0,
+              "size": 21.06
+            },
+            {
+              "price": 25.0,
+              "size": 17.12
+            },
+            {
+              "price": 26.0,
+              "size": 41.96
+            },
+            {
+              "price": 27.0,
+              "size": 24.74
+            }
+          ],
+          "runner_matched_volume": 490.9,
+          "last_price_traded": 23.0,
+          "market_prob": 0.044183,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 100721743,
+          "name": "8. Rainy Night",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 5.8,
+          "best_back_size": 50.63,
+          "best_lay": 5.9,
+          "best_lay_size": 15.51,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.8,
+              "size": 50.63
+            },
+            {
+              "price": 5.7,
+              "size": 55.54
+            },
+            {
+              "price": 5.6,
+              "size": 79.08
+            },
+            {
+              "price": 5.5,
+              "size": 98.49
+            },
+            {
+              "price": 5.4,
+              "size": 97.53
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.9,
+              "size": 15.51
+            },
+            {
+              "price": 6.0,
+              "size": 76.93
+            },
+            {
+              "price": 6.2,
+              "size": 208.95
+            },
+            {
+              "price": 6.4,
+              "size": 98.4
+            },
+            {
+              "price": 6.6,
+              "size": 134.31
+            }
+          ],
+          "runner_matched_volume": 2862.94,
+          "last_price_traded": 5.9,
+          "market_prob": 0.16759,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 93168006,
+          "name": "9. Where Eagles Dare",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 12.0,
+          "best_back_size": 23.35,
+          "best_lay": 12.5,
+          "best_lay_size": 17.72,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 12.0,
+              "size": 23.35
+            },
+            {
+              "price": 11.5,
+              "size": 118.27
+            },
+            {
+              "price": 11.0,
+              "size": 81.01
+            },
+            {
+              "price": 10.5,
+              "size": 104.47
+            },
+            {
+              "price": 10.0,
+              "size": 80.0
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 12.5,
+              "size": 17.72
+            },
+            {
+              "price": 13.0,
+              "size": 7.59
+            },
+            {
+              "price": 13.5,
+              "size": 19.68
+            },
+            {
+              "price": 14.0,
+              "size": 65.0
+            },
+            {
+              "price": 14.5,
+              "size": 32.14
+            }
+          ],
+          "runner_matched_volume": 957.07,
+          "last_price_traded": 12.5,
+          "market_prob": 0.081002,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 85319950,
+          "name": "10. Elegant Force",
+          "saddle_cloth": 9,
+          "status": "ACTIVE",
+          "best_back": 38.0,
+          "best_back_size": 6.99,
+          "best_lay": 40.0,
+          "best_lay_size": 12.55,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 38.0,
+              "size": 6.99
+            },
+            {
+              "price": 36.0,
+              "size": 12.9
+            },
+            {
+              "price": 34.0,
+              "size": 15.4
+            },
+            {
+              "price": 32.0,
+              "size": 34.7
+            },
+            {
+              "price": 30.0,
+              "size": 20.5
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 40.0,
+              "size": 12.55
+            },
+            {
+              "price": 42.0,
+              "size": 11.72
+            },
+            {
+              "price": 44.0,
+              "size": 11.02
+            },
+            {
+              "price": 46.0,
+              "size": 15.58
+            },
+            {
+              "price": 48.0,
+              "size": 12.12
+            }
+          ],
+          "runner_matched_volume": 199.49,
+          "last_price_traded": 42.0,
+          "market_prob": 0.02558,
+          "market_rank": 9
+        },
+        {
+          "selection_id": 75717294,
+          "name": "11. Tornado Anwa",
+          "saddle_cloth": 10,
+          "status": "ACTIVE",
+          "best_back": 120.0,
+          "best_back_size": 1.54,
+          "best_lay": 160.0,
+          "best_lay_size": 1.76,
+          "spread": 40.0,
+          "back_ladder": [
+            {
+              "price": 120.0,
+              "size": 1.54
+            },
+            {
+              "price": 110.0,
+              "size": 4.14
+            },
+            {
+              "price": 100.0,
+              "size": 1.13
+            },
+            {
+              "price": 90.0,
+              "size": 2.84
+            },
+            {
+              "price": 80.0,
+              "size": 6.1
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 160.0,
+              "size": 1.76
+            },
+            {
+              "price": 190.0,
+              "size": 2.58
+            },
+            {
+              "price": 200.0,
+              "size": 1.2
+            },
+            {
+              "price": 230.0,
+              "size": 2.12
+            },
+            {
+              "price": 290.0,
+              "size": 3.82
+            }
+          ],
+          "runner_matched_volume": 62.64,
+          "last_price_traded": 100.0,
+          "market_prob": 0.0081,
+          "market_rank": 11
+        },
+        {
+          "selection_id": 100721744,
+          "name": "12. Venus Shock",
+          "saddle_cloth": 11,
+          "status": "ACTIVE",
+          "best_back": 10.0,
+          "best_back_size": 28.95,
+          "best_lay": 10.5,
+          "best_lay_size": 17.94,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 10.0,
+              "size": 28.95
+            },
+            {
+              "price": 9.8,
+              "size": 21.77
+            },
+            {
+              "price": 9.6,
+              "size": 32.17
+            },
+            {
+              "price": 9.4,
+              "size": 21.21
+            },
+            {
+              "price": 9.2,
+              "size": 74.61
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 10.5,
+              "size": 17.94
+            },
+            {
+              "price": 11.0,
+              "size": 19.96
+            },
+            {
+              "price": 11.5,
+              "size": 71.69
+            },
+            {
+              "price": 12.0,
+              "size": 39.67
+            },
+            {
+              "price": 12.5,
+              "size": 61.04
+            }
+          ],
+          "runner_matched_volume": 802.16,
+          "last_price_traded": 10.0,
+          "market_prob": 0.097202,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 100721745,
+          "name": "13. Dandynomite",
+          "saddle_cloth": 12,
+          "status": "ACTIVE",
+          "best_back": 420.0,
+          "best_back_size": 2.1,
+          "best_lay": 530.0,
+          "best_lay_size": 4.96,
+          "spread": 110.0,
+          "back_ladder": [
+            {
+              "price": 420.0,
+              "size": 2.1
+            },
+            {
+              "price": 410.0,
+              "size": 1.45
+            },
+            {
+              "price": 380.0,
+              "size": 2.18
+            },
+            {
+              "price": 370.0,
+              "size": 3.9
+            },
+            {
+              "price": 340.0,
+              "size": 3.03
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 530.0,
+              "size": 4.96
+            },
+            {
+              "price": 540.0,
+              "size": 3.85
+            }
+          ],
+          "runner_matched_volume": 3.14,
+          "last_price_traded": 530.0,
+          "market_prob": 0.002314,
+          "market_rank": 12
+        }
+      ]
+    },
+    {
+      "at": "2026-07-19T04:08:45.342181Z",
+      "seconds_to_off": 75,
+      "market_matched_volume": 29667.49,
+      "overround_pct": 102.6,
+      "runners": [
+        {
+          "selection_id": 98925325,
+          "name": "1. A Long Story Short",
+          "saddle_cloth": 1,
+          "status": "ACTIVE",
+          "best_back": 5.2,
+          "best_back_size": 91.12,
+          "best_lay": 5.3,
+          "best_lay_size": 3.43,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.2,
+              "size": 91.12
+            },
+            {
+              "price": 5.1,
+              "size": 60.69
+            },
+            {
+              "price": 5.0,
+              "size": 89.15
+            },
+            {
+              "price": 4.9,
+              "size": 117.17
+            },
+            {
+              "price": 4.8,
+              "size": 140.25
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.3,
+              "size": 3.43
+            },
+            {
+              "price": 5.4,
+              "size": 71.03
+            },
+            {
+              "price": 5.5,
+              "size": 26.62
+            },
+            {
+              "price": 5.6,
+              "size": 43.92
+            },
+            {
+              "price": 5.7,
+              "size": 52.01
+            }
+          ],
+          "runner_matched_volume": 4568.59,
+          "last_price_traded": 5.4,
+          "market_prob": 0.187464,
+          "market_rank": 2
+        },
+        {
+          "selection_id": 80973563,
+          "name": "2. Boss Boy",
+          "saddle_cloth": 2,
+          "status": "ACTIVE",
+          "best_back": 3.35,
+          "best_back_size": 358.45,
+          "best_lay": 3.4,
+          "best_lay_size": 166.94,
+          "spread": 0.05,
+          "back_ladder": [
+            {
+              "price": 3.35,
+              "size": 358.45
+            },
+            {
+              "price": 3.3,
+              "size": 503.4
+            },
+            {
+              "price": 3.25,
+              "size": 719.16
+            },
+            {
+              "price": 3.2,
+              "size": 208.62
+            },
+            {
+              "price": 3.15,
+              "size": 210.28
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 3.4,
+              "size": 166.94
+            },
+            {
+              "price": 3.45,
+              "size": 212.87
+            },
+            {
+              "price": 3.5,
+              "size": 315.55
+            },
+            {
+              "price": 3.55,
+              "size": 318.71
+            },
+            {
+              "price": 3.6,
+              "size": 146.34
+            }
+          ],
+          "runner_matched_volume": 16660.46,
+          "last_price_traded": 3.35,
+          "market_prob": 0.290989,
+          "market_rank": 1
+        },
+        {
+          "selection_id": 100200686,
+          "name": "4. Gottacookacurry",
+          "saddle_cloth": 3,
+          "status": "ACTIVE",
+          "best_back": 48.0,
+          "best_back_size": 7.66,
+          "best_lay": 50.0,
+          "best_lay_size": 34.2,
+          "spread": 2.0,
+          "back_ladder": [
+            {
+              "price": 48.0,
+              "size": 7.66
+            },
+            {
+              "price": 46.0,
+              "size": 25.41
+            },
+            {
+              "price": 44.0,
+              "size": 16.05
+            },
+            {
+              "price": 42.0,
+              "size": 31.44
+            },
+            {
+              "price": 40.0,
+              "size": 21.91
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 50.0,
+              "size": 34.2
+            },
+            {
+              "price": 55.0,
+              "size": 11.47
+            },
+            {
+              "price": 60.0,
+              "size": 23.61
+            },
+            {
+              "price": 65.0,
+              "size": 17.71
+            },
+            {
+              "price": 70.0,
+              "size": 18.07
+            }
+          ],
+          "runner_matched_volume": 388.23,
+          "last_price_traded": 50.0,
+          "market_prob": 0.020309,
+          "market_rank": 10
+        },
+        {
+          "selection_id": 82079438,
+          "name": "5. King Tagaloa",
+          "saddle_cloth": 4,
+          "status": "ACTIVE",
+          "best_back": 22.0,
+          "best_back_size": 25.27,
+          "best_lay": 23.0,
+          "best_lay_size": 14.26,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 22.0,
+              "size": 25.27
+            },
+            {
+              "price": 21.0,
+              "size": 54.02
+            },
+            {
+              "price": 20.0,
+              "size": 46.23
+            },
+            {
+              "price": 19.5,
+              "size": 46.23
+            },
+            {
+              "price": 19.0,
+              "size": 64.06
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 23.0,
+              "size": 14.26
+            },
+            {
+              "price": 24.0,
+              "size": 12.82
+            },
+            {
+              "price": 25.0,
+              "size": 29.46
+            },
+            {
+              "price": 26.0,
+              "size": 53.2
+            },
+            {
+              "price": 27.0,
+              "size": 34.93
+            }
+          ],
+          "runner_matched_volume": 405.55,
+          "last_price_traded": 23.0,
+          "market_prob": 0.04431,
+          "market_rank": 6
+        },
+        {
+          "selection_id": 11156588,
+          "name": "6. Long Shot",
+          "saddle_cloth": 5,
+          "status": "ACTIVE",
+          "best_back": 28.0,
+          "best_back_size": 45.82,
+          "best_lay": 29.0,
+          "best_lay_size": 13.48,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 28.0,
+              "size": 45.82
+            },
+            {
+              "price": 27.0,
+              "size": 46.42
+            },
+            {
+              "price": 26.0,
+              "size": 22.93
+            },
+            {
+              "price": 25.0,
+              "size": 19.71
+            },
+            {
+              "price": 24.0,
+              "size": 23.16
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 29.0,
+              "size": 13.48
+            },
+            {
+              "price": 30.0,
+              "size": 62.51
+            },
+            {
+              "price": 32.0,
+              "size": 19.61
+            },
+            {
+              "price": 34.0,
+              "size": 14.84
+            },
+            {
+              "price": 36.0,
+              "size": 24.03
+            }
+          ],
+          "runner_matched_volume": 258.32,
+          "last_price_traded": 28.0,
+          "market_prob": 0.034815,
+          "market_rank": 8
+        },
+        {
+          "selection_id": 100721742,
+          "name": "7. Maranoa Boy",
+          "saddle_cloth": 6,
+          "status": "ACTIVE",
+          "best_back": 25.0,
+          "best_back_size": 10.96,
+          "best_lay": 26.0,
+          "best_lay_size": 1.98,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 25.0,
+              "size": 10.96
+            },
+            {
+              "price": 24.0,
+              "size": 57.28
+            },
+            {
+              "price": 23.0,
+              "size": 25.13
+            },
+            {
+              "price": 22.0,
+              "size": 43.04
+            },
+            {
+              "price": 21.0,
+              "size": 27.05
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 26.0,
+              "size": 1.98
+            },
+            {
+              "price": 27.0,
+              "size": 10.68
+            },
+            {
+              "price": 28.0,
+              "size": 24.77
+            },
+            {
+              "price": 29.0,
+              "size": 26.64
+            },
+            {
+              "price": 30.0,
+              "size": 25.85
+            }
+          ],
+          "runner_matched_volume": 745.67,
+          "last_price_traded": 26.0,
+          "market_prob": 0.038993,
+          "market_rank": 7
+        },
+        {
+          "selection_id": 100721743,
+          "name": "8. Rainy Night",
+          "saddle_cloth": 7,
+          "status": "ACTIVE",
+          "best_back": 5.8,
+          "best_back_size": 70.16,
+          "best_lay": 5.9,
+          "best_lay_size": 64.25,
+          "spread": 0.1,
+          "back_ladder": [
+            {
+              "price": 5.8,
+              "size": 70.16
+            },
+            {
+              "price": 5.7,
+              "size": 119.69
+            },
+            {
+              "price": 5.6,
+              "size": 126.85
+            },
+            {
+              "price": 5.5,
+              "size": 105.87
+            },
+            {
+              "price": 5.4,
+              "size": 139.71
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 5.9,
+              "size": 64.25
+            },
+            {
+              "price": 6.0,
+              "size": 79.04
+            },
+            {
+              "price": 6.2,
+              "size": 218.88
+            },
+            {
+              "price": 6.4,
+              "size": 97.93
+            },
+            {
+              "price": 6.6,
+              "size": 143.21
+            }
+          ],
+          "runner_matched_volume": 3592.61,
+          "last_price_traded": 5.8,
+          "market_prob": 0.168071,
+          "market_rank": 3
+        },
+        {
+          "selection_id": 93168006,
+          "name": "9. Where Eagles Dare",
+          "saddle_cloth": 8,
+          "status": "ACTIVE",
+          "best_back": 12.0,
+          "best_back_size": 31.16,
+          "best_lay": 12.5,
+          "best_lay_size": 65.89,
+          "spread": 0.5,
+          "back_ladder": [
+            {
+              "price": 12.0,
+              "size": 31.16
+            },
+            {
+              "price": 11.5,
+              "size": 53.8
+            },
+            {
+              "price": 11.0,
+              "size": 163.44
+            },
+            {
+              "price": 10.5,
+              "size": 106.02
+            },
+            {
+              "price": 10.0,
+              "size": 122.18
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 12.5,
+              "size": 65.89
+            },
+            {
+              "price": 13.0,
+              "size": 30.57
+            },
+            {
+              "price": 13.5,
+              "size": 33.38
+            },
+            {
+              "price": 14.0,
+              "size": 73.6
+            },
+            {
+              "price": 14.5,
+              "size": 33.58
+            }
+          ],
+          "runner_matched_volume": 1336.75,
+          "last_price_traded": 12.5,
+          "market_prob": 0.081234,
+          "market_rank": 5
+        },
+        {
+          "selection_id": 85319950,
+          "name": "10. Elegant Force",
+          "saddle_cloth": 9,
+          "status": "ACTIVE",
+          "best_back": 40.0,
+          "best_back_size": 35.62,
+          "best_lay": 44.0,
+          "best_lay_size": 14.36,
+          "spread": 4.0,
+          "back_ladder": [
+            {
+              "price": 40.0,
+              "size": 35.62
+            },
+            {
+              "price": 38.0,
+              "size": 26.26
+            },
+            {
+              "price": 36.0,
+              "size": 21.11
+            },
+            {
+              "price": 34.0,
+              "size": 30.47
+            },
+            {
+              "price": 32.0,
+              "size": 26.38
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 44.0,
+              "size": 14.36
+            },
+            {
+              "price": 46.0,
+              "size": 14.07
+            },
+            {
+              "price": 48.0,
+              "size": 20.22
+            },
+            {
+              "price": 50.0,
+              "size": 29.09
+            },
+            {
+              "price": 55.0,
+              "size": 19.96
+            }
+          ],
+          "runner_matched_volume": 287.34,
+          "last_price_traded": 44.0,
+          "market_prob": 0.02437,
+          "market_rank": 9
+        },
+        {
+          "selection_id": 75717294,
+          "name": "11. Tornado Anwa",
+          "saddle_cloth": 10,
+          "status": "ACTIVE",
+          "best_back": 100.0,
+          "best_back_size": 6.21,
+          "best_lay": 110.0,
+          "best_lay_size": 33.7,
+          "spread": 10.0,
+          "back_ladder": [
+            {
+              "price": 100.0,
+              "size": 6.21
+            },
+            {
+              "price": 95.0,
+              "size": 3.36
+            },
+            {
+              "price": 90.0,
+              "size": 4.46
+            },
+            {
+              "price": 85.0,
+              "size": 5.64
+            },
+            {
+              "price": 80.0,
+              "size": 8.21
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 110.0,
+              "size": 33.7
+            },
+            {
+              "price": 120.0,
+              "size": 1.49
+            },
+            {
+              "price": 130.0,
+              "size": 8.82
+            },
+            {
+              "price": 140.0,
+              "size": 5.78
+            },
+            {
+              "price": 150.0,
+              "size": 1.93
+            }
+          ],
+          "runner_matched_volume": 162.79,
+          "last_price_traded": 110.0,
+          "market_prob": 0.009748,
+          "market_rank": 11
+        },
+        {
+          "selection_id": 100721744,
+          "name": "12. Venus Shock",
+          "saddle_cloth": 11,
+          "status": "ACTIVE",
+          "best_back": 10.0,
+          "best_back_size": 104.12,
+          "best_lay": 11.0,
+          "best_lay_size": 26.44,
+          "spread": 1.0,
+          "back_ladder": [
+            {
+              "price": 10.0,
+              "size": 104.12
+            },
+            {
+              "price": 9.8,
+              "size": 28.47
+            },
+            {
+              "price": 9.6,
+              "size": 45.0
+            },
+            {
+              "price": 9.4,
+              "size": 57.31
+            },
+            {
+              "price": 9.2,
+              "size": 133.62
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 11.0,
+              "size": 26.44
+            },
+            {
+              "price": 11.5,
+              "size": 84.74
+            },
+            {
+              "price": 12.0,
+              "size": 39.6
+            },
+            {
+              "price": 12.5,
+              "size": 48.76
+            },
+            {
+              "price": 13.0,
+              "size": 74.68
+            }
+          ],
+          "runner_matched_volume": 1257.95,
+          "last_price_traded": 10.5,
+          "market_prob": 0.097481,
+          "market_rank": 4
+        },
+        {
+          "selection_id": 100721745,
+          "name": "13. Dandynomite",
+          "saddle_cloth": 12,
+          "status": "ACTIVE",
+          "best_back": 440.0,
+          "best_back_size": 1.0,
+          "best_lay": 760.0,
+          "best_lay_size": 1.37,
+          "spread": 320.0,
+          "back_ladder": [
+            {
+              "price": 440.0,
+              "size": 1.0
+            },
+            {
+              "price": 430.0,
+              "size": 2.9
+            },
+            {
+              "price": 410.0,
+              "size": 1.54
+            },
+            {
+              "price": 390.0,
+              "size": 1.0
+            },
+            {
+              "price": 370.0,
+              "size": 1.04
+            }
+          ],
+          "lay_ladder": [
+            {
+              "price": 760.0,
+              "size": 1.37
+            },
+            {
+              "price": 770.0,
+              "size": 3.85
+            }
+          ],
+          "runner_matched_volume": 3.16,
+          "last_price_traded": 510.0,
+          "market_prob": 0.002215,
+          "market_rank": 12
+        }
+      ]
+    }
+  ],
+  "place": {
+    "98925325": {
+      "place_entry": 1.98
+    },
+    "80973563": {
+      "place_entry": 1.64
+    },
+    "100200686": {
+      "place_entry": 8.6
+    },
+    "82079438": {
+      "place_entry": 4.3
+    },
+    "11156588": {
+      "place_entry": 5.6
+    },
+    "100721742": {
+      "place_entry": 4.8
+    },
+    "100721743": {
+      "place_entry": 2.1
+    },
+    "93168006": {
+      "place_entry": 3.2
+    },
+    "85319950": {
+      "place_entry": 7.2
+    },
+    "75717294": {
+      "place_entry": 15.5
+    },
+    "100721744": {
+      "place_entry": 2.86
+    },
+    "100721745": {
+      "place_entry": 50.0
+    }
+  },
+  "place_entry_at": "2026-07-19T04:06:04.467566Z",
+  "place_market_id": "1.260121039",
+  "place_terms": 3,
+  "finalized_at": "2026-07-19T04:15:36.772509Z"
+}
