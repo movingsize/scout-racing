@@ -1,22 +1,294 @@
 {
-  "slate_date": "2026-07-16",
-  "generated_at_utc": "2026-07-16T13:00:04Z",
-  "last_polled_at": "2026-07-16T15:00:47Z",
+  "slate_date": "2026-07-20",
+  "generated_at_utc": "2026-07-20T13:00:04Z",
+  "last_polled_at": "2026-07-20T13:00:04Z",
   "final_snapshot": false,
   "source_versions": {
     "statsapi": "v1",
     "savant_xstats": "2026",
-    "fip_constant": 3.093,
+    "fip_constant": 3.092,
     "park_factors_source": "fantasyteamadvice.com",
     "xfip_lg_hrfb": 0.135,
     "closing_odds_source": "betfair_exchange_aud"
   },
   "phase": 3,
   "games": {
-    "mlb-nym-phi": {
-      "game_pk": 823440,
+    "mlb-min-cle": {
+      "game_pk": 824410,
       "game_number": 1,
-      "start_time_utc": "2026-07-16T23:10:00Z",
+      "start_time_utc": "2026-07-20T22:40:00Z",
+      "park_factor": 1.02,
+      "park_factor_hand": {
+        "L": 1.05,
+        "R": 0.99
+      },
+      "park_factor_status": "confirmed",
+      "away": {
+        "team": "min",
+        "starter": {
+          "name": "Joe Ryan",
+          "mlbam_id": 657746,
+          "hand": "R",
+          "fip": 2.77,
+          "era": 2.85,
+          "ip": 110.3,
+          "xera": 3.21,
+          "xwoba": 0.279,
+          "xfip": 2.89,
+          "siera": 2.56,
+          "data_status": "confirmed",
+          "warnings": []
+        },
+        "bullpen_ra9": 5.52,
+        "rg": 4.79,
+        "wrc_plus": 102,
+        "wrc_vs_lhp": 97,
+        "wrc_vs_rhp": 104,
+        "data_status": "confirmed",
+        "warnings": []
+      },
+      "home": {
+        "team": "cle",
+        "starter": {
+          "name": "Tanner Bibee",
+          "mlbam_id": 676440,
+          "hand": "R",
+          "fip": 4.81,
+          "era": 3.9,
+          "ip": 113.0,
+          "xera": 4.67,
+          "xwoba": 0.332,
+          "xfip": 3.95,
+          "siera": 4.02,
+          "data_status": "confirmed",
+          "warnings": []
+        },
+        "bullpen_ra9": 4.22,
+        "rg": 3.92,
+        "wrc_plus": 95,
+        "wrc_vs_lhp": 94,
+        "wrc_vs_rhp": 96,
+        "data_status": "confirmed",
+        "warnings": []
+      },
+      "live_odds": null,
+      "closing_odds": null,
+      "call": {
+        "call": "OK",
+        "label": "OK",
+        "confidence": "ok",
+        "reason": "both sides confirmed",
+        "guard": "data_adequacy v1.0"
+      }
+    },
+    "mlb-pit-nyy": {
+      "game_pk": 823522,
+      "game_number": 1,
+      "start_time_utc": "2026-07-20T23:05:00Z",
+      "park_factor": 1.0,
+      "park_factor_hand": {
+        "L": 1.0,
+        "R": 1.01
+      },
+      "park_factor_status": "confirmed",
+      "away": {
+        "team": "pit",
+        "starter": {
+          "name": "Braxton Ashcraft",
+          "mlbam_id": 677952,
+          "hand": "R",
+          "fip": 3.31,
+          "era": 3.49,
+          "ip": 113.3,
+          "xera": 3.31,
+          "xwoba": 0.283,
+          "xfip": 2.96,
+          "siera": 2.7,
+          "data_status": "confirmed",
+          "warnings": []
+        },
+        "bullpen_ra9": 5.22,
+        "rg": 5.33,
+        "wrc_plus": 107,
+        "wrc_vs_lhp": 101,
+        "wrc_vs_rhp": 109,
+        "data_status": "confirmed",
+        "warnings": []
+      },
+      "home": {
+        "team": "nyy",
+        "starter": {
+          "name": "Ryan Weathers",
+          "mlbam_id": 677960,
+          "hand": "L",
+          "fip": 3.86,
+          "era": 4.15,
+          "ip": 97.7,
+          "xera": 4.43,
+          "xwoba": 0.324,
+          "xfip": 2.92,
+          "siera": 2.87,
+          "data_status": "confirmed",
+          "warnings": []
+        },
+        "bullpen_ra9": 3.69,
+        "rg": 4.72,
+        "wrc_plus": 102,
+        "wrc_vs_lhp": 103,
+        "wrc_vs_rhp": 101,
+        "data_status": "confirmed",
+        "warnings": []
+      },
+      "live_odds": null,
+      "closing_odds": null,
+      "call": {
+        "call": "OK",
+        "label": "OK",
+        "confidence": "ok",
+        "reason": "both sides confirmed",
+        "guard": "data_adequacy v1.0"
+      }
+    },
+    "mlb-tb-tor": {
+      "game_pk": 822788,
+      "game_number": 1,
+      "start_time_utc": "2026-07-20T23:07:00Z",
+      "park_factor": 0.99,
+      "park_factor_hand": {
+        "L": 0.99,
+        "R": 1.0
+      },
+      "park_factor_status": "confirmed",
+      "away": {
+        "team": "tb",
+        "starter": {
+          "name": "Nick Martinez",
+          "mlbam_id": 607259,
+          "hand": "R",
+          "fip": 3.9,
+          "era": 2.65,
+          "ip": 105.3,
+          "xera": 4.71,
+          "xwoba": 0.333,
+          "xfip": 4.14,
+          "siera": 4.35,
+          "data_status": "confirmed",
+          "warnings": []
+        },
+        "bullpen_ra9": 4.74,
+        "rg": 4.44,
+        "wrc_plus": 101,
+        "wrc_vs_lhp": 96,
+        "wrc_vs_rhp": 104,
+        "data_status": "confirmed",
+        "warnings": []
+      },
+      "home": {
+        "team": "tor",
+        "starter": {
+          "name": "Dylan Cease",
+          "mlbam_id": 656302,
+          "hand": "R",
+          "fip": 2.18,
+          "era": 2.56,
+          "ip": 98.3,
+          "xera": 2.87,
+          "xwoba": 0.264,
+          "xfip": 2.27,
+          "siera": 2.23,
+          "data_status": "confirmed",
+          "warnings": []
+        },
+        "bullpen_ra9": 4.42,
+        "rg": 4.01,
+        "wrc_plus": 95,
+        "wrc_vs_lhp": 91,
+        "wrc_vs_rhp": 97,
+        "data_status": "confirmed",
+        "warnings": []
+      },
+      "live_odds": null,
+      "closing_odds": null,
+      "call": {
+        "call": "OK",
+        "label": "OK",
+        "confidence": "ok",
+        "reason": "both sides confirmed",
+        "guard": "data_adequacy v1.0"
+      }
+    },
+    "mlb-bal-bos": {
+      "game_pk": 824736,
+      "game_number": 1,
+      "start_time_utc": "2026-07-20T23:10:00Z",
+      "park_factor": 1.03,
+      "park_factor_hand": {
+        "L": 1.02,
+        "R": 1.04
+      },
+      "park_factor_status": "confirmed",
+      "away": {
+        "team": "bal",
+        "starter": {
+          "name": "Shane Baz",
+          "mlbam_id": 669358,
+          "hand": "R",
+          "fip": 3.58,
+          "era": 4.19,
+          "ip": 111.7,
+          "xera": 4.37,
+          "xwoba": 0.322,
+          "xfip": 3.9,
+          "siera": 3.95,
+          "data_status": "confirmed",
+          "warnings": []
+        },
+        "bullpen_ra9": 4.87,
+        "rg": 4.59,
+        "wrc_plus": 100,
+        "wrc_vs_lhp": 97,
+        "wrc_vs_rhp": 101,
+        "data_status": "confirmed",
+        "warnings": []
+      },
+      "home": {
+        "team": "bos",
+        "starter": {
+          "name": "Payton Tolle",
+          "mlbam_id": 801139,
+          "hand": "L",
+          "fip": 3.22,
+          "era": 3.11,
+          "ip": 84.0,
+          "xera": 3.02,
+          "xwoba": 0.271,
+          "xfip": 3.43,
+          "siera": 3.15,
+          "data_status": "confirmed",
+          "warnings": []
+        },
+        "bullpen_ra9": 3.47,
+        "rg": 4.21,
+        "wrc_plus": 99,
+        "wrc_vs_lhp": 108,
+        "wrc_vs_rhp": 95,
+        "data_status": "confirmed",
+        "warnings": []
+      },
+      "live_odds": null,
+      "closing_odds": null,
+      "call": {
+        "call": "OK",
+        "label": "OK",
+        "confidence": "ok",
+        "reason": "both sides confirmed",
+        "guard": "data_adequacy v1.0"
+      }
+    },
+    "mlb-lad-phi": {
+      "game_pk": 823436,
+      "game_number": 1,
+      "start_time_utc": "2026-07-20T23:10:00Z",
       "park_factor": 1.02,
       "park_factor_hand": {
         "L": 0.99,
@@ -24,23 +296,229 @@
       },
       "park_factor_status": "confirmed",
       "away": {
-        "team": "nym",
+        "team": "lad",
         "starter": {
-          "name": "Christian Scott",
-          "mlbam_id": 681035,
+          "name": "Emmet Sheehan",
+          "mlbam_id": 686218,
           "hand": "R",
-          "fip": 4.09,
-          "era": 3.17,
-          "ip": 54.0,
-          "xera": 4.51,
-          "xwoba": 0.328,
-          "xfip": 3.74,
-          "siera": 3.27,
+          "fip": 4.33,
+          "era": 4.81,
+          "ip": 82.3,
+          "xera": 3.91,
+          "xwoba": 0.306,
+          "xfip": 3.35,
+          "siera": 3.01,
           "data_status": "confirmed",
           "warnings": []
         },
-        "bullpen_ra9": 4.57,
-        "rg": 4.1,
+        "bullpen_ra9": 3.98,
+        "rg": 5.17,
+        "wrc_plus": 106,
+        "wrc_vs_lhp": 104,
+        "wrc_vs_rhp": 107,
+        "data_status": "confirmed",
+        "warnings": []
+      },
+      "home": {
+        "team": "phi",
+        "starter": {
+          "name": "Cristopher S\u00e1nchez",
+          "mlbam_id": 650911,
+          "hand": "L",
+          "fip": 2.69,
+          "era": 2.62,
+          "ip": 127.3,
+          "xera": 3.21,
+          "xwoba": 0.279,
+          "xfip": 2.38,
+          "siera": 2.39,
+          "data_status": "confirmed",
+          "warnings": []
+        },
+        "bullpen_ra9": 4.75,
+        "rg": 4.32,
+        "wrc_plus": 97,
+        "wrc_vs_lhp": 96,
+        "wrc_vs_rhp": 97,
+        "data_status": "confirmed",
+        "warnings": []
+      },
+      "live_odds": null,
+      "closing_odds": null,
+      "call": {
+        "call": "OK",
+        "label": "OK",
+        "confidence": "ok",
+        "reason": "both sides confirmed",
+        "guard": "data_adequacy v1.0"
+      }
+    },
+    "mlb-sd-atl": {
+      "game_pk": 824898,
+      "game_number": 1,
+      "start_time_utc": "2026-07-20T23:15:00Z",
+      "park_factor": 1.03,
+      "park_factor_hand": {
+        "L": 1.05,
+        "R": 1.01
+      },
+      "park_factor_status": "confirmed",
+      "away": {
+        "team": "sd",
+        "starter": {
+          "name": "JP Sears",
+          "mlbam_id": 676664,
+          "hand": "L",
+          "fip": 5.23,
+          "era": 5.03,
+          "ip": 19.7,
+          "xera": 5.41,
+          "xwoba": 0.354,
+          "xfip": 4.55,
+          "siera": 4.11,
+          "data_status": "partial",
+          "warnings": [
+            "low sample: 19.7 IP"
+          ]
+        },
+        "bullpen_ra9": 4.04,
+        "rg": 4.09,
+        "wrc_plus": 95,
+        "wrc_vs_lhp": 95,
+        "wrc_vs_rhp": 95,
+        "data_status": "partial",
+        "warnings": []
+      },
+      "home": {
+        "team": "atl",
+        "starter": {
+          "name": "Bryce Elder",
+          "mlbam_id": 693821,
+          "hand": "R",
+          "fip": 4.31,
+          "era": 4.12,
+          "ip": 102.7,
+          "xera": 3.82,
+          "xwoba": 0.303,
+          "xfip": 3.86,
+          "siera": 3.88,
+          "data_status": "confirmed",
+          "warnings": []
+        },
+        "bullpen_ra9": 3.4,
+        "rg": 4.99,
+        "wrc_plus": 101,
+        "wrc_vs_lhp": 98,
+        "wrc_vs_rhp": 103,
+        "data_status": "confirmed",
+        "warnings": []
+      },
+      "live_odds": null,
+      "closing_odds": null,
+      "call": {
+        "call": "OK",
+        "label": "OK",
+        "confidence": "thin",
+        "reason": "partial inputs (away=partial, home=confirmed)",
+        "guard": "data_adequacy v1.0"
+      }
+    },
+    "mlb-sf-kc": {
+      "game_pk": 824087,
+      "game_number": 1,
+      "start_time_utc": "2026-07-20T23:40:00Z",
+      "park_factor": 1.0,
+      "park_factor_hand": {
+        "L": 1.01,
+        "R": 1.0
+      },
+      "park_factor_status": "confirmed",
+      "away": {
+        "team": "sf",
+        "starter": {
+          "name": "Trevor McDonald",
+          "mlbam_id": 686790,
+          "hand": "R",
+          "fip": 4.04,
+          "era": 5.02,
+          "ip": 66.3,
+          "xera": 3.91,
+          "xwoba": 0.306,
+          "xfip": 3.79,
+          "siera": 3.61,
+          "data_status": "confirmed",
+          "warnings": []
+        },
+        "bullpen_ra9": 4.89,
+        "rg": 4.12,
+        "wrc_plus": 100,
+        "wrc_vs_lhp": 97,
+        "wrc_vs_rhp": 101,
+        "data_status": "confirmed",
+        "warnings": []
+      },
+      "home": {
+        "team": "kc",
+        "starter": {
+          "name": "Michael Wacha",
+          "mlbam_id": 608379,
+          "hand": "R",
+          "fip": 3.99,
+          "era": 3.77,
+          "ip": 119.3,
+          "xera": 4.16,
+          "xwoba": 0.315,
+          "xfip": 3.89,
+          "siera": 3.88,
+          "data_status": "confirmed",
+          "warnings": []
+        },
+        "bullpen_ra9": 5.85,
+        "rg": 4.26,
+        "wrc_plus": 99,
+        "wrc_vs_lhp": 99,
+        "wrc_vs_rhp": 99,
+        "data_status": "confirmed",
+        "warnings": []
+      },
+      "live_odds": null,
+      "closing_odds": null,
+      "call": {
+        "call": "OK",
+        "label": "OK",
+        "confidence": "ok",
+        "reason": "both sides confirmed",
+        "guard": "data_adequacy v1.0"
+      }
+    },
+    "mlb-nym-mil": {
+      "game_pk": 823762,
+      "game_number": 1,
+      "start_time_utc": "2026-07-20T23:40:00Z",
+      "park_factor": 1.02,
+      "park_factor_hand": {
+        "L": 1.01,
+        "R": 1.03
+      },
+      "park_factor_status": "confirmed",
+      "away": {
+        "team": "nym",
+        "starter": {
+          "name": "Freddy Peralta",
+          "mlbam_id": 642547,
+          "hand": "R",
+          "fip": 4.38,
+          "era": 4.66,
+          "ip": 104.3,
+          "xera": 3.82,
+          "xwoba": 0.303,
+          "xfip": 3.89,
+          "siera": 3.79,
+          "data_status": "confirmed",
+          "warnings": []
+        },
+        "bullpen_ra9": 4.55,
+        "rg": 4.09,
         "wrc_plus": 96,
         "wrc_vs_lhp": 97,
         "wrc_vs_rhp": 95,
@@ -48,64 +526,528 @@
         "warnings": []
       },
       "home": {
-        "team": "phi",
+        "team": "mil",
         "starter": {
-          "name": "Aaron Nola",
-          "mlbam_id": 605400,
+          "name": "Jacob Misiorowski",
+          "mlbam_id": 694819,
           "hand": "R",
-          "fip": 4.66,
-          "era": 5.75,
-          "ip": 97.0,
-          "xera": 4.22,
-          "xwoba": 0.318,
-          "xfip": 3.46,
-          "siera": 3.34,
+          "fip": 2.08,
+          "era": 1.62,
+          "ip": 111.0,
+          "xera": 2.07,
+          "xwoba": 0.224,
+          "xfip": 1.85,
+          "siera": 1.45,
+          "data_status": "partial",
+          "warnings": [
+            "SIERA 1.45 out of sane range"
+          ]
+        },
+        "bullpen_ra9": 3.93,
+        "rg": 5.07,
+        "wrc_plus": 102,
+        "wrc_vs_lhp": 98,
+        "wrc_vs_rhp": 104,
+        "data_status": "partial",
+        "warnings": []
+      },
+      "live_odds": null,
+      "closing_odds": null,
+      "call": {
+        "call": "OK",
+        "label": "OK",
+        "confidence": "thin",
+        "reason": "partial inputs (away=confirmed, home=partial)",
+        "guard": "data_adequacy v1.0"
+      }
+    },
+    "mlb-det-chc": {
+      "game_pk": 824654,
+      "game_number": 1,
+      "start_time_utc": "2026-07-21T00:05:00Z",
+      "park_factor": 1.02,
+      "park_factor_hand": {
+        "L": 1.0,
+        "R": 1.04
+      },
+      "park_factor_status": "confirmed",
+      "away": {
+        "team": "det",
+        "starter": {
+          "name": "Jack Flaherty",
+          "mlbam_id": 656427,
+          "hand": "R",
+          "fip": 3.85,
+          "era": 4.48,
+          "ip": 82.3,
+          "xera": 4.34,
+          "xwoba": 0.321,
+          "xfip": 3.87,
+          "siera": 3.43,
           "data_status": "confirmed",
           "warnings": []
         },
-        "bullpen_ra9": 4.86,
-        "rg": 4.37,
-        "wrc_plus": 97,
-        "wrc_vs_lhp": 95,
+        "bullpen_ra9": 4.33,
+        "rg": 4.22,
+        "wrc_plus": 99,
+        "wrc_vs_lhp": 100,
         "wrc_vs_rhp": 98,
         "data_status": "confirmed",
         "warnings": []
       },
+      "home": {
+        "team": "chc",
+        "starter": {
+          "name": "Jameson Taillon",
+          "mlbam_id": 592791,
+          "hand": "R",
+          "fip": 6.3,
+          "era": 5.19,
+          "ip": 67.7,
+          "xera": 5.52,
+          "xwoba": 0.357,
+          "xfip": 4.45,
+          "siera": 3.93,
+          "data_status": "confirmed",
+          "warnings": []
+        },
+        "bullpen_ra9": 4.37,
+        "rg": 5.07,
+        "wrc_plus": 104,
+        "wrc_vs_lhp": 109,
+        "wrc_vs_rhp": 102,
+        "data_status": "confirmed",
+        "warnings": []
+      },
+      "live_odds": null,
+      "closing_odds": null,
       "call": {
         "call": "OK",
         "label": "OK",
         "confidence": "ok",
         "reason": "both sides confirmed",
         "guard": "data_adequacy v1.0"
+      }
+    },
+    "mlb-cws-tex": {
+      "game_pk": 822874,
+      "game_number": 1,
+      "start_time_utc": "2026-07-21T00:05:00Z",
+      "park_factor": 0.99,
+      "park_factor_hand": {
+        "L": 0.99,
+        "R": 0.99
       },
-      "live_odds": {
-        "source": "betfair_exchange_aud",
-        "captured_at": "2026-07-16T15:00:04Z",
-        "market_status": "OPEN",
-        "inplay": false,
-        "moneyline": {
-          "away": 2.18,
-          "home": 1.83
+      "park_factor_status": "confirmed",
+      "away": {
+        "team": "cws",
+        "starter": {
+          "name": "Erick Fedde",
+          "mlbam_id": 607200,
+          "hand": "R",
+          "fip": 5.22,
+          "era": 4.15,
+          "ip": 89.0,
+          "xera": 4.64,
+          "xwoba": 0.331,
+          "xfip": 4.62,
+          "siera": 4.7,
+          "data_status": "confirmed",
+          "warnings": []
         },
-        "total_runs": null,
-        "handicap": {
-          "prices": {
-            "New York Mets": null,
-            "Philadelphia Phillies": 1.01
-          },
-          "captured_at": "2026-07-16T15:00:04Z",
-          "market_status": "OPEN",
-          "inplay": false
-        }
+        "bullpen_ra9": 4.39,
+        "rg": 4.79,
+        "wrc_plus": 101,
+        "wrc_vs_lhp": 100,
+        "wrc_vs_rhp": 101,
+        "data_status": "confirmed",
+        "warnings": []
       },
-      "closing_odds": null
+      "home": {
+        "team": "tex",
+        "starter": {
+          "name": "Jacob deGrom",
+          "mlbam_id": 594798,
+          "hand": "R",
+          "fip": 3.39,
+          "era": 3.49,
+          "ip": 100.7,
+          "xera": 3.46,
+          "xwoba": 0.289,
+          "xfip": 2.61,
+          "siera": 2.31,
+          "data_status": "confirmed",
+          "warnings": []
+        },
+        "bullpen_ra9": 4.66,
+        "rg": 4.16,
+        "wrc_plus": 100,
+        "wrc_vs_lhp": 105,
+        "wrc_vs_rhp": 99,
+        "data_status": "confirmed",
+        "warnings": []
+      },
+      "live_odds": null,
+      "closing_odds": null,
+      "call": {
+        "call": "OK",
+        "label": "OK",
+        "confidence": "ok",
+        "reason": "both sides confirmed",
+        "guard": "data_adequacy v1.0"
+      }
+    },
+    "mlb-mia-hou": {
+      "game_pk": 824167,
+      "game_number": 1,
+      "start_time_utc": "2026-07-21T00:10:00Z",
+      "park_factor": 0.99,
+      "park_factor_hand": {
+        "L": 0.99,
+        "R": 0.99
+      },
+      "park_factor_status": "confirmed",
+      "away": {
+        "team": "mia",
+        "starter": {
+          "name": "Janson Junk",
+          "mlbam_id": 676083,
+          "hand": "R",
+          "fip": 4.25,
+          "era": 4.57,
+          "ip": 65.0,
+          "xera": 3.99,
+          "xwoba": 0.309,
+          "xfip": 3.74,
+          "siera": 4.07,
+          "data_status": "confirmed",
+          "warnings": []
+        },
+        "bullpen_ra9": 4.22,
+        "rg": 4.47,
+        "wrc_plus": 102,
+        "wrc_vs_lhp": 101,
+        "wrc_vs_rhp": 102,
+        "data_status": "confirmed",
+        "warnings": []
+      },
+      "home": {
+        "team": "hou",
+        "starter": {
+          "name": "Ronel Blanco",
+          "mlbam_id": 669854,
+          "hand": "R",
+          "fip": null,
+          "era": null,
+          "ip": null,
+          "xera": null,
+          "xwoba": null,
+          "xfip": null,
+          "siera": null,
+          "data_status": "partial",
+          "warnings": [
+            "no season pitching stats (season debut / no MLB innings)",
+            "no Savant xERA (below batted-ball minimum)"
+          ]
+        },
+        "bullpen_ra9": 4.65,
+        "rg": 4.5,
+        "wrc_plus": 99,
+        "wrc_vs_lhp": 98,
+        "wrc_vs_rhp": 100,
+        "data_status": "partial",
+        "warnings": []
+      },
+      "live_odds": null,
+      "closing_odds": null,
+      "call": {
+        "call": "OK",
+        "label": "OK",
+        "confidence": "thin",
+        "reason": "partial inputs (away=confirmed, home=partial)",
+        "guard": "data_adequacy v1.0"
+      }
+    },
+    "mlb-wsh-col": {
+      "game_pk": 824328,
+      "game_number": 1,
+      "start_time_utc": "2026-07-21T00:40:00Z",
+      "park_factor": 1.12,
+      "park_factor_hand": {
+        "L": 1.12,
+        "R": 1.12
+      },
+      "park_factor_status": "confirmed",
+      "away": {
+        "team": "wsh",
+        "starter": {
+          "name": "Andrew Alvarez",
+          "mlbam_id": 674841,
+          "hand": "L",
+          "fip": 2.93,
+          "era": 4.04,
+          "ip": 49.0,
+          "xera": 4.34,
+          "xwoba": 0.321,
+          "xfip": 3.01,
+          "siera": 3.25,
+          "data_status": "confirmed",
+          "warnings": []
+        },
+        "bullpen_ra9": 5.6,
+        "rg": 5.45,
+        "wrc_plus": 105,
+        "wrc_vs_lhp": 110,
+        "wrc_vs_rhp": 103,
+        "data_status": "confirmed",
+        "warnings": []
+      },
+      "home": {
+        "team": "col",
+        "starter": {
+          "name": "Kyle Freeland",
+          "mlbam_id": 607536,
+          "hand": "L",
+          "fip": 4.74,
+          "era": 7.36,
+          "ip": 88.0,
+          "xera": 5.59,
+          "xwoba": 0.359,
+          "xfip": 3.96,
+          "siera": 3.61,
+          "data_status": "confirmed",
+          "warnings": []
+        },
+        "bullpen_ra9": 5.25,
+        "rg": 4.79,
+        "wrc_plus": 103,
+        "wrc_vs_lhp": 99,
+        "wrc_vs_rhp": 105,
+        "data_status": "confirmed",
+        "warnings": []
+      },
+      "live_odds": null,
+      "closing_odds": null,
+      "call": {
+        "call": "OK",
+        "label": "OK",
+        "confidence": "ok",
+        "reason": "both sides confirmed",
+        "guard": "data_adequacy v1.0"
+      }
+    },
+    "mlb-ath-ari": {
+      "game_pk": 825058,
+      "game_number": 1,
+      "start_time_utc": "2026-07-21T01:40:00Z",
+      "park_factor": 1.04,
+      "park_factor_hand": {
+        "L": 1.07,
+        "R": 1.02
+      },
+      "park_factor_status": "confirmed",
+      "away": {
+        "team": "ath",
+        "starter": {
+          "name": "Jeffrey Springs",
+          "mlbam_id": 605488,
+          "hand": "L",
+          "fip": 6.03,
+          "era": 6.08,
+          "ip": 97.7,
+          "xera": 4.61,
+          "xwoba": 0.33,
+          "xfip": 4.44,
+          "siera": 4.13,
+          "data_status": "confirmed",
+          "warnings": []
+        },
+        "bullpen_ra9": 5.85,
+        "rg": 4.47,
+        "wrc_plus": 101,
+        "wrc_vs_lhp": 103,
+        "wrc_vs_rhp": 100,
+        "data_status": "confirmed",
+        "warnings": []
+      },
+      "home": {
+        "team": "ari",
+        "starter": {
+          "name": "Mitch Bratt",
+          "mlbam_id": 683352,
+          "hand": "L",
+          "fip": 6.76,
+          "era": 6.0,
+          "ip": 6.0,
+          "xera": 6.48,
+          "xwoba": 0.382,
+          "xfip": 6.64,
+          "siera": 6.39,
+          "data_status": "partial",
+          "warnings": [
+            "low sample: 6.0 IP"
+          ]
+        },
+        "bullpen_ra9": 4.36,
+        "rg": 4.37,
+        "wrc_plus": 96,
+        "wrc_vs_lhp": 106,
+        "wrc_vs_rhp": 93,
+        "data_status": "partial",
+        "warnings": []
+      },
+      "live_odds": null,
+      "closing_odds": null,
+      "call": {
+        "call": "OK",
+        "label": "OK",
+        "confidence": "thin",
+        "reason": "partial inputs (away=confirmed, home=partial)",
+        "guard": "data_adequacy v1.0"
+      }
+    },
+    "mlb-cin-sea": {
+      "game_pk": 823112,
+      "game_number": 1,
+      "start_time_utc": "2026-07-21T01:40:00Z",
+      "park_factor": 0.96,
+      "park_factor_hand": {
+        "L": 0.95,
+        "R": 0.97
+      },
+      "park_factor_status": "confirmed",
+      "away": {
+        "team": "cin",
+        "starter": {
+          "name": "Andrew Abbott",
+          "mlbam_id": 671096,
+          "hand": "L",
+          "fip": 4.84,
+          "era": 4.11,
+          "ip": 105.0,
+          "xera": 4.77,
+          "xwoba": 0.335,
+          "xfip": 4.25,
+          "siera": 4.44,
+          "data_status": "confirmed",
+          "warnings": []
+        },
+        "bullpen_ra9": 5.15,
+        "rg": 4.22,
+        "wrc_plus": 99,
+        "wrc_vs_lhp": 107,
+        "wrc_vs_rhp": 96,
+        "data_status": "confirmed",
+        "warnings": []
+      },
+      "home": {
+        "team": "sea",
+        "starter": {
+          "name": "George Kirby",
+          "mlbam_id": 669923,
+          "hand": "R",
+          "fip": 3.32,
+          "era": 3.76,
+          "ip": 110.0,
+          "xera": 3.88,
+          "xwoba": 0.305,
+          "xfip": 3.36,
+          "siera": 3.35,
+          "data_status": "confirmed",
+          "warnings": []
+        },
+        "bullpen_ra9": 4.02,
+        "rg": 4.02,
+        "wrc_plus": 96,
+        "wrc_vs_lhp": 90,
+        "wrc_vs_rhp": 98,
+        "data_status": "confirmed",
+        "warnings": []
+      },
+      "live_odds": null,
+      "closing_odds": null,
+      "call": {
+        "call": "OK",
+        "label": "OK",
+        "confidence": "ok",
+        "reason": "both sides confirmed",
+        "guard": "data_adequacy v1.0"
+      }
+    },
+    "mlb-stl-laa": {
+      "game_pk": 824006,
+      "game_number": 1,
+      "start_time_utc": "2026-07-21T02:10:00Z",
+      "park_factor": 0.99,
+      "park_factor_hand": {
+        "L": 1.0,
+        "R": 0.98
+      },
+      "park_factor_status": "confirmed",
+      "away": {
+        "team": "stl",
+        "starter": {
+          "name": "Kyle Leahy",
+          "mlbam_id": 681517,
+          "hand": "R",
+          "fip": 4.0,
+          "era": 3.73,
+          "ip": 89.3,
+          "xera": 5.38,
+          "xwoba": 0.353,
+          "xfip": 3.95,
+          "siera": 3.99,
+          "data_status": "confirmed",
+          "warnings": []
+        },
+        "bullpen_ra9": 4.84,
+        "rg": 4.53,
+        "wrc_plus": 99,
+        "wrc_vs_lhp": 101,
+        "wrc_vs_rhp": 98,
+        "data_status": "confirmed",
+        "warnings": []
+      },
+      "home": {
+        "team": "laa",
+        "starter": {
+          "name": "Jos\u00e9 Soriano",
+          "mlbam_id": 667755,
+          "hand": "R",
+          "fip": 3.97,
+          "era": 3.49,
+          "ip": 111.0,
+          "xera": 4.37,
+          "xwoba": 0.322,
+          "xfip": 3.56,
+          "siera": 3.53,
+          "data_status": "confirmed",
+          "warnings": []
+        },
+        "bullpen_ra9": 5.1,
+        "rg": 4.34,
+        "wrc_plus": 98,
+        "wrc_vs_lhp": 100,
+        "wrc_vs_rhp": 97,
+        "data_status": "confirmed",
+        "warnings": []
+      },
+      "live_odds": null,
+      "closing_odds": null,
+      "call": {
+        "call": "OK",
+        "label": "OK",
+        "confidence": "ok",
+        "reason": "both sides confirmed",
+        "guard": "data_adequacy v1.0"
+      }
     }
   },
+  "live_odds_source": "betfair_exchange_aud (scout_odds.json)",
+  "live_odds_updated_at": "2026-07-20T13:04:31Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
-    "ok": 1,
+    "ok": 15,
     "no_call": 0
-  },
-  "live_odds_source": "betfair_exchange_aud (scout_odds.json)",
-  "live_odds_updated_at": "2026-07-16T15:00:47Z"
+  }
 }
