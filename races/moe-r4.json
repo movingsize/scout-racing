@@ -6,7 +6,7 @@
   "race_type": "Flat",
   "start_time_utc": "2026-07-21T04:30:00.000Z",
   "market_id": "1.260192374",
-  "market_overround_pct": 121.9,
+  "market_overround_pct": 122.4,
   "track_condition": "Heavy 9",
   "weather": null,
   "form_analysis": null,
@@ -794,7 +794,7 @@
       "status": "ACTIVE",
       "best_back": 20.0,
       "back_depth_aud": 67.0,
-      "bsp_near": 311.5,
+      "bsp_near": 81.5,
       "market_signal": "\u2744\ufe0f DRIFT",
       "trainer": "Damien Walkley",
       "jockey": "Dylan Dunn",
@@ -1332,6 +1332,34 @@
       }
     },
     {
+      "name": "9. Hana Woo",
+      "saddle_cloth": 8,
+      "selection_id": 100749668,
+      "status": "ACTIVE",
+      "best_back": 50.0,
+      "back_depth_aud": 32.0,
+      "bsp_near": Infinity,
+      "market_signal": "\u2744\ufe0f DRIFT",
+      "trainer": null,
+      "jockey": null,
+      "last5": null,
+      "career": null,
+      "weight_kg": null,
+      "barrier": null,
+      "form_status": "not_found",
+      "warnings": [],
+      "last5_parsed": [],
+      "data_status": "not_found",
+      "open_price": 65.0,
+      "call": {
+        "call": "NO_CALL",
+        "label": "DATA BAD",
+        "confidence": null,
+        "reason": "data bad: data_status=not_found and no race form on record",
+        "guard": "data_adequacy v1.0"
+      }
+    },
+    {
       "name": "13. Wyndstar",
       "saddle_cloth": 11,
       "selection_id": 92995696,
@@ -1518,34 +1546,6 @@
       }
     },
     {
-      "name": "9. Hana Woo",
-      "saddle_cloth": 8,
-      "selection_id": 100749668,
-      "status": "ACTIVE",
-      "best_back": 65.0,
-      "back_depth_aud": 28.0,
-      "bsp_near": 207.5,
-      "market_signal": "\u2744\ufe0f DRIFT",
-      "trainer": null,
-      "jockey": null,
-      "last5": null,
-      "career": null,
-      "weight_kg": null,
-      "barrier": null,
-      "form_status": "not_found",
-      "warnings": [],
-      "last5_parsed": [],
-      "data_status": "not_found",
-      "open_price": 65.0,
-      "call": {
-        "call": "NO_CALL",
-        "label": "DATA BAD",
-        "confidence": null,
-        "reason": "data bad: data_status=not_found and no race form on record",
-        "guard": "data_adequacy v1.0"
-      }
-    },
-    {
       "name": "14. Composite Action",
       "saddle_cloth": 12,
       "selection_id": 100749671,
@@ -1639,7 +1639,7 @@
       }
     }
   ],
-  "last_polled_at": "2026-07-20T07:35:12.509732Z",
+  "last_polled_at": "2026-07-20T07:46:27.024944Z",
   "adequacy_summary": {
     "guard": "data_adequacy v1.0",
     "ok": 10,
